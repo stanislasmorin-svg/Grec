@@ -84,8 +84,10 @@ def lesson_page(s, prev, nxt):
         plain.append(RX.sub(r"\1", p))
     chunks = [s["title"] + "."] + plain
     gt = "https://translate.google.com/?sl=el&tl=fr&op=translate&text=" + __import__("urllib.parse").parse.quote("\n\n".join(chunks))
-    if os.path.exists(os.path.join(ROOT, "audio", s["date"] + ".mp3")):
-        player = (f'<audio id="voice" controls preload="metadata" src="../audio/{s["date"]}.mp3"></audio>'
+    mp3 = os.path.join(ROOT, "audio", s["date"] + ".mp3")
+    if os.path.exists(mp3):
+        ver = __import__("hashlib").md5(open(mp3, "rb").read()).hexdigest()[:8]
+        player = (f'<audio id="voice" controls preload="metadata" src="../audio/{s["date"]}.mp3?v={ver}"></audio>'
                   '<div class="row"><span class="label">Vitesse</span>'
                   '<button class="chip" data-rate="0.75" aria-pressed="false">Lente</button>'
                   '<button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>')

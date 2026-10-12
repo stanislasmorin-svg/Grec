@@ -18,12 +18,12 @@ jobs:
   audio:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Installer la voix
-        run: pip install edge-tts==7.0.2
+        run: pip install --upgrade edge-tts gTTS
       - name: Créer les MP3 manquants
         run: python3 tools/make_audio.py
       - name: Regénérer les pages

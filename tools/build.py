@@ -1,0 +1,167 @@
+"""Build the static site from lessons.json.
+Usage (from repo root): python3 tools/build.py
+lessons.json: list of {date, title, title_fr, audio, source{name,url}, paragraphs[]}
+Each paragraph marks translated words as **mot** (traduction).
+"""
+import json, re, html, os
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RX = re.compile(r"\*\*(.+?)\*\*\s*\((.+?)\)")
+MONTHS = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"]
+DAYS = ["lundi","mardi","mercredi","jeudi","vendredi","samedi","dimanche"]
+
+def fr_date(iso):
+    import datetime
+    d = datetime.date.fromisoformat(iso)
+    return f"{DAYS[d.weekday()]} {d.day} {MONTHS[d.month-1]} {d.year}"
+
+CSS = """
+:root{--bg:#f6f7f3;--surface:#fff;--fg:#1d221c;--muted:#5d665a;--line:#dde2d8;--accent:#4f6b2f;--soft:#e6edda;--gloss:#8a5a14;
+--text:"Literata","Noto Serif",Georgia,serif;--ui:"Commissioner","Noto Sans",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#141712;--surface:#1c2019;--fg:#e8ebe3;--muted:#a2ab9c;--line:#2f362b;--accent:#a9c97d;--soft:#2a3420;--gloss:#e3b469;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--ui);font-size:15px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding-inline:18px;padding-block:20px 48px;display:flex;flex-direction:column;gap:22px}
+a{color:var(--accent)}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--text);font-weight:600;font-size:clamp(26px,7vw,36px);line-height:1.15;margin:4px 0;text-wrap:balance}
+.sub{color:var(--muted);margin:0}
+.player{position:sticky;top:0;z-index:2;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.play{font:inherit;font-size:16px;font-weight:600;padding:10px 20px;border-radius:999px;border:0;background:var(--accent);color:var(--bg);cursor:pointer;text-decoration:none}
+.chip{font:inherit;font-size:13px;font-weight:500;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.label,.note{font-size:13px;color:var(--muted);margin:0}
+details summary{font-size:13px;color:var(--muted);cursor:pointer}
+audio{width:100%;margin-top:8px}
+.text{font-family:var(--text);font-size:20px;line-height:1.75;display:flex;flex-direction:column;gap:14px}
+.text p{margin:0;border-radius:8px}
+.text p.reading{background:var(--soft);box-shadow:0 0 0 6px var(--soft)}
+.w{color:var(--accent);font-weight:600;cursor:pointer}
+.g{font-family:var(--ui);font-size:.72em;font-weight:500;color:var(--gloss);white-space:nowrap}
+.hide .g{display:none}.hide .w.open+.g{display:inline}
+h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0 18px;margin:0;padding:0;list-style:none}
+.vocab li{display:flex;flex-direction:column;padding:8px 0;border-bottom:1px solid var(--line);min-width:0}
+.vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
+.list{list-style:none;margin:0;padding:0}
+.list li{border-bottom:1px solid var(--line)}
+.list a{display:flex;gap:12px;align-items:baseline;padding:12px 0;text-decoration:none;color:var(--fg)}
+.list .d{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;min-width:82px}
+.list .t{font-family:var(--text);font-size:17px}
+.list .f{color:var(--muted);font-size:13px;display:block}
+"""
+FONTS = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap">'
+
+JS = r"""
+(function(){
+  var chunks = JSON.parse(document.getElementById('chunks').textContent);
+  var paras = document.querySelectorAll('#text p');
+  var rate = 1, playing = false, idx = 0, parts = [], player = new Audio();
+  // split each paragraph into pieces under 190 chars (Google voice limit)
+  chunks.forEach(function(c, pi){
+    var sentences = c.match(/[^.;!?]+[.;!?]*/g) || [c], buf = '';
+    sentences.forEach(function(s){
+      if ((buf + s).length > 190 && buf) { parts.push({t: buf.trim(), p: pi}); buf = ''; }
+      buf += s;
+    });
+    if (buf.trim()) parts.push({t: buf.trim(), p: pi});
+  });
+  var btn = document.getElementById('gBtn'), lbl = document.getElementById('gLbl'), err = document.getElementById('gErr');
+  function mark(pi){ paras.forEach(function(p){p.classList.remove('reading')}); if (pi > 0 && paras[pi-1]) paras[pi-1].classList.add('reading'); }
+  function stop(){ playing = false; player.pause(); lbl.textContent = '▶ Écouter'; paras.forEach(function(p){p.classList.remove('reading')}); }
+  function next(){
+    if (!playing) return;
+    if (idx >= parts.length) { stop(); idx = 0; return; }
+    var part = parts[idx];
+    mark(part.p);
+    player.src = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=el&ttsspeed=' + (rate < 1 ? '0.6' : '1') + '&q=' + encodeURIComponent(part.t);
+    player.playbackRate = 1;
+    player.play().catch(fail);
+  }
+  function fail(){ stop(); err.hidden = false; document.getElementById('mp3').open = true; }
+  player.addEventListener('ended', function(){ idx++; next(); });
+  player.addEventListener('error', fail);
+  btn.addEventListener('click', function(){
+    if (playing) { stop(); return; }
+    document.getElementById('mp3audio').pause();
+    playing = true; lbl.textContent = '■ Arrêter'; next();
+  });
+  document.querySelectorAll('[data-rate]').forEach(function(b){
+    b.addEventListener('click', function(){
+      rate = +b.dataset.rate;
+      document.getElementById('mp3audio').playbackRate = rate;
+      document.querySelectorAll('[data-rate]').forEach(function(x){ x.setAttribute('aria-pressed', x === b); });
+    });
+  });
+  document.addEventListener('click', function(e){ var w = e.target.closest('.w'); if (w) w.classList.toggle('open'); });
+  var gb = document.getElementById('glossBtn'), text = document.getElementById('text');
+  gb.addEventListener('click', function(){
+    var show = gb.getAttribute('aria-pressed') !== 'true';
+    gb.setAttribute('aria-pressed', show); gb.textContent = show ? 'Traductions visibles' : 'Traductions cachées';
+    text.classList.toggle('hide', !show);
+  });
+})();
+"""
+
+def lesson_page(s, prev, nxt):
+    words, paras_html, plain = [], [], []
+    for p in s["paragraphs"]:
+        out, last = "", 0
+        for m in RX.finditer(p):
+            out += html.escape(p[last:m.start()])
+            words.append((m.group(1), m.group(2)))
+            out += f'<span class="w">{html.escape(m.group(1))}</span> <span class="g">({html.escape(m.group(2))})</span>'
+            last = m.end()
+        out += html.escape(p[last:])
+        paras_html.append(f"<p>{out}</p>")
+        plain.append(RX.sub(r"\1", p))
+    chunks = [s["title"] + "."] + plain
+    gt = "https://translate.google.com/?sl=el&tl=fr&op=translate&text=" + __import__("urllib.parse").parse.quote("\n\n".join(chunks))
+    vocab = "".join(f'<li><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span></li>' for a, b in words)
+    nav = []
+    if prev: nav.append(f'<a href="{prev["date"]}.html">← Cours précédent</a>')
+    nav.append('<a href="../index.html">Tous les cours</a>')
+    if nxt: nav.append(f'<a href="{nxt["date"]}.html">Cours suivant →</a>')
+    src = s.get("source")
+    src_html = f'<p class="note">Source : <a href="{html.escape(src["url"])}" target="_blank" rel="noopener">{html.escape(src["name"])}</a></p>' if src else ""
+    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{html.escape(s["title"])} · Grec du jour</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
+<header><span class="eyebrow">{fr_date(s["date"])}</span><h1>{html.escape(s["title"])}</h1><p class="sub">{html.escape(s.get("title_fr",""))}</p></header>
+<section class="player">
+  <div class="row"><button class="play" id="gBtn"><span id="gLbl">▶ Écouter</span></button>
+  <span class="label">Vitesse</span><button class="chip" data-rate="0.75" aria-pressed="false">Lente</button><button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>
+  <p class="note" id="gErr" hidden>La voix Google n'a pas pu se charger. <a href="{html.escape(gt)}" target="_blank" rel="noopener">Ouvrir dans Google Traduction</a> ou utiliser l'audio de secours.</p>
+  <details id="mp3"><summary>Audio de secours (voix de synthèse)</summary><audio id="mp3audio" controls preload="none" src="../{html.escape(s["audio"])}"></audio></details>
+</section>
+<section><div class="text" id="text">{"".join(paras_html)}</div></section>
+<div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>
+<section><h2>Les {len(words)} mots</h2><ul class="vocab">{vocab}</ul></section>
+{src_html}
+<nav class="row">{" · ".join(nav)}</nav>
+</div><script type="application/json" id="chunks">{json.dumps(chunks, ensure_ascii=False)}</script><script>{JS}</script></body></html>"""
+
+def index_page(lessons):
+    items = "".join(f'<li><a href="cours/{s["date"]}.html"><span class="d">{s["date"][8:10]}/{s["date"][5:7]}/{s["date"][:4]}</span><span><span class="t">{html.escape(s["title"])}</span><span class="f">{html.escape(s.get("title_fr",""))}</span></span></a></li>' for s in lessons)
+    latest = lessons[0]
+    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grec du jour</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
+<header><span class="eyebrow">Ελληνικά κάθε μέρα</span><h1>Grec du jour</h1><p class="sub">Chaque matin, une actualité d'Athènes en grec simple, avec les mots difficiles traduits et l'audio.</p></header>
+<p><a class="play" href="cours/{latest["date"]}.html">Lire le cours du jour →</a></p>
+<section><h2>Tous les cours</h2><ul class="list">{items}</ul></section>
+</div></body></html>"""
+
+def main():
+    lessons = json.load(open(os.path.join(ROOT, "lessons.json"), encoding="utf-8"))
+    lessons.sort(key=lambda s: s["date"], reverse=True)
+    os.makedirs(os.path.join(ROOT, "cours"), exist_ok=True)
+    for i, s in enumerate(lessons):
+        prev = lessons[i + 1] if i + 1 < len(lessons) else None
+        nxt = lessons[i - 1] if i > 0 else None
+        open(os.path.join(ROOT, "cours", s["date"] + ".html"), "w", encoding="utf-8").write(lesson_page(s, prev, nxt))
+    open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8").write(index_page(lessons))
+    open(os.path.join(ROOT, ".nojekyll"), "w").close()
+    print(f"built {len(lessons)} lesson(s)")
+
+if __name__ == "__main__":
+    main()

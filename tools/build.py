@@ -1,6 +1,6 @@
 """Build the static site from lessons.json.
 Usage (from repo root): python3 tools/build.py
-lessons.json: list of {date, title, title_fr, audio, source{name,url}, paragraphs[]}
+lessons.json: list of {date, title, title_fr, source{name,url}, paragraphs[]}
 Each paragraph marks translated words as **mot** (traduction).
 """
 import json, re, html, os
@@ -32,8 +32,6 @@ h1{font-family:var(--text);font-weight:600;font-size:clamp(26px,7vw,36px);line-h
 .chip{font:inherit;font-size:13px;font-weight:500;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
 .chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
 .label,.note{font-size:13px;color:var(--muted);margin:0}
-details summary{font-size:13px;color:var(--muted);cursor:pointer}
-audio{width:100%;margin-top:8px}
 .text{font-family:var(--text);font-size:20px;line-height:1.75;display:flex;flex-direction:column;gap:14px}
 .text p{margin:0;border-radius:8px}
 .text p.reading{background:var(--soft);box-shadow:0 0 0 6px var(--soft)}
@@ -79,18 +77,16 @@ JS = r"""
     player.playbackRate = 1;
     player.play().catch(fail);
   }
-  function fail(){ stop(); err.hidden = false; document.getElementById('mp3').open = true; }
+  function fail(){ stop(); err.hidden = false; }
   player.addEventListener('ended', function(){ idx++; next(); });
   player.addEventListener('error', fail);
   btn.addEventListener('click', function(){
     if (playing) { stop(); return; }
-    document.getElementById('mp3audio').pause();
     playing = true; lbl.textContent = '■ Arrêter'; next();
   });
   document.querySelectorAll('[data-rate]').forEach(function(b){
     b.addEventListener('click', function(){
       rate = +b.dataset.rate;
-      document.getElementById('mp3audio').playbackRate = rate;
       document.querySelectorAll('[data-rate]').forEach(function(x){ x.setAttribute('aria-pressed', x === b); });
     });
   });
@@ -125,14 +121,13 @@ def lesson_page(s, prev, nxt):
     if nxt: nav.append(f'<a href="{nxt["date"]}.html">Cours suivant →</a>')
     src = s.get("source")
     src_html = f'<p class="note">Source : <a href="{html.escape(src["url"])}" target="_blank" rel="noopener">{html.escape(src["name"])}</a></p>' if src else ""
-    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer">
 <title>{html.escape(s["title"])} · Grec du jour</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
 <header><span class="eyebrow">{fr_date(s["date"])}</span><h1>{html.escape(s["title"])}</h1><p class="sub">{html.escape(s.get("title_fr",""))}</p></header>
 <section class="player">
   <div class="row"><button class="play" id="gBtn"><span id="gLbl">▶ Écouter</span></button>
   <span class="label">Vitesse</span><button class="chip" data-rate="0.75" aria-pressed="false">Lente</button><button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>
-  <p class="note" id="gErr" hidden>La voix Google n'a pas pu se charger. <a href="{html.escape(gt)}" target="_blank" rel="noopener">Ouvrir dans Google Traduction</a> ou utiliser l'audio de secours.</p>
-  <details id="mp3"><summary>Audio de secours (voix de synthèse)</summary><audio id="mp3audio" controls preload="none" src="../{html.escape(s["audio"])}"></audio></details>
+  <p class="note" id="gErr" hidden>La voix Google n'a pas pu se charger ici. <a href="{html.escape(gt)}" target="_blank" rel="noopener">Écouter dans Google Traduction</a>.</p>
 </section>
 <section><div class="text" id="text">{"".join(paras_html)}</div></section>
 <div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>

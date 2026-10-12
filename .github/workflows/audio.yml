@@ -1,0 +1,48 @@
+name: Audio des cours
+
+on:
+  push:
+    branches: [main]
+    paths: [lessons.json, tools/**, .github/workflows/audio.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: audio
+  cancel-in-progress: false
+
+jobs:
+  audio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer la voix
+        run: pip install edge-tts==7.0.2
+      - name: Créer les MP3 manquants
+        run: python3 tools/make_audio.py
+      - name: Regénérer les pages
+        run: python3 tools/build.py
+      - name: Enregistrer
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Audio des cours"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Mettre le site à jour
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

@@ -34,7 +34,7 @@ h1{font-family:var(--text);font-weight:600;font-size:clamp(26px,7vw,36px);line-h
 .label,.note{font-size:13px;color:var(--muted);margin:0}
 .text{font-family:var(--text);font-size:20px;line-height:1.75;display:flex;flex-direction:column;gap:14px}
 .text p{margin:0;border-radius:8px}
-.text p.reading{background:var(--soft);box-shadow:0 0 0 6px var(--soft)}
+audio{width:100%}
 .w{color:var(--accent);font-weight:600;cursor:pointer}
 .g{font-family:var(--ui);font-size:.72em;font-weight:500;color:var(--gloss);white-space:nowrap}
 .hide .g{display:none}.hide .w.open+.g{display:inline}
@@ -53,40 +53,10 @@ FONTS = '<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=C
 
 JS = r"""
 (function(){
-  var chunks = JSON.parse(document.getElementById('chunks').textContent);
-  var paras = document.querySelectorAll('#text p');
-  var rate = 1, playing = false, idx = 0, parts = [], player = new Audio();
-  // split each paragraph into pieces under 190 chars (Google voice limit)
-  chunks.forEach(function(c, pi){
-    var sentences = c.match(/[^.;!?]+[.;!?]*/g) || [c], buf = '';
-    sentences.forEach(function(s){
-      if ((buf + s).length > 190 && buf) { parts.push({t: buf.trim(), p: pi}); buf = ''; }
-      buf += s;
-    });
-    if (buf.trim()) parts.push({t: buf.trim(), p: pi});
-  });
-  var btn = document.getElementById('gBtn'), lbl = document.getElementById('gLbl'), err = document.getElementById('gErr');
-  function mark(pi){ paras.forEach(function(p){p.classList.remove('reading')}); if (pi > 0 && paras[pi-1]) paras[pi-1].classList.add('reading'); }
-  function stop(){ playing = false; player.pause(); lbl.textContent = '▶ Écouter'; paras.forEach(function(p){p.classList.remove('reading')}); }
-  function next(){
-    if (!playing) return;
-    if (idx >= parts.length) { stop(); idx = 0; return; }
-    var part = parts[idx];
-    mark(part.p);
-    player.src = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=el&ttsspeed=' + (rate < 1 ? '0.6' : '1') + '&q=' + encodeURIComponent(part.t);
-    player.playbackRate = 1;
-    player.play().catch(fail);
-  }
-  function fail(){ stop(); err.hidden = false; }
-  player.addEventListener('ended', function(){ idx++; next(); });
-  player.addEventListener('error', fail);
-  btn.addEventListener('click', function(){
-    if (playing) { stop(); return; }
-    playing = true; lbl.textContent = '■ Arrêter'; next();
-  });
+  var a = document.getElementById('voice');
   document.querySelectorAll('[data-rate]').forEach(function(b){
     b.addEventListener('click', function(){
-      rate = +b.dataset.rate;
+      if (a) a.playbackRate = +b.dataset.rate;
       document.querySelectorAll('[data-rate]').forEach(function(x){ x.setAttribute('aria-pressed', x === b); });
     });
   });
@@ -114,6 +84,14 @@ def lesson_page(s, prev, nxt):
         plain.append(RX.sub(r"\1", p))
     chunks = [s["title"] + "."] + plain
     gt = "https://translate.google.com/?sl=el&tl=fr&op=translate&text=" + __import__("urllib.parse").parse.quote("\n\n".join(chunks))
+    if os.path.exists(os.path.join(ROOT, "audio", s["date"] + ".mp3")):
+        player = (f'<audio id="voice" controls preload="metadata" src="../audio/{s["date"]}.mp3"></audio>'
+                  '<div class="row"><span class="label">Vitesse</span>'
+                  '<button class="chip" data-rate="0.75" aria-pressed="false">Lente</button>'
+                  '<button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>')
+    else:
+        player = (f'<p class="note">L\'audio est en préparation (quelques minutes). En attendant : '
+                  f'<a href="{html.escape(gt)}" target="_blank" rel="noopener">écouter dans Google Traduction</a>.</p>')
     vocab = "".join(f'<li><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span></li>' for a, b in words)
     nav = []
     if prev: nav.append(f'<a href="{prev["date"]}.html">← Cours précédent</a>')
@@ -121,20 +99,18 @@ def lesson_page(s, prev, nxt):
     if nxt: nav.append(f'<a href="{nxt["date"]}.html">Cours suivant →</a>')
     src = s.get("source")
     src_html = f'<p class="note">Source : <a href="{html.escape(src["url"])}" target="_blank" rel="noopener">{html.escape(src["name"])}</a></p>' if src else ""
-    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="no-referrer">
+    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(s["title"])} · Grec du jour</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
 <header><span class="eyebrow">{fr_date(s["date"])}</span><h1>{html.escape(s["title"])}</h1><p class="sub">{html.escape(s.get("title_fr",""))}</p></header>
 <section class="player">
-  <div class="row"><button class="play" id="gBtn"><span id="gLbl">▶ Écouter</span></button>
-  <span class="label">Vitesse</span><button class="chip" data-rate="0.75" aria-pressed="false">Lente</button><button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>
-  <p class="note" id="gErr" hidden>La voix Google n'a pas pu se charger ici. <a href="{html.escape(gt)}" target="_blank" rel="noopener">Écouter dans Google Traduction</a>.</p>
+  {player}
 </section>
 <section><div class="text" id="text">{"".join(paras_html)}</div></section>
 <div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>
 <section><h2>Les {len(words)} mots</h2><ul class="vocab">{vocab}</ul></section>
 {src_html}
 <nav class="row">{" · ".join(nav)}</nav>
-</div><script type="application/json" id="chunks">{json.dumps(chunks, ensure_ascii=False)}</script><script>{JS}</script></body></html>"""
+</div><script>{JS}</script></body></html>"""
 
 def index_page(lessons):
     items = "".join(f'<li><a href="cours/{s["date"]}.html"><span class="d">{s["date"][8:10]}/{s["date"][5:7]}/{s["date"][:4]}</span><span><span class="t">{html.escape(s["title"])}</span><span class="f">{html.escape(s.get("title_fr",""))}</span></span></a></li>' for s in lessons)

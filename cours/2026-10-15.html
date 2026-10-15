@@ -1,0 +1,62 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Μια μουσική μάχη στην Αθήνα · Grec du jour</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap"><style>
+:root{--bg:#f6f7f3;--surface:#fff;--fg:#1d221c;--muted:#5d665a;--line:#dde2d8;--accent:#4f6b2f;--soft:#e6edda;--gloss:#8a5a14;
+--text:"Literata","Noto Serif",Georgia,serif;--ui:"Commissioner","Noto Sans",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#141712;--surface:#1c2019;--fg:#e8ebe3;--muted:#a2ab9c;--line:#2f362b;--accent:#a9c97d;--soft:#2a3420;--gloss:#e3b469;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--ui);font-size:15px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding-inline:18px;padding-block:20px 48px;display:flex;flex-direction:column;gap:22px}
+a{color:var(--accent)}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--text);font-weight:600;font-size:clamp(26px,7vw,36px);line-height:1.15;margin:4px 0;text-wrap:balance}
+.sub{color:var(--muted);margin:0}
+.player{position:sticky;top:0;z-index:2;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.play{font:inherit;font-size:16px;font-weight:600;padding:10px 20px;border-radius:999px;border:0;background:var(--accent);color:var(--bg);cursor:pointer;text-decoration:none}
+.chip{font:inherit;font-size:13px;font-weight:500;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.label,.note{font-size:13px;color:var(--muted);margin:0}
+.text{font-family:var(--text);font-size:20px;line-height:1.75;display:flex;flex-direction:column;gap:14px}
+.text p{margin:0;border-radius:8px}
+audio{width:100%}
+.w{color:var(--accent);font-weight:600;cursor:pointer}
+.g{font-family:var(--ui);font-size:.72em;font-weight:500;color:var(--gloss);white-space:nowrap}
+.hide .g{display:none}.hide .w.open+.g{display:inline}
+h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0 18px;margin:0;padding:0;list-style:none}
+.vocab li{display:flex;flex-direction:column;padding:8px 0;border-bottom:1px solid var(--line);min-width:0}
+.vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
+.list{list-style:none;margin:0;padding:0}
+.list li{border-bottom:1px solid var(--line)}
+.list a{display:flex;gap:12px;align-items:baseline;padding:12px 0;text-decoration:none;color:var(--fg)}
+.list .d{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;min-width:82px}
+.list .t{font-family:var(--text);font-size:17px}
+.list .f{color:var(--muted);font-size:13px;display:block}
+</style></head><body><div class="wrap">
+<header><span class="eyebrow">jeudi 15 octobre 2026</span><h1>Μια μουσική μάχη στην Αθήνα</h1><p class="sub">Une bataille musicale à Athènes</p></header>
+<section class="player">
+  <audio id="voice" controls preload="metadata" src="../audio/2026-10-15.mp3?v=5f2126b4"></audio><div class="row"><span class="label">Vitesse</span><button class="chip" data-rate="0.75" aria-pressed="false">Lente</button><button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>
+</section>
+<section><div class="text" id="text"><p>Στις 14 Νοεμβρίου έρχεται μια <span class="w">ξεχωριστή</span> <span class="g">(spéciale)</span> <span class="w">συναυλία</span> <span class="g">(concert)</span> στην Αθήνα. Είναι μια μουσική <span class="w">μάχη</span> <span class="g">(bataille)</span>. Τη λένε Red Bull SoundClash. Θα γίνει στο Ολυμπιακό <span class="w">Ποδηλατοδρόμιο</span> <span class="g">(vélodrome)</span>, στο ΟΑΚΑ. Οι <span class="w">πόρτες</span> <span class="g">(portes)</span> ανοίγουν στις πέντε. Η μάχη <span class="w">αρχίζει</span> <span class="g">(commence)</span> στις οκτώ το βράδυ.</p><p>Δύο νέοι Έλληνες <span class="w">τραγουδιστές</span> <span class="g">(chanteurs)</span> θα <span class="w">αγωνιστούν</span> <span class="g">(s&#x27;affronter)</span>. Ο RACK τραγουδάει χιπ χοπ. Η LILA έχει πολύ <span class="w">δυνατή</span> <span class="g">(forte)</span> <span class="w">φωνή</span> <span class="g">(voix)</span>. Κάθε τραγουδιστής έχει τη δική του <span class="w">σκηνή</span> <span class="g">(scène)</span>. Οι δύο σκηνές είναι η μία <span class="w">απέναντι</span> <span class="g">(en face de)</span> στην άλλη. Ο <span class="w">κόσμος</span> <span class="g">(public)</span> στέκεται στη μέση.</p><p>Η μάχη έχει τέσσερις <span class="w">γύρους</span> <span class="g">(manches)</span>. Στον πρώτο γύρο, ο ένας αρχίζει ένα <span class="w">τραγούδι</span> <span class="g">(chanson)</span>. Ο άλλος το <span class="w">τελειώνει</span> <span class="g">(termine)</span>. Μετά, ο καθένας τραγουδάει τα τραγούδια του άλλου. Στο τέλος, έρχονται <span class="w">καλεσμένοι</span> <span class="g">(invités)</span> <span class="w">έκπληξη</span> <span class="g">(surprise)</span>.</p><p>Ποιος θα <span class="w">κερδίσει</span> <span class="g">(gagner)</span>; <span class="w">Αποφασίζει</span> <span class="g">(décide)</span> ο κόσμος! Όσο πιο δυνατά <span class="w">φωνάζεις</span> <span class="g">(cries)</span>, τόσο πιο πολύ <span class="w">βοηθάς</span> <span class="g">(aides)</span> τον τραγουδιστή σου. Τα <span class="w">εισιτήρια</span> <span class="g">(billets)</span> <span class="w">πουλιούνται</span> <span class="g">(se vendent)</span> στο ίντερνετ.</p></div></section>
+<div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>
+<section><h2>Les 24 mots</h2><ul class="vocab"><li><span class="gr">ξεχωριστή</span><span class="fr">spéciale</span></li><li><span class="gr">συναυλία</span><span class="fr">concert</span></li><li><span class="gr">μάχη</span><span class="fr">bataille</span></li><li><span class="gr">Ποδηλατοδρόμιο</span><span class="fr">vélodrome</span></li><li><span class="gr">πόρτες</span><span class="fr">portes</span></li><li><span class="gr">αρχίζει</span><span class="fr">commence</span></li><li><span class="gr">τραγουδιστές</span><span class="fr">chanteurs</span></li><li><span class="gr">αγωνιστούν</span><span class="fr">s&#x27;affronter</span></li><li><span class="gr">δυνατή</span><span class="fr">forte</span></li><li><span class="gr">φωνή</span><span class="fr">voix</span></li><li><span class="gr">σκηνή</span><span class="fr">scène</span></li><li><span class="gr">απέναντι</span><span class="fr">en face de</span></li><li><span class="gr">κόσμος</span><span class="fr">public</span></li><li><span class="gr">γύρους</span><span class="fr">manches</span></li><li><span class="gr">τραγούδι</span><span class="fr">chanson</span></li><li><span class="gr">τελειώνει</span><span class="fr">termine</span></li><li><span class="gr">καλεσμένοι</span><span class="fr">invités</span></li><li><span class="gr">έκπληξη</span><span class="fr">surprise</span></li><li><span class="gr">κερδίσει</span><span class="fr">gagner</span></li><li><span class="gr">Αποφασίζει</span><span class="fr">décide</span></li><li><span class="gr">φωνάζεις</span><span class="fr">cries</span></li><li><span class="gr">βοηθάς</span><span class="fr">aides</span></li><li><span class="gr">εισιτήρια</span><span class="fr">billets</span></li><li><span class="gr">πουλιούνται</span><span class="fr">se vendent</span></li></ul></section>
+<p class="note">Source : <a href="https://www.athensvoice.gr/politismos/mousiki/989073/red-bull-soundclash-rack-lila/" target="_blank" rel="noopener">Athens Voice</a></p>
+<nav class="row"><a href="2026-10-14.html">← Cours précédent</a> · <a href="../index.html">Tous les cours</a></nav>
+</div><script>
+(function(){
+  var a = document.getElementById('voice');
+  document.querySelectorAll('[data-rate]').forEach(function(b){
+    b.addEventListener('click', function(){
+      if (a) a.playbackRate = +b.dataset.rate;
+      document.querySelectorAll('[data-rate]').forEach(function(x){ x.setAttribute('aria-pressed', x === b); });
+    });
+  });
+  document.addEventListener('click', function(e){ var w = e.target.closest('.w'); if (w) w.classList.toggle('open'); });
+  var gb = document.getElementById('glossBtn'), text = document.getElementById('text');
+  gb.addEventListener('click', function(){
+    var show = gb.getAttribute('aria-pressed') !== 'true';
+    gb.setAttribute('aria-pressed', show); gb.textContent = show ? 'Traductions visibles' : 'Traductions cachées';
+    text.classList.toggle('hide', !show);
+  });
+})();
+</script></body></html>

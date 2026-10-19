@@ -24,7 +24,18 @@ audio{width:100%}
 .hide .g{display:none}.hide .w.open+.g{display:inline}
 h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
 .vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0 18px;margin:0;padding:0;list-style:none}
-.vocab li{display:flex;flex-direction:column;padding:8px 0;border-bottom:1px solid var(--line);min-width:0}
+.vocab li{border-bottom:1px solid var(--line);min-width:0;perspective:600px}
+.vocab li.on{grid-column:1/-1}
+.card{all:unset;box-sizing:border-box;width:100%;display:flex;flex-direction:column;padding:8px 0;cursor:pointer;border-radius:8px;transition:transform .25s ease,background-color .2s}
+.card:disabled{cursor:default}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card.spin{transform:rotateX(90deg)}
+.on .card{background:var(--soft);padding:10px 12px}
+.card .hint{font-size:11px;color:var(--accent);margin-top:2px}
+.card .exg{font-family:var(--text);font-size:18px;font-weight:600;line-height:1.4}
+.card .exf{color:var(--muted);font-size:14px}
+.card .speak{font-size:12px;color:var(--accent);margin-top:4px}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
 .vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
 .list{list-style:none;margin:0;padding:0}
 .list li{border-bottom:1px solid var(--line)}

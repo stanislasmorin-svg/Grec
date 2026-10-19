@@ -1,6 +1,7 @@
 """Build the static site from lessons.json.
 Usage (from repo root): python3 tools/build.py
-lessons.json: list of {date, title, title_fr, source{name,url}, paragraphs[]}
+lessons.json: list of {date, title, title_fr, source{name,url}, paragraphs[], examples?}
+examples (optional): {"<mot exactement comme dans **mot**>": [["phrase grecque", "traduction"], ...]}
 Each paragraph marks translated words as **mot** (traduction).
 """
 import json, re, html, os
@@ -40,7 +41,18 @@ audio{width:100%}
 .hide .g{display:none}.hide .w.open+.g{display:inline}
 h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
 .vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0 18px;margin:0;padding:0;list-style:none}
-.vocab li{display:flex;flex-direction:column;padding:8px 0;border-bottom:1px solid var(--line);min-width:0}
+.vocab li{border-bottom:1px solid var(--line);min-width:0;perspective:600px}
+.vocab li.on{grid-column:1/-1}
+.card{all:unset;box-sizing:border-box;width:100%;display:flex;flex-direction:column;padding:8px 0;cursor:pointer;border-radius:8px;transition:transform .25s ease,background-color .2s}
+.card:disabled{cursor:default}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card.spin{transform:rotateX(90deg)}
+.on .card{background:var(--soft);padding:10px 12px}
+.card .hint{font-size:11px;color:var(--accent);margin-top:2px}
+.card .exg{font-family:var(--text);font-size:18px;font-weight:600;line-height:1.4}
+.card .exf{color:var(--muted);font-size:14px}
+.card .speak{font-size:12px;color:var(--accent);margin-top:4px}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
 .vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
 .list{list-style:none;margin:0;padding:0}
 .list li{border-bottom:1px solid var(--line)}
@@ -61,6 +73,29 @@ JS = r"""
     });
   });
   document.addEventListener('click', function(e){ var w = e.target.closest('.w'); if (w) w.classList.toggle('open'); });
+  var greek = null;
+  function pickVoice(){ if (!window.speechSynthesis) return; greek = speechSynthesis.getVoices().filter(function(v){ return /^el/i.test(v.lang); })[0] || null; }
+  pickVoice(); if (window.speechSynthesis) speechSynthesis.onvoiceschanged = pickVoice;
+  function esc(t){ var d = document.createElement('div'); d.textContent = t; return d.innerHTML; }
+  document.querySelectorAll('.card').forEach(function(c){
+    var ex = JSON.parse(c.dataset.ex || '[]'), i = -1;
+    if (!ex.length) return;
+    c.addEventListener('click', function(){
+      if (a && !a.paused) a.pause();
+      i = (i + 1) % (ex.length + 1);
+      c.classList.add('spin');
+      setTimeout(function(){
+        var li = c.parentNode;
+        if (i === ex.length) { i = -1; li.classList.remove('on');
+          c.innerHTML = '<span class="gr">' + esc(c.dataset.gr) + '</span><span class="fr">' + esc(c.dataset.fr) + '</span><span class="hint">' + ex.length + ' phrase' + (ex.length > 1 ? 's' : '') + ' ↻</span>';
+        } else { li.classList.add('on');
+          c.innerHTML = '<span class="exg">' + esc(ex[i][0]) + '</span><span class="exf">' + esc(ex[i][1]) + '</span><span class="hint">' + esc(c.dataset.gr) + ' · ' + (i + 1) + '/' + ex.length + ' — touche pour la suite ↻</span>';
+          if (greek) { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(ex[i][0]); u.voice = greek; u.lang = greek.lang; u.rate = 0.9; speechSynthesis.speak(u); }
+        }
+        c.classList.remove('spin');
+      }, 160);
+    });
+  });
   var gb = document.getElementById('glossBtn'), text = document.getElementById('text');
   gb.addEventListener('click', function(){
     var show = gb.getAttribute('aria-pressed') !== 'true';
@@ -89,12 +124,19 @@ def lesson_page(s, prev, nxt):
         ver = __import__("hashlib").md5(open(mp3, "rb").read()).hexdigest()[:8]
         player = (f'<audio id="voice" controls preload="metadata" src="../audio/{s["date"]}.mp3?v={ver}"></audio>'
                   '<div class="row"><span class="label">Vitesse</span>'
-                  '<button class="chip" data-rate="0.75" aria-pressed="false">Lente</button>'
-                  '<button class="chip" data-rate="1" aria-pressed="true">Normale</button></div>')
+                  '<button class="chip" data-rate="0.85" aria-pressed="false">0,85×</button>'
+                  '<button class="chip" data-rate="1" aria-pressed="true">1×</button></div>')
     else:
         player = (f'<p class="note">L\'audio est en préparation (quelques minutes). En attendant : '
                   f'<a href="{html.escape(gt)}" target="_blank" rel="noopener">écouter dans Google Traduction</a>.</p>')
-    vocab = "".join(f'<li><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span></li>' for a, b in words)
+    ex = s.get("examples", {})
+    def card(a, b):
+        pairs = [p for p in ex.get(a, []) if len(p) == 2]
+        data = html.escape(json.dumps(pairs, ensure_ascii=False), quote=True)
+        hint = f'<span class="hint">{len(pairs)} phrase{"s" if len(pairs) > 1 else ""} ↻</span>' if pairs else ""
+        return (f'<li><button class="card" type="button" data-ex="{data}" data-gr="{html.escape(a)}" data-fr="{html.escape(b)}"'
+                f'{"" if pairs else " disabled"}><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span>{hint}</button></li>')
+    vocab = "".join(card(a, b) for a, b in words)
     nav = []
     if prev: nav.append(f'<a href="{prev["date"]}.html">← Cours précédent</a>')
     nav.append('<a href="../index.html">Tous les cours</a>')
@@ -109,7 +151,7 @@ def lesson_page(s, prev, nxt):
 </section>
 <section><div class="text" id="text">{"".join(paras_html)}</div></section>
 <div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>
-<section><h2>Les {len(words)} mots</h2><ul class="vocab">{vocab}</ul></section>
+<section><h2>Les {len(words)} mots</h2>{'<p class="note" style="margin:-4px 0 10px">Touche un mot pour voir des exemples en grec et en français.</p>' if ex else ""}<ul class="vocab">{vocab}</ul></section>
 {src_html}
 <nav class="row">{" · ".join(nav)}</nav>
 </div><script>{JS}</script></body></html>"""

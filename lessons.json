@@ -2075,5 +2075,252 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Μια μεγάλη ζωγραφιά στη Σταδίου",
+    "title_fr": "Une grande peinture rue Stadiou",
+    "source": {
+      "name": "Athens Voice",
+      "url": "https://www.athensvoice.gr/life/life-in-athens/992206/i-nea-toihografia-tou-simpleg-stin-aiolou-fernei-ligo-hroma-stin-kardia-tis-athinas/"
+    },
+    "paragraphs": [
+      "Στο κέντρο της Αθήνας υπάρχει μια νέα **τοιχογραφία** (fresque murale). Είναι μια μεγάλη **ζωγραφιά** (peinture) σε έναν **τοίχο** (mur). Τη βλέπουμε στη **γωνία** (coin) της οδού Σταδίου και της οδού Αιόλου. Είναι πάνω σε ένα παλιό **κτίριο** (bâtiment). Χιλιάδες **περαστικοί** (passants) τη βλέπουν κάθε μέρα.",
+      "Η ζωγραφιά δείχνει ένα μεγάλο **δέντρο** (arbre). Το δέντρο έχει ροζ **λουλούδια** (fleurs). Πίσω του είναι ο μπλε **ουρανός** (ciel). Μια γυναίκα **στέκεται** (se tient debout) κάτω από το δέντρο. Είναι **ξυπόλητη** (pieds nus). Παίζει μουσική με ένα μικρό **όργανο** (instrument). Ψηλά υπάρχει ένα **αρχαίο** (antique) βάζο.",
+      "Η ζωγραφιά έρχεται από έναν παλιό **πίνακα** (tableau). Τον έκανε ένας **ζωγράφος** (peintre) από τη Βρετανία, το 1895.",
+      "Η **δουλειά** (travail) **κράτησε** (a duré) πολύ καιρό. Μπροστά στον τοίχο είχε **σκαλωσιές** (échafaudages). Τώρα δεν έχει πια σκαλωσιές. Όλοι βλέπουν τη ζωγραφιά. Πριν, οι τοίχοι στη Σταδίου ήταν **γκρίζοι** (gris) και **άσχημοι** (laids). Τώρα ο δρόμος έχει **χρώμα** (couleur). Πολλά παλιά κτίρια **ανοίγουν** (ouvrent) ξανά. Το κέντρο της πόλης **αλλάζει** (change)."
+    ],
+    "examples": {
+      "τοιχογραφία": [
+        [
+          "Η τοιχογραφία είναι πολύ μεγάλη.",
+          "La fresque est très grande."
+        ],
+        [
+          "Βγάζω φωτογραφία την τοιχογραφία.",
+          "Je prends la fresque en photo."
+        ]
+      ],
+      "ζωγραφιά": [
+        [
+          "Το παιδί κάνει μια ζωγραφιά.",
+          "L'enfant fait un dessin."
+        ],
+        [
+          "Η ζωγραφιά είναι στο ψυγείο.",
+          "Le dessin est sur le frigo."
+        ]
+      ],
+      "τοίχο": [
+        [
+          "Βάζω ένα ρολόι στον τοίχο.",
+          "Je mets une horloge au mur."
+        ],
+        [
+          "Η γάτα κάθεται στον τοίχο.",
+          "Le chat est assis sur le mur."
+        ]
+      ],
+      "γωνία": [
+        [
+          "Το περίπτερο είναι στη γωνία.",
+          "Le kiosque est au coin."
+        ],
+        [
+          "Σε περιμένω στη γωνία.",
+          "Je t'attends au coin."
+        ]
+      ],
+      "κτίριο": [
+        [
+          "Μένω σε ένα ψηλό κτίριο.",
+          "J'habite dans un grand immeuble."
+        ],
+        [
+          "Το κτίριο έχει ασανσέρ.",
+          "Le bâtiment a un ascenseur."
+        ]
+      ],
+      "περαστικοί": [
+        [
+          "Οι περαστικοί κοιτάζουν τη βιτρίνα.",
+          "Les passants regardent la vitrine."
+        ],
+        [
+          "Οι περαστικοί βιάζονται το πρωί.",
+          "Les passants sont pressés le matin."
+        ]
+      ],
+      "δέντρο": [
+        [
+          "Το δέντρο κάνει ωραία σκιά.",
+          "L'arbre fait une belle ombre."
+        ],
+        [
+          "Κάθομαι κάτω από ένα δέντρο.",
+          "Je m'assois sous un arbre."
+        ]
+      ],
+      "λουλούδια": [
+        [
+          "Αγοράζω λουλούδια για τη μαμά.",
+          "J'achète des fleurs pour maman."
+        ],
+        [
+          "Το μπαλκόνι έχει πολλά λουλούδια.",
+          "Le balcon a beaucoup de fleurs."
+        ]
+      ],
+      "ουρανός": [
+        [
+          "Ο ουρανός είναι γκρίζος σήμερα.",
+          "Le ciel est gris aujourd'hui."
+        ],
+        [
+          "Το βράδυ ο ουρανός είναι κόκκινος.",
+          "Le soir, le ciel est rouge."
+        ]
+      ],
+      "στέκεται": [
+        [
+          "Ο σερβιτόρος στέκεται στην πόρτα.",
+          "Le serveur se tient à la porte."
+        ],
+        [
+          "Η Άννα στέκεται στη στάση και περιμένει.",
+          "Anna se tient à l’arrêt et attend."
+        ]
+      ],
+      "ξυπόλητη": [
+        [
+          "Η Μαρία περπατάει ξυπόλητη στην άμμο.",
+          "Maria marche pieds nus dans le sable."
+        ],
+        [
+          "Στο σπίτι είμαι πάντα ξυπόλητη.",
+          "À la maison, je suis toujours pieds nus."
+        ]
+      ],
+      "όργανο": [
+        [
+          "Ο Νίκος παίζει ένα όργανο.",
+          "Nikos joue d'un instrument."
+        ],
+        [
+          "Ποιο όργανο σου αρέσει;",
+          "Quel instrument te plaît ?"
+        ]
+      ],
+      "αρχαίο": [
+        [
+          "Βλέπουμε ένα αρχαίο θέατρο.",
+          "Nous voyons un théâtre antique."
+        ],
+        [
+          "Το μουσείο έχει ένα αρχαίο άγαλμα.",
+          "Le musée a une statue antique."
+        ]
+      ],
+      "ζωγράφος": [
+        [
+          "Ο ζωγράφος μένει στην Πλάκα.",
+          "Le peintre habite à Plaka."
+        ],
+        [
+          "Ο ζωγράφος πίνει καφέ στο μπαλκόνι.",
+          "Le peintre boit un café sur le balcon."
+        ]
+      ],
+      "δουλειά": [
+        [
+          "Η δουλειά μου είναι κοντά.",
+          "Mon travail est tout près."
+        ],
+        [
+          "Πάω στη δουλειά με το μετρό.",
+          "Je vais au travail en métro."
+        ]
+      ],
+      "κράτησε": [
+        [
+          "Η ταινία κράτησε δύο ώρες.",
+          "Le film a duré deux heures."
+        ],
+        [
+          "Η βροχή κράτησε όλη τη νύχτα.",
+          "La pluie a duré toute la nuit."
+        ]
+      ],
+      "σκαλωσιές": [
+        [
+          "Η πολυκατοικία έχει σκαλωσιές.",
+          "L'immeuble a des échafaudages."
+        ],
+        [
+          "Οι εργάτες ανεβαίνουν στις σκαλωσιές.",
+          "Les ouvriers montent sur les échafaudages."
+        ]
+      ],
+      "γκρίζοι": [
+        [
+          "Οι τοίχοι του γραφείου είναι γκρίζοι.",
+          "Les murs du bureau sont gris."
+        ],
+        [
+          "Οι σκύλοι του γείτονα είναι γκρίζοι.",
+          "Les chiens du voisin sont gris."
+        ]
+      ],
+      "άσχημοι": [
+        [
+          "Αυτοί οι καναπέδες είναι άσχημοι.",
+          "Ces canapés sont laids."
+        ],
+        [
+          "Οι παλιοί δρόμοι ήταν άσχημοι.",
+          "Les vieilles rues étaient laides."
+        ]
+      ],
+      "χρώμα": [
+        [
+          "Τι χρώμα είναι το αυτοκίνητό σου;",
+          "De quelle couleur est ta voiture ?"
+        ],
+        [
+          "Το μπλε χρώμα μου αρέσει.",
+          "J'aime la couleur bleue."
+        ]
+      ],
+      "ανοίγουν": [
+        [
+          "Τα μαγαζιά ανοίγουν στις εννιά.",
+          "Les magasins ouvrent à neuf heures."
+        ],
+        [
+          "Οι φούρνοι ανοίγουν πολύ νωρίς.",
+          "Les boulangeries ouvrent très tôt."
+        ]
+      ],
+      "αλλάζει": [
+        [
+          "Ο καιρός αλλάζει γρήγορα.",
+          "Le temps change vite."
+        ],
+        [
+          "Η γειτονιά μας αλλάζει πολύ.",
+          "Notre quartier change beaucoup."
+        ]
+      ],
+      "πίνακα": [
+        [
+          "Κρεμάω έναν πίνακα στο σαλόνι.",
+          "J'accroche un tableau au salon."
+        ],
+        [
+          "Βλέπω έναν ωραίο πίνακα στο μουσείο.",
+          "Je vois un beau tableau au musée."
+        ]
+      ]
+    }
   }
 ]

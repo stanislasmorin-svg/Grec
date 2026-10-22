@@ -2322,5 +2322,253 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-22",
+    "title": "Ο «Έφηβος» γυρίζει στην πόλη",
+    "title_fr": "L'« Éphèbe » revient en ville",
+    "source": {
+      "name": "in.gr",
+      "url": "https://www.in.gr/2026/10/19/politics/aftodioikisi/dimos-athinaion-meta-apo-eikosi-tria-xronia-o-efivos-epistrefei-stin-poli/"
+    },
+    "paragraphs": [
+      "Ένα παλιό **άγαλμα** (statue) **γυρίζει** (revient) στην Αθήνα. Το λένε «Έφηβος». Έφηβος σημαίνει ένα νέο **αγόρι** (garçon). Για 23 χρόνια, το άγαλμα δεν ήταν στην πόλη. Τώρα **στέκεται** (se tient debout) ξανά σε μια **πλατεία** (place). Είναι η πλατεία Αγίου Σώστη.",
+      "Το άγαλμα είναι πολύ **ψηλό** (grand). Έχει δυόμισι **μέτρα** (mètres). Το έκανε ένας **γλύπτης** (sculpteur), ο Θανάσης Απάρτης. Το έκανε το 1940. Το έφτιαξαν σε ένα **εργαστήριο** (atelier) στο Παρίσι.",
+      "Το άγαλμα **πέρασε** (a traversé) δύσκολα χρόνια. Το **μετέφεραν** (ont déplacé) πολλές φορές. Είχε και **ζημιές** (dégâts). Για πολλά χρόνια ήταν **φυλαγμένο** (gardé à l'abri) και **περίμενε** (attendait).",
+      "Οι παλιοί **κάτοικοι** (habitants) μιας **γειτονιάς** (quartier) αγαπούν το άγαλμα. Ζούσαν στο Πολύγωνο, μια γειτονιά για **πρόσφυγες** (réfugiés). Ο Έφηβος τούς **θυμίζει** (rappelle) την παλιά τους γειτονιά. Για χρόνια **ζητούσαν** (demandaient) το άγαλμα πίσω.",
+      "Την Παρασκευή, 16 Οκτωβρίου, το άγαλμα ήρθε στην πλατεία. Ο **δήμαρχος** (maire) της Αθήνας, ο Χάρης Δούκας, ήταν εκεί. Ήταν εκεί και οι κάτοικοι. Ο δήμαρχος **ευχαρίστησε** (a remercié) τους κατοίκους. Είπε ότι ο Έφηβος **ανήκει** (appartient) ξανά στην **καθημερινή** (quotidienne) ζωή της πόλης."
+    ],
+    "examples": {
+      "άγαλμα": [
+        [
+          "Το άγαλμα είναι στο μουσείο.",
+          "La statue est au musée."
+        ],
+        [
+          "Βλέπω ένα άγαλμα στο πάρκο.",
+          "Je vois une statue dans le parc."
+        ]
+      ],
+      "γυρίζει": [
+        [
+          "Η μαμά γυρίζει σπίτι στις έξι.",
+          "Maman rentre à la maison à six heures."
+        ],
+        [
+          "Ο φίλος μου γυρίζει αύριο.",
+          "Mon ami revient demain."
+        ]
+      ],
+      "αγόρι": [
+        [
+          "Το αγόρι παίζει μπάλα.",
+          "Le garçon joue au ballon."
+        ],
+        [
+          "Ένα αγόρι τρώει παγωτό.",
+          "Un garçon mange une glace."
+        ]
+      ],
+      "στέκεται": [
+        [
+          "Ο σερβιτόρος στέκεται στην πόρτα.",
+          "Le serveur se tient à la porte."
+        ],
+        [
+          "Στο μετρό, η γιαγιά στέκεται.",
+          "Dans le métro, la grand-mère reste debout."
+        ]
+      ],
+      "πλατεία": [
+        [
+          "Πίνουμε καφέ στην πλατεία.",
+          "On boit un café sur la place."
+        ],
+        [
+          "Η πλατεία έχει πολλά δέντρα.",
+          "La place a beaucoup d'arbres."
+        ]
+      ],
+      "ψηλό": [
+        [
+          "Το σπίτι μας είναι ψηλό.",
+          "Notre maison est haute."
+        ],
+        [
+          "Αυτό το δέντρο είναι ψηλό.",
+          "Cet arbre est grand."
+        ]
+      ],
+      "μέτρα": [
+        [
+          "Ο φούρνος είναι εκατό μέτρα μακριά.",
+          "La boulangerie est à cent mètres."
+        ],
+        [
+          "Το δωμάτιο έχει τρία μέτρα.",
+          "La pièce fait trois mètres."
+        ]
+      ],
+      "γλύπτης": [
+        [
+          "Ο γλύπτης δουλεύει με πέτρα.",
+          "Le sculpteur travaille la pierre."
+        ],
+        [
+          "Ο θείος μου είναι γλύπτης.",
+          "Mon oncle est sculpteur."
+        ]
+      ],
+      "εργαστήριο": [
+        [
+          "Ο πατέρας μου έχει εργαστήριο.",
+          "Mon père a un atelier."
+        ],
+        [
+          "Το εργαστήριο κλείνει στις πέντε.",
+          "L'atelier ferme à cinq heures."
+        ]
+      ],
+      "πέρασε": [
+        [
+          "Το λεωφορείο πέρασε νωρίς.",
+          "Le bus est passé tôt."
+        ],
+        [
+          "Η μέρα πέρασε γρήγορα.",
+          "La journée est passée vite."
+        ]
+      ],
+      "μετέφεραν": [
+        [
+          "Χθες μετέφεραν τα έπιπλά μας.",
+          "Hier, ils ont transporté nos meubles."
+        ],
+        [
+          "Το περίπτερο το μετέφεραν απέναντι.",
+          "Le kiosque, ils l'ont déplacé en face."
+        ]
+      ],
+      "ζημιές": [
+        [
+          "Η βροχή έκανε ζημιές.",
+          "La pluie a fait des dégâts."
+        ],
+        [
+          "Το αυτοκίνητο έχει ζημιές.",
+          "La voiture a des dégâts."
+        ]
+      ],
+      "φυλαγμένο": [
+        [
+          "Το κλειδί είναι φυλαγμένο εδώ.",
+          "La clé est rangée ici."
+        ],
+        [
+          "Έχω το γλυκό φυλαγμένο για σένα.",
+          "J'ai gardé le gâteau pour toi."
+        ]
+      ],
+      "περίμενε": [
+        [
+          "Ο Νίκος περίμενε το τρένο.",
+          "Nikos attendait le train."
+        ],
+        [
+          "Η Μαρία περίμενε στο καφέ.",
+          "Maria attendait au café."
+        ]
+      ],
+      "κάτοικοι": [
+        [
+          "Οι κάτοικοι θέλουν περισσότερα πάρκα.",
+          "Les habitants veulent plus de parcs."
+        ],
+        [
+          "Οι κάτοικοι ψωνίζουν στη λαϊκή.",
+          "Les habitants font leurs courses au marché."
+        ]
+      ],
+      "γειτονιάς": [
+        [
+          "Ο φούρνος της γειτονιάς είναι καλός.",
+          "La boulangerie du quartier est bonne."
+        ],
+        [
+          "Τα παιδιά της γειτονιάς παίζουν.",
+          "Les enfants du quartier jouent."
+        ]
+      ],
+      "πρόσφυγες": [
+        [
+          "Οι πρόσφυγες ήρθαν με πλοίο.",
+          "Les réfugiés sont arrivés en bateau."
+        ],
+        [
+          "Πολλοί πρόσφυγες μένουν στην Αθήνα.",
+          "Beaucoup de réfugiés vivent à Athènes."
+        ]
+      ],
+      "θυμίζει": [
+        [
+          "Αυτό το φαγητό μού θυμίζει τη γιαγιά.",
+          "Ce plat me rappelle ma grand-mère."
+        ],
+        [
+          "Η μουσική μού θυμίζει το καλοκαίρι.",
+          "La musique me rappelle l'été."
+        ]
+      ],
+      "ζητούσαν": [
+        [
+          "Τα παιδιά ζητούσαν παγωτό.",
+          "Les enfants demandaient une glace."
+        ],
+        [
+          "Οι πελάτες ζητούσαν κι άλλο ψωμί.",
+          "Les clients demandaient encore du pain."
+        ]
+      ],
+      "δήμαρχος": [
+        [
+          "Ο δήμαρχος μιλάει στην τηλεόραση.",
+          "Le maire parle à la télé."
+        ],
+        [
+          "Ο δήμαρχος ανοίγει ένα νέο πάρκο.",
+          "Le maire ouvre un nouveau parc."
+        ]
+      ],
+      "ευχαρίστησε": [
+        [
+          "Ο πελάτης ευχαρίστησε τον σερβιτόρο.",
+          "Le client a remercié le serveur."
+        ],
+        [
+          "Η Άννα ευχαρίστησε τη φίλη της.",
+          "Anna a remercié son amie."
+        ]
+      ],
+      "ανήκει": [
+        [
+          "Αυτή η τσάντα ανήκει σε μένα.",
+          "Ce sac m'appartient."
+        ],
+        [
+          "Το σκυλί ανήκει στον γείτονα.",
+          "Le chien appartient au voisin."
+        ]
+      ],
+      "καθημερινή": [
+        [
+          "Η καθημερινή βόλτα κάνει καλό.",
+          "La promenade quotidienne fait du bien."
+        ],
+        [
+          "Ο καφές είναι καθημερινή συνήθεια.",
+          "Le café est une habitude quotidienne."
+        ]
+      ]
+    }
   }
 ]

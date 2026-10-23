@@ -2570,5 +2570,282 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-23",
+    "title": "Μια πράσινη πλατεία στο κέντρο",
+    "title_fr": "Une place verte dans le centre",
+    "source": {
+      "name": "in.gr",
+      "url": "https://www.in.gr/2026/10/22/politics/aftodioikisi/dimos-athinaion-2-000-nea-fyta-kai-1-100-t-m-gkazon-stin-istoriki-plateia-klaythmonos/"
+    },
+    "paragraphs": [
+      "Η πλατεία Κλαυθμώνος είναι στο κέντρο της Αθήνας. Είναι μια παλιά και **ιστορική** (historique) πλατεία. Κάθε μέρα **χιλιάδες** (des milliers de) άνθρωποι **περνούν** (passent) από εκεί. Τώρα η πλατεία είναι **καινούργια** (neuve) και πιο **όμορφη** (belle).",
+      "Ο **δήμος** (la mairie) της Αθήνας έκανε μεγάλες **δουλειές** (travaux) εκεί. **Φύτεψε** (a planté) σχεδόν 2.000 νέα **φυτά** (plantes). Ανάμεσά τους είναι 30 **δέντρα** (arbres). Έβαλε και πολύ **γκαζόν** (gazon). Το γκαζόν έχει 1.100 **τετραγωνικά** (carrés) μέτρα.",
+      "Ο **δήμαρχος** (maire), ο Χάρης Δούκας, **λέει** (dit) ότι η πλατεία **άλλαξε** (a changé) πολύ. Θέλει περισσότερο **πράσινο** (verdure) στην **πόλη** (ville). Θέλει και νέα **ζωή** (vie) για τις **γειτονιές** (quartiers).",
+      "Ο δήμος φυτεύει πολλά δέντρα. Σε **λιγότερο** (moins) από τρία **χρόνια** (ans), έβαλε 14.000 νέα δέντρα. **Έφτιαξε** (a créé) και πέντε νέα **πάρκα** (parcs). Τώρα οι **κάτοικοι** (habitants) και οι **επισκέπτες** (visiteurs) έχουν ένα πιο πράσινο **μέρος** (endroit) στο κέντρο."
+    ],
+    "examples": {
+      "ιστορική": [
+        [
+          "Η Πλάκα είναι μια ιστορική γειτονιά.",
+          "La Plaka est un quartier historique."
+        ],
+        [
+          "Μένω σε μια ιστορική πολυκατοικία.",
+          "J'habite dans un immeuble historique."
+        ]
+      ],
+      "χιλιάδες": [
+        [
+          "Κάθε μέρα έρχονται χιλιάδες τουρίστες.",
+          "Chaque jour, des milliers de touristes viennent."
+        ],
+        [
+          "Στη συναυλία ήταν χιλιάδες άνθρωποι.",
+          "Il y avait des milliers de gens au concert."
+        ]
+      ],
+      "περνούν": [
+        [
+          "Τα λεωφορεία περνούν κάθε δέκα λεπτά.",
+          "Les bus passent toutes les dix minutes."
+        ],
+        [
+          "Οι μέρες περνούν πολύ γρήγορα.",
+          "Les jours passent très vite."
+        ]
+      ],
+      "καινούργια": [
+        [
+          "Η κουζίνα μας είναι καινούργια.",
+          "Notre cuisine est neuve."
+        ],
+        [
+          "Αγόρασα μια καινούργια τσάντα.",
+          "J'ai acheté un sac neuf."
+        ]
+      ],
+      "όμορφη": [
+        [
+          "Η θάλασσα είναι όμορφη σήμερα.",
+          "La mer est belle aujourd'hui."
+        ],
+        [
+          "Τι όμορφη μέρα για βόλτα!",
+          "Quelle belle journée pour se promener !"
+        ]
+      ],
+      "δήμος": [
+        [
+          "Ο δήμος καθαρίζει τους δρόμους.",
+          "La mairie nettoie les rues."
+        ],
+        [
+          "Ο δήμος έχει νέα ιστοσελίδα.",
+          "La mairie a un nouveau site internet."
+        ]
+      ],
+      "δουλειές": [
+        [
+          "Έχω πολλές δουλειές στο σπίτι.",
+          "J'ai beaucoup de tâches à la maison."
+        ],
+        [
+          "Στον δρόμο μας γίνονται δουλειές.",
+          "Il y a des travaux dans notre rue."
+        ]
+      ],
+      "Φύτεψε": [
+        [
+          "Φύτεψε λουλούδια στο μπαλκόνι.",
+          "Il a planté des fleurs sur le balcon."
+        ],
+        [
+          "Φύτεψε μια λεμονιά στην αυλή.",
+          "Elle a planté un citronnier dans la cour."
+        ]
+      ],
+      "φυτά": [
+        [
+          "Ποτίζω τα φυτά κάθε πρωί.",
+          "J'arrose les plantes chaque matin."
+        ],
+        [
+          "Το καφέ έχει πολλά φυτά.",
+          "Le café a beaucoup de plantes."
+        ]
+      ],
+      "δέντρα": [
+        [
+          "Τα δέντρα δίνουν σκιά το καλοκαίρι.",
+          "Les arbres donnent de l'ombre l'été."
+        ],
+        [
+          "Στο πάρκο υπάρχουν ψηλά δέντρα.",
+          "Il y a de grands arbres dans le parc."
+        ]
+      ],
+      "γκαζόν": [
+        [
+          "Τα παιδιά παίζουν στο γκαζόν.",
+          "Les enfants jouent sur le gazon."
+        ],
+        [
+          "Μην πατάτε το γκαζόν, παρακαλώ.",
+          "Ne marchez pas sur le gazon, s'il vous plaît."
+        ]
+      ],
+      "τετραγωνικά": [
+        [
+          "Το διαμέρισμα έχει εβδομήντα τετραγωνικά.",
+          "L'appartement fait soixante-dix mètres carrés."
+        ],
+        [
+          "Πόσα τετραγωνικά είναι το σπίτι;",
+          "Combien de mètres carrés fait la maison ?"
+        ]
+      ],
+      "δήμαρχος": [
+        [
+          "Ο δήμαρχος μιλάει στους δημοσιογράφους.",
+          "Le maire parle aux journalistes."
+        ],
+        [
+          "Ο δήμαρχος άνοιξε το νέο πάρκο.",
+          "Le maire a ouvert le nouveau parc."
+        ]
+      ],
+      "λέει": [
+        [
+          "Η γιαγιά λέει ότι θα βρέξει.",
+          "Grand-mère dit qu'il va pleuvoir."
+        ],
+        [
+          "Τι λέει ο καιρός για αύριο;",
+          "Que dit la météo pour demain ?"
+        ]
+      ],
+      "άλλαξε": [
+        [
+          "Η γειτονιά άλλαξε πολύ.",
+          "Le quartier a beaucoup changé."
+        ],
+        [
+          "Ο καιρός άλλαξε ξαφνικά.",
+          "Le temps a changé tout à coup."
+        ]
+      ],
+      "πράσινο": [
+        [
+          "Η Αθήνα χρειάζεται πιο πολύ πράσινο.",
+          "Athènes a besoin de plus de verdure."
+        ],
+        [
+          "Μου αρέσει το πράσινο στην αυλή.",
+          "J'aime la verdure dans la cour."
+        ]
+      ],
+      "πόλη": [
+        [
+          "Η πόλη έχει πολλή κίνηση σήμερα.",
+          "La ville a beaucoup de circulation aujourd'hui."
+        ],
+        [
+          "Το βράδυ η πόλη είναι ήσυχη.",
+          "Le soir, la ville est calme."
+        ]
+      ],
+      "ζωή": [
+        [
+          "Η ζωή στην Αθήνα είναι ωραία.",
+          "La vie à Athènes est belle."
+        ],
+        [
+          "Το καφέ έφερε ζωή στον δρόμο.",
+          "Le café a apporté de la vie dans la rue."
+        ]
+      ],
+      "γειτονιές": [
+        [
+          "Οι παλιές γειτονιές έχουν στενά δρομάκια.",
+          "Les vieux quartiers ont des ruelles étroites."
+        ],
+        [
+          "Μου αρέσει να γνωρίζω νέες γειτονιές.",
+          "J'aime découvrir de nouveaux quartiers."
+        ]
+      ],
+      "λιγότερο": [
+        [
+          "Τώρα τρώω λιγότερο γλυκό.",
+          "Maintenant je mange moins de sucré."
+        ],
+        [
+          "Σήμερα κάνει λιγότερο κρύο.",
+          "Aujourd'hui il fait moins froid."
+        ]
+      ],
+      "χρόνια": [
+        [
+          "Μένω στην Αθήνα εδώ και δύο χρόνια.",
+          "J'habite à Athènes depuis deux ans."
+        ],
+        [
+          "Πριν από δέκα χρόνια ζούσα στο Παρίσι.",
+          "Il y a dix ans, je vivais à Paris."
+        ]
+      ],
+      "Έφτιαξε": [
+        [
+          "Έφτιαξε καφέ για όλους.",
+          "Il a fait du café pour tout le monde."
+        ],
+        [
+          "Έφτιαξε ένα κέικ για τα γενέθλια.",
+          "Elle a fait un gâteau pour l'anniversaire."
+        ]
+      ],
+      "πάρκα": [
+        [
+          "Τα πάρκα είναι γεμάτα την Κυριακή.",
+          "Les parcs sont pleins le dimanche."
+        ],
+        [
+          "Η Αθήνα χρειάζεται πιο πολλά πάρκα.",
+          "Athènes a besoin de plus de parcs."
+        ]
+      ],
+      "κάτοικοι": [
+        [
+          "Οι κάτοικοι θέλουν πιο ήσυχους δρόμους.",
+          "Les habitants veulent des rues plus calmes."
+        ],
+        [
+          "Οι κάτοικοι του χωριού είναι λίγοι.",
+          "Les habitants du village sont peu nombreux."
+        ]
+      ],
+      "επισκέπτες": [
+        [
+          "Οι επισκέπτες βγάζουν φωτογραφίες στην Ακρόπολη.",
+          "Les visiteurs prennent des photos à l'Acropole."
+        ],
+        [
+          "Το μουσείο έχει πολλούς επισκέπτες.",
+          "Le musée a beaucoup de visiteurs."
+        ]
+      ],
+      "μέρος": [
+        [
+          "Ξέρω ένα ωραίο μέρος για φαγητό.",
+          "Je connais un bon endroit pour manger."
+        ],
+        [
+          "Αυτό το μέρος είναι πολύ ήσυχο.",
+          "Cet endroit est très calme."
+        ]
+      ]
+    }
   }
 ]

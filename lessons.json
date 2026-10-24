@@ -2847,5 +2847,292 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Μια Κυριακή για την υγεία",
+    "title_fr": "Un dimanche pour la santé",
+    "source": {
+      "name": "Athens Voice",
+      "url": "https://www.athensvoice.gr/life/life-in-athens/992483/osa-zisame-sto-athens-voice-wellness-festival-2026/"
+    },
+    "paragraphs": [
+      "Είναι **Κυριακή** (dimanche), 18 Οκτωβρίου. Ο **ήλιος** (soleil) λάμπει στην Αθήνα. Στο πάρκο Φωκιανού έχει μια μεγάλη **γιορτή** (fête). Είναι μια γιορτή για την **υγεία** (santé). Το πάρκο είναι **απέναντι** (en face) από το Καλλιμάρμαρο. Η **είσοδος** (entrée) είναι **δωρεάν** (gratuite).",
+      "Το **πρωί** (matin), ο κόσμος **τρέχει** (court) ή **περπατάει** (marche) στο Ζάππειο. Μία **διαδρομή** (parcours) έχει πέντε **χιλιόμετρα** (kilomètres). Η άλλη έχει δυόμισι. Μετά, παιδιά και **μεγάλοι** (adultes) παίζουν μπάσκετ και ποδόσφαιρο. Οι **νικητές** (gagnants) παίρνουν **δώρα** (cadeaux).",
+      "Ο Ερυθρός Σταυρός είναι εκεί. Δείχνει πώς **βοηθάμε** (on aide) έναν άνθρωπο. Τι κάνουμε όταν η **καρδιά** (cœur) **σταματάει** (s'arrête); Ο κόσμος **μαθαίνει** (apprend) να πιέζει το **στήθος** (poitrine).",
+      "Μετά, γιατροί και άλλοι ειδικοί **μιλάνε** (parlent) για το **φαγητό** (nourriture), τον **ύπνο** (sommeil) και τη **γυμναστική** (exercice). Ο κόσμος κάνει **ερωτήσεις** (questions). Στο τέλος, παίζει μουσική. Όλη τη μέρα υπάρχουν πολλά **χαμόγελα** (sourires). Οι άνθρωποι κινούνται, **γελάνε** (rient) και μαθαίνουν."
+    ],
+    "examples": {
+      "Κυριακή": [
+        [
+          "Η Κυριακή είναι ήσυχη μέρα.",
+          "Le dimanche est un jour calme."
+        ],
+        [
+          "Την Κυριακή πάμε στη θάλασσα.",
+          "Dimanche, on va à la mer."
+        ]
+      ],
+      "ήλιος": [
+        [
+          "Ο ήλιος καίει σήμερα.",
+          "Le soleil tape fort aujourd'hui."
+        ],
+        [
+          "Ο ήλιος βγαίνει νωρίς.",
+          "Le soleil se lève tôt."
+        ]
+      ],
+      "γιορτή": [
+        [
+          "Αύριο έχουμε γιορτή στο σπίτι.",
+          "Demain, on fait une fête à la maison."
+        ],
+        [
+          "Η γιορτή αρχίζει στις οκτώ.",
+          "La fête commence à huit heures."
+        ]
+      ],
+      "υγεία": [
+        [
+          "Η υγεία είναι το πιο σημαντικό.",
+          "La santé, c'est le plus important."
+        ],
+        [
+          "Το περπάτημα κάνει καλό στην υγεία.",
+          "La marche est bonne pour la santé."
+        ]
+      ],
+      "απέναντι": [
+        [
+          "Ο φούρνος είναι απέναντι.",
+          "La boulangerie est en face."
+        ],
+        [
+          "Μένω απέναντι από το πάρκο.",
+          "J'habite en face du parc."
+        ]
+      ],
+      "είσοδος": [
+        [
+          "Η είσοδος είναι δεξιά.",
+          "L'entrée est à droite."
+        ],
+        [
+          "Πού είναι η είσοδος του μετρό;",
+          "Où est l'entrée du métro ?"
+        ]
+      ],
+      "δωρεάν": [
+        [
+          "Το μουσείο είναι δωρεάν σήμερα.",
+          "Le musée est gratuit aujourd'hui."
+        ],
+        [
+          "Το νερό είναι δωρεάν εδώ.",
+          "L'eau est gratuite ici."
+        ]
+      ],
+      "πρωί": [
+        [
+          "Το πρωί πίνω καφέ.",
+          "Le matin, je bois un café."
+        ],
+        [
+          "Ξυπνάω νωρίς το πρωί.",
+          "Je me réveille tôt le matin."
+        ]
+      ],
+      "τρέχει": [
+        [
+          "Ο σκύλος τρέχει στο πάρκο.",
+          "Le chien court dans le parc."
+        ],
+        [
+          "Το παιδί τρέχει στο σχολείο.",
+          "L'enfant court à l'école."
+        ]
+      ],
+      "περπατάει": [
+        [
+          "Η γιαγιά περπατάει κάθε πρωί.",
+          "Grand-mère marche chaque matin."
+        ],
+        [
+          "Ο Νίκος περπατάει στη δουλειά.",
+          "Nikos va au travail à pied."
+        ]
+      ],
+      "διαδρομή": [
+        [
+          "Η διαδρομή είναι πολύ ωραία.",
+          "Le parcours est très beau."
+        ],
+        [
+          "Ξέρεις τη διαδρομή για τον Πειραιά;",
+          "Tu connais le trajet pour le Pirée ?"
+        ]
+      ],
+      "χιλιόμετρα": [
+        [
+          "Η θάλασσα είναι δέκα χιλιόμετρα μακριά.",
+          "La mer est à dix kilomètres."
+        ],
+        [
+          "Περπατάω τρία χιλιόμετρα κάθε μέρα.",
+          "Je marche trois kilomètres par jour."
+        ]
+      ],
+      "μεγάλοι": [
+        [
+          "Οι μεγάλοι πίνουν καφέ.",
+          "Les adultes boivent un café."
+        ],
+        [
+          "Οι μεγάλοι μιλάνε, τα παιδιά παίζουν.",
+          "Les adultes parlent, les enfants jouent."
+        ]
+      ],
+      "νικητές": [
+        [
+          "Οι νικητές είναι πολύ χαρούμενοι.",
+          "Les gagnants sont très contents."
+        ],
+        [
+          "Ποιοι είναι οι νικητές;",
+          "Qui sont les gagnants ?"
+        ]
+      ],
+      "δώρα": [
+        [
+          "Τα παιδιά ανοίγουν τα δώρα.",
+          "Les enfants ouvrent les cadeaux."
+        ],
+        [
+          "Αγοράζω δώρα για τα Χριστούγεννα.",
+          "J'achète des cadeaux pour Noël."
+        ]
+      ],
+      "βοηθάμε": [
+        [
+          "Πάντα βοηθάμε τη γιαγιά στην κουζίνα.",
+          "On aide toujours grand-mère à la cuisine."
+        ],
+        [
+          "Πώς βοηθάμε τον φίλο μας;",
+          "Comment aider notre ami ?"
+        ]
+      ],
+      "καρδιά": [
+        [
+          "Η καρδιά μου χτυπάει γρήγορα.",
+          "Mon cœur bat vite."
+        ],
+        [
+          "Ο παππούς έχει χρυσή καρδιά.",
+          "Grand-père a un cœur d'or."
+        ]
+      ],
+      "σταματάει": [
+        [
+          "Το λεωφορείο σταματάει εδώ.",
+          "Le bus s'arrête ici."
+        ],
+        [
+          "Η βροχή σταματάει το απόγευμα.",
+          "La pluie s'arrête l'après-midi."
+        ]
+      ],
+      "μαθαίνει": [
+        [
+          "Η Μαρία μαθαίνει ελληνικά.",
+          "Maria apprend le grec."
+        ],
+        [
+          "Το παιδί μαθαίνει ποδήλατο.",
+          "L'enfant apprend le vélo."
+        ]
+      ],
+      "στήθος": [
+        [
+          "Με πονάει το στήθος μου.",
+          "J'ai mal à la poitrine."
+        ],
+        [
+          "Βάζω το χέρι στο στήθος.",
+          "Je mets la main sur la poitrine."
+        ]
+      ],
+      "μιλάνε": [
+        [
+          "Οι φίλοι μιλάνε στην καφετέρια.",
+          "Les amis parlent au café."
+        ],
+        [
+          "Τα παιδιά μιλάνε πολύ δυνατά.",
+          "Les enfants parlent très fort."
+        ]
+      ],
+      "φαγητό": [
+        [
+          "Το φαγητό είναι έτοιμο.",
+          "Le repas est prêt."
+        ],
+        [
+          "Το φαγητό εδώ είναι νόστιμο.",
+          "La nourriture ici est délicieuse."
+        ]
+      ],
+      "ύπνο": [
+        [
+          "Χρειάζομαι πολύ ύπνο.",
+          "J'ai besoin de beaucoup de sommeil."
+        ],
+        [
+          "Μετά το φαγητό θέλω ύπνο.",
+          "Après le repas, j'ai sommeil."
+        ]
+      ],
+      "γυμναστική": [
+        [
+          "Κάνω γυμναστική κάθε πρωί.",
+          "Je fais du sport chaque matin."
+        ],
+        [
+          "Η γυμναστική μού κάνει καλό.",
+          "L'exercice me fait du bien."
+        ]
+      ],
+      "ερωτήσεις": [
+        [
+          "Έχω δύο ερωτήσεις.",
+          "J'ai deux questions."
+        ],
+        [
+          "Ο μαθητής κάνει πολλές ερωτήσεις.",
+          "L'élève pose beaucoup de questions."
+        ]
+      ],
+      "χαμόγελα": [
+        [
+          "Βλέπω πολλά χαμόγελα στον δρόμο.",
+          "Je vois beaucoup de sourires dans la rue."
+        ],
+        [
+          "Τα παιδιά φέρνουν χαμόγελα.",
+          "Les enfants apportent des sourires."
+        ]
+      ],
+      "γελάνε": [
+        [
+          "Οι φίλοι γελάνε στο τραπέζι.",
+          "Les amis rient à table."
+        ],
+        [
+          "Τα παιδιά γελάνε στην παραλία.",
+          "Les enfants rient à la plage."
+        ]
+      ]
+    }
   }
 ]

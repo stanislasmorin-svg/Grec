@@ -3134,5 +3134,271 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-25",
+    "title": "Δωρεάν μουσεία στις 28 Οκτωβρίου",
+    "title_fr": "Musées gratuits le 28 octobre",
+    "source": {
+      "name": "Οδηγός του Πολίτη",
+      "url": "https://www.odigostoupoliti.eu/eleftheri-eisodos-se-mouseia-archaiologikous-chorous-tin-tetarti-28-oktovriou-2026/"
+    },
+    "paragraphs": [
+      "Την Τετάρτη 28 Οκτωβρίου έχουμε μεγάλη **γιορτή** (fête). Είναι η **εθνική** (nationale) γιορτή της Ελλάδας. Αυτή τη μέρα πολλά **μουσεία** (musées) είναι **δωρεάν** (gratuits) για όλους. Δεν πληρώνεις **εισιτήριο** (billet).",
+      "Η **είσοδος** (entrée) είναι ελεύθερη στους **αρχαίους** (antiques) χώρους. Είναι ελεύθερη και στα **μνημεία** (monuments). Αυτοί οι χώροι **ανήκουν** (appartiennent) στο **κράτος** (État). Το Μουσείο Ακρόπολης είναι **διαφορετικό** (différent). Όμως και αυτό **συμμετέχει** (participe) στη γιορτή. Εκεί η είσοδος είναι δωρεάν, όσο είναι **ανοιχτό** (ouvert).",
+      "Υπάρχουν και άλλες δωρεάν **μέρες** (jours) μέσα στον χρόνο. Μία είναι η 18η Μαΐου. Από τον **Νοέμβριο** (novembre) ως τον **Μάρτιο** (mars), τα μουσεία είναι δωρεάν δύο **Κυριακές** (dimanches) τον μήνα. Είναι η **πρώτη** (premier) και η **τρίτη** (troisième) Κυριακή. Πάρε την **οικογένεια** (famille) και τους **φίλους** (amis) σου! Είναι μια **ωραία** (belle) **ευκαιρία** (occasion) για μια **βόλτα** (promenade) στην **ιστορία** (histoire)."
+    ],
+    "examples": {
+      "γιορτή": [
+        [
+          "Αύριο έχουμε γιορτή στο σχολείο.",
+          "Demain, il y a une fête à l'école."
+        ],
+        [
+          "Η γιορτή της γιαγιάς είναι σήμερα.",
+          "C'est la fête de mamie aujourd'hui."
+        ]
+      ],
+      "εθνική": [
+        [
+          "Η εθνική ομάδα παίζει απόψε.",
+          "L'équipe nationale joue ce soir."
+        ],
+        [
+          "Σήμερα είναι εθνική αργία.",
+          "Aujourd'hui, c'est un jour férié national."
+        ]
+      ],
+      "μουσεία": [
+        [
+          "Τα μουσεία κλείνουν νωρίς σήμερα.",
+          "Les musées ferment tôt aujourd'hui."
+        ],
+        [
+          "Η Αθήνα έχει πολλά μουσεία.",
+          "Athènes a beaucoup de musées."
+        ]
+      ],
+      "δωρεάν": [
+        [
+          "Ο καφές είναι δωρεάν σήμερα.",
+          "Le café est gratuit aujourd'hui."
+        ],
+        [
+          "Το ίντερνετ εδώ είναι δωρεάν.",
+          "Internet est gratuit ici."
+        ]
+      ],
+      "εισιτήριο": [
+        [
+          "Αγόρασα εισιτήριο για το μετρό.",
+          "J'ai acheté un ticket pour le métro."
+        ],
+        [
+          "Πόσο κάνει ένα εισιτήριο;",
+          "Combien coûte un billet ?"
+        ]
+      ],
+      "είσοδος": [
+        [
+          "Η είσοδος είναι από πίσω.",
+          "L'entrée est derrière."
+        ],
+        [
+          "Πού είναι η είσοδος του σταθμού;",
+          "Où est l'entrée de la station ?"
+        ]
+      ],
+      "αρχαίους": [
+        [
+          "Είδαμε αρχαίους ναούς στην Αθήνα.",
+          "Nous avons vu des temples antiques à Athènes."
+        ],
+        [
+          "Διαβάζω για αρχαίους θεούς.",
+          "Je lis sur les dieux antiques."
+        ]
+      ],
+      "μνημεία": [
+        [
+          "Η πόλη έχει όμορφα μνημεία.",
+          "La ville a de beaux monuments."
+        ],
+        [
+          "Οι τουρίστες φωτογραφίζουν τα μνημεία.",
+          "Les touristes photographient les monuments."
+        ]
+      ],
+      "ανήκουν": [
+        [
+          "Αυτά τα κλειδιά ανήκουν σε μένα.",
+          "Ces clés m'appartiennent."
+        ],
+        [
+          "Τα βιβλία ανήκουν στη βιβλιοθήκη.",
+          "Les livres appartiennent à la bibliothèque."
+        ]
+      ],
+      "κράτος": [
+        [
+          "Το κράτος πληρώνει τους δασκάλους.",
+          "L'État paie les enseignants."
+        ],
+        [
+          "Το κράτος φτιάχνει νέο δρόμο.",
+          "L'État construit une nouvelle route."
+        ]
+      ],
+      "διαφορετικό": [
+        [
+          "Θέλω ένα διαφορετικό χρώμα.",
+          "Je veux une couleur différente."
+        ],
+        [
+          "Το σπίτι είναι διαφορετικό τώρα.",
+          "La maison est différente maintenant."
+        ]
+      ],
+      "συμμετέχει": [
+        [
+          "Η Μαρία συμμετέχει στον αγώνα.",
+          "Maria participe à la course."
+        ],
+        [
+          "Όλη η τάξη συμμετέχει στη γιορτή.",
+          "Toute la classe participe à la fête."
+        ]
+      ],
+      "ανοιχτό": [
+        [
+          "Το περίπτερο είναι ανοιχτό όλη νύχτα.",
+          "Le kiosque est ouvert toute la nuit."
+        ],
+        [
+          "Είναι ανοιχτό το φαρμακείο;",
+          "La pharmacie est-elle ouverte ?"
+        ]
+      ],
+      "μέρες": [
+        [
+          "Έμεινα τρεις μέρες στη Νάξο.",
+          "Je suis resté trois jours à Naxos."
+        ],
+        [
+          "Οι μέρες είναι πιο μικρές τώρα.",
+          "Les jours sont plus courts maintenant."
+        ]
+      ],
+      "Νοέμβριο": [
+        [
+          "Θα ταξιδέψω τον Νοέμβριο.",
+          "Je voyagerai en novembre."
+        ],
+        [
+          "Τον Νοέμβριο βρέχει πολύ.",
+          "En novembre, il pleut beaucoup."
+        ]
+      ],
+      "Μάρτιο": [
+        [
+          "Τα γενέθλιά μου είναι τον Μάρτιο.",
+          "Mon anniversaire est en mars."
+        ],
+        [
+          "Τον Μάρτιο ανθίζουν τα δέντρα.",
+          "En mars, les arbres fleurissent."
+        ]
+      ],
+      "Κυριακές": [
+        [
+          "Τις Κυριακές τρώμε με τη γιαγιά.",
+          "Le dimanche, on mange avec mamie."
+        ],
+        [
+          "Οι Κυριακές είναι ήσυχες εδώ.",
+          "Les dimanches sont calmes ici."
+        ]
+      ],
+      "πρώτη": [
+        [
+          "Είναι η πρώτη μου μέρα εδώ.",
+          "C'est mon premier jour ici."
+        ],
+        [
+          "Η πρώτη στάση είναι το Σύνταγμα.",
+          "Le premier arrêt est Syntagma."
+        ]
+      ],
+      "τρίτη": [
+        [
+          "Πάρε την τρίτη στροφή αριστερά.",
+          "Prends la troisième rue à gauche."
+        ],
+        [
+          "Είναι η τρίτη μου φορά στην Κρήτη.",
+          "C'est la troisième fois que je vais en Crète."
+        ]
+      ],
+      "οικογένεια": [
+        [
+          "Πάμε διακοπές με την οικογένεια.",
+          "Nous partons en vacances en famille."
+        ],
+        [
+          "Η οικογένεια τρώει μαζί κάθε βράδυ.",
+          "La famille dîne ensemble chaque soir."
+        ]
+      ],
+      "φίλους": [
+        [
+          "Βγαίνω για καφέ με φίλους.",
+          "Je sors prendre un café avec des amis."
+        ],
+        [
+          "Έχω πολλούς φίλους στην Αθήνα.",
+          "J'ai beaucoup d'amis à Athènes."
+        ]
+      ],
+      "ωραία": [
+        [
+          "Τι ωραία μέρα σήμερα!",
+          "Quelle belle journée aujourd'hui !"
+        ],
+        [
+          "Η Πλάκα είναι πολύ ωραία γειτονιά.",
+          "La Plaka est un très beau quartier."
+        ]
+      ],
+      "ευκαιρία": [
+        [
+          "Είναι καλή ευκαιρία για ταξίδι.",
+          "C'est une bonne occasion de voyager."
+        ],
+        [
+          "Μη χάσεις αυτή την ευκαιρία!",
+          "Ne rate pas cette occasion !"
+        ]
+      ],
+      "βόλτα": [
+        [
+          "Πάμε βόλτα στο πάρκο;",
+          "On va se promener au parc ?"
+        ],
+        [
+          "Κάνω βόλτα με τον σκύλο.",
+          "Je me promène avec le chien."
+        ]
+      ],
+      "ιστορία": [
+        [
+          "Μου αρέσει η ιστορία της πόλης.",
+          "J'aime l'histoire de la ville."
+        ],
+        [
+          "Ο παππούς λέει μια ιστορία.",
+          "Grand-père raconte une histoire."
+        ]
+      ]
+    }
   }
 ]

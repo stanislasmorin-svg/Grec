@@ -3400,5 +3400,272 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-26",
+    "title": "Ψωμί από τη Βαυαρία στο Κολωνάκι",
+    "title_fr": "Du pain de Bavière à Kolonaki",
+    "source": {
+      "name": "To Vima",
+      "url": "https://www.tovima.com/food/from-bavaria-to-athens-varia-and-the-new-art-of-bread/"
+    },
+    "paragraphs": [
+      "Στο Κολωνάκι υπάρχει ένας νέος **φούρνος** (boulangerie). Το όνομά του είναι Varia. Είναι στη **γωνία** (coin) των δρόμων Μηλιώνη και Ηρακλείτου. Το κτίριο έχει μεγάλα **παράθυρα** (fenêtres).",
+      "Τον φούρνο άνοιξαν δύο **αδέρφια** (frères) από τη Γερμανία. Τα λένε Σέντρικ και Κρίστοφερ. Πριν από δύο χρόνια **μετακόμισαν** (ont déménagé) στην Αθήνα. Εδώ όμως δεν βρίσκουν το ψωμί της **πατρίδας** (patrie) τους. Γι’ αυτό **αποφάσισαν** (ont décidé) να ανοίξουν φούρνο.",
+      "Στο Varia υπάρχουν πολλά **είδη** (sortes) ψωμιού. Υπάρχει **μαύρο** (noir) ψωμί. Υπάρχει και ψωμί από **σίκαλη** (seigle). Υπάρχουν και μικρά **ψωμάκια** (petits pains) για το **πρωινό** (petit-déjeuner). Το **αλεύρι** (farine) έρχεται από έναν μικρό **μύλο** (moulin) στη Βαυαρία. Είναι **βιολογικό** (bio). Το **ζυμάρι** (pâte) περιμένει μέχρι 80 **ώρες** (heures). Έτσι το ψωμί έχει ωραία **μυρωδιά** (odeur). Έχει και **τραγανή** (croustillante) **κόρα** (croûte).",
+      "Ο φούρνος φτιάχνει λίγο ψωμί κάθε μέρα. Όταν **τελειώσει** (est fini), δεν υπάρχει άλλο. Ο φούρνος είναι **ανοιχτός** (ouvert) μέχρι τις έντεκα το **βράδυ** (soir). Τα αδέρφια λένε: «Θέλουμε όλα να γίνονται **αργά** (lentement) και **σωστά** (correctement)»."
+    ],
+    "examples": {
+      "φούρνος": [
+        [
+          "Ο φούρνος ανοίγει στις επτά.",
+          "La boulangerie ouvre à sept heures."
+        ],
+        [
+          "Πού είναι ο φούρνος;",
+          "Où est la boulangerie ?"
+        ]
+      ],
+      "γωνία": [
+        [
+          "Το περίπτερο είναι στη γωνία.",
+          "Le kiosque est au coin."
+        ],
+        [
+          "Σε περιμένω στη γωνία.",
+          "Je t'attends au coin."
+        ]
+      ],
+      "παράθυρα": [
+        [
+          "Άνοιξε τα παράθυρα, παρακαλώ.",
+          "Ouvre les fenêtres, s'il te plaît."
+        ],
+        [
+          "Τα παράθυρα είναι βρόμικα.",
+          "Les fenêtres sont sales."
+        ]
+      ],
+      "αδέρφια": [
+        [
+          "Έχω δύο αδέρφια.",
+          "J'ai deux frères et sœurs."
+        ],
+        [
+          "Τα αδέρφια μου μένουν στον Πειραιά.",
+          "Mes frères habitent au Pirée."
+        ]
+      ],
+      "μετακόμισαν": [
+        [
+          "Οι φίλοι μου μετακόμισαν στο Παγκράτι.",
+          "Mes amis ont déménagé à Pagrati."
+        ],
+        [
+          "Πότε μετακόμισαν οι γείτονες;",
+          "Quand les voisins ont-ils déménagé ?"
+        ]
+      ],
+      "πατρίδας": [
+        [
+          "Μου λείπει το φαγητό της πατρίδας.",
+          "La nourriture de mon pays me manque."
+        ],
+        [
+          "Ακούω τραγούδια της πατρίδας μου.",
+          "J'écoute des chansons de mon pays."
+        ]
+      ],
+      "αποφάσισαν": [
+        [
+          "Αποφάσισαν να πάνε με το μετρό.",
+          "Ils ont décidé de prendre le métro."
+        ],
+        [
+          "Οι γονείς μου αποφάσισαν να μείνουν.",
+          "Mes parents ont décidé de rester."
+        ]
+      ],
+      "είδη": [
+        [
+          "Το καφέ έχει πολλά είδη τσαγιού.",
+          "Le café a plusieurs sortes de thé."
+        ],
+        [
+          "Αγόρασα δύο είδη τυριού.",
+          "J'ai acheté deux sortes de fromage."
+        ]
+      ],
+      "μαύρο": [
+        [
+          "Θέλω ένα μαύρο παλτό.",
+          "Je veux un manteau noir."
+        ],
+        [
+          "Πίνω τον καφέ μαύρο.",
+          "Je bois mon café noir."
+        ]
+      ],
+      "σίκαλη": [
+        [
+          "Το ψωμί από σίκαλη είναι υγιεινό.",
+          "Le pain de seigle est sain."
+        ],
+        [
+          "Ψάχνω αλεύρι από σίκαλη.",
+          "Je cherche de la farine de seigle."
+        ]
+      ],
+      "ψωμάκια": [
+        [
+          "Πάρε έξι ψωμάκια, σε παρακαλώ.",
+          "Prends six petits pains, s'il te plaît."
+        ],
+        [
+          "Τα ψωμάκια είναι ακόμα ζεστά.",
+          "Les petits pains sont encore chauds."
+        ]
+      ],
+      "πρωινό": [
+        [
+          "Τι τρως για πρωινό;",
+          "Qu'est-ce que tu manges au petit-déjeuner ?"
+        ],
+        [
+          "Το πρωινό είναι έτοιμο!",
+          "Le petit-déjeuner est prêt !"
+        ]
+      ],
+      "αλεύρι": [
+        [
+          "Δεν έχουμε άλλο αλεύρι.",
+          "On n'a plus de farine."
+        ],
+        [
+          "Βάλε λίγο αλεύρι στο τραπέζι.",
+          "Mets un peu de farine sur la table."
+        ]
+      ],
+      "μύλο": [
+        [
+          "Στο χωριό είδαμε έναν παλιό μύλο.",
+          "Au village, on a vu un vieux moulin."
+        ],
+        [
+          "Ο παππούς είχε έναν μύλο.",
+          "Le grand-père avait un moulin."
+        ]
+      ],
+      "βιολογικό": [
+        [
+          "Αγοράζω βιολογικό γάλα.",
+          "J'achète du lait bio."
+        ],
+        [
+          "Αυτό το λάδι είναι βιολογικό.",
+          "Cette huile est bio."
+        ]
+      ],
+      "ζυμάρι": [
+        [
+          "Το ζυμάρι για την πίτσα είναι έτοιμο.",
+          "La pâte à pizza est prête."
+        ],
+        [
+          "Τα παιδιά παίζουν με το ζυμάρι.",
+          "Les enfants jouent avec la pâte."
+        ]
+      ],
+      "ώρες": [
+        [
+          "Δουλεύω οκτώ ώρες τη μέρα.",
+          "Je travaille huit heures par jour."
+        ],
+        [
+          "Περιμέναμε δύο ώρες στο λιμάνι.",
+          "On a attendu deux heures au port."
+        ]
+      ],
+      "μυρωδιά": [
+        [
+          "Τι ωραία μυρωδιά έχει ο καφές!",
+          "Comme le café sent bon !"
+        ],
+        [
+          "Δεν μου αρέσει αυτή η μυρωδιά.",
+          "Je n'aime pas cette odeur."
+        ]
+      ],
+      "τραγανή": [
+        [
+          "Η πίτα είναι ζεστή και τραγανή.",
+          "La tourte est chaude et croustillante."
+        ],
+        [
+          "Μου αρέσει η τραγανή πατάτα.",
+          "J'aime la pomme de terre croustillante."
+        ]
+      ],
+      "κόρα": [
+        [
+          "Η κόρα του ψωμιού είναι σκληρή.",
+          "La croûte du pain est dure."
+        ],
+        [
+          "Το παιδί δεν τρώει την κόρα.",
+          "L'enfant ne mange pas la croûte."
+        ]
+      ],
+      "τελειώσει": [
+        [
+          "Πες μου όταν τελειώσει η ταινία.",
+          "Dis-moi quand le film sera fini."
+        ],
+        [
+          "Όταν τελειώσει το μάθημα, πάμε για καφέ.",
+          "Quand le cours sera fini, on va prendre un café."
+        ]
+      ],
+      "ανοιχτός": [
+        [
+          "Ο φούρνος της γειτονιάς είναι ανοιχτός.",
+          "La boulangerie du quartier est ouverte."
+        ],
+        [
+          "Ο σταθμός είναι ανοιχτός όλη νύχτα.",
+          "La station est ouverte toute la nuit."
+        ]
+      ],
+      "βράδυ": [
+        [
+          "Το βράδυ βλέπω τηλεόραση.",
+          "Le soir, je regarde la télé."
+        ],
+        [
+          "Τα λέμε αύριο το βράδυ!",
+          "On se voit demain soir !"
+        ]
+      ],
+      "αργά": [
+        [
+          "Μίλα πιο αργά, παρακαλώ.",
+          "Parle plus lentement, s'il te plaît."
+        ],
+        [
+          "Ο παππούς περπατάει αργά.",
+          "Le grand-père marche lentement."
+        ]
+      ],
+      "σωστά": [
+        [
+          "Το έγραψες σωστά!",
+          "Tu l'as écrit correctement !"
+        ],
+        [
+          "Δεν το κάνω σωστά.",
+          "Je ne le fais pas correctement."
+        ]
+      ]
+    }
   }
 ]

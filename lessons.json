@@ -3667,5 +3667,302 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-27",
+    "title": "Γιορτή για το Χάλογουιν στο Γκάζι",
+    "title_fr": "Une fête d'Halloween à Gazi",
+    "source": {
+      "name": "To Vima",
+      "url": "https://www.tovima.com/culture/athens-halloween-festival-returns-for-three-nights-in-gazi/"
+    },
+    "paragraphs": [
+      "Στην Αθήνα έρχεται μια μεγάλη **γιορτή** (fête) για το Χάλογουιν. Θα γίνει στο Γκάζι. Θα κρατήσει τρεις **νύχτες** (nuits). Αρχίζει στις 30 Οκτωβρίου και τελειώνει την 1η Νοεμβρίου. Η γιορτή θα γίνει σε ένα παλιό **κτίριο** (bâtiment) για λεωφορεία. Το **εισιτήριο** (billet) **κοστίζει** (coûte) από πέντε ευρώ.",
+      "Εκεί υπάρχει μια **έκθεση** (exposition) με **ζωγραφιές** (dessins). Τις έφτιαξαν δύο **καλλιτέχνες** (artistes) από την Ισπανία. Αυτοί δουλεύουν για γνωστές **ταινίες** (films) για παιδιά. Υπάρχει και ένα **μουσείο** (musée) του τρόμου. Μέσα έχει **τρομακτικές** (effrayantes) **φιγούρες** (figurines).",
+      "Υπάρχει και μια μεγάλη **αγορά** (marché). Έχει πάνω από 80 **μαγαζιά** (boutiques). Τα παιδιά και οι μεγάλοι θα **σκαλίσουν** (sculpteront) **κολοκύθες** (citrouilles). Θα φτιάξουν και μαγικά **ραβδιά** (baguettes). Θα έχει επίσης **παιχνίδια** (jeux) και ταινίες.",
+      "Πολλοί θα φορέσουν **στολές** (costumes). Θα γίνει και ένας **διαγωνισμός** (concours) για την καλύτερη στολή. Οι **νικητές** (gagnants) θα πάρουν **δώρα** (cadeaux). Στις 30 Οκτωβρίου έχει και **δωρεάν** (gratuits) **τατουάζ** (tatouages) για το Χάλογουιν. Μπορείς να **βάψεις** (peindre) και το **πρόσωπό** (visage) σου. Θα είναι μια **τρομακτική** (effrayante) αλλά **χαρούμενη** (joyeuse) γιορτή!"
+    ],
+    "examples": {
+      "γιορτή": [
+        [
+          "Αύριο έχουμε γιορτή στο σχολείο.",
+          "Demain, on a une fête à l'école."
+        ],
+        [
+          "Η γιορτή της γιαγιάς είναι σήμερα.",
+          "La fête de mamie, c'est aujourd'hui."
+        ]
+      ],
+      "νύχτες": [
+        [
+          "Οι νύχτες είναι πιο κρύες τώρα.",
+          "Les nuits sont plus froides maintenant."
+        ],
+        [
+          "Τις νύχτες κοιμάμαι με κουβέρτα.",
+          "Les nuits, je dors avec une couverture."
+        ]
+      ],
+      "κτίριο": [
+        [
+          "Το κτίριο έχει έξι ορόφους.",
+          "L'immeuble a six étages."
+        ],
+        [
+          "Αυτό το κτίριο είναι πολύ παλιό.",
+          "Ce bâtiment est très vieux."
+        ]
+      ],
+      "εισιτήριο": [
+        [
+          "Αγόρασα εισιτήριο για το μετρό.",
+          "J'ai acheté un billet pour le métro."
+        ],
+        [
+          "Το εισιτήριο είναι στην τσάντα μου.",
+          "Le billet est dans mon sac."
+        ]
+      ],
+      "κοστίζει": [
+        [
+          "Πόσο κοστίζει ο καφές;",
+          "Combien coûte le café ?"
+        ],
+        [
+          "Το ψωμί κοστίζει ένα ευρώ.",
+          "Le pain coûte un euro."
+        ]
+      ],
+      "έκθεση": [
+        [
+          "Πάμε σε μια έκθεση το Σάββατο;",
+          "On va à une exposition samedi ?"
+        ],
+        [
+          "Η έκθεση είναι στο Σύνταγμα.",
+          "L'exposition est à Syntagma."
+        ]
+      ],
+      "ζωγραφιές": [
+        [
+          "Το παιδί κάνει ωραίες ζωγραφιές.",
+          "L'enfant fait de beaux dessins."
+        ],
+        [
+          "Βάλαμε τις ζωγραφιές στον τοίχο.",
+          "On a mis les dessins au mur."
+        ]
+      ],
+      "καλλιτέχνες": [
+        [
+          "Στην Πλάκα δουλεύουν πολλοί καλλιτέχνες.",
+          "Beaucoup d'artistes travaillent à Plaka."
+        ],
+        [
+          "Οι καλλιτέχνες ζωγραφίζουν στον δρόμο.",
+          "Les artistes peignent dans la rue."
+        ]
+      ],
+      "ταινίες": [
+        [
+          "Μου αρέσουν οι ελληνικές ταινίες.",
+          "J'aime les films grecs."
+        ],
+        [
+          "Το βράδυ βλέπουμε ταινίες στο σπίτι.",
+          "Le soir, on regarde des films à la maison."
+        ]
+      ],
+      "μουσείο": [
+        [
+          "Το μουσείο ανοίγει στις εννιά.",
+          "Le musée ouvre à neuf heures."
+        ],
+        [
+          "Πάμε στο μουσείο με τα παιδιά.",
+          "On va au musée avec les enfants."
+        ]
+      ],
+      "τρομακτικές": [
+        [
+          "Δεν βλέπω τρομακτικές ταινίες.",
+          "Je ne regarde pas de films effrayants."
+        ],
+        [
+          "Οι μάσκες είναι πολύ τρομακτικές.",
+          "Les masques sont très effrayants."
+        ]
+      ],
+      "φιγούρες": [
+        [
+          "Ο γιος μου μαζεύει μικρές φιγούρες.",
+          "Mon fils collectionne de petites figurines."
+        ],
+        [
+          "Οι φιγούρες είναι στο ράφι.",
+          "Les figurines sont sur l'étagère."
+        ]
+      ],
+      "αγορά": [
+        [
+          "Η λαϊκή αγορά είναι κάθε Τρίτη.",
+          "Le marché a lieu chaque mardi."
+        ],
+        [
+          "Πάω στην αγορά για φρούτα.",
+          "Je vais au marché pour des fruits."
+        ]
+      ],
+      "μαγαζιά": [
+        [
+          "Τα μαγαζιά κλείνουν στις εννιά.",
+          "Les magasins ferment à neuf heures."
+        ],
+        [
+          "Στην Ερμού έχει πολλά μαγαζιά.",
+          "Rue Ermou, il y a beaucoup de boutiques."
+        ]
+      ],
+      "σκαλίσουν": [
+        [
+          "Τα παιδιά θέλουν να σκαλίσουν ξύλο.",
+          "Les enfants veulent sculpter du bois."
+        ],
+        [
+          "Θα σκαλίσουν το όνομά τους.",
+          "Ils vont graver leur nom."
+        ]
+      ],
+      "κολοκύθες": [
+        [
+          "Στη λαϊκή έχει μεγάλες κολοκύθες.",
+          "Au marché, il y a de grosses citrouilles."
+        ],
+        [
+          "Οι κολοκύθες είναι πορτοκαλί.",
+          "Les citrouilles sont orange."
+        ]
+      ],
+      "ραβδιά": [
+        [
+          "Τα ραβδιά είναι από ξύλο.",
+          "Les baguettes sont en bois."
+        ],
+        [
+          "Οι μάγοι κρατάνε ραβδιά.",
+          "Les magiciens tiennent des baguettes."
+        ]
+      ],
+      "παιχνίδια": [
+        [
+          "Τα παιχνίδια είναι στο κουτί.",
+          "Les jouets sont dans la boîte."
+        ],
+        [
+          "Παίζουμε παιχνίδια στο καφέ.",
+          "On joue à des jeux au café."
+        ]
+      ],
+      "στολές": [
+        [
+          "Οι στολές είναι στη ντουλάπα.",
+          "Les costumes sont dans l'armoire."
+        ],
+        [
+          "Τα παιδιά φοράνε στολές στις Απόκριες.",
+          "Les enfants portent des costumes au carnaval."
+        ]
+      ],
+      "διαγωνισμός": [
+        [
+          "Ο διαγωνισμός αρχίζει στις πέντε.",
+          "Le concours commence à cinq heures."
+        ],
+        [
+          "Ο διαγωνισμός είναι για παιδιά.",
+          "Le concours est pour les enfants."
+        ]
+      ],
+      "νικητές": [
+        [
+          "Οι νικητές είναι πολύ χαρούμενοι.",
+          "Les gagnants sont très contents."
+        ],
+        [
+          "Ποιοι είναι οι νικητές σήμερα;",
+          "Qui sont les gagnants aujourd'hui ?"
+        ]
+      ],
+      "δώρα": [
+        [
+          "Τα δώρα είναι κάτω από το δέντρο.",
+          "Les cadeaux sont sous le sapin."
+        ],
+        [
+          "Αγοράσαμε δώρα για τους φίλους.",
+          "On a acheté des cadeaux pour les amis."
+        ]
+      ],
+      "δωρεάν": [
+        [
+          "Το νερό εδώ είναι δωρεάν.",
+          "L'eau ici est gratuite."
+        ],
+        [
+          "Η είσοδος είναι δωρεάν σήμερα.",
+          "L'entrée est gratuite aujourd'hui."
+        ]
+      ],
+      "τατουάζ": [
+        [
+          "Έχει ένα τατουάζ στο χέρι.",
+          "Il a un tatouage sur le bras."
+        ],
+        [
+          "Θέλω να κάνω τατουάζ.",
+          "Je veux me faire un tatouage."
+        ]
+      ],
+      "βάψεις": [
+        [
+          "Θα βάψεις την πόρτα σήμερα;",
+          "Tu vas peindre la porte aujourd'hui ?"
+        ],
+        [
+          "Μπορείς να βάψεις το δωμάτιο μπλε.",
+          "Tu peux peindre la chambre en bleu."
+        ]
+      ],
+      "πρόσωπό": [
+        [
+          "Πλένω το πρόσωπό μου με κρύο νερό.",
+          "Je me lave le visage à l'eau froide."
+        ],
+        [
+          "Έβαλε κρέμα στο πρόσωπό της.",
+          "Elle a mis de la crème sur son visage."
+        ]
+      ],
+      "τρομακτική": [
+        [
+          "Η ιστορία είναι πολύ τρομακτική.",
+          "L'histoire est très effrayante."
+        ],
+        [
+          "Μια τρομακτική φωνή έρχεται από έξω.",
+          "Une voix effrayante vient de dehors."
+        ]
+      ],
+      "χαρούμενη": [
+        [
+          "Η Μαρία είναι πολύ χαρούμενη σήμερα.",
+          "Maria est très joyeuse aujourd'hui."
+        ],
+        [
+          "Είναι μια χαρούμενη μέρα.",
+          "C'est une journée joyeuse."
+        ]
+      ]
+    }
   }
 ]

@@ -3964,5 +3964,263 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-28",
+    "title": "Βροχή και αστραπές στην Αθήνα",
+    "title_fr": "Pluie et éclairs à Athènes",
+    "source": {
+      "name": "To Vima",
+      "url": "https://www.tovima.com/society/severe-storms-hit-greece-as-weather-warning-takes-effect/"
+    },
+    "paragraphs": [
+      "Αυτές τις μέρες ο **καιρός** (temps) στην Αθήνα είναι άσχημος. Από την Κυριακή το **βράδυ** (soir) **πέφτει** (tombe) πολλή **βροχή** (pluie). Στον **ουρανό** (ciel) βλέπουμε πολλές **αστραπές** (éclairs). Έχουμε **καταιγίδες** (orages) σε όλη την **πόλη** (ville).",
+      "Οι **επιστήμονες** (scientifiques) του καιρού στέλνουν ένα **μήνυμα** (message) σε όλους. Λένε ότι ο καιρός είναι **επικίνδυνος** (dangereux) στην Αττική. Η Αττική είναι η Αθήνα και οι γύρω πόλεις.",
+      "**Βρέχει** (il pleut) πολύ στο **κέντρο** (centre) της Αθήνας. Βρέχει και στα **βόρεια** (du nord) **προάστια** (banlieues), όπως στη Δροσιά. Βρέχει και κοντά στη **θάλασσα** (mer), στη Νέα Σμύρνη και στον Άλιμο. Βρέχει και στο Χαϊδάρι και στην Ηλιούπολη.",
+      "Η **θερμοκρασία** (température) είναι από 15 έως 19 **βαθμούς** (degrés). Το βράδυ ο **αέρας** (vent) γίνεται πιο **δυνατός** (fort). Και η βροχή έρχεται ξανά.",
+      "Την Τρίτη το **πρωί** (matin) η βροχή συνεχίζει. Μετά ο καιρός θα γίνει πιο **ήρεμος** (calme). Μέχρι τότε, μην **ξεχάσεις** (oublies) την **ομπρέλα** (parapluie) σου!"
+    ],
+    "examples": {
+      "καιρός": [
+        [
+          "Ο καιρός είναι ωραίος σήμερα.",
+          "Il fait beau aujourd'hui."
+        ],
+        [
+          "Πώς είναι ο καιρός έξω;",
+          "Quel temps fait-il dehors ?"
+        ]
+      ],
+      "βράδυ": [
+        [
+          "Το βράδυ τρώμε στο σπίτι.",
+          "Le soir, on mange à la maison."
+        ],
+        [
+          "Θα σε δω το βράδυ.",
+          "Je te verrai ce soir."
+        ]
+      ],
+      "πέφτει": [
+        [
+          "Το κινητό μου πέφτει κάτω.",
+          "Mon portable tombe par terre."
+        ],
+        [
+          "Ο ήλιος πέφτει στις επτά.",
+          "Le soleil se couche à sept heures."
+        ]
+      ],
+      "βροχή": [
+        [
+          "Η βροχή σταμάτησε επιτέλους.",
+          "La pluie s'est enfin arrêtée."
+        ],
+        [
+          "Μου αρέσει η βροχή.",
+          "J'aime la pluie."
+        ]
+      ],
+      "ουρανό": [
+        [
+          "Κοίτα τον ουρανό απόψε!",
+          "Regarde le ciel ce soir !"
+        ],
+        [
+          "Δεν έχει σύννεφα στον ουρανό.",
+          "Il n'y a pas de nuages dans le ciel."
+        ]
+      ],
+      "αστραπές": [
+        [
+          "Το παιδί φοβάται τις αστραπές.",
+          "L'enfant a peur des éclairs."
+        ],
+        [
+          "Είδα αστραπές πάνω από τη θάλασσα.",
+          "J'ai vu des éclairs au-dessus de la mer."
+        ]
+      ],
+      "καταιγίδες": [
+        [
+          "Το φθινόπωρο έχει καταιγίδες.",
+          "En automne, il y a des orages."
+        ],
+        [
+          "Οι καταιγίδες περνούν γρήγορα.",
+          "Les orages passent vite."
+        ]
+      ],
+      "πόλη": [
+        [
+          "Η πόλη είναι ήσυχη το πρωί.",
+          "La ville est calme le matin."
+        ],
+        [
+          "Ζω σε μια μεγάλη πόλη.",
+          "J'habite dans une grande ville."
+        ]
+      ],
+      "επιστήμονες": [
+        [
+          "Οι επιστήμονες δουλεύουν στο εργαστήριο.",
+          "Les scientifiques travaillent au laboratoire."
+        ],
+        [
+          "Οι επιστήμονες βρήκαν κάτι νέο.",
+          "Les scientifiques ont trouvé quelque chose de nouveau."
+        ]
+      ],
+      "μήνυμα": [
+        [
+          "Σου έστειλα ένα μήνυμα.",
+          "Je t'ai envoyé un message."
+        ],
+        [
+          "Διάβασες το μήνυμα της μαμάς;",
+          "Tu as lu le message de maman ?"
+        ]
+      ],
+      "επικίνδυνος": [
+        [
+          "Αυτός ο δρόμος είναι επικίνδυνος.",
+          "Cette route est dangereuse."
+        ],
+        [
+          "Ο σκύλος δεν είναι επικίνδυνος.",
+          "Le chien n'est pas dangereux."
+        ]
+      ],
+      "Βρέχει": [
+        [
+          "Βρέχει, πάρε το μπουφάν σου.",
+          "Il pleut, prends ta veste."
+        ],
+        [
+          "Βρέχει από το πρωί.",
+          "Il pleut depuis ce matin."
+        ]
+      ],
+      "κέντρο": [
+        [
+          "Δουλεύω στο κέντρο της Αθήνας.",
+          "Je travaille dans le centre d'Athènes."
+        ],
+        [
+          "Πάμε στο κέντρο με το μετρό.",
+          "On va au centre en métro."
+        ]
+      ],
+      "βόρεια": [
+        [
+          "Μένουμε στα βόρεια προάστια.",
+          "Nous habitons dans la banlieue nord."
+        ],
+        [
+          "Τα βόρεια βουνά έχουν χιόνι.",
+          "Les montagnes du nord ont de la neige."
+        ]
+      ],
+      "προάστια": [
+        [
+          "Τα προάστια είναι πιο ήσυχα.",
+          "Les banlieues sont plus calmes."
+        ],
+        [
+          "Πολλοί μένουν στα προάστια.",
+          "Beaucoup de gens habitent en banlieue."
+        ]
+      ],
+      "θάλασσα": [
+        [
+          "Το καλοκαίρι πάμε στη θάλασσα.",
+          "L'été, on va à la mer."
+        ],
+        [
+          "Η θάλασσα είναι κρύα σήμερα.",
+          "La mer est froide aujourd'hui."
+        ]
+      ],
+      "θερμοκρασία": [
+        [
+          "Η θερμοκρασία πέφτει το βράδυ.",
+          "La température baisse le soir."
+        ],
+        [
+          "Τι θερμοκρασία έχει σήμερα;",
+          "Quelle température fait-il aujourd'hui ?"
+        ]
+      ],
+      "βαθμούς": [
+        [
+          "Σήμερα έχει είκοσι βαθμούς.",
+          "Aujourd'hui, il fait vingt degrés."
+        ],
+        [
+          "Το νερό έχει δέκα βαθμούς.",
+          "L'eau est à dix degrés."
+        ]
+      ],
+      "αέρας": [
+        [
+          "Ο αέρας είναι κρύος σήμερα.",
+          "Le vent est froid aujourd'hui."
+        ],
+        [
+          "Ο αέρας άνοιξε την πόρτα.",
+          "Le vent a ouvert la porte."
+        ]
+      ],
+      "δυνατός": [
+        [
+          "Ο καφές είναι πολύ δυνατός.",
+          "Le café est très fort."
+        ],
+        [
+          "Ο μικρός μου γιος είναι δυνατός.",
+          "Mon petit garçon est fort."
+        ]
+      ],
+      "πρωί": [
+        [
+          "Πίνω καφέ κάθε πρωί.",
+          "Je bois un café chaque matin."
+        ],
+        [
+          "Το πρωί έχει πολλή κίνηση.",
+          "Le matin, il y a beaucoup de circulation."
+        ]
+      ],
+      "ήρεμος": [
+        [
+          "Ο παππούς είναι πάντα ήρεμος.",
+          "Grand-père est toujours calme."
+        ],
+        [
+          "Μείνε ήρεμος, όλα είναι καλά.",
+          "Reste calme, tout va bien."
+        ]
+      ],
+      "ξεχάσεις": [
+        [
+          "Μην ξεχάσεις τα κλειδιά σου!",
+          "N'oublie pas tes clés !"
+        ],
+        [
+          "Μην ξεχάσεις να πάρεις ψωμί.",
+          "N'oublie pas d'acheter du pain."
+        ]
+      ],
+      "ομπρέλα": [
+        [
+          "Πήρα την ομπρέλα μαζί μου.",
+          "J'ai pris mon parapluie avec moi."
+        ],
+        [
+          "Η ομπρέλα μου είναι κόκκινη.",
+          "Mon parapluie est rouge."
+        ]
+      ]
+    }
   }
 ]

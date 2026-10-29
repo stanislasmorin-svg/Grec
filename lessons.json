@@ -4222,5 +4222,273 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-29",
+    "title": "Κλασική μουσική στο κέντρο της Αθήνας",
+    "title_fr": "Musique classique au centre d'Athènes",
+    "source": {
+      "name": "ProtoThema English",
+      "url": "https://en.protothema.gr/2026/10/27/athens-international-music-festival-five-days-of-classical-music-in-the-heart-of-athens/"
+    },
+    "paragraphs": [
+      "Η Αθήνα έχει μια **γιορτή** (fête) για την **κλασική** (classique) μουσική. Η γιορτή **αρχίζει** (commence) στις 3 Νοεμβρίου. Θα **κρατήσει** (durera) πέντε μέρες. Είναι η δεύτερη **χρονιά** (année) της.",
+      "Οι **συναυλίες** (concerts) γίνονται σε ένα παλιό **κτίριο** (bâtiment) στο κέντρο. Το κτίριο είναι από το 1891. Εκεί η Μαρία Κάλλας **βγήκε** (est montée) πρώτη φορά στη **σκηνή** (scène). Ήταν μόνο 14 **χρονών** (ans).",
+      "Ένας πολύ **διάσημος** (célèbre) **βιολιστής** (violoniste) θα **ανοίξει** (ouvrira) τη γιορτή. Τον λένε Πίνκας Ζούκερμαν. Θα παίξει σε τέσσερις συναυλίες. Θα έρθουν και άλλοι **μουσικοί** (musiciens) με πιάνο, **τσέλο** (violoncelle) και **κλαρίνο** (clarinette). Θα παίξουν **έργα** (œuvres) του Μότσαρτ και του Μπραμς.",
+      "Πέντε νέοι μουσικοί θα κάνουν **μάθημα** (cours) βιολιού με τους **δασκάλους** (professeurs). Ο κόσμος μπορεί να έρθει και να **δει** (voir). Υπάρχει και ένα πρόγραμμα για τους **μαθητές** (élèves) των σχολείων. Θα **πάρει** (prendra) μέρος και μια **ορχήστρα** (orchestre) με νέα παιδιά.",
+      "Η Αθήνα θέλει να γίνει μια **πόλη** (ville) της μουσικής. Θέλει να **φέρνει** (amener) μουσικούς από όλο τον κόσμο."
+    ],
+    "examples": {
+      "γιορτή": [
+        [
+          "Αύριο έχουμε γιορτή στο σχολείο.",
+          "Demain, on a une fête à l'école."
+        ],
+        [
+          "Η γιορτή είναι στην πλατεία.",
+          "La fête est sur la place."
+        ]
+      ],
+      "κλασική": [
+        [
+          "Μου αρέσει η κλασική μουσική.",
+          "J'aime la musique classique."
+        ],
+        [
+          "Φοράει μια κλασική μαύρη φούστα.",
+          "Elle porte une jupe noire classique."
+        ]
+      ],
+      "αρχίζει": [
+        [
+          "Το μάθημα αρχίζει στις εννιά.",
+          "Le cours commence à neuf heures."
+        ],
+        [
+          "Η ταινία αρχίζει σε λίγο.",
+          "Le film commence bientôt."
+        ]
+      ],
+      "κρατήσει": [
+        [
+          "Η βροχή θα κρατήσει όλη μέρα.",
+          "La pluie va durer toute la journée."
+        ],
+        [
+          "Το ταξίδι θα κρατήσει δύο ώρες.",
+          "Le voyage va durer deux heures."
+        ]
+      ],
+      "χρονιά": [
+        [
+          "Καλή χρονιά σε όλους!",
+          "Bonne année à tous !"
+        ],
+        [
+          "Ήταν μια δύσκολη χρονιά.",
+          "C'était une année difficile."
+        ]
+      ],
+      "συναυλίες": [
+        [
+          "Το καλοκαίρι έχει πολλές συναυλίες.",
+          "L'été, il y a beaucoup de concerts."
+        ],
+        [
+          "Πάμε συχνά σε συναυλίες.",
+          "Nous allons souvent à des concerts."
+        ]
+      ],
+      "κτίριο": [
+        [
+          "Το κτίριο έχει έξι ορόφους.",
+          "Le bâtiment a six étages."
+        ],
+        [
+          "Μένω σε ένα παλιό κτίριο.",
+          "J'habite dans un vieux bâtiment."
+        ]
+      ],
+      "βγήκε": [
+        [
+          "Ο ήλιος βγήκε πάλι.",
+          "Le soleil est revenu."
+        ],
+        [
+          "Η Μαρία βγήκε για καφέ.",
+          "Maria est sortie prendre un café."
+        ]
+      ],
+      "σκηνή": [
+        [
+          "Ο τραγουδιστής ανεβαίνει στη σκηνή.",
+          "Le chanteur monte sur scène."
+        ],
+        [
+          "Η σκηνή του θεάτρου είναι μεγάλη.",
+          "La scène du théâtre est grande."
+        ]
+      ],
+      "χρονών": [
+        [
+          "Ο γιος μου είναι δέκα χρονών.",
+          "Mon fils a dix ans."
+        ],
+        [
+          "Πόσο χρονών είσαι;",
+          "Quel âge as-tu ?"
+        ]
+      ],
+      "διάσημος": [
+        [
+          "Είναι ένας διάσημος ηθοποιός.",
+          "C'est un acteur célèbre."
+        ],
+        [
+          "Αυτός ο φούρνος είναι διάσημος.",
+          "Cette boulangerie est célèbre."
+        ]
+      ],
+      "βιολιστής": [
+        [
+          "Ο βιολιστής παίζει στον δρόμο.",
+          "Le violoniste joue dans la rue."
+        ],
+        [
+          "Ο θείος μου είναι βιολιστής.",
+          "Mon oncle est violoniste."
+        ]
+      ],
+      "ανοίξει": [
+        [
+          "Το μαγαζί θα ανοίξει στις δέκα.",
+          "Le magasin ouvrira à dix heures."
+        ],
+        [
+          "Η πισίνα θα ανοίξει τον Ιούνιο.",
+          "La piscine ouvrira en juin."
+        ]
+      ],
+      "μουσικοί": [
+        [
+          "Οι μουσικοί παίζουν στην ταβέρνα.",
+          "Les musiciens jouent à la taverne."
+        ],
+        [
+          "Στο μετρό παίζουν μουσικοί.",
+          "Des musiciens jouent dans le métro."
+        ]
+      ],
+      "τσέλο": [
+        [
+          "Η κόρη μου μαθαίνει τσέλο.",
+          "Ma fille apprend le violoncelle."
+        ],
+        [
+          "Το τσέλο είναι βαρύ.",
+          "Le violoncelle est lourd."
+        ]
+      ],
+      "κλαρίνο": [
+        [
+          "Στο πανηγύρι παίζει κλαρίνο.",
+          "À la fête du village, on joue de la clarinette."
+        ],
+        [
+          "Ο παππούς παίζει κλαρίνο.",
+          "Le grand-père joue de la clarinette."
+        ]
+      ],
+      "έργα": [
+        [
+          "Στο μουσείο βλέπουμε ωραία έργα.",
+          "Au musée, on voit de belles œuvres."
+        ],
+        [
+          "Στον δρόμο κάνουν έργα.",
+          "Il y a des travaux dans la rue."
+        ]
+      ],
+      "μάθημα": [
+        [
+          "Έχω μάθημα ελληνικών σήμερα.",
+          "J'ai cours de grec aujourd'hui."
+        ],
+        [
+          "Το μάθημα ήταν εύκολο.",
+          "Le cours était facile."
+        ]
+      ],
+      "δασκάλους": [
+        [
+          "Τα παιδιά αγαπούν τους δασκάλους.",
+          "Les enfants aiment les professeurs."
+        ],
+        [
+          "Μιλάμε με τους δασκάλους αύριο.",
+          "Nous parlons aux professeurs demain."
+        ]
+      ],
+      "δει": [
+        [
+          "Θέλει να δει τη θάλασσα.",
+          "Il veut voir la mer."
+        ],
+        [
+          "Δεν μπορεί να δει καλά.",
+          "Il ne voit pas bien."
+        ]
+      ],
+      "μαθητές": [
+        [
+          "Οι μαθητές περιμένουν το λεωφορείο.",
+          "Les élèves attendent le bus."
+        ],
+        [
+          "Η τάξη έχει είκοσι μαθητές.",
+          "La classe a vingt élèves."
+        ]
+      ],
+      "πάρει": [
+        [
+          "Θα πάρει το μετρό για τη δουλειά.",
+          "Il prendra le métro pour le travail."
+        ],
+        [
+          "Θέλει να πάρει ένα παγωτό.",
+          "Il veut prendre une glace."
+        ]
+      ],
+      "ορχήστρα": [
+        [
+          "Η ορχήστρα παίζει απόψε.",
+          "L'orchestre joue ce soir."
+        ],
+        [
+          "Ο γιος μου είναι σε μια ορχήστρα.",
+          "Mon fils est dans un orchestre."
+        ]
+      ],
+      "πόλη": [
+        [
+          "Η πόλη είναι γεμάτη κόσμο.",
+          "La ville est pleine de monde."
+        ],
+        [
+          "Μου αρέσει αυτή η πόλη.",
+          "J'aime cette ville."
+        ]
+      ],
+      "φέρνει": [
+        [
+          "Ο σερβιτόρος φέρνει τον καφέ.",
+          "Le serveur apporte le café."
+        ],
+        [
+          "Κάθε πρωί φέρνει ψωμί.",
+          "Chaque matin, il apporte du pain."
+        ]
+      ]
+    }
   }
 ]

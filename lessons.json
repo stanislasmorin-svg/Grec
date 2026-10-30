@@ -4490,5 +4490,262 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-30",
+    "title": "Μια μέρα στην Πάρνηθα",
+    "title_fr": "Une journée sur le Parnès",
+    "source": {
+      "name": "Athens News (rua.gr)",
+      "url": "https://en.rua.gr/2026/10/27/october-28-from-athens-to-the-mountains-forest-paths-deer-and-hot-lunch-on-parnitha/"
+    },
+    "paragraphs": [
+      "Η **Πάρνηθα** (le Parnès) είναι ένα μεγάλο **βουνό** (montagne) κοντά στην Αθήνα. Με το **αυτοκίνητο** (voiture) είναι περίπου μία ώρα από το κέντρο. Περνάς από τις Αχαρνές. Εκεί έχει **έλατα** (sapins), **μονοπάτια** (sentiers) και **πηγές** (sources). Στο **δάσος** (forêt) ζουν και **ελάφια** (cerfs).",
+      "Πάνω στο βουνό έχει δύο **καταφύγια** (refuges). Είναι μικρά σπίτια για τους **πεζοπόρους** (randonneurs). Το ένα λέγεται Μπάφι. Είναι **ανοιχτό** (ouvert) κάθε μέρα. Εκεί τρως ένα **ζεστό** (chaud) **φαγητό** (repas). Το άλλο λέγεται Φλαμπούρι.",
+      "Από το Φλαμπούρι ένα μονοπάτι πάει στη Μόλα. Η Μόλα είναι ένα **ξέφωτο** (clairière), δηλαδή ένα μέρος χωρίς δέντρα μέσα στο δάσος. Έχει **ξύλινα** (en bois) τραπέζια και μια μικρή **εκκλησία** (église). Εκεί δεν έχει εστιατόριο. Παίρνεις μαζί σου φαγητό και **νερό** (eau).",
+      "Στο βουνό κάνει πιο πολύ **κρύο** (froid) από την Αθήνα. Φέρε ένα ζεστό **μπουφάν** (blouson) και καλά **παπούτσια** (chaussures). Μην ανάβεις **φωτιά** (feu). Μην πετάς **σκουπίδια** (déchets). Μη δίνεις φαγητό στα ζώα. Και μην **περπατάς** (marches) σε άγνωστα μονοπάτια στο **σκοτάδι** (obscurité)."
+    ],
+    "examples": {
+      "Πάρνηθα": [
+        [
+          "Η Πάρνηθα έχει χιόνι τον χειμώνα.",
+          "Le Parnès a de la neige en hiver."
+        ],
+        [
+          "Πάμε στην Πάρνηθα την Κυριακή;",
+          "On va au Parnès dimanche ?"
+        ]
+      ],
+      "βουνό": [
+        [
+          "Το βουνό είναι πολύ ψηλό.",
+          "La montagne est très haute."
+        ],
+        [
+          "Το Σάββατο πάμε στο βουνό.",
+          "Samedi, on va à la montagne."
+        ]
+      ],
+      "αυτοκίνητο": [
+        [
+          "Το αυτοκίνητο είναι στο πάρκινγκ.",
+          "La voiture est au parking."
+        ],
+        [
+          "Πάω στη δουλειά με το αυτοκίνητο.",
+          "Je vais au travail en voiture."
+        ]
+      ],
+      "έλατα": [
+        [
+          "Τα έλατα είναι πράσινα όλο τον χρόνο.",
+          "Les sapins sont verts toute l'année."
+        ],
+        [
+          "Βλέπω πολλά έλατα από το παράθυρο.",
+          "Je vois beaucoup de sapins par la fenêtre."
+        ]
+      ],
+      "μονοπάτια": [
+        [
+          "Τα μονοπάτια είναι στενά.",
+          "Les sentiers sont étroits."
+        ],
+        [
+          "Μου αρέσουν τα μονοπάτια στο δάσος.",
+          "J'aime les sentiers dans la forêt."
+        ]
+      ],
+      "πηγές": [
+        [
+          "Το χωριό έχει πολλές πηγές.",
+          "Le village a beaucoup de sources."
+        ],
+        [
+          "Οι πηγές έχουν κρύο νερό.",
+          "Les sources ont de l'eau froide."
+        ]
+      ],
+      "δάσος": [
+        [
+          "Το δάσος είναι πολύ ήσυχο.",
+          "La forêt est très calme."
+        ],
+        [
+          "Περπατάμε στο δάσος με τον σκύλο.",
+          "Nous marchons dans la forêt avec le chien."
+        ]
+      ],
+      "ελάφια": [
+        [
+          "Τα ελάφια τρώνε χόρτο.",
+          "Les cerfs mangent de l'herbe."
+        ],
+        [
+          "Τα παιδιά θέλουν να δουν ελάφια.",
+          "Les enfants veulent voir des cerfs."
+        ]
+      ],
+      "καταφύγια": [
+        [
+          "Τα καταφύγια έχουν ζεστά δωμάτια.",
+          "Les refuges ont des chambres chaudes."
+        ],
+        [
+          "Στην Ελλάδα έχει πολλά καταφύγια.",
+          "En Grèce, il y a beaucoup de refuges."
+        ]
+      ],
+      "πεζοπόρους": [
+        [
+          "Βλέπω πεζοπόρους στον δρόμο.",
+          "Je vois des randonneurs sur la route."
+        ],
+        [
+          "Το μονοπάτι είναι για πεζοπόρους.",
+          "Le sentier est pour les randonneurs."
+        ]
+      ],
+      "ανοιχτό": [
+        [
+          "Το περίπτερο είναι ανοιχτό όλη νύχτα.",
+          "Le kiosque est ouvert toute la nuit."
+        ],
+        [
+          "Είναι ανοιχτό το φαρμακείο σήμερα;",
+          "La pharmacie est-elle ouverte aujourd'hui ?"
+        ]
+      ],
+      "ζεστό": [
+        [
+          "Θέλω ένα ζεστό τσάι, παρακαλώ.",
+          "Je voudrais un thé chaud, s'il vous plaît."
+        ],
+        [
+          "Το ψωμί είναι ακόμα ζεστό.",
+          "Le pain est encore chaud."
+        ]
+      ],
+      "φαγητό": [
+        [
+          "Το φαγητό είναι έτοιμο!",
+          "Le repas est prêt !"
+        ],
+        [
+          "Η γιαγιά φτιάχνει φαγητό.",
+          "Grand-mère prépare à manger."
+        ]
+      ],
+      "ξέφωτο": [
+        [
+          "Τα παιδιά παίζουν στο ξέφωτο.",
+          "Les enfants jouent dans la clairière."
+        ],
+        [
+          "Κάνουμε πικνίκ σε ένα ξέφωτο.",
+          "On fait un pique-nique dans une clairière."
+        ]
+      ],
+      "ξύλινα": [
+        [
+          "Η κουζίνα έχει ξύλινα ντουλάπια.",
+          "La cuisine a des placards en bois."
+        ],
+        [
+          "Τα ξύλινα παιχνίδια είναι ωραία.",
+          "Les jouets en bois sont jolis."
+        ]
+      ],
+      "εκκλησία": [
+        [
+          "Η εκκλησία είναι δίπλα στην πλατεία.",
+          "L'église est à côté de la place."
+        ],
+        [
+          "Την Κυριακή πάμε στην εκκλησία.",
+          "Le dimanche, on va à l'église."
+        ]
+      ],
+      "νερό": [
+        [
+          "Ένα νερό, παρακαλώ.",
+          "Une eau, s'il vous plaît."
+        ],
+        [
+          "Το νερό στη θάλασσα είναι ζεστό.",
+          "L'eau de la mer est chaude."
+        ]
+      ],
+      "κρύο": [
+        [
+          "Σήμερα κάνει κρύο στην Αθήνα.",
+          "Aujourd'hui, il fait froid à Athènes."
+        ],
+        [
+          "Το βράδυ κάνει λίγο κρύο.",
+          "Le soir, il fait un peu froid."
+        ]
+      ],
+      "μπουφάν": [
+        [
+          "Πάρε το μπουφάν σου!",
+          "Prends ton blouson !"
+        ],
+        [
+          "Αυτό το μπουφάν είναι καινούργιο.",
+          "Ce blouson est neuf."
+        ]
+      ],
+      "παπούτσια": [
+        [
+          "Τα παπούτσια μου είναι βρεγμένα.",
+          "Mes chaussures sont mouillées."
+        ],
+        [
+          "Αγοράζω παπούτσια στην Ερμού.",
+          "J'achète des chaussures rue Ermou."
+        ]
+      ],
+      "φωτιά": [
+        [
+          "Μην παίζεις με τη φωτιά.",
+          "Ne joue pas avec le feu."
+        ],
+        [
+          "Η φωτιά στο τζάκι είναι ωραία.",
+          "Le feu dans la cheminée est agréable."
+        ]
+      ],
+      "σκουπίδια": [
+        [
+          "Βγάζω τα σκουπίδια το βράδυ.",
+          "Je sors les poubelles le soir."
+        ],
+        [
+          "Τα σκουπίδια πάνε στον κάδο.",
+          "Les déchets vont dans la benne."
+        ]
+      ],
+      "περπατάς": [
+        [
+          "Πού περπατάς κάθε πρωί;",
+          "Où marches-tu chaque matin ?"
+        ],
+        [
+          "Γιατί περπατάς τόσο γρήγορα;",
+          "Pourquoi marches-tu si vite ?"
+        ]
+      ],
+      "σκοτάδι": [
+        [
+          "Το παιδί φοβάται το σκοτάδι.",
+          "L'enfant a peur du noir."
+        ],
+        [
+          "Στις επτά έχει ήδη σκοτάδι.",
+          "À sept heures, il fait déjà nuit."
+        ]
+      ]
+    }
   }
 ]

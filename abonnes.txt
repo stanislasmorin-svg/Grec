@@ -3,3 +3,4 @@
 # Pour ajouter quelqu'un : sur github.com, ouvrir ce fichier, cliquer sur le crayon, ajouter l'adresse, puis « Commit changes ».
 stanislas.morin@gmail.com
 jc.julia.jc@gmail.com
+Oren.pelled@gmail.com

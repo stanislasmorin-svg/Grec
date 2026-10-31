@@ -4747,5 +4747,242 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-10-31",
+    "title": "Δύο βραβεία για την Αθήνα",
+    "title_fr": "Deux prix pour Athènes",
+    "source": {
+      "name": "SKAI",
+      "url": "https://www.skai.gr/news/greece/athina-dyo-vraveia-sta-world-travel-awards-2026"
+    },
+    "paragraphs": [
+      "Η Αθήνα πήρε δύο μεγάλα **βραβεία** (prix). Είναι τα World Travel Awards. Είναι σαν τα «Όσκαρ» για τον **τουρισμό** (tourisme). Η **τελετή** (cérémonie) έγινε στις 17 **Οκτωβρίου** (octobre). Έγινε στο Κότορ. Είναι μια μικρή πόλη στο **Μαυροβούνιο** (Monténégro).",
+      "Το πρώτο βραβείο λέει κάτι ωραίο. Η Αθήνα είναι η **καλύτερη** (meilleure) πόλη στην **Ευρώπη** (Europe) για ένα **σύντομο** (court) **ταξίδι** (voyage). Η Αθήνα **κέρδισε** (a battu) το Λονδίνο, το Βερολίνο, τη Λισαβόνα και τη Ρώμη.",
+      "Το δεύτερο βραβείο είναι για μια **ομάδα** (équipe) του **Δήμου** (de la mairie) Αθηναίων. Η ομάδα λέγεται This is Athens. Αυτή η ομάδα **δείχνει** (montre) την πόλη στους **ξένους** (étrangers). Πήρε το ίδιο βραβείο και **πέρσι** (l'an dernier).",
+      "Ο **δήμαρχος** (maire), ο Χάρης Δούκας, μιλάει για τα βραβεία. Λέει: «Η Αθήνα **ανήκει** (appartient) πρώτα στους **κατοίκους** (habitants) της.» Θέλει περισσότερες και καλύτερες **δουλειές** (emplois) για τους ανθρώπους. Θέλει **βοήθεια** (aide) για τα **μαγαζιά** (magasins) της πόλης. Θέλει τα βραβεία να φέρνουν κάτι καλό σε κάθε **γειτονιά** (quartier)."
+    ],
+    "examples": {
+      "βραβεία": [
+        [
+          "Η ταινία πήρε τρία βραβεία.",
+          "Le film a reçu trois prix."
+        ],
+        [
+          "Τα βραβεία είναι πάνω στο ράφι.",
+          "Les prix sont sur l'étagère."
+        ]
+      ],
+      "τουρισμό": [
+        [
+          "Η Πλάκα ζει από τον τουρισμό.",
+          "Plaka vit du tourisme."
+        ],
+        [
+          "Το νησί έχει πολύ τουρισμό.",
+          "L'île a beaucoup de tourisme."
+        ]
+      ],
+      "τελετή": [
+        [
+          "Η τελετή αρχίζει στις οκτώ.",
+          "La cérémonie commence à huit heures."
+        ],
+        [
+          "Ήταν μια πολύ ωραία τελετή.",
+          "C'était une très belle cérémonie."
+        ]
+      ],
+      "Οκτωβρίου": [
+        [
+          "Τα γενέθλιά μου είναι στις 5 Οκτωβρίου.",
+          "Mon anniversaire est le 5 octobre."
+        ],
+        [
+          "Στις 28 Οκτωβρίου έχουμε αργία.",
+          "Le 28 octobre, c'est férié."
+        ]
+      ],
+      "Μαυροβούνιο": [
+        [
+          "Ο φίλος μου ζει στο Μαυροβούνιο.",
+          "Mon ami vit au Monténégro."
+        ],
+        [
+          "Το Μαυροβούνιο έχει ψηλά βουνά.",
+          "Le Monténégro a de hautes montagnes."
+        ]
+      ],
+      "καλύτερη": [
+        [
+          "Αυτή είναι η καλύτερη ταβέρνα.",
+          "C'est la meilleure taverne."
+        ],
+        [
+          "Η μαμά μου κάνει την καλύτερη πίτα.",
+          "Ma mère fait la meilleure tourte."
+        ]
+      ],
+      "Ευρώπη": [
+        [
+          "Η Ελλάδα είναι στην Ευρώπη.",
+          "La Grèce est en Europe."
+        ],
+        [
+          "Ταξιδεύω συχνά στην Ευρώπη.",
+          "Je voyage souvent en Europe."
+        ]
+      ],
+      "σύντομο": [
+        [
+          "Κάνουμε ένα σύντομο διάλειμμα.",
+          "On fait une courte pause."
+        ],
+        [
+          "Σου στέλνω ένα σύντομο μήνυμα.",
+          "Je t'envoie un court message."
+        ]
+      ],
+      "ταξίδι": [
+        [
+          "Σου εύχομαι καλό ταξίδι!",
+          "Je te souhaite bon voyage !"
+        ],
+        [
+          "Το ταξίδι με το πλοίο είναι μεγάλο.",
+          "Le voyage en bateau est long."
+        ]
+      ],
+      "κέρδισε": [
+        [
+          "Ο Παναθηναϊκός κέρδισε χθες.",
+          "Le Panathinaïkos a gagné hier."
+        ],
+        [
+          "Η αδερφή μου κέρδισε στο λαχείο.",
+          "Ma sœur a gagné à la loterie."
+        ]
+      ],
+      "ομάδα": [
+        [
+          "Η ομάδα μου παίζει την Κυριακή.",
+          "Mon équipe joue dimanche."
+        ],
+        [
+          "Δουλεύω σε μια μικρή ομάδα.",
+          "Je travaille dans une petite équipe."
+        ]
+      ],
+      "Δήμου": [
+        [
+          "Το γραφείο του Δήμου κλείνει στις τρεις.",
+          "Le bureau de la mairie ferme à trois heures."
+        ],
+        [
+          "Ο κήπος του Δήμου είναι ανοιχτός.",
+          "Le jardin de la mairie est ouvert."
+        ]
+      ],
+      "δείχνει": [
+        [
+          "Ο χάρτης δείχνει τον δρόμο.",
+          "La carte montre le chemin."
+        ],
+        [
+          "Η γιαγιά δείχνει παλιές φωτογραφίες.",
+          "Grand-mère montre de vieilles photos."
+        ]
+      ],
+      "ξένους": [
+        [
+          "Η ταβέρνα έχει πολλούς ξένους.",
+          "La taverne a beaucoup d'étrangers."
+        ],
+        [
+          "Μιλάω αγγλικά με τους ξένους.",
+          "Je parle anglais avec les étrangers."
+        ]
+      ],
+      "πέρσι": [
+        [
+          "Πήγα στην Κρήτη πέρσι.",
+          "Je suis allé en Crète l'an dernier."
+        ],
+        [
+          "Το ενοίκιο ήταν φθηνότερο πέρσι.",
+          "Le loyer était moins cher l'an dernier."
+        ]
+      ],
+      "δήμαρχος": [
+        [
+          "Ο δήμαρχος πάει στη λαϊκή.",
+          "Le maire va au marché."
+        ],
+        [
+          "Ο δήμαρχος μιλάει στην τηλεόραση.",
+          "Le maire parle à la télévision."
+        ]
+      ],
+      "ανήκει": [
+        [
+          "Αυτή η τσάντα ανήκει στη Μαρία.",
+          "Ce sac appartient à Maria."
+        ],
+        [
+          "Ο σκύλος ανήκει στον γείτονα.",
+          "Le chien appartient au voisin."
+        ]
+      ],
+      "κατοίκους": [
+        [
+          "Η γειτονιά έχει πολλούς κατοίκους.",
+          "Le quartier a beaucoup d'habitants."
+        ],
+        [
+          "Το πάρκο είναι για τους κατοίκους.",
+          "Le parc est pour les habitants."
+        ]
+      ],
+      "δουλειές": [
+        [
+          "Έχω πολλές δουλειές σήμερα.",
+          "J'ai beaucoup de travail aujourd'hui."
+        ],
+        [
+          "Βρίσκεις δουλειές στο κέντρο.",
+          "Tu trouves des emplois dans le centre."
+        ]
+      ],
+      "βοήθεια": [
+        [
+          "Χρειάζομαι βοήθεια με τις βαλίτσες.",
+          "J'ai besoin d'aide avec les valises."
+        ],
+        [
+          "Ευχαριστώ πολύ για τη βοήθεια!",
+          "Merci beaucoup pour l'aide !"
+        ]
+      ],
+      "μαγαζιά": [
+        [
+          "Τα μαγαζιά κλείνουν την Κυριακή.",
+          "Les magasins ferment le dimanche."
+        ],
+        [
+          "Η Ερμού έχει πολλά μαγαζιά.",
+          "La rue Ermou a beaucoup de magasins."
+        ]
+      ],
+      "γειτονιά": [
+        [
+          "Η γειτονιά μου έχει καλό φούρνο.",
+          "Mon quartier a une bonne boulangerie."
+        ],
+        [
+          "Μένω σε μια ήσυχη γειτονιά.",
+          "J'habite dans un quartier calme."
+        ]
+      ]
+    }
   }
 ]

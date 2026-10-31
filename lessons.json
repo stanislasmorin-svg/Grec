@@ -18,201 +18,241 @@
       "γεννιέται": [
         [
           "Ένα μωρό γεννιέται σήμερα.",
-          "A baby is born today."
+          "A baby is born today.",
+          "Un bébé naît aujourd'hui."
         ],
         [
           "Η ιδέα γεννιέται στο καφέ.",
-          "The idea is born in the café."
+          "The idea is born in the café.",
+          "L'idée naît au café."
         ]
       ],
       "καινούργιο": [
         [
           "Έχω καινούργιο κινητό.",
-          "I have a new mobile phone."
+          "I have a new mobile phone.",
+          "J'ai un nouveau portable."
         ],
         [
           "Το σπίτι είναι καινούργιο.",
-          "The house is brand new."
+          "The house is brand new.",
+          "La maison est neuve."
         ]
       ],
       "επιστήμονες": [
         [
           "Οι επιστήμονες δουλεύουν πολύ.",
-          "Scientists work a lot."
+          "Scientists work a lot.",
+          "Les scientifiques travaillent beaucoup."
         ],
         [
           "Οι επιστήμονες ψάχνουν απαντήσεις.",
-          "Scientists are looking for answers."
+          "Scientists are looking for answers.",
+          "Les scientifiques cherchent des réponses."
         ]
       ],
       "όνομά": [
         [
           "Το όνομά μου είναι Στάνις.",
-          "My name is Stan."
+          "My name is Stan.",
+          "Mon nom est Stan."
         ],
         [
           "Ποιο είναι το όνομά σου;",
-          "What is your name?"
+          "What is your name?",
+          "Quel est ton nom ?"
         ]
       ],
       "περιοχή": [
         [
           "Μένω σε ήσυχη περιοχή.",
-          "I live in a quiet area."
+          "I live in a quiet area.",
+          "J'habite dans un quartier calme."
         ],
         [
           "Η περιοχή έχει πολλά καφέ.",
-          "The area has lots of cafés."
+          "The area has lots of cafés.",
+          "Le quartier a beaucoup de cafés."
         ]
       ],
       "πανεπιστήμια": [
         [
           "Η Αθήνα έχει πολλά πανεπιστήμια.",
-          "Athens has many universities."
+          "Athens has many universities.",
+          "Athènes a beaucoup d'universités."
         ],
         [
           "Τα πανεπιστήμια ανοίγουν τον Σεπτέμβριο.",
-          "Universities open in September."
+          "Universities open in September.",
+          "Les universités ouvrent en septembre."
         ]
       ],
       "φτιάχνουν": [
         [
           "Οι γιαγιάδες φτιάχνουν πίτες.",
-          "Grandmothers make pies."
+          "Grandmothers make pies.",
+          "Les grands-mères font des tourtes."
         ],
         [
           "Φτιάχνουν έναν νέο δρόμο.",
-          "They are building a new road."
+          "They are building a new road.",
+          "Ils construisent une nouvelle route."
         ]
       ],
       "παλιά": [
         [
           "Η πόλη έχει παλιά σπίτια.",
-          "The city has old houses."
+          "The city has old houses.",
+          "La ville a de vieilles maisons."
         ],
         [
           "Αγαπώ την παλιά Αθήνα.",
-          "I love old Athens."
+          "I love old Athens.",
+          "J'aime la vieille Athènes."
         ]
       ],
       "κόσμο": [
         [
           "Θέλω να δω τον κόσμο.",
-          "I want to see the world."
+          "I want to see the world.",
+          "Je veux voir le monde."
         ],
         [
           "Είχε πολύ κόσμο στην πλατεία.",
-          "There were a lot of people in the square."
+          "There were a lot of people in the square.",
+          "Il y avait beaucoup de monde sur la place."
         ]
       ],
       "μάθημα": [
         [
           "Το μάθημα αρχίζει στις εννιά.",
-          "The class starts at nine."
+          "The class starts at nine.",
+          "Le cours commence à neuf heures."
         ],
         [
           "Έχω μάθημα ελληνικών.",
-          "I have a Greek class."
+          "I have a Greek class.",
+          "J'ai cours de grec."
         ]
       ],
       "χρόνο": [
         [
           "Δεν έχω χρόνο σήμερα.",
-          "I don't have time today."
+          "I don't have time today.",
+          "Je n'ai pas le temps aujourd'hui."
         ],
         [
           "Έχεις χρόνο για καφέ;",
-          "Do you have time for a coffee?"
+          "Do you have time for a coffee?",
+          "Tu as le temps pour un café ?"
         ]
       ],
       "σκεφτούν": [
         [
           "Πρέπει να σκεφτούν λίγο.",
-          "They need to think a little."
+          "They need to think a little.",
+          "Ils doivent réfléchir un peu."
         ],
         [
           "Θα σκεφτούν και θα απαντήσουν.",
-          "They will think and answer."
+          "They will think and answer.",
+          "Ils vont réfléchir et répondre."
         ]
       ],
       "ερωτήσεις": [
         [
           "Έχω δύο ερωτήσεις.",
-          "I have two questions."
+          "I have two questions.",
+          "J'ai deux questions."
         ],
         [
           "Τα παιδιά κάνουν πολλές ερωτήσεις.",
-          "Children ask lots of questions."
+          "Children ask lots of questions.",
+          "Les enfants posent beaucoup de questions."
         ]
       ],
       "αλλάζουν": [
         [
           "Οι εποχές αλλάζουν.",
-          "The seasons change."
+          "The seasons change.",
+          "Les saisons changent."
         ],
         [
           "Πολλοί αλλάζουν σπίτι τον Σεπτέμβριο.",
-          "Many people move house in September."
+          "Many people move house in September.",
+          "Beaucoup changent de maison en septembre."
         ]
       ],
       "χώρα": [
         [
           "Η Ελλάδα είναι μια ωραία χώρα.",
-          "Greece is a beautiful country."
+          "Greece is a beautiful country.",
+          "La Grèce est un beau pays."
         ],
         [
           "Από ποια χώρα είσαι;",
-          "What country are you from?"
+          "What country are you from?",
+          "De quel pays es-tu ?"
         ]
       ],
       "λεφτά": [
         [
           "Δεν έχω λεφτά μαζί μου.",
-          "I don't have any money on me."
+          "I don't have any money on me.",
+          "Je n'ai pas d'argent sur moi."
         ],
         [
           "Τα λεφτά δεν φτάνουν.",
-          "The money isn't enough."
+          "The money isn't enough.",
+          "L'argent ne suffit pas."
         ]
       ],
       "λίγα": [
         [
           "Ξέρω λίγα ελληνικά.",
-          "I know a little Greek."
+          "I know a little Greek.",
+          "Je connais un peu de grec."
         ],
         [
           "Έχω λίγα λεπτά.",
-          "I have a few minutes."
+          "I have a few minutes.",
+          "J'ai quelques minutes."
         ]
       ],
       "ζωή": [
         [
           "Η ζωή στην Αθήνα είναι ωραία.",
-          "Life in Athens is nice."
+          "Life in Athens is nice.",
+          "La vie à Athènes est belle."
         ],
         [
           "Η ζωή είναι ακριβή.",
-          "Life is expensive."
+          "Life is expensive.",
+          "La vie est chère."
         ]
       ],
       "γιορτή": [
         [
           "Σήμερα έχουμε γιορτή.",
-          "Today we have a celebration."
+          "Today we have a celebration.",
+          "Aujourd'hui, nous avons une fête."
         ],
         [
           "Η γιορτή αρχίζει το βράδυ.",
-          "The celebration starts in the evening."
+          "The celebration starts in the evening.",
+          "La fête commence le soir."
         ]
       ],
       "Ήρθαν": [
         [
           "Ήρθαν πολλοί φίλοι.",
-          "Many friends came."
+          "Many friends came.",
+          "Beaucoup d'amis sont venus."
         ],
         [
           "Ήρθαν χθες από τη Γαλλία.",
-          "They came from France yesterday."
+          "They came from France yesterday.",
+          "Ils sont venus hier de France."
         ]
       ]
     },
@@ -258,231 +298,277 @@
       "καθαρή": [
         [
           "Η θάλασσα είναι καθαρή.",
-          "The sea is clean."
+          "The sea is clean.",
+          "La mer est propre."
         ],
         [
           "Θέλω μια καθαρή πετσέτα.",
-          "I want a clean towel."
+          "I want a clean towel.",
+          "Je veux une serviette propre."
         ]
       ],
       "αγοράσει": [
         [
           "Θα αγοράσει ψωμί.",
-          "He/she will buy bread."
+          "He/she will buy bread.",
+          "Il/elle achètera du pain."
         ],
         [
           "Θέλει να αγοράσει σπίτι.",
-          "He/she wants to buy a house."
+          "He/she wants to buy a house.",
+          "Il/elle veut acheter une maison."
         ]
       ],
       "μηχανές": [
         [
           "Οι μηχανές κάνουν θόρυβο.",
-          "The machines make noise."
+          "The machines make noise.",
+          "Les machines font du bruit."
         ],
         [
           "Το εργοστάσιο έχει πολλές μηχανές.",
-          "The factory has many machines."
+          "The factory has many machines.",
+          "L'usine a beaucoup de machines."
         ]
       ],
       "τσίχλες": [
         [
           "Τα παιδιά αγαπούν τις τσίχλες.",
-          "Children love chewing gum."
+          "Children love chewing gum.",
+          "Les enfants adorent les chewing-gums."
         ],
         [
           "Μην πετάς τσίχλες στον δρόμο.",
-          "Don't throw chewing gum in the street."
+          "Don't throw chewing gum in the street.",
+          "Ne jette pas de chewing-gums dans la rue."
         ]
       ],
       "πεζοδρόμια": [
         [
           "Τα πεζοδρόμια είναι στενά.",
-          "The sidewalks are narrow."
+          "The sidewalks are narrow.",
+          "Les trottoirs sont étroits."
         ],
         [
           "Τα αυτοκίνητα κλείνουν τα πεζοδρόμια.",
-          "Cars block the sidewalks."
+          "Cars block the sidewalks.",
+          "Les voitures bloquent les trottoirs."
         ]
       ],
       "κολλάει": [
         [
           "Η τσίχλα κολλάει στο παπούτσι.",
-          "The chewing gum sticks to the shoe."
+          "The chewing gum sticks to the shoe.",
+          "Le chewing-gum colle à la chaussure."
         ],
         [
           "Το μέλι κολλάει.",
-          "Honey is sticky."
+          "Honey is sticky.",
+          "Le miel colle."
         ]
       ],
       "καθαρίζουν": [
         [
           "Καθαρίζουν το σπίτι το Σάββατο.",
-          "They clean the house on Saturday."
+          "They clean the house on Saturday.",
+          "Ils nettoient la maison le samedi."
         ],
         [
           "Οι εργάτες καθαρίζουν την πλατεία.",
-          "The workers clean the square."
+          "The workers clean the square.",
+          "Les ouvriers nettoient la place."
         ]
       ],
       "λεκέδες": [
         [
           "Το πουκάμισο έχει λεκέδες.",
-          "The shirt has stains."
+          "The shirt has stains.",
+          "La chemise a des taches."
         ],
         [
           "Οι λεκέδες από καφέ δεν φεύγουν.",
-          "Coffee stains don't come out."
+          "Coffee stains don't come out.",
+          "Les taches de café ne partent pas."
         ]
       ],
       "αυτοκόλλητα": [
         [
           "Τα παιδιά κολλάνε αυτοκόλλητα.",
-          "The children put on stickers."
+          "The children put on stickers.",
+          "Les enfants collent des autocollants."
         ],
         [
           "Η πόρτα έχει πολλά αυτοκόλλητα.",
-          "The door has lots of stickers."
+          "The door has lots of stickers.",
+          "La porte a beaucoup d'autocollants."
         ]
       ],
       "σβήνουν": [
         [
           "Σβήνουν τα φώτα στις δώδεκα.",
-          "They turn off the lights at midnight."
+          "They turn off the lights at midnight.",
+          "Ils éteignent les lumières à minuit."
         ],
         [
           "Οι μαθητές σβήνουν τον πίνακα.",
-          "The students erase the board."
+          "The students erase the board.",
+          "Les élèves effacent le tableau."
         ]
       ],
       "ηλεκτρικές": [
         [
           "Οι ηλεκτρικές σκούπες είναι χρήσιμες.",
-          "Electric vacuum cleaners are useful."
+          "Electric vacuum cleaners are useful.",
+          "Les aspirateurs électriques sont utiles."
         ],
         [
           "Βλέπω πολλές ηλεκτρικές μηχανές.",
-          "I see lots of electric motorbikes."
+          "I see lots of electric motorbikes.",
+          "Je vois beaucoup de motos électriques."
         ]
       ],
       "μπαταρία": [
         [
           "Η μπαταρία του κινητού τελείωσε.",
-          "My phone battery is dead."
+          "My phone battery is dead.",
+          "La batterie du portable est vide."
         ],
         [
           "Χρειάζομαι νέα μπαταρία.",
-          "I need a new battery."
+          "I need a new battery.",
+          "J'ai besoin d'une nouvelle batterie."
         ]
       ],
       "θόρυβο": [
         [
           "Οι γείτονες κάνουν θόρυβο.",
-          "The neighbors make noise."
+          "The neighbors make noise.",
+          "Les voisins font du bruit."
         ],
         [
           "Δεν μου αρέσει ο θόρυβος.",
-          "I don't like noise."
+          "I don't like noise.",
+          "Je n'aime pas le bruit."
         ]
       ],
       "χρειάζονται": [
         [
           "Τα φυτά χρειάζονται νερό.",
-          "Plants need water."
+          "Plants need water.",
+          "Les plantes ont besoin d'eau."
         ],
         [
           "Τα παιδιά χρειάζονται ύπνο.",
-          "Children need sleep."
+          "Children need sleep.",
+          "Les enfants ont besoin de sommeil."
         ]
       ],
       "κάδους": [
         [
           "Πετάμε τα σκουπίδια στους κάδους.",
-          "We throw the trash in the bins."
+          "We throw the trash in the bins.",
+          "On jette les déchets dans les bacs."
         ],
         [
           "Ο δήμος βάζει νέους κάδους.",
-          "The city council is putting in new bins."
+          "The city council is putting in new bins.",
+          "La mairie installe de nouveaux bacs."
         ]
       ],
       "σκουπίδια": [
         [
           "Βγάζω τα σκουπίδια το βράδυ.",
-          "I take out the trash in the evening."
+          "I take out the trash in the evening.",
+          "Je sors les poubelles le soir."
         ],
         [
           "Υπάρχουν σκουπίδια στον δρόμο.",
-          "There is trash in the street."
+          "There is trash in the street.",
+          "Il y a des déchets dans la rue."
         ]
       ],
       "εργαζόμενοι": [
         [
           "Οι εργαζόμενοι ξεκινούν νωρίς.",
-          "The employees start early."
+          "The employees start early.",
+          "Les employés commencent tôt."
         ],
         [
           "Οι εργαζόμενοι παίρνουν διακοπές.",
-          "The employees take vacations."
+          "The employees take vacations.",
+          "Les employés prennent des vacances."
         ]
       ],
       "μαθήματα": [
         [
           "Κάνω μαθήματα ελληνικών.",
-          "I take Greek lessons."
+          "I take Greek lessons.",
+          "Je prends des cours de grec."
         ],
         [
           "Τα μαθήματα είναι δωρεάν.",
-          "The lessons are free."
+          "The lessons are free.",
+          "Les cours sont gratuits."
         ]
       ],
       "χρησιμοποιούν": [
         [
           "Πολλοί χρησιμοποιούν το μετρό.",
-          "Many people use the metro."
+          "Many people use the metro.",
+          "Beaucoup utilisent le métro."
         ],
         [
           "Χρησιμοποιούν το κινητό παντού.",
-          "They use their phones everywhere."
+          "They use their phones everywhere.",
+          "Ils utilisent le portable partout."
         ]
       ],
       "πλατείες": [
         [
           "Η Αθήνα έχει όμορφες πλατείες.",
-          "Athens has beautiful squares."
+          "Athens has beautiful squares.",
+          "Athènes a de belles places."
         ],
         [
           "Τα παιδιά παίζουν στις πλατείες.",
-          "Children play in the squares."
+          "Children play in the squares.",
+          "Les enfants jouent sur les places."
         ]
       ],
       "κοστίσουν": [
         [
           "Τα εισιτήρια θα κοστίσουν δέκα ευρώ.",
-          "The tickets will cost ten euros."
+          "The tickets will cost ten euros.",
+          "Les billets coûteront dix euros."
         ],
         [
           "Πόσο θα κοστίσουν τα ψώνια;",
-          "How much will the groceries cost?"
+          "How much will the groceries cost?",
+          "Combien coûteront les courses ?"
         ]
       ],
       "στόχος": [
         [
           "Ο στόχος μου είναι να μιλάω ελληνικά.",
-          "My goal is to speak Greek."
+          "My goal is to speak Greek.",
+          "Mon but est de parler grec."
         ],
         [
           "Ποιος είναι ο στόχος;",
-          "What is the goal?"
+          "What is the goal?",
+          "Quel est le but ?"
         ]
       ],
       "κόσμο": [
         [
           "Είχε πολύ κόσμο στη λαϊκή.",
-          "There were a lot of people at the street market."
+          "There were a lot of people at the street market.",
+          "Il y avait beaucoup de monde au marché."
         ],
         [
           "Ταξιδεύει σε όλο τον κόσμο.",
-          "He travels all over the world."
+          "He travels all over the world.",
+          "Il voyage dans le monde entier."
         ]
       ]
     },
@@ -531,251 +617,301 @@
       "χτίζουν": [
         [
           "Χτίζουν ένα νέο σχολείο.",
-          "They are building a new school."
+          "They are building a new school.",
+          "Ils construisent une nouvelle école."
         ],
         [
           "Τα πουλιά χτίζουν φωλιά.",
-          "Birds build a nest."
+          "Birds build a nest.",
+          "Les oiseaux construisent un nid."
         ]
       ],
       "γραμμή": [
         [
           "Παίρνω τη γραμμή 3 του μετρό.",
-          "I take metro line 3."
+          "I take metro line 3.",
+          "Je prends la ligne 3 du métro."
         ],
         [
           "Η γραμμή πάει στο αεροδρόμιο.",
-          "The line goes to the airport."
+          "The line goes to the airport.",
+          "La ligne va à l'aéroport."
         ]
       ],
       "μηχάνημα": [
         [
           "Το μηχάνημα δεν δουλεύει.",
-          "The machine doesn't work."
+          "The machine doesn't work.",
+          "La machine ne marche pas."
         ],
         [
           "Βάζω λεφτά στο μηχάνημα.",
-          "I put money in the machine."
+          "I put money in the machine.",
+          "Je mets de l'argent dans la machine."
         ]
       ],
       "σκάβει": [
         [
           "Ο σκύλος σκάβει στον κήπο.",
-          "The dog is digging in the garden."
+          "The dog is digging in the garden.",
+          "Le chien creuse dans le jardin."
         ],
         [
           "Ο εργάτης σκάβει μια τρύπα.",
-          "The worker digs a hole."
+          "The worker digs a hole.",
+          "L'ouvrier creuse un trou."
         ]
       ],
       "τούνελ": [
         [
           "Το τρένο μπαίνει στο τούνελ.",
-          "The train enters the tunnel."
+          "The train enters the tunnel.",
+          "Le train entre dans le tunnel."
         ],
         [
           "Το τούνελ είναι σκοτεινό.",
-          "The tunnel is dark."
+          "The tunnel is dark.",
+          "Le tunnel est sombre."
         ]
       ],
       "σταμάτησε": [
         [
           "Η βροχή σταμάτησε.",
-          "The rain stopped."
+          "The rain stopped.",
+          "La pluie s'est arrêtée."
         ],
         [
           "Το λεωφορείο σταμάτησε εδώ.",
-          "The bus stopped here."
+          "The bus stopped here.",
+          "Le bus s'est arrêté ici."
         ]
       ],
       "μήνες": [
         [
           "Μένω στην Αθήνα έξι μήνες τώρα.",
-          "I've been living in Athens for six months now."
+          "I've been living in Athens for six months now.",
+          "J'habite à Athènes depuis six mois."
         ],
         [
           "Ο χρόνος έχει δώδεκα μήνες.",
-          "A year has twelve months."
+          "A year has twelve months.",
+          "L'année a douze mois."
         ]
       ],
       "χώμα": [
         [
           "Τα παιδιά παίζουν στο χώμα.",
-          "The children play in the dirt."
+          "The children play in the dirt.",
+          "Les enfants jouent dans la terre."
         ],
         [
           "Βάζω χώμα στη γλάστρα.",
-          "I put soil in the flowerpot."
+          "I put soil in the flowerpot.",
+          "Je mets de la terre dans le pot."
         ]
       ],
       "έπεσε": [
         [
           "Το παιδί έπεσε από το ποδήλατο.",
-          "The child fell off the bike."
+          "The child fell off the bike.",
+          "L'enfant est tombé du vélo."
         ],
         [
           "Το ποτήρι έπεσε κάτω.",
-          "The glass fell on the floor."
+          "The glass fell on the floor.",
+          "Le verre est tombé par terre."
         ]
       ],
       "περίμεναν": [
         [
           "Περίμεναν το λεωφορείο μισή ώρα.",
-          "They waited for the bus for half an hour."
+          "They waited for the bus for half an hour.",
+          "Ils ont attendu le bus une demi-heure."
         ],
         [
           "Οι φίλοι περίμεναν στο καφέ.",
-          "The friends were waiting at the café."
+          "The friends were waiting at the café.",
+          "Les amis attendaient au café."
         ]
       ],
       "πολυκατοικίες": [
         [
           "Η Αθήνα έχει πολλές πολυκατοικίες.",
-          "Athens has many apartment buildings."
+          "Athens has many apartment buildings.",
+          "Athènes a beaucoup d'immeubles."
         ],
         [
           "Οι πολυκατοικίες έχουν μπαλκόνια.",
-          "The apartment buildings have balconies."
+          "The apartment buildings have balconies.",
+          "Les immeubles ont des balcons."
         ]
       ],
       "ζημιές": [
         [
           "Η βροχή έκανε ζημιές.",
-          "The rain caused damage."
+          "The rain caused damage.",
+          "La pluie a fait des dégâts."
         ],
         [
           "Το αυτοκίνητο έχει ζημιές.",
-          "The car is damaged."
+          "The car is damaged.",
+          "La voiture a des dégâts."
         ]
       ],
       "ρωγμές": [
         [
           "Ο τοίχος έχει ρωγμές.",
-          "The wall has cracks."
+          "The wall has cracks.",
+          "Le mur a des fissures."
         ],
         [
           "Βλέπω ρωγμές στο ταβάνι.",
-          "I see cracks in the ceiling."
+          "I see cracks in the ceiling.",
+          "Je vois des fissures au plafond."
         ]
       ],
       "κάτοικοι": [
         [
           "Οι κάτοικοι θέλουν πάρκο.",
-          "The residents want a park."
+          "The residents want a park.",
+          "Les habitants veulent un parc."
         ],
         [
           "Οι κάτοικοι γνωρίζονται μεταξύ τους.",
-          "The residents know each other."
+          "The residents know each other.",
+          "Les habitants se connaissent."
         ]
       ],
       "ανησυχούν": [
         [
           "Οι γονείς ανησυχούν.",
-          "The parents are worried."
+          "The parents are worried.",
+          "Les parents s'inquiètent."
         ],
         [
           "Μην ανησυχείς, όλα καλά.",
-          "Don't worry, everything's fine."
+          "Don't worry, everything's fine.",
+          "Ne t'inquiète pas, tout va bien."
         ]
       ],
       "ειδικοί": [
         [
           "Οι ειδικοί λένε ναι.",
-          "The experts say yes."
+          "The experts say yes.",
+          "Les experts disent oui."
         ],
         [
           "Ρωτάμε τους ειδικούς.",
-          "We ask the experts."
+          "We ask the experts.",
+          "On demande aux experts."
         ]
       ],
       "καθηγητής": [
         [
           "Ο καθηγητής μιλάει αργά.",
-          "The teacher speaks slowly."
+          "The teacher speaks slowly.",
+          "Le professeur parle lentement."
         ],
         [
           "Ο καθηγητής μου είναι Κρητικός.",
-          "My teacher is Cretan."
+          "My teacher is Cretan.",
+          "Mon professeur est crétois."
         ]
       ],
       "υπουργός": [
         [
           "Ο υπουργός μιλάει στην τηλεόραση.",
-          "The minister is speaking on TV."
+          "The minister is speaking on TV.",
+          "Le ministre parle à la télé."
         ],
         [
           "Η υπουργός ήρθε στην Αθήνα.",
-          "The minister came to Athens."
+          "The minister came to Athens.",
+          "La ministre est venue à Athènes."
         ]
       ],
       "ασφάλεια": [
         [
           "Η ασφάλεια είναι σημαντική.",
-          "Safety is important."
+          "Safety is important.",
+          "La sécurité est importante."
         ],
         [
           "Φοράμε κράνος για ασφάλεια.",
-          "We wear a helmet for safety."
+          "We wear a helmet for safety.",
+          "On porte un casque pour la sécurité."
         ]
       ],
       "ξεκινήσει": [
         [
           "Η ταινία θα ξεκινήσει σε λίγο.",
-          "The movie will start soon."
+          "The movie will start soon.",
+          "Le film va commencer bientôt."
         ],
         [
           "Το σχολείο θα ξεκινήσει τη Δευτέρα.",
-          "School will start on Monday."
+          "School will start on Monday.",
+          "L'école reprendra lundi."
         ]
       ],
       "σχέδιο": [
         [
           "Έχω ένα σχέδιο για το Σάββατο.",
-          "I have a plan for Saturday."
+          "I have a plan for Saturday.",
+          "J'ai un plan pour samedi."
         ],
         [
           "Το σχέδιο είναι καλό.",
-          "The plan is good."
+          "The plan is good.",
+          "Le plan est bon."
         ]
       ],
       "γερό": [
         [
           "Το τραπέζι είναι γερό.",
-          "The table is sturdy."
+          "The table is sturdy.",
+          "La table est solide."
         ],
         [
           "Το παλιό σπίτι είναι ακόμα γερό.",
-          "The old house is still solid."
+          "The old house is still solid.",
+          "La vieille maison est encore solide."
         ]
       ],
       "προχωράει": [
         [
           "Η δουλειά προχωράει καλά.",
-          "The work is going well."
+          "The work is going well.",
+          "Le travail avance bien."
         ],
         [
           "Η ουρά δεν προχωράει.",
-          "The line isn't moving."
+          "The line isn't moving.",
+          "La queue n'avance pas."
         ]
       ],
       "στραβά": [
         [
           "Ο πίνακας κρέμεται στραβά.",
-          "The painting is hanging crooked."
+          "The painting is hanging crooked.",
+          "Le tableau est accroché de travers."
         ],
         [
           "Όλα πάνε στραβά σήμερα.",
-          "Everything is going wrong today."
+          "Everything is going wrong today.",
+          "Tout va de travers aujourd'hui."
         ]
       ],
       "εξηγήσουν": [
         [
           "Θα μας εξηγήσουν το πρόβλημα.",
-          "They will explain the problem to us."
+          "They will explain the problem to us.",
+          "Ils vont nous expliquer le problème."
         ],
         [
           "Μπορούν να εξηγήσουν τον δρόμο;",
-          "Can they explain the way?"
+          "Can they explain the way?",
+          "Peuvent-ils expliquer le chemin ?"
         ]
       ]
     },
@@ -826,241 +962,289 @@
       "ξεχωριστή": [
         [
           "Είναι μια ξεχωριστή μέρα.",
-          "It's a special day."
+          "It's a special day.",
+          "C'est un jour spécial."
         ],
         [
           "Έχει ξεχωριστή φωνή.",
-          "He/she has a special voice."
+          "He/she has a special voice.",
+          "Il/elle a une voix spéciale."
         ]
       ],
       "συναυλία": [
         [
           "Πάμε σε συναυλία απόψε.",
-          "We're going to a concert tonight."
+          "We're going to a concert tonight.",
+          "On va à un concert ce soir."
         ],
         [
           "Η συναυλία είναι δωρεάν.",
-          "The concert is free."
+          "The concert is free.",
+          "Le concert est gratuit."
         ]
       ],
       "μάχη": [
         [
           "Η μάχη ήταν δύσκολη.",
-          "The battle was hard."
+          "The battle was hard.",
+          "La bataille était difficile."
         ],
         [
           "Είναι μια μάχη με μπαλόνια.",
-          "It's a balloon battle."
+          "It's a balloon battle.",
+          "C'est une bataille de ballons."
         ]
       ],
       "Ποδηλατοδρόμιο": [
         [
           "Το Ποδηλατοδρόμιο είναι στο Φάληρο.",
-          "The Velodrome is in Faliro."
+          "The Velodrome is in Faliro.",
+          "Le vélodrome est à Faliro."
         ],
         [
           "Πάμε στο Ποδηλατοδρόμιο;",
-          "Shall we go to the Velodrome?"
+          "Shall we go to the Velodrome?",
+          "On va au vélodrome ?"
         ]
       ],
       "πόρτες": [
         [
           "Οι πόρτες ανοίγουν στις οκτώ.",
-          "The doors open at eight."
+          "The doors open at eight.",
+          "Les portes ouvrent à huit heures."
         ],
         [
           "Κλείσε τις πόρτες, κάνει κρύο.",
-          "Close the doors, it's cold."
+          "Close the doors, it's cold.",
+          "Ferme les portes, il fait froid."
         ]
       ],
       "αρχίζει": [
         [
           "Η ταινία αρχίζει τώρα.",
-          "The movie starts now."
+          "The movie starts now.",
+          "Le film commence maintenant."
         ],
         [
           "Το φθινόπωρο αρχίζει.",
-          "Autumn is beginning."
+          "Autumn is beginning.",
+          "L'automne commence."
         ]
       ],
       "τραγουδιστές": [
         [
           "Οι τραγουδιστές είναι στη σκηνή.",
-          "The singers are on stage."
+          "The singers are on stage.",
+          "Les chanteurs sont sur scène."
         ],
         [
           "Μου αρέσουν οι Έλληνες τραγουδιστές.",
-          "I like Greek singers."
+          "I like Greek singers.",
+          "J'aime les chanteurs grecs."
         ]
       ],
       "αγωνιστούν": [
         [
           "Οι ομάδες θα αγωνιστούν αύριο.",
-          "The teams will compete tomorrow."
+          "The teams will compete tomorrow.",
+          "Les équipes s'affronteront demain."
         ],
         [
           "Θα αγωνιστούν για το κύπελλο.",
-          "They will compete for the cup."
+          "They will compete for the cup.",
+          "Ils se battront pour la coupe."
         ]
       ],
       "δυνατή": [
         [
           "Η μουσική είναι πολύ δυνατή.",
-          "The music is very loud."
+          "The music is very loud.",
+          "La musique est très forte."
         ],
         [
           "Είναι μια δυνατή γυναίκα.",
-          "She is a strong woman."
+          "She is a strong woman.",
+          "C'est une femme forte."
         ]
       ],
       "φωνή": [
         [
           "Έχει ωραία φωνή.",
-          "He/she has a beautiful voice."
+          "He/she has a beautiful voice.",
+          "Il/elle a une belle voix."
         ],
         [
           "Μίλα με χαμηλή φωνή.",
-          "Speak in a low voice."
+          "Speak in a low voice.",
+          "Parle à voix basse."
         ]
       ],
       "σκηνή": [
         [
           "Ο ηθοποιός βγαίνει στη σκηνή.",
-          "The actor comes out on stage."
+          "The actor comes out on stage.",
+          "L'acteur entre en scène."
         ],
         [
           "Η σκηνή είναι μεγάλη.",
-          "The stage is big."
+          "The stage is big.",
+          "La scène est grande."
         ]
       ],
       "απέναντι": [
         [
           "Ο φούρνος είναι απέναντι.",
-          "The bakery is across the street."
+          "The bakery is across the street.",
+          "La boulangerie est en face."
         ],
         [
           "Κάθεται απέναντι από μένα.",
-          "He is sitting opposite me."
+          "He is sitting opposite me.",
+          "Il est assis en face de moi."
         ]
       ],
       "κόσμος": [
         [
           "Ο κόσμος χορεύει.",
-          "The crowd is dancing."
+          "The crowd is dancing.",
+          "Le public danse."
         ],
         [
           "Ήρθε πολύς κόσμος.",
-          "A lot of people came."
+          "A lot of people came.",
+          "Beaucoup de monde est venu."
         ]
       ],
       "γύρους": [
         [
           "Το παιχνίδι έχει τρεις γύρους.",
-          "The game has three rounds."
+          "The game has three rounds.",
+          "Le jeu a trois manches."
         ],
         [
           "Κάνω δύο γύρους στο πάρκο.",
-          "I do two laps in the park."
+          "I do two laps in the park.",
+          "Je fais deux tours dans le parc."
         ]
       ],
       "τραγούδι": [
         [
           "Αυτό το τραγούδι είναι ωραίο.",
-          "This song is beautiful."
+          "This song is beautiful.",
+          "Cette chanson est belle."
         ],
         [
           "Ξέρεις αυτό το τραγούδι;",
-          "Do you know this song?"
+          "Do you know this song?",
+          "Tu connais cette chanson ?"
         ]
       ],
       "τελειώνει": [
         [
           "Η δουλειά τελειώνει στις πέντε.",
-          "Work ends at five."
+          "Work ends at five.",
+          "Le travail finit à cinq heures."
         ],
         [
           "Το καλοκαίρι τελειώνει.",
-          "Summer is ending."
+          "Summer is ending.",
+          "L'été se termine."
         ]
       ],
       "καλεσμένοι": [
         [
           "Οι καλεσμένοι φτάνουν στις εννιά.",
-          "The guests arrive at nine."
+          "The guests arrive at nine.",
+          "Les invités arrivent à neuf heures."
         ],
         [
           "Έχουμε δέκα καλεσμένους.",
-          "We have ten guests."
+          "We have ten guests.",
+          "Nous avons dix invités."
         ]
       ],
       "έκπληξη": [
         [
           "Έχω μια έκπληξη για σένα.",
-          "I have a surprise for you."
+          "I have a surprise for you.",
+          "J'ai une surprise pour toi."
         ],
         [
           "Τι ωραία έκπληξη!",
-          "What a lovely surprise!"
+          "What a lovely surprise!",
+          "Quelle belle surprise !"
         ]
       ],
       "κερδίσει": [
         [
           "Ποιος θα κερδίσει;",
-          "Who will win?"
+          "Who will win?",
+          "Qui va gagner ?"
         ],
         [
           "Θέλει να κερδίσει το παιχνίδι.",
-          "He wants to win the game."
+          "He wants to win the game.",
+          "Il veut gagner le match."
         ]
       ],
       "Αποφασίζει": [
         [
           "Αποφασίζει η μαμά.",
-          "Mom decides."
+          "Mom decides.",
+          "C'est maman qui décide."
         ],
         [
           "Ποιος αποφασίζει εδώ;",
-          "Who decides here?"
+          "Who decides here?",
+          "Qui décide ici ?"
         ]
       ],
       "φωνάζεις": [
         [
           "Γιατί φωνάζεις;",
-          "Why are you shouting?"
+          "Why are you shouting?",
+          "Pourquoi tu cries ?"
         ],
         [
           "Μη φωνάζεις, το μωρό κοιμάται.",
-          "Don't shout, the baby is sleeping."
+          "Don't shout, the baby is sleeping.",
+          "Ne crie pas, le bébé dort."
         ]
       ],
       "βοηθάς": [
         [
           "Με βοηθάς λίγο;",
-          "Can you help me a bit?"
+          "Can you help me a bit?",
+          "Tu m'aides un peu ?"
         ],
         [
           "Βοηθάς πολύ, ευχαριστώ.",
-          "You're a big help, thanks."
+          "You're a big help, thanks.",
+          "Tu aides beaucoup, merci."
         ]
       ],
       "εισιτήρια": [
         [
           "Αγοράζω δύο εισιτήρια.",
-          "I'm buying two tickets."
+          "I'm buying two tickets.",
+          "J'achète deux billets."
         ],
         [
           "Τα εισιτήρια τελείωσαν.",
-          "The tickets are sold out."
+          "The tickets are sold out.",
+          "Les billets sont épuisés."
         ]
       ],
       "πουλιούνται": [
         [
           "Τα πορτοκάλια πουλιούνται στη λαϊκή.",
-          "Oranges are sold at the street market."
+          "Oranges are sold at the street market.",
+          "Les oranges se vendent au marché."
         ],
         [
           "Τα σπίτια πουλιούνται ακριβά.",
-          "Houses sell for a lot of money."
+          "Houses sell for a lot of money.",
+          "Les maisons se vendent cher."
         ]
       ]
     },
@@ -1110,261 +1294,313 @@
       "Σαββατοκύριακο": [
         [
           "Τι κάνεις το Σαββατοκύριακο;",
-          "What are you doing this weekend?"
+          "What are you doing this weekend?",
+          "Que fais-tu ce week-end ?"
         ],
         [
           "Το Σαββατοκύριακο πάμε θάλασσα.",
-          "On weekends we go to the beach."
+          "On weekends we go to the beach.",
+          "Le week-end, on va à la mer."
         ]
       ],
       "γιορτή": [
         [
           "Η γιορτή έχει μουσική.",
-          "The festival has music."
+          "The festival has music.",
+          "La fête a de la musique."
         ],
         [
           "Χρόνια πολλά για τη γιορτή σου!",
-          "Happy name day!"
+          "Happy name day!",
+          "Bonne fête !"
         ]
       ],
       "κρασί": [
         [
           "Θέλεις λίγο κρασί;",
-          "Do you want some wine?"
+          "Do you want some wine?",
+          "Tu veux un peu de vin ?"
         ],
         [
           "Το κρασί είναι από την Κρήτη.",
-          "The wine is from Crete."
+          "The wine is from Crete.",
+          "Le vin vient de Crète."
         ]
       ],
       "τέχνη": [
         [
           "Μου αρέσει η τέχνη.",
-          "I like art."
+          "I like art.",
+          "J'aime l'art."
         ],
         [
           "Η τέχνη είναι για όλους.",
-          "Art is for everyone."
+          "Art is for everyone.",
+          "L'art est pour tout le monde."
         ]
       ],
       "Σάββατο": [
         [
           "Το Σάββατο κοιμάμαι πολύ.",
-          "On Saturdays I sleep a lot."
+          "On Saturdays I sleep a lot.",
+          "Le samedi, je dors beaucoup."
         ],
         [
           "Τα λέμε το Σάββατο!",
-          "See you on Saturday!"
+          "See you on Saturday!",
+          "On se voit samedi !"
         ]
       ],
       "Κυριακή": [
         [
           "Την Κυριακή τρώμε μαζί.",
-          "On Sundays we eat together."
+          "On Sundays we eat together.",
+          "Le dimanche, on mange ensemble."
         ],
         [
           "Η Κυριακή είναι ήσυχη.",
-          "Sunday is quiet."
+          "Sunday is quiet.",
+          "Le dimanche est calme."
         ]
       ],
       "οδό": [
         [
           "Μένω στην οδό Αθηνάς.",
-          "I live on Athinas Street."
+          "I live on Athinas Street.",
+          "J'habite rue Athinas."
         ],
         [
           "Ποια οδό ψάχνεις;",
-          "Which street are you looking for?"
+          "Which street are you looking for?",
+          "Quelle rue cherches-tu ?"
         ]
       ],
       "έκτη": [
         [
           "Μένω στην έκτη πολυκατοικία.",
-          "I live in the sixth apartment building."
+          "I live in the sixth apartment building.",
+          "J'habite dans le sixième immeuble."
         ],
         [
           "Είναι η έκτη φορά!",
-          "It's the sixth time!"
+          "It's the sixth time!",
+          "C'est la sixième fois !"
         ]
       ],
       "χρονιά": [
         [
           "Καλή χρονιά!",
-          "Happy New Year!"
+          "Happy New Year!",
+          "Bonne année !"
         ],
         [
           "Ήταν μια καλή χρονιά.",
-          "It was a good year."
+          "It was a good year.",
+          "C'était une bonne année."
         ]
       ],
       "εταιρείες": [
         [
           "Οι εταιρείες ψάχνουν εργαζόμενους.",
-          "Companies are looking for employees."
+          "Companies are looking for employees.",
+          "Les entreprises cherchent des employés."
         ],
         [
           "Πολλές εταιρείες είναι στο κέντρο.",
-          "Many companies are in the center."
+          "Many companies are in the center.",
+          "Beaucoup d'entreprises sont au centre."
         ]
       ],
       "φτιάχνουν": [
         [
           "Φτιάχνουν καφέ για όλους.",
-          "They make coffee for everyone."
+          "They make coffee for everyone.",
+          "Ils font du café pour tout le monde."
         ],
         [
           "Οι φούρνοι φτιάχνουν ψωμί.",
-          "Bakeries make bread."
+          "Bakeries make bread.",
+          "Les boulangeries font du pain."
         ]
       ],
       "χώρες": [
         [
           "Έχω πάει σε δέκα χώρες.",
-          "I have been to ten countries."
+          "I have been to ten countries.",
+          "Je suis allé dans dix pays."
         ],
         [
           "Οι χώρες της Ευρώπης.",
-          "The countries of Europe."
+          "The countries of Europe.",
+          "Les pays d'Europe."
         ]
       ],
       "δοκιμάσει": [
         [
           "Θα δοκιμάσει το φαγητό.",
-          "He/she will taste the food."
+          "He/she will taste the food.",
+          "Il/elle goûtera le plat."
         ],
         [
           "Θέλει να δοκιμάσει κάτι νέο.",
-          "He/she wants to try something new."
+          "He/she wants to try something new.",
+          "Il/elle veut essayer quelque chose de nouveau."
         ]
       ],
       "πρώτη φορά": [
         [
           "Είναι η πρώτη φορά μου εδώ.",
-          "It's my first time here."
+          "It's my first time here.",
+          "C'est ma première fois ici."
         ],
         [
           "Πρώτη φορά τρώω μουσακά.",
-          "I'm eating moussaka for the first time."
+          "I'm eating moussaka for the first time.",
+          "Je mange de la moussaka pour la première fois."
         ]
       ],
       "έκθεση": [
         [
           "Πάμε σε μια έκθεση;",
-          "Shall we go to an exhibition?"
+          "Shall we go to an exhibition?",
+          "On va à une exposition ?"
         ],
         [
           "Η έκθεση κλείνει την Κυριακή.",
-          "The exhibition closes on Sunday."
+          "The exhibition closes on Sunday.",
+          "L'exposition ferme dimanche."
         ]
       ],
       "έργα": [
         [
           "Το μουσείο έχει ωραία έργα.",
-          "The museum has beautiful works."
+          "The museum has beautiful works.",
+          "Le musée a de belles œuvres."
         ],
         [
           "Βλέπουμε έργα στον δρόμο.",
-          "We see roadworks in the street."
+          "We see roadworks in the street.",
+          "On voit des travaux dans la rue."
         ]
       ],
       "καλλιτέχνες": [
         [
           "Οι καλλιτέχνες ζωγραφίζουν στο πάρκο.",
-          "The artists paint in the park."
+          "The artists paint in the park.",
+          "Les artistes peignent dans le parc."
         ],
         [
           "Πολλοί καλλιτέχνες μένουν εδώ.",
-          "Many artists live here."
+          "Many artists live here.",
+          "Beaucoup d'artistes habitent ici."
         ]
       ],
       "ζωγραφιές": [
         [
           "Τα παιδιά κάνουν ζωγραφιές.",
-          "The children are drawing pictures."
+          "The children are drawing pictures.",
+          "Les enfants font des dessins."
         ],
         [
           "Οι ζωγραφιές είναι στον τοίχο.",
-          "The paintings are on the wall."
+          "The paintings are on the wall.",
+          "Les peintures sont au mur."
         ]
       ],
       "αγάλματα": [
         [
           "Το μουσείο έχει αρχαία αγάλματα.",
-          "The museum has ancient statues."
+          "The museum has ancient statues.",
+          "Le musée a des statues antiques."
         ],
         [
           "Τα αγάλματα είναι από μάρμαρο.",
-          "The statues are made of marble."
+          "The statues are made of marble.",
+          "Les statues sont en marbre."
         ]
       ],
       "αγορές": [
         [
           "Κάνω αγορές στην Ερμού.",
-          "I go shopping on Ermou Street."
+          "I go shopping on Ermou Street.",
+          "Je fais du shopping rue Ermou."
         ],
         [
           "Οι αγορές είναι ανοιχτές το πρωί.",
-          "The markets are open in the morning."
+          "The markets are open in the morning.",
+          "Les marchés sont ouverts le matin."
         ]
       ],
       "μαγαζιά": [
         [
           "Τα μαγαζιά κλείνουν στις εννιά.",
-          "The shops close at nine."
+          "The shops close at nine.",
+          "Les boutiques ferment à neuf heures."
         ],
         [
           "Η γειτονιά έχει ωραία μαγαζιά.",
-          "The neighborhood has nice shops."
+          "The neighborhood has nice shops.",
+          "Le quartier a de jolies boutiques."
         ]
       ],
       "μαθήματα": [
         [
           "Τα μαθήματα αρχίζουν τον Οκτώβριο.",
-          "Classes start in October."
+          "Classes start in October.",
+          "Les cours commencent en octobre."
         ],
         [
           "Κάνει μαθήματα χορού.",
-          "He/she takes dance classes."
+          "He/she takes dance classes.",
+          "Il/elle prend des cours de danse."
         ]
       ],
       "ανοιχτή": [
         [
           "Η πόρτα είναι ανοιχτή.",
-          "The door is open."
+          "The door is open.",
+          "La porte est ouverte."
         ],
         [
           "Η τράπεζα είναι ανοιχτή;",
-          "Is the bank open?"
+          "Is the bank open?",
+          "La banque est ouverte ?"
         ]
       ],
       "εισιτήριο": [
         [
           "Έχεις εισιτήριο;",
-          "Do you have a ticket?"
+          "Do you have a ticket?",
+          "Tu as un billet ?"
         ],
         [
           "Το εισιτήριο κοστίζει ένα ευρώ.",
-          "The ticket costs one euro."
+          "The ticket costs one euro.",
+          "Le billet coûte un euro."
         ]
       ],
       "κοστίζει": [
         [
           "Πόσο κοστίζει αυτό;",
-          "How much does this cost?"
+          "How much does this cost?",
+          "Combien ça coûte ?"
         ],
         [
           "Ο καφές κοστίζει τρία ευρώ.",
-          "The coffee costs three euros."
+          "The coffee costs three euros.",
+          "Le café coûte trois euros."
         ]
       ],
       "πόρτα": [
         [
           "Κλείσε την πόρτα, παρακαλώ.",
-          "Close the door, please."
+          "Close the door, please.",
+          "Ferme la porte, s'il te plaît."
         ],
         [
           "Κάποιος χτυπάει την πόρτα.",
-          "Someone is knocking at the door."
+          "Someone is knocking at the door.",
+          "Quelqu'un frappe à la porte."
         ]
       ]
     },
@@ -1417,241 +1653,289 @@
       "γιορτή": [
         [
           "Η γιορτή είναι στην πλατεία.",
-          "The festival is in the square."
+          "The festival is in the square.",
+          "La fête est sur la place."
         ],
         [
           "Πάμε στη γιορτή μαζί;",
-          "Shall we go to the party together?"
+          "Shall we go to the party together?",
+          "On va à la fête ensemble ?"
         ]
       ],
       "Μαραθώνιος": [
         [
           "Ο Μαραθώνιος είναι τον Νοέμβριο.",
-          "The marathon is in November."
+          "The marathon is in November.",
+          "Le marathon est en novembre."
         ],
         [
           "Ο Μαραθώνιος είναι πολύ μεγάλος.",
-          "The marathon is very long."
+          "The marathon is very long.",
+          "Le marathon est très long."
         ]
       ],
       "αγώνας": [
         [
           "Ο αγώνας αρχίζει στις οκτώ.",
-          "The race starts at eight."
+          "The race starts at eight.",
+          "La course commence à huit heures."
         ],
         [
           "Ήταν ωραίος αγώνας.",
-          "It was a great match."
+          "It was a great match.",
+          "C'était un beau match."
         ]
       ],
       "τρέξουν": [
         [
           "Θα τρέξουν στο πάρκο.",
-          "They will run in the park."
+          "They will run in the park.",
+          "Ils courront dans le parc."
         ],
         [
           "Τα παιδιά θέλουν να τρέξουν.",
-          "The children want to run."
+          "The children want to run.",
+          "Les enfants veulent courir."
         ]
       ],
       "δρομείς": [
         [
           "Οι δρομείς πίνουν νερό.",
-          "The runners drink water."
+          "The runners drink water.",
+          "Les coureurs boivent de l'eau."
         ],
         [
           "Οι δρομείς είναι κουρασμένοι.",
-          "The runners are tired."
+          "The runners are tired.",
+          "Les coureurs sont fatigués."
         ]
       ],
       "ξεκινούν": [
         [
           "Τα μαθήματα ξεκινούν αύριο.",
-          "Classes start tomorrow."
+          "Classes start tomorrow.",
+          "Les cours commencent demain."
         ],
         [
           "Ξεκινούν νωρίς το πρωί.",
-          "They set off early in the morning."
+          "They set off early in the morning.",
+          "Ils partent tôt le matin."
         ]
       ],
       "χιλιόμετρα": [
         [
           "Περπατάω πέντε χιλιόμετρα.",
-          "I walk five kilometers."
+          "I walk five kilometers.",
+          "Je marche cinq kilomètres."
         ],
         [
           "Η θάλασσα είναι δέκα χιλιόμετρα μακριά.",
-          "The sea is ten kilometers away."
+          "The sea is ten kilometers away.",
+          "La mer est à dix kilomètres."
         ]
       ],
       "δρόμο": [
         [
           "Ψάχνω τον δρόμο για την Πλάκα.",
-          "I'm looking for the way to Plaka."
+          "I'm looking for the way to Plaka.",
+          "Je cherche le chemin pour Plaka."
         ],
         [
           "Περνάω τον δρόμο προσεκτικά.",
-          "I cross the street carefully."
+          "I cross the street carefully.",
+          "Je traverse la rue prudemment."
         ]
       ],
       "τέλος": [
         [
           "Στο τέλος όλοι χορεύουν.",
-          "At the end, everyone dances."
+          "At the end, everyone dances.",
+          "À la fin, tout le monde danse."
         ],
         [
           "Το τέλος της ταινίας είναι ωραίο.",
-          "The ending of the film is nice."
+          "The ending of the film is nice.",
+          "La fin du film est belle."
         ]
       ],
       "Στάδιο": [
         [
           "Το Στάδιο είναι γεμάτο.",
-          "The stadium is full."
+          "The stadium is full.",
+          "Le stade est plein."
         ],
         [
           "Πάμε στο Στάδιο για τον αγώνα.",
-          "Let's go to the stadium for the match."
+          "Let's go to the stadium for the match.",
+          "On va au stade pour le match."
         ]
       ],
       "καινούργιο": [
         [
           "Θέλω καινούργιο ποδήλατο.",
-          "I want a new bike."
+          "I want a new bike.",
+          "Je veux un vélo neuf."
         ],
         [
           "Το μαγαζί είναι καινούργιο.",
-          "The shop is new."
+          "The shop is new.",
+          "La boutique est nouvelle."
         ]
       ],
       "εκατομμύρια": [
         [
           "Η Αθήνα έχει τρία εκατομμύρια κατοίκους.",
-          "Athens has three million inhabitants."
+          "Athens has three million inhabitants.",
+          "Athènes a trois millions d'habitants."
         ],
         [
           "Εκατομμύρια τουρίστες έρχονται κάθε χρόνο.",
-          "Millions of tourists come every year."
+          "Millions of tourists come every year.",
+          "Des millions de touristes viennent chaque année."
         ]
       ],
       "χρήματα": [
         [
           "Δεν έχω πολλά χρήματα.",
-          "I don't have much money."
+          "I don't have much money.",
+          "Je n'ai pas beaucoup d'argent."
         ],
         [
           "Βάζω χρήματα στην άκρη.",
-          "I put money aside."
+          "I put money aside.",
+          "Je mets de l'argent de côté."
         ]
       ],
       "πρωταθλητές": [
         [
           "Οι πρωταθλητές προπονούνται κάθε μέρα.",
-          "The champions train every day."
+          "The champions train every day.",
+          "Les champions s'entraînent chaque jour."
         ],
         [
           "Είμαστε πρωταθλητές!",
-          "We are champions!"
+          "We are champions!",
+          "Nous sommes champions !"
         ]
       ],
       "χώρες": [
         [
           "Οι τουρίστες έρχονται από πολλές χώρες.",
-          "Tourists come from many countries."
+          "Tourists come from many countries.",
+          "Les touristes viennent de nombreux pays."
         ],
         [
           "Ποιες χώρες ξέρεις;",
-          "Which countries do you know?"
+          "Which countries do you know?",
+          "Quels pays connais-tu ?"
         ]
       ],
       "μετάλλιο": [
         [
           "Πήρε χρυσό μετάλλιο.",
-          "He got a gold medal."
+          "He got a gold medal.",
+          "Il a eu une médaille d'or."
         ],
         [
           "Το μετάλλιο είναι βαρύ.",
-          "The medal is heavy."
+          "The medal is heavy.",
+          "La médaille est lourde."
         ]
       ],
       "περιστέρι": [
         [
           "Ένα περιστέρι κάθεται στο μπαλκόνι.",
-          "A pigeon is sitting on the balcony."
+          "A pigeon is sitting on the balcony.",
+          "Un pigeon est posé sur le balcon."
         ],
         [
           "Το περιστέρι είναι άσπρο.",
-          "The dove is white."
+          "The dove is white.",
+          "La colombe est blanche."
         ]
       ],
       "ήλιο": [
         [
           "Κάθομαι στον ήλιο.",
-          "I sit in the sun."
+          "I sit in the sun.",
+          "Je m'assois au soleil."
         ],
         [
           "Η Αθήνα έχει πολύ ήλιο.",
-          "Athens gets a lot of sun."
+          "Athens gets a lot of sun.",
+          "Athènes a beaucoup de soleil."
         ]
       ],
       "θάλασσα": [
         [
           "Η θάλασσα είναι ζεστή.",
-          "The sea is warm."
+          "The sea is warm.",
+          "La mer est chaude."
         ],
         [
           "Πάμε για μπάνιο στη θάλασσα.",
-          "Let's go for a swim in the sea."
+          "Let's go for a swim in the sea.",
+          "On va se baigner à la mer."
         ]
       ],
       "ειρήνη": [
         [
           "Θέλουμε ειρήνη.",
-          "We want peace."
+          "We want peace.",
+          "Nous voulons la paix."
         ],
         [
           "Η ειρήνη είναι πολύτιμη.",
-          "Peace is precious."
+          "Peace is precious.",
+          "La paix est précieuse."
         ]
       ],
       "τσάντα": [
         [
           "Η τσάντα μου είναι βαριά.",
-          "My bag is heavy."
+          "My bag is heavy.",
+          "Mon sac est lourd."
         ],
         [
           "Χρειάζεσαι τσάντα;",
-          "Do you need a bag?"
+          "Do you need a bag?",
+          "Tu as besoin d'un sac ?"
         ]
       ],
       "ανακυκλωμένο": [
         [
           "Το χαρτί είναι ανακυκλωμένο.",
-          "The paper is recycled."
+          "The paper is recycled.",
+          "Le papier est recyclé."
         ],
         [
           "Αγοράζω ανακυκλωμένο πλαστικό.",
-          "I buy recycled plastic."
+          "I buy recycled plastic.",
+          "J'achète du plastique recyclé."
         ]
       ],
       "επισκέπτες": [
         [
           "Το μουσείο έχει πολλούς επισκέπτες.",
-          "The museum has many visitors."
+          "The museum has many visitors.",
+          "Le musée a beaucoup de visiteurs."
         ],
         [
           "Έχουμε επισκέπτες απόψε.",
-          "We have guests tonight."
+          "We have guests tonight.",
+          "Nous avons des invités ce soir."
         ]
       ],
       "φθινόπωρο": [
         [
           "Το φθινόπωρο βρέχει.",
-          "It rains in autumn."
+          "It rains in autumn.",
+          "En automne, il pleut."
         ],
         [
           "Μου αρέσει το φθινόπωρο.",
-          "I like autumn."
+          "I like autumn.",
+          "J'aime l'automne."
         ]
       ]
     },
@@ -1701,261 +1985,313 @@
       "Δήμος": [
         [
           "Ο Δήμος καθαρίζει τους δρόμους.",
-          "The city council cleans the streets."
+          "The city council cleans the streets.",
+          "La mairie nettoie les rues."
         ],
         [
           "Ο Δήμος έχει νέο πάρκο.",
-          "The municipality has a new park."
+          "The municipality has a new park.",
+          "La municipalité a un nouveau parc."
         ]
       ],
       "σχέδιο": [
         [
           "Ποιο είναι το σχέδιο για απόψε;",
-          "What's the plan for tonight?"
+          "What's the plan for tonight?",
+          "Quel est le plan pour ce soir ?"
         ],
         [
           "Το σχέδιο αρέσει σε όλους.",
-          "Everyone likes the project."
+          "Everyone likes the project.",
+          "Le projet plaît à tout le monde."
         ]
       ],
       "λεωφορεία": [
         [
           "Τα λεωφορεία είναι γεμάτα.",
-          "The buses are full."
+          "The buses are full.",
+          "Les bus sont pleins."
         ],
         [
           "Τα λεωφορεία αργούν σήμερα.",
-          "The buses are late today."
+          "The buses are late today.",
+          "Les bus sont en retard aujourd'hui."
         ]
       ],
       "όνομά": [
         [
           "Γράψε το όνομά σου εδώ.",
-          "Write your name here."
+          "Write your name here.",
+          "Écris ton nom ici."
         ],
         [
           "Ξέχασα το όνομά του.",
-          "I forgot his name."
+          "I forgot his name.",
+          "J'ai oublié son nom."
         ]
       ],
       "ηλεκτρικά": [
         [
           "Τα ηλεκτρικά πατίνια είναι παντού.",
-          "Electric scooters are everywhere."
+          "Electric scooters are everywhere.",
+          "Les trottinettes électriques sont partout."
         ],
         [
           "Τα ηλεκτρικά αυτοκίνητα δεν κάνουν θόρυβο.",
-          "Electric cars don't make any noise."
+          "Electric cars don't make any noise.",
+          "Les voitures électriques ne font pas de bruit."
         ]
       ],
       "ρεύμα": [
         [
           "Δεν έχουμε ρεύμα σήμερα.",
-          "We have no electricity today."
+          "We have no electricity today.",
+          "On n'a pas d'électricité aujourd'hui."
         ],
         [
           "Το ρεύμα είναι ακριβό.",
-          "Electricity is expensive."
+          "Electricity is expensive.",
+          "L'électricité est chère."
         ]
       ],
       "πετρέλαιο": [
         [
           "Το πετρέλαιο είναι ακριβό.",
-          "Diesel is expensive."
+          "Diesel is expensive.",
+          "Le gazole est cher."
         ],
         [
           "Βάζω πετρέλαιο στο αυτοκίνητο.",
-          "I put diesel in the car."
+          "I put diesel in the car.",
+          "Je mets du gazole dans la voiture."
         ]
       ],
       "γραμμές": [
         [
           "Το μετρό έχει τρεις γραμμές.",
-          "The metro has three lines."
+          "The metro has three lines.",
+          "Le métro a trois lignes."
         ],
         [
           "Ποιες γραμμές πάνε στο κέντρο;",
-          "Which lines go to the center?"
+          "Which lines go to the center?",
+          "Quelles lignes vont au centre ?"
         ]
       ],
       "στάσεις": [
         [
           "Κατεβαίνω σε δύο στάσεις.",
-          "I get off in two stops."
+          "I get off in two stops.",
+          "Je descends dans deux arrêts."
         ],
         [
           "Οι στάσεις έχουν παγκάκια.",
-          "The stops have benches."
+          "The stops have benches.",
+          "Les arrêts ont des bancs."
         ]
       ],
       "περνούν": [
         [
           "Τα τρένα περνούν κάθε δέκα λεπτά.",
-          "The trains come every ten minutes."
+          "The trains come every ten minutes.",
+          "Les trains passent toutes les dix minutes."
         ],
         [
           "Οι μέρες περνούν γρήγορα.",
-          "The days go by quickly."
+          "The days go by quickly.",
+          "Les jours passent vite."
         ]
       ],
       "γειτονιές": [
         [
           "Η Αθήνα έχει ωραίες γειτονιές.",
-          "Athens has beautiful neighborhoods."
+          "Athens has beautiful neighborhoods.",
+          "Athènes a de beaux quartiers."
         ],
         [
           "Περπατάω στις παλιές γειτονιές.",
-          "I walk around the old neighborhoods."
+          "I walk around the old neighborhoods.",
+          "Je me promène dans les vieux quartiers."
         ]
       ],
       "αρκετά": [
         [
           "Έφαγα αρκετά, ευχαριστώ.",
-          "I've eaten enough, thank you."
+          "I've eaten enough, thank you.",
+          "J'ai assez mangé, merci."
         ],
         [
           "Δεν κοιμάμαι αρκετά.",
-          "I don't sleep enough."
+          "I don't sleep enough.",
+          "Je ne dors pas assez."
         ]
       ],
       "δήμαρχος": [
         [
           "Ο δήμαρχος μιλάει στους κατοίκους.",
-          "The mayor talks to the residents."
+          "The mayor talks to the residents.",
+          "Le maire parle aux habitants."
         ],
         [
           "Ποιος είναι ο δήμαρχος;",
-          "Who is the mayor?"
+          "Who is the mayor?",
+          "Qui est le maire ?"
         ]
       ],
       "δοκιμή": [
         [
           "Κάνουμε μια δοκιμή πρώτα.",
-          "Let's do a test first."
+          "Let's do a test first.",
+          "On fait d'abord un essai."
         ],
         [
           "Η δοκιμή πήγε καλά.",
-          "The test went well."
+          "The test went well.",
+          "L'essai s'est bien passé."
         ]
       ],
       "κάτοικοι": [
         [
           "Οι κάτοικοι είναι χαρούμενοι.",
-          "The residents are happy."
+          "The residents are happy.",
+          "Les habitants sont contents."
         ],
         [
           "Οι κάτοικοι θέλουν περισσότερα δέντρα.",
-          "The residents want more trees."
+          "The residents want more trees.",
+          "Les habitants veulent plus d'arbres."
         ]
       ],
       "καθαρές": [
         [
           "Οι παραλίες είναι καθαρές.",
-          "The beaches are clean."
+          "The beaches are clean.",
+          "Les plages sont propres."
         ],
         [
           "Φοράω καθαρές κάλτσες.",
-          "I'm wearing clean socks."
+          "I'm wearing clean socks.",
+          "Je mets des chaussettes propres."
         ]
       ],
       "φτηνές": [
         [
           "Οι ντομάτες είναι φτηνές σήμερα.",
-          "Tomatoes are cheap today."
+          "Tomatoes are cheap today.",
+          "Les tomates sont bon marché aujourd'hui."
         ],
         [
           "Ψάχνω φτηνές πτήσεις.",
-          "I'm looking for cheap flights."
+          "I'm looking for cheap flights.",
+          "Je cherche des vols pas chers."
         ]
       ],
       "μετακινήσεις": [
         [
           "Οι μετακινήσεις στην Αθήνα είναι δύσκολες.",
-          "Getting around Athens is difficult."
+          "Getting around Athens is difficult.",
+          "Les déplacements à Athènes sont difficiles."
         ],
         [
           "Κάνω τις μετακινήσεις μου με μετρό.",
-          "I get around by metro."
+          "I get around by metro.",
+          "Je fais mes déplacements en métro."
         ]
       ],
       "λιγότερο": [
         [
           "Τρώω λιγότερο το βράδυ.",
-          "I eat less in the evening."
+          "I eat less in the evening.",
+          "Je mange moins le soir."
         ],
         [
           "Δουλεύω λιγότερο την Παρασκευή.",
-          "I work less on Fridays."
+          "I work less on Fridays.",
+          "Je travaille moins le vendredi."
         ]
       ],
       "αυτοκίνητο": [
         [
           "Δεν έχω αυτοκίνητο.",
-          "I don't have a car."
+          "I don't have a car.",
+          "Je n'ai pas de voiture."
         ],
         [
           "Το αυτοκίνητο είναι στο πάρκινγκ.",
-          "The car is in the parking lot."
+          "The car is in the parking lot.",
+          "La voiture est au parking."
         ]
       ],
       "θέση": [
         [
           "Αυτή η θέση είναι ελεύθερη;",
-          "Is this seat free?"
+          "Is this seat free?",
+          "Cette place est libre ?"
         ],
         [
           "Δίνω τη θέση μου στη γιαγιά.",
-          "I give my seat to the grandmother."
+          "I give my seat to the grandmother.",
+          "Je donne ma place à la grand-mère."
         ]
       ],
       "Βοηθούν": [
         [
           "Οι φίλοι βοηθούν πάντα.",
-          "Friends always help."
+          "Friends always help.",
+          "Les amis aident toujours."
         ],
         [
           "Τα παιδιά βοηθούν στην κουζίνα.",
-          "The children help in the kitchen."
+          "The children help in the kitchen.",
+          "Les enfants aident à la cuisine."
         ]
       ],
       "συγκοινωνίες": [
         [
           "Οι συγκοινωνίες έχουν απεργία.",
-          "Public transport is on strike."
+          "Public transport is on strike.",
+          "Les transports sont en grève."
         ],
         [
           "Παίρνω τις συγκοινωνίες κάθε μέρα.",
-          "I take public transport every day."
+          "I take public transport every day.",
+          "Je prends les transports tous les jours."
         ]
       ],
       "κοστίζει": [
         [
           "Πόσο κοστίζει το εισιτήριο;",
-          "How much is the ticket?"
+          "How much is the ticket?",
+          "Combien coûte le billet ?"
         ],
         [
           "Το φαγητό κοστίζει δέκα ευρώ.",
-          "The meal costs ten euros."
+          "The meal costs ten euros.",
+          "Le repas coûte dix euros."
         ]
       ],
       "εκατομμύρια": [
         [
           "Το νέο πάρκο κοστίζει δύο εκατομμύρια.",
-          "The new park costs two million."
+          "The new park costs two million.",
+          "Le nouveau parc coûte deux millions."
         ],
         [
           "Εκατομμύρια άνθρωποι παίρνουν το μετρό.",
-          "Millions of people take the metro."
+          "Millions of people take the metro.",
+          "Des millions de gens prennent le métro."
         ]
       ],
       "σύντομα": [
         [
           "Τα λέμε σύντομα!",
-          "See you soon!"
+          "See you soon!",
+          "À bientôt !"
         ],
         [
           "Θα έρθω σύντομα.",
-          "I'll come soon."
+          "I'll come soon.",
+          "Je viendrai bientôt."
         ]
       ]
     },
@@ -2006,261 +2342,313 @@
       "εργαστήριο": [
         [
           "Το εργαστήριο είναι στο υπόγειο.",
-          "The workshop is in the basement."
+          "The workshop is in the basement.",
+          "L'atelier est au sous-sol."
         ],
         [
           "Δουλεύω σε ένα μικρό εργαστήριο.",
-          "I work in a small workshop."
+          "I work in a small workshop.",
+          "Je travaille dans un petit atelier."
         ]
       ],
       "Προέδρου": [
         [
           "Αυτό είναι το σπίτι του Προέδρου.",
-          "This is the President's house."
+          "This is the President's house.",
+          "C'est la maison du Président."
         ],
         [
           "Η φωτογραφία του Προέδρου είναι στον τοίχο.",
-          "The President's photo is on the wall."
+          "The President's photo is on the wall.",
+          "La photo du Président est au mur."
         ]
       ],
       "ράβουν": [
         [
           "Οι γιαγιάδες ράβουν κουρτίνες.",
-          "The grandmothers sew curtains."
+          "The grandmothers sew curtains.",
+          "Les grands-mères cousent des rideaux."
         ],
         [
           "Στο μαγαζί ράβουν κοστούμια.",
-          "At the shop they sew suits."
+          "At the shop they sew suits.",
+          "Dans la boutique, ils cousent des costumes."
         ]
       ],
       "Ευζώνων": [
         [
           "Η αλλαγή των Ευζώνων είναι στο Σύνταγμα.",
-          "The changing of the Evzones is at Syntagma."
+          "The changing of the Evzones is at Syntagma.",
+          "La relève des Evzones est à Syntagma."
         ],
         [
           "Οι τουρίστες βλέπουν τη στολή των Ευζώνων.",
-          "The tourists look at the Evzones' uniform."
+          "The tourists look at the Evzones' uniform.",
+          "Les touristes regardent l'uniforme des Evzones."
         ]
       ],
       "στρατιώτες": [
         [
           "Οι στρατιώτες περπατούν μαζί.",
-          "The soldiers walk together."
+          "The soldiers walk together.",
+          "Les soldats marchent ensemble."
         ],
         [
           "Οι στρατιώτες φοράνε στολή.",
-          "The soldiers wear a uniform."
+          "The soldiers wear a uniform.",
+          "Les soldats portent un uniforme."
         ]
       ],
       "φούστα": [
         [
           "Η φούστα είναι πολύ κοντή.",
-          "The skirt is very short."
+          "The skirt is very short.",
+          "La jupe est très courte."
         ],
         [
           "Φοράει μια μπλε φούστα.",
-          "She's wearing a blue skirt."
+          "She's wearing a blue skirt.",
+          "Elle porte une jupe bleue."
         ]
       ],
       "Φυλάνε": [
         [
           "Φυλάνε τα λεφτά στην τράπεζα.",
-          "They keep their money in the bank."
+          "They keep their money in the bank.",
+          "Ils gardent l'argent à la banque."
         ],
         [
           "Φυλάνε το σπίτι όταν λείπουμε.",
-          "They watch the house when we're away."
+          "They watch the house when we're away.",
+          "Ils gardent la maison quand on est absents."
         ]
       ],
       "πρέσβειρα": [
         [
           "Η πρέσβειρα μιλάει ελληνικά.",
-          "The ambassador speaks Greek."
+          "The ambassador speaks Greek.",
+          "L'ambassadrice parle grec."
         ],
         [
           "Η πρέσβειρα ήρθε στη γιορτή.",
-          "The ambassador came to the celebration."
+          "The ambassador came to the celebration.",
+          "L'ambassadrice est venue à la fête."
         ]
       ],
       "χέρι": [
         [
           "Δώσε μου το χέρι σου.",
-          "Give me your hand."
+          "Give me your hand.",
+          "Donne-moi ta main."
         ],
         [
           "Γράφω με το δεξί χέρι.",
-          "I write with my right hand."
+          "I write with my right hand.",
+          "J'écris de la main droite."
         ]
       ],
       "φουστανέλα": [
         [
           "Η φουστανέλα είναι άσπρη.",
-          "The fustanella is white."
+          "The fustanella is white.",
+          "La fustanelle est blanche."
         ],
         [
           "Ο παππούς φόρεσε φουστανέλα στη γιορτή.",
-          "Grandpa wore a fustanella at the celebration."
+          "Grandpa wore a fustanella at the celebration.",
+          "Le grand-père a porté la fustanelle à la fête."
         ]
       ],
       "πιέτες": [
         [
           "Η φούστα έχει πολλές πιέτες.",
-          "The skirt has a lot of pleats."
+          "The skirt has a lot of pleats.",
+          "La jupe a beaucoup de plis."
         ],
         [
           "Σιδερώνω τις πιέτες προσεκτικά.",
-          "I iron the pleats carefully."
+          "I iron the pleats carefully.",
+          "Je repasse les plis avec soin."
         ]
       ],
       "ελεύθερη": [
         [
           "Η θέση είναι ελεύθερη;",
-          "Is the seat free?"
+          "Is the seat free?",
+          "La place est libre ?"
         ],
         [
           "Είμαι ελεύθερη το Σάββατο.",
-          "I'm free on Saturday."
+          "I'm free on Saturday.",
+          "Je suis libre samedi."
         ]
       ],
       "ύφασμα": [
         [
           "Αυτό το ύφασμα είναι μαλακό.",
-          "This fabric is soft."
+          "This fabric is soft.",
+          "Ce tissu est doux."
         ],
         [
           "Αγοράζω ύφασμα για κουρτίνες.",
-          "I'm buying fabric for curtains."
+          "I'm buying fabric for curtains.",
+          "J'achète du tissu pour des rideaux."
         ]
       ],
       "γιλέκο": [
         [
           "Φοράω γιλέκο το φθινόπωρο.",
-          "I wear a vest in autumn."
+          "I wear a vest in autumn.",
+          "Je porte un gilet en automne."
         ],
         [
           "Το γιλέκο έχει κουμπιά.",
-          "The vest has buttons."
+          "The vest has buttons.",
+          "Le gilet a des boutons."
         ]
       ],
       "κέντημα": [
         [
           "Η γιαγιά κάνει κέντημα.",
-          "Grandma does embroidery."
+          "Grandma does embroidery.",
+          "La grand-mère fait de la broderie."
         ],
         [
           "Το τραπεζομάντιλο έχει κέντημα.",
-          "The tablecloth has embroidery."
+          "The tablecloth has embroidery.",
+          "La nappe a une broderie."
         ]
       ],
       "καπέλο": [
         [
           "Φόρα καπέλο, έχει ήλιο.",
-          "Wear a hat, it's sunny."
+          "Wear a hat, it's sunny.",
+          "Mets un chapeau, il y a du soleil."
         ],
         [
           "Το καπέλο μου είναι κόκκινο.",
-          "My hat is red."
+          "My hat is red.",
+          "Mon chapeau est rouge."
         ]
       ],
       "φούντα": [
         [
           "Το σκουφάκι έχει φούντα.",
-          "The beanie has a pompom."
+          "The beanie has a pompom.",
+          "Le bonnet a un pompon."
         ],
         [
           "Η φούντα είναι μαύρη.",
-          "The tassel is black."
+          "The tassel is black.",
+          "Le pompon est noir."
         ]
       ],
       "παπούτσια": [
         [
           "Θέλω καινούργια παπούτσια.",
-          "I want new shoes."
+          "I want new shoes.",
+          "Je veux de nouvelles chaussures."
         ],
         [
           "Βγάλε τα παπούτσια σου.",
-          "Take off your shoes."
+          "Take off your shoes.",
+          "Enlève tes chaussures."
         ]
       ],
       "βαριά": [
         [
           "Τα κουτιά είναι βαριά.",
-          "The boxes are heavy."
+          "The boxes are heavy.",
+          "Les cartons sont lourds."
         ],
         [
           "Τα βιβλία είναι βαριά.",
-          "The books are heavy."
+          "The books are heavy.",
+          "Les livres sont lourds."
         ]
       ],
       "ζευγάρι": [
         [
           "Αγόρασα ένα ζευγάρι κάλτσες.",
-          "I bought a pair of socks."
+          "I bought a pair of socks.",
+          "J'ai acheté une paire de chaussettes."
         ],
         [
           "Είναι ένα ωραίο ζευγάρι.",
-          "They're a lovely couple."
+          "They're a lovely couple.",
+          "C'est un beau couple."
         ]
       ],
       "ζυγίζει": [
         [
           "Το μωρό ζυγίζει τρία κιλά.",
-          "The baby weighs three kilos."
+          "The baby weighs three kilos.",
+          "Le bébé pèse trois kilos."
         ],
         [
           "Πόσο ζυγίζει η βαλίτσα;",
-          "How much does the suitcase weigh?"
+          "How much does the suitcase weigh?",
+          "Combien pèse la valise ?"
         ]
       ],
       "σόλα": [
         [
           "Η σόλα είναι σκισμένη.",
-          "The sole is torn."
+          "The sole is torn.",
+          "La semelle est déchirée."
         ],
         [
           "Τα παπούτσια έχουν καινούργια σόλα.",
-          "The shoes have new soles."
+          "The shoes have new soles.",
+          "Les chaussures ont une semelle neuve."
         ]
       ],
       "καρφιά": [
         [
           "Χρειάζομαι σφυρί και καρφιά.",
-          "I need a hammer and nails."
+          "I need a hammer and nails.",
+          "J'ai besoin d'un marteau et de clous."
         ],
         [
           "Τα καρφιά είναι στο κουτί.",
-          "The nails are in the box."
+          "The nails are in the box.",
+          "Les clous sont dans la boîte."
         ]
       ],
       "ταξιδέψουν": [
         [
           "Θέλουν να ταξιδέψουν στην Κρήτη.",
-          "They want to travel to Crete."
+          "They want to travel to Crete.",
+          "Ils veulent voyager en Crète."
         ],
         [
           "Θα ταξιδέψουν με το πλοίο.",
-          "They will travel by boat."
+          "They will travel by boat.",
+          "Ils voyageront en bateau."
         ]
       ],
       "περπατήσουν": [
         [
           "Θα περπατήσουν στην Πλάκα.",
-          "They will walk around Plaka."
+          "They will walk around Plaka.",
+          "Ils marcheront à Plaka."
         ],
         [
           "Θέλουν να περπατήσουν λίγο.",
-          "They want to walk a little."
+          "They want to walk a little.",
+          "Ils veulent marcher un peu."
         ]
       ],
       "γιορτάσουν": [
         [
           "Θα γιορτάσουν τα γενέθλιά της.",
-          "They will celebrate her birthday."
+          "They will celebrate her birthday.",
+          "Ils fêteront son anniversaire."
         ],
         [
           "Πού θα γιορτάσουν το Πάσχα;",
-          "Where will they celebrate Easter?"
+          "Where will they celebrate Easter?",
+          "Où fêteront-ils Pâques ?"
         ]
       ]
     },
@@ -2312,231 +2700,277 @@
       "τοιχογραφία": [
         [
           "Η τοιχογραφία είναι πολύ μεγάλη.",
-          "The mural is very big."
+          "The mural is very big.",
+          "La fresque est très grande."
         ],
         [
           "Βγάζω φωτογραφία την τοιχογραφία.",
-          "I take a photo of the mural."
+          "I take a photo of the mural.",
+          "Je prends la fresque en photo."
         ]
       ],
       "ζωγραφιά": [
         [
           "Το παιδί κάνει μια ζωγραφιά.",
-          "The child is making a drawing."
+          "The child is making a drawing.",
+          "L'enfant fait un dessin."
         ],
         [
           "Η ζωγραφιά είναι στο ψυγείο.",
-          "The drawing is on the fridge."
+          "The drawing is on the fridge.",
+          "Le dessin est sur le frigo."
         ]
       ],
       "τοίχο": [
         [
           "Βάζω ένα ρολόι στον τοίχο.",
-          "I put a clock on the wall."
+          "I put a clock on the wall.",
+          "Je mets une horloge au mur."
         ],
         [
           "Η γάτα κάθεται στον τοίχο.",
-          "The cat is sitting on the wall."
+          "The cat is sitting on the wall.",
+          "Le chat est assis sur le mur."
         ]
       ],
       "γωνία": [
         [
           "Το περίπτερο είναι στη γωνία.",
-          "The kiosk is on the corner."
+          "The kiosk is on the corner.",
+          "Le kiosque est au coin."
         ],
         [
           "Σε περιμένω στη γωνία.",
-          "I'll wait for you at the corner."
+          "I'll wait for you at the corner.",
+          "Je t'attends au coin."
         ]
       ],
       "κτίριο": [
         [
           "Μένω σε ένα ψηλό κτίριο.",
-          "I live in a tall building."
+          "I live in a tall building.",
+          "J'habite dans un grand immeuble."
         ],
         [
           "Το κτίριο έχει ασανσέρ.",
-          "The building has an elevator."
+          "The building has an elevator.",
+          "Le bâtiment a un ascenseur."
         ]
       ],
       "περαστικοί": [
         [
           "Οι περαστικοί κοιτάζουν τη βιτρίνα.",
-          "Passers-by look at the shop window."
+          "Passers-by look at the shop window.",
+          "Les passants regardent la vitrine."
         ],
         [
           "Οι περαστικοί βιάζονται το πρωί.",
-          "Passers-by are in a hurry in the morning."
+          "Passers-by are in a hurry in the morning.",
+          "Les passants sont pressés le matin."
         ]
       ],
       "δέντρο": [
         [
           "Το δέντρο κάνει ωραία σκιά.",
-          "The tree gives nice shade."
+          "The tree gives nice shade.",
+          "L'arbre fait une belle ombre."
         ],
         [
           "Κάθομαι κάτω από ένα δέντρο.",
-          "I sit under a tree."
+          "I sit under a tree.",
+          "Je m'assois sous un arbre."
         ]
       ],
       "λουλούδια": [
         [
           "Αγοράζω λουλούδια για τη μαμά.",
-          "I'm buying flowers for Mom."
+          "I'm buying flowers for Mom.",
+          "J'achète des fleurs pour maman."
         ],
         [
           "Το μπαλκόνι έχει πολλά λουλούδια.",
-          "The balcony has lots of flowers."
+          "The balcony has lots of flowers.",
+          "Le balcon a beaucoup de fleurs."
         ]
       ],
       "ουρανός": [
         [
           "Ο ουρανός είναι γκρίζος σήμερα.",
-          "The sky is gray today."
+          "The sky is gray today.",
+          "Le ciel est gris aujourd'hui."
         ],
         [
           "Το βράδυ ο ουρανός είναι κόκκινος.",
-          "In the evening the sky is red."
+          "In the evening the sky is red.",
+          "Le soir, le ciel est rouge."
         ]
       ],
       "στέκεται": [
         [
           "Ο σερβιτόρος στέκεται στην πόρτα.",
-          "The waiter stands at the door."
+          "The waiter stands at the door.",
+          "Le serveur se tient à la porte."
         ],
         [
           "Η Άννα στέκεται στη στάση και περιμένει.",
-          "Anna stands at the bus stop and waits."
+          "Anna stands at the bus stop and waits.",
+          "Anna se tient à l’arrêt et attend."
         ]
       ],
       "ξυπόλητη": [
         [
           "Η Μαρία περπατάει ξυπόλητη στην άμμο.",
-          "Maria walks barefoot on the sand."
+          "Maria walks barefoot on the sand.",
+          "Maria marche pieds nus dans le sable."
         ],
         [
           "Στο σπίτι είμαι πάντα ξυπόλητη.",
-          "At home I'm always barefoot."
+          "At home I'm always barefoot.",
+          "À la maison, je suis toujours pieds nus."
         ]
       ],
       "όργανο": [
         [
           "Ο Νίκος παίζει ένα όργανο.",
-          "Nikos plays an instrument."
+          "Nikos plays an instrument.",
+          "Nikos joue d'un instrument."
         ],
         [
           "Ποιο όργανο σου αρέσει;",
-          "Which instrument do you like?"
+          "Which instrument do you like?",
+          "Quel instrument te plaît ?"
         ]
       ],
       "αρχαίο": [
         [
           "Βλέπουμε ένα αρχαίο θέατρο.",
-          "We see an ancient theater."
+          "We see an ancient theater.",
+          "Nous voyons un théâtre antique."
         ],
         [
           "Το μουσείο έχει ένα αρχαίο άγαλμα.",
-          "The museum has an ancient statue."
+          "The museum has an ancient statue.",
+          "Le musée a une statue antique."
         ]
       ],
       "ζωγράφος": [
         [
           "Ο ζωγράφος μένει στην Πλάκα.",
-          "The painter lives in Plaka."
+          "The painter lives in Plaka.",
+          "Le peintre habite à Plaka."
         ],
         [
           "Ο ζωγράφος πίνει καφέ στο μπαλκόνι.",
-          "The painter drinks coffee on the balcony."
+          "The painter drinks coffee on the balcony.",
+          "Le peintre boit un café sur le balcon."
         ]
       ],
       "δουλειά": [
         [
           "Η δουλειά μου είναι κοντά.",
-          "My work is close by."
+          "My work is close by.",
+          "Mon travail est tout près."
         ],
         [
           "Πάω στη δουλειά με το μετρό.",
-          "I go to work by metro."
+          "I go to work by metro.",
+          "Je vais au travail en métro."
         ]
       ],
       "κράτησε": [
         [
           "Η ταινία κράτησε δύο ώρες.",
-          "The film lasted two hours."
+          "The film lasted two hours.",
+          "Le film a duré deux heures."
         ],
         [
           "Η βροχή κράτησε όλη τη νύχτα.",
-          "The rain lasted all night."
+          "The rain lasted all night.",
+          "La pluie a duré toute la nuit."
         ]
       ],
       "σκαλωσιές": [
         [
           "Η πολυκατοικία έχει σκαλωσιές.",
-          "The apartment building has scaffolding."
+          "The apartment building has scaffolding.",
+          "L'immeuble a des échafaudages."
         ],
         [
           "Οι εργάτες ανεβαίνουν στις σκαλωσιές.",
-          "The workers climb up the scaffolding."
+          "The workers climb up the scaffolding.",
+          "Les ouvriers montent sur les échafaudages."
         ]
       ],
       "γκρίζοι": [
         [
           "Οι τοίχοι του γραφείου είναι γκρίζοι.",
-          "The office walls are gray."
+          "The office walls are gray.",
+          "Les murs du bureau sont gris."
         ],
         [
           "Οι σκύλοι του γείτονα είναι γκρίζοι.",
-          "The neighbor's dogs are gray."
+          "The neighbor's dogs are gray.",
+          "Les chiens du voisin sont gris."
         ]
       ],
       "άσχημοι": [
         [
           "Αυτοί οι καναπέδες είναι άσχημοι.",
-          "These sofas are ugly."
+          "These sofas are ugly.",
+          "Ces canapés sont laids."
         ],
         [
           "Οι παλιοί δρόμοι ήταν άσχημοι.",
-          "The old streets were ugly."
+          "The old streets were ugly.",
+          "Les vieilles rues étaient laides."
         ]
       ],
       "χρώμα": [
         [
           "Τι χρώμα είναι το αυτοκίνητό σου;",
-          "What color is your car?"
+          "What color is your car?",
+          "De quelle couleur est ta voiture ?"
         ],
         [
           "Το μπλε χρώμα μου αρέσει.",
-          "I like the color blue."
+          "I like the color blue.",
+          "J'aime la couleur bleue."
         ]
       ],
       "ανοίγουν": [
         [
           "Τα μαγαζιά ανοίγουν στις εννιά.",
-          "The shops open at nine."
+          "The shops open at nine.",
+          "Les magasins ouvrent à neuf heures."
         ],
         [
           "Οι φούρνοι ανοίγουν πολύ νωρίς.",
-          "The bakeries open very early."
+          "The bakeries open very early.",
+          "Les boulangeries ouvrent très tôt."
         ]
       ],
       "αλλάζει": [
         [
           "Ο καιρός αλλάζει γρήγορα.",
-          "The weather changes quickly."
+          "The weather changes quickly.",
+          "Le temps change vite."
         ],
         [
           "Η γειτονιά μας αλλάζει πολύ.",
-          "Our neighborhood is changing a lot."
+          "Our neighborhood is changing a lot.",
+          "Notre quartier change beaucoup."
         ]
       ],
       "πίνακα": [
         [
           "Κρεμάω έναν πίνακα στο σαλόνι.",
-          "I hang a painting in the living room."
+          "I hang a painting in the living room.",
+          "J'accroche un tableau au salon."
         ],
         [
           "Βλέπω έναν ωραίο πίνακα στο μουσείο.",
-          "I see a beautiful painting at the museum."
+          "I see a beautiful painting at the museum.",
+          "Je vois un beau tableau au musée."
         ]
       ]
     },
@@ -2586,231 +3020,277 @@
       "άγαλμα": [
         [
           "Το άγαλμα είναι στο μουσείο.",
-          "The statue is in the museum."
+          "The statue is in the museum.",
+          "La statue est au musée."
         ],
         [
           "Βλέπω ένα άγαλμα στο πάρκο.",
-          "I see a statue in the park."
+          "I see a statue in the park.",
+          "Je vois une statue dans le parc."
         ]
       ],
       "γυρίζει": [
         [
           "Η μαμά γυρίζει σπίτι στις έξι.",
-          "Mom gets home at six."
+          "Mom gets home at six.",
+          "Maman rentre à la maison à six heures."
         ],
         [
           "Ο φίλος μου γυρίζει αύριο.",
-          "My friend comes back tomorrow."
+          "My friend comes back tomorrow.",
+          "Mon ami revient demain."
         ]
       ],
       "αγόρι": [
         [
           "Το αγόρι παίζει μπάλα.",
-          "The boy is playing ball."
+          "The boy is playing ball.",
+          "Le garçon joue au ballon."
         ],
         [
           "Ένα αγόρι τρώει παγωτό.",
-          "A boy is eating an ice cream."
+          "A boy is eating an ice cream.",
+          "Un garçon mange une glace."
         ]
       ],
       "στέκεται": [
         [
           "Ο σερβιτόρος στέκεται στην πόρτα.",
-          "The waiter stands at the door."
+          "The waiter stands at the door.",
+          "Le serveur se tient à la porte."
         ],
         [
           "Στο μετρό, η γιαγιά στέκεται.",
-          "On the metro, the grandmother stands."
+          "On the metro, the grandmother stands.",
+          "Dans le métro, la grand-mère reste debout."
         ]
       ],
       "πλατεία": [
         [
           "Πίνουμε καφέ στην πλατεία.",
-          "We have coffee in the square."
+          "We have coffee in the square.",
+          "On boit un café sur la place."
         ],
         [
           "Η πλατεία έχει πολλά δέντρα.",
-          "The square has lots of trees."
+          "The square has lots of trees.",
+          "La place a beaucoup d'arbres."
         ]
       ],
       "ψηλό": [
         [
           "Το σπίτι μας είναι ψηλό.",
-          "Our house is tall."
+          "Our house is tall.",
+          "Notre maison est haute."
         ],
         [
           "Αυτό το δέντρο είναι ψηλό.",
-          "This tree is tall."
+          "This tree is tall.",
+          "Cet arbre est grand."
         ]
       ],
       "μέτρα": [
         [
           "Ο φούρνος είναι εκατό μέτρα μακριά.",
-          "The bakery is a hundred meters away."
+          "The bakery is a hundred meters away.",
+          "La boulangerie est à cent mètres."
         ],
         [
           "Το δωμάτιο έχει τρία μέτρα.",
-          "The room is three meters long."
+          "The room is three meters long.",
+          "La pièce fait trois mètres."
         ]
       ],
       "γλύπτης": [
         [
           "Ο γλύπτης δουλεύει με πέτρα.",
-          "The sculptor works with stone."
+          "The sculptor works with stone.",
+          "Le sculpteur travaille la pierre."
         ],
         [
           "Ο θείος μου είναι γλύπτης.",
-          "My uncle is a sculptor."
+          "My uncle is a sculptor.",
+          "Mon oncle est sculpteur."
         ]
       ],
       "εργαστήριο": [
         [
           "Ο πατέρας μου έχει εργαστήριο.",
-          "My father has a workshop."
+          "My father has a workshop.",
+          "Mon père a un atelier."
         ],
         [
           "Το εργαστήριο κλείνει στις πέντε.",
-          "The workshop closes at five."
+          "The workshop closes at five.",
+          "L'atelier ferme à cinq heures."
         ]
       ],
       "πέρασε": [
         [
           "Το λεωφορείο πέρασε νωρίς.",
-          "The bus came by early."
+          "The bus came by early.",
+          "Le bus est passé tôt."
         ],
         [
           "Η μέρα πέρασε γρήγορα.",
-          "The day went by quickly."
+          "The day went by quickly.",
+          "La journée est passée vite."
         ]
       ],
       "μετέφεραν": [
         [
           "Χθες μετέφεραν τα έπιπλά μας.",
-          "Yesterday they moved our furniture."
+          "Yesterday they moved our furniture.",
+          "Hier, ils ont transporté nos meubles."
         ],
         [
           "Το περίπτερο το μετέφεραν απέναντι.",
-          "They moved the kiosk across the street."
+          "They moved the kiosk across the street.",
+          "Le kiosque, ils l'ont déplacé en face."
         ]
       ],
       "ζημιές": [
         [
           "Η βροχή έκανε ζημιές.",
-          "The rain caused damage."
+          "The rain caused damage.",
+          "La pluie a fait des dégâts."
         ],
         [
           "Το αυτοκίνητο έχει ζημιές.",
-          "The car is damaged."
+          "The car is damaged.",
+          "La voiture a des dégâts."
         ]
       ],
       "φυλαγμένο": [
         [
           "Το κλειδί είναι φυλαγμένο εδώ.",
-          "The key is kept here."
+          "The key is kept here.",
+          "La clé est rangée ici."
         ],
         [
           "Έχω το γλυκό φυλαγμένο για σένα.",
-          "I've saved the dessert for you."
+          "I've saved the dessert for you.",
+          "J'ai gardé le gâteau pour toi."
         ]
       ],
       "περίμενε": [
         [
           "Ο Νίκος περίμενε το τρένο.",
-          "Nikos was waiting for the train."
+          "Nikos was waiting for the train.",
+          "Nikos attendait le train."
         ],
         [
           "Η Μαρία περίμενε στο καφέ.",
-          "Maria was waiting at the café."
+          "Maria was waiting at the café.",
+          "Maria attendait au café."
         ]
       ],
       "κάτοικοι": [
         [
           "Οι κάτοικοι θέλουν περισσότερα πάρκα.",
-          "The residents want more parks."
+          "The residents want more parks.",
+          "Les habitants veulent plus de parcs."
         ],
         [
           "Οι κάτοικοι ψωνίζουν στη λαϊκή.",
-          "The residents shop at the street market."
+          "The residents shop at the street market.",
+          "Les habitants font leurs courses au marché."
         ]
       ],
       "γειτονιάς": [
         [
           "Ο φούρνος της γειτονιάς είναι καλός.",
-          "The neighborhood bakery is good."
+          "The neighborhood bakery is good.",
+          "La boulangerie du quartier est bonne."
         ],
         [
           "Τα παιδιά της γειτονιάς παίζουν.",
-          "The neighborhood kids are playing."
+          "The neighborhood kids are playing.",
+          "Les enfants du quartier jouent."
         ]
       ],
       "πρόσφυγες": [
         [
           "Οι πρόσφυγες ήρθαν με πλοίο.",
-          "The refugees came by boat."
+          "The refugees came by boat.",
+          "Les réfugiés sont arrivés en bateau."
         ],
         [
           "Πολλοί πρόσφυγες μένουν στην Αθήνα.",
-          "Many refugees live in Athens."
+          "Many refugees live in Athens.",
+          "Beaucoup de réfugiés vivent à Athènes."
         ]
       ],
       "θυμίζει": [
         [
           "Αυτό το φαγητό μού θυμίζει τη γιαγιά.",
-          "This food reminds me of my grandmother."
+          "This food reminds me of my grandmother.",
+          "Ce plat me rappelle ma grand-mère."
         ],
         [
           "Η μουσική μού θυμίζει το καλοκαίρι.",
-          "The music reminds me of summer."
+          "The music reminds me of summer.",
+          "La musique me rappelle l'été."
         ]
       ],
       "ζητούσαν": [
         [
           "Τα παιδιά ζητούσαν παγωτό.",
-          "The children were asking for ice cream."
+          "The children were asking for ice cream.",
+          "Les enfants demandaient une glace."
         ],
         [
           "Οι πελάτες ζητούσαν κι άλλο ψωμί.",
-          "The customers were asking for more bread."
+          "The customers were asking for more bread.",
+          "Les clients demandaient encore du pain."
         ]
       ],
       "δήμαρχος": [
         [
           "Ο δήμαρχος μιλάει στην τηλεόραση.",
-          "The mayor is speaking on TV."
+          "The mayor is speaking on TV.",
+          "Le maire parle à la télé."
         ],
         [
           "Ο δήμαρχος ανοίγει ένα νέο πάρκο.",
-          "The mayor is opening a new park."
+          "The mayor is opening a new park.",
+          "Le maire ouvre un nouveau parc."
         ]
       ],
       "ευχαρίστησε": [
         [
           "Ο πελάτης ευχαρίστησε τον σερβιτόρο.",
-          "The customer thanked the waiter."
+          "The customer thanked the waiter.",
+          "Le client a remercié le serveur."
         ],
         [
           "Η Άννα ευχαρίστησε τη φίλη της.",
-          "Anna thanked her friend."
+          "Anna thanked her friend.",
+          "Anna a remercié son amie."
         ]
       ],
       "ανήκει": [
         [
           "Αυτή η τσάντα ανήκει σε μένα.",
-          "This bag belongs to me."
+          "This bag belongs to me.",
+          "Ce sac m'appartient."
         ],
         [
           "Το σκυλί ανήκει στον γείτονα.",
-          "The dog belongs to the neighbor."
+          "The dog belongs to the neighbor.",
+          "Le chien appartient au voisin."
         ]
       ],
       "καθημερινή": [
         [
           "Η καθημερινή βόλτα κάνει καλό.",
-          "A daily walk does you good."
+          "A daily walk does you good.",
+          "La promenade quotidienne fait du bien."
         ],
         [
           "Ο καφές είναι καθημερινή συνήθεια.",
-          "Coffee is a daily habit."
+          "Coffee is a daily habit.",
+          "Le café est une habitude quotidienne."
         ]
       ]
     },
@@ -2859,261 +3339,313 @@
       "ιστορική": [
         [
           "Η Πλάκα είναι μια ιστορική γειτονιά.",
-          "Plaka is a historic neighbourhood."
+          "Plaka is a historic neighbourhood.",
+          "La Plaka est un quartier historique."
         ],
         [
           "Μένω σε μια ιστορική πολυκατοικία.",
-          "I live in a historic apartment building."
+          "I live in a historic apartment building.",
+          "J'habite dans un immeuble historique."
         ]
       ],
       "χιλιάδες": [
         [
           "Κάθε μέρα έρχονται χιλιάδες τουρίστες.",
-          "Thousands of tourists come every day."
+          "Thousands of tourists come every day.",
+          "Chaque jour, des milliers de touristes viennent."
         ],
         [
           "Στη συναυλία ήταν χιλιάδες άνθρωποι.",
-          "There were thousands of people at the concert."
+          "There were thousands of people at the concert.",
+          "Il y avait des milliers de gens au concert."
         ]
       ],
       "περνούν": [
         [
           "Τα λεωφορεία περνούν κάθε δέκα λεπτά.",
-          "The buses pass every ten minutes."
+          "The buses pass every ten minutes.",
+          "Les bus passent toutes les dix minutes."
         ],
         [
           "Οι μέρες περνούν πολύ γρήγορα.",
-          "The days pass very quickly."
+          "The days pass very quickly.",
+          "Les jours passent très vite."
         ]
       ],
       "καινούργια": [
         [
           "Η κουζίνα μας είναι καινούργια.",
-          "Our kitchen is new."
+          "Our kitchen is new.",
+          "Notre cuisine est neuve."
         ],
         [
           "Αγόρασα μια καινούργια τσάντα.",
-          "I bought a new bag."
+          "I bought a new bag.",
+          "J'ai acheté un sac neuf."
         ]
       ],
       "όμορφη": [
         [
           "Η θάλασσα είναι όμορφη σήμερα.",
-          "The sea is beautiful today."
+          "The sea is beautiful today.",
+          "La mer est belle aujourd'hui."
         ],
         [
           "Τι όμορφη μέρα για βόλτα!",
-          "What a beautiful day for a walk!"
+          "What a beautiful day for a walk!",
+          "Quelle belle journée pour se promener !"
         ]
       ],
       "δήμος": [
         [
           "Ο δήμος καθαρίζει τους δρόμους.",
-          "The municipality cleans the streets."
+          "The municipality cleans the streets.",
+          "La mairie nettoie les rues."
         ],
         [
           "Ο δήμος έχει νέα ιστοσελίδα.",
-          "The municipality has a new website."
+          "The municipality has a new website.",
+          "La mairie a un nouveau site internet."
         ]
       ],
       "δουλειές": [
         [
           "Έχω πολλές δουλειές στο σπίτι.",
-          "I have a lot of chores at home."
+          "I have a lot of chores at home.",
+          "J'ai beaucoup de tâches à la maison."
         ],
         [
           "Στον δρόμο μας γίνονται δουλειές.",
-          "There are roadworks on our street."
+          "There are roadworks on our street.",
+          "Il y a des travaux dans notre rue."
         ]
       ],
       "Φύτεψε": [
         [
           "Φύτεψε λουλούδια στο μπαλκόνι.",
-          "He planted flowers on the balcony."
+          "He planted flowers on the balcony.",
+          "Il a planté des fleurs sur le balcon."
         ],
         [
           "Φύτεψε μια λεμονιά στην αυλή.",
-          "She planted a lemon tree in the yard."
+          "She planted a lemon tree in the yard.",
+          "Elle a planté un citronnier dans la cour."
         ]
       ],
       "φυτά": [
         [
           "Ποτίζω τα φυτά κάθε πρωί.",
-          "I water the plants every morning."
+          "I water the plants every morning.",
+          "J'arrose les plantes chaque matin."
         ],
         [
           "Το καφέ έχει πολλά φυτά.",
-          "The café has a lot of plants."
+          "The café has a lot of plants.",
+          "Le café a beaucoup de plantes."
         ]
       ],
       "δέντρα": [
         [
           "Τα δέντρα δίνουν σκιά το καλοκαίρι.",
-          "Trees give shade in the summer."
+          "Trees give shade in the summer.",
+          "Les arbres donnent de l'ombre l'été."
         ],
         [
           "Στο πάρκο υπάρχουν ψηλά δέντρα.",
-          "There are tall trees in the park."
+          "There are tall trees in the park.",
+          "Il y a de grands arbres dans le parc."
         ]
       ],
       "γκαζόν": [
         [
           "Τα παιδιά παίζουν στο γκαζόν.",
-          "The children are playing on the lawn."
+          "The children are playing on the lawn.",
+          "Les enfants jouent sur le gazon."
         ],
         [
           "Μην πατάτε το γκαζόν, παρακαλώ.",
-          "Please don't walk on the grass."
+          "Please don't walk on the grass.",
+          "Ne marchez pas sur le gazon, s'il vous plaît."
         ]
       ],
       "τετραγωνικά": [
         [
           "Το διαμέρισμα έχει εβδομήντα τετραγωνικά.",
-          "The apartment is seventy square metres."
+          "The apartment is seventy square metres.",
+          "L'appartement fait soixante-dix mètres carrés."
         ],
         [
           "Πόσα τετραγωνικά είναι το σπίτι;",
-          "How many square metres is the house?"
+          "How many square metres is the house?",
+          "Combien de mètres carrés fait la maison ?"
         ]
       ],
       "δήμαρχος": [
         [
           "Ο δήμαρχος μιλάει στους δημοσιογράφους.",
-          "The mayor is talking to the journalists."
+          "The mayor is talking to the journalists.",
+          "Le maire parle aux journalistes."
         ],
         [
           "Ο δήμαρχος άνοιξε το νέο πάρκο.",
-          "The mayor opened the new park."
+          "The mayor opened the new park.",
+          "Le maire a ouvert le nouveau parc."
         ]
       ],
       "λέει": [
         [
           "Η γιαγιά λέει ότι θα βρέξει.",
-          "Grandma says it's going to rain."
+          "Grandma says it's going to rain.",
+          "Grand-mère dit qu'il va pleuvoir."
         ],
         [
           "Τι λέει ο καιρός για αύριο;",
-          "What does the forecast say for tomorrow?"
+          "What does the forecast say for tomorrow?",
+          "Que dit la météo pour demain ?"
         ]
       ],
       "άλλαξε": [
         [
           "Η γειτονιά άλλαξε πολύ.",
-          "The neighbourhood has changed a lot."
+          "The neighbourhood has changed a lot.",
+          "Le quartier a beaucoup changé."
         ],
         [
           "Ο καιρός άλλαξε ξαφνικά.",
-          "The weather changed suddenly."
+          "The weather changed suddenly.",
+          "Le temps a changé tout à coup."
         ]
       ],
       "πράσινο": [
         [
           "Η Αθήνα χρειάζεται πιο πολύ πράσινο.",
-          "Athens needs more greenery."
+          "Athens needs more greenery.",
+          "Athènes a besoin de plus de verdure."
         ],
         [
           "Μου αρέσει το πράσινο στην αυλή.",
-          "I like the greenery in the yard."
+          "I like the greenery in the yard.",
+          "J'aime la verdure dans la cour."
         ]
       ],
       "πόλη": [
         [
           "Η πόλη έχει πολλή κίνηση σήμερα.",
-          "The city has a lot of traffic today."
+          "The city has a lot of traffic today.",
+          "La ville a beaucoup de circulation aujourd'hui."
         ],
         [
           "Το βράδυ η πόλη είναι ήσυχη.",
-          "In the evening the city is quiet."
+          "In the evening the city is quiet.",
+          "Le soir, la ville est calme."
         ]
       ],
       "ζωή": [
         [
           "Η ζωή στην Αθήνα είναι ωραία.",
-          "Life in Athens is nice."
+          "Life in Athens is nice.",
+          "La vie à Athènes est belle."
         ],
         [
           "Το καφέ έφερε ζωή στον δρόμο.",
-          "The café brought life to the street."
+          "The café brought life to the street.",
+          "Le café a apporté de la vie dans la rue."
         ]
       ],
       "γειτονιές": [
         [
           "Οι παλιές γειτονιές έχουν στενά δρομάκια.",
-          "The old neighbourhoods have narrow little streets."
+          "The old neighbourhoods have narrow little streets.",
+          "Les vieux quartiers ont des ruelles étroites."
         ],
         [
           "Μου αρέσει να γνωρίζω νέες γειτονιές.",
-          "I like getting to know new neighbourhoods."
+          "I like getting to know new neighbourhoods.",
+          "J'aime découvrir de nouveaux quartiers."
         ]
       ],
       "λιγότερο": [
         [
           "Τώρα τρώω λιγότερο γλυκό.",
-          "Now I eat fewer sweets."
+          "Now I eat fewer sweets.",
+          "Maintenant je mange moins de sucré."
         ],
         [
           "Σήμερα κάνει λιγότερο κρύο.",
-          "It's less cold today."
+          "It's less cold today.",
+          "Aujourd'hui il fait moins froid."
         ]
       ],
       "χρόνια": [
         [
           "Μένω στην Αθήνα εδώ και δύο χρόνια.",
-          "I've been living in Athens for two years."
+          "I've been living in Athens for two years.",
+          "J'habite à Athènes depuis deux ans."
         ],
         [
           "Πριν από δέκα χρόνια ζούσα στο Παρίσι.",
-          "Ten years ago I lived in Paris."
+          "Ten years ago I lived in Paris.",
+          "Il y a dix ans, je vivais à Paris."
         ]
       ],
       "Έφτιαξε": [
         [
           "Έφτιαξε καφέ για όλους.",
-          "He made coffee for everyone."
+          "He made coffee for everyone.",
+          "Il a fait du café pour tout le monde."
         ],
         [
           "Έφτιαξε ένα κέικ για τα γενέθλια.",
-          "She made a cake for the birthday."
+          "She made a cake for the birthday.",
+          "Elle a fait un gâteau pour l'anniversaire."
         ]
       ],
       "πάρκα": [
         [
           "Τα πάρκα είναι γεμάτα την Κυριακή.",
-          "The parks are full on Sundays."
+          "The parks are full on Sundays.",
+          "Les parcs sont pleins le dimanche."
         ],
         [
           "Η Αθήνα χρειάζεται πιο πολλά πάρκα.",
-          "Athens needs more parks."
+          "Athens needs more parks.",
+          "Athènes a besoin de plus de parcs."
         ]
       ],
       "κάτοικοι": [
         [
           "Οι κάτοικοι θέλουν πιο ήσυχους δρόμους.",
-          "The residents want quieter streets."
+          "The residents want quieter streets.",
+          "Les habitants veulent des rues plus calmes."
         ],
         [
           "Οι κάτοικοι του χωριού είναι λίγοι.",
-          "The village has few residents."
+          "The village has few residents.",
+          "Les habitants du village sont peu nombreux."
         ]
       ],
       "επισκέπτες": [
         [
           "Οι επισκέπτες βγάζουν φωτογραφίες στην Ακρόπολη.",
-          "Visitors take photos at the Acropolis."
+          "Visitors take photos at the Acropolis.",
+          "Les visiteurs prennent des photos à l'Acropole."
         ],
         [
           "Το μουσείο έχει πολλούς επισκέπτες.",
-          "The museum has a lot of visitors."
+          "The museum has a lot of visitors.",
+          "Le musée a beaucoup de visiteurs."
         ]
       ],
       "μέρος": [
         [
           "Ξέρω ένα ωραίο μέρος για φαγητό.",
-          "I know a nice place to eat."
+          "I know a nice place to eat.",
+          "Je connais un bon endroit pour manger."
         ],
         [
           "Αυτό το μέρος είναι πολύ ήσυχο.",
-          "This place is very quiet."
+          "This place is very quiet.",
+          "Cet endroit est très calme."
         ]
       ]
     },
@@ -3165,271 +3697,325 @@
       "Κυριακή": [
         [
           "Η Κυριακή είναι ήσυχη μέρα.",
-          "Sunday is a quiet day."
+          "Sunday is a quiet day.",
+          "Le dimanche est un jour calme."
         ],
         [
           "Την Κυριακή πάμε στη θάλασσα.",
-          "On Sunday we go to the sea."
+          "On Sunday we go to the sea.",
+          "Dimanche, on va à la mer."
         ]
       ],
       "ήλιος": [
         [
           "Ο ήλιος καίει σήμερα.",
-          "The sun is scorching today."
+          "The sun is scorching today.",
+          "Le soleil tape fort aujourd'hui."
         ],
         [
           "Ο ήλιος βγαίνει νωρίς.",
-          "The sun comes up early."
+          "The sun comes up early.",
+          "Le soleil se lève tôt."
         ]
       ],
       "γιορτή": [
         [
           "Αύριο έχουμε γιορτή στο σπίτι.",
-          "Tomorrow we're having a party at home."
+          "Tomorrow we're having a party at home.",
+          "Demain, on fait une fête à la maison."
         ],
         [
           "Η γιορτή αρχίζει στις οκτώ.",
-          "The party starts at eight."
+          "The party starts at eight.",
+          "La fête commence à huit heures."
         ]
       ],
       "υγεία": [
         [
           "Η υγεία είναι το πιο σημαντικό.",
-          "Health is the most important thing."
+          "Health is the most important thing.",
+          "La santé, c'est le plus important."
         ],
         [
           "Το περπάτημα κάνει καλό στην υγεία.",
-          "Walking is good for your health."
+          "Walking is good for your health.",
+          "La marche est bonne pour la santé."
         ]
       ],
       "απέναντι": [
         [
           "Ο φούρνος είναι απέναντι.",
-          "The bakery is across the street."
+          "The bakery is across the street.",
+          "La boulangerie est en face."
         ],
         [
           "Μένω απέναντι από το πάρκο.",
-          "I live opposite the park."
+          "I live opposite the park.",
+          "J'habite en face du parc."
         ]
       ],
       "είσοδος": [
         [
           "Η είσοδος είναι δεξιά.",
-          "The entrance is on the right."
+          "The entrance is on the right.",
+          "L'entrée est à droite."
         ],
         [
           "Πού είναι η είσοδος του μετρό;",
-          "Where is the metro entrance?"
+          "Where is the metro entrance?",
+          "Où est l'entrée du métro ?"
         ]
       ],
       "δωρεάν": [
         [
           "Το μουσείο είναι δωρεάν σήμερα.",
-          "The museum is free today."
+          "The museum is free today.",
+          "Le musée est gratuit aujourd'hui."
         ],
         [
           "Το νερό είναι δωρεάν εδώ.",
-          "The water is free here."
+          "The water is free here.",
+          "L'eau est gratuite ici."
         ]
       ],
       "πρωί": [
         [
           "Το πρωί πίνω καφέ.",
-          "In the morning I drink coffee."
+          "In the morning I drink coffee.",
+          "Le matin, je bois un café."
         ],
         [
           "Ξυπνάω νωρίς το πρωί.",
-          "I wake up early in the morning."
+          "I wake up early in the morning.",
+          "Je me réveille tôt le matin."
         ]
       ],
       "τρέχει": [
         [
           "Ο σκύλος τρέχει στο πάρκο.",
-          "The dog is running in the park."
+          "The dog is running in the park.",
+          "Le chien court dans le parc."
         ],
         [
           "Το παιδί τρέχει στο σχολείο.",
-          "The child runs to school."
+          "The child runs to school.",
+          "L'enfant court à l'école."
         ]
       ],
       "περπατάει": [
         [
           "Η γιαγιά περπατάει κάθε πρωί.",
-          "Grandma walks every morning."
+          "Grandma walks every morning.",
+          "Grand-mère marche chaque matin."
         ],
         [
           "Ο Νίκος περπατάει στη δουλειά.",
-          "Nikos walks to work."
+          "Nikos walks to work.",
+          "Nikos va au travail à pied."
         ]
       ],
       "διαδρομή": [
         [
           "Η διαδρομή είναι πολύ ωραία.",
-          "The route is very beautiful."
+          "The route is very beautiful.",
+          "Le parcours est très beau."
         ],
         [
           "Ξέρεις τη διαδρομή για τον Πειραιά;",
-          "Do you know the way to Piraeus?"
+          "Do you know the way to Piraeus?",
+          "Tu connais le trajet pour le Pirée ?"
         ]
       ],
       "χιλιόμετρα": [
         [
           "Η θάλασσα είναι δέκα χιλιόμετρα μακριά.",
-          "The sea is ten kilometres away."
+          "The sea is ten kilometres away.",
+          "La mer est à dix kilomètres."
         ],
         [
           "Περπατάω τρία χιλιόμετρα κάθε μέρα.",
-          "I walk three kilometres every day."
+          "I walk three kilometres every day.",
+          "Je marche trois kilomètres par jour."
         ]
       ],
       "μεγάλοι": [
         [
           "Οι μεγάλοι πίνουν καφέ.",
-          "The adults drink coffee."
+          "The adults drink coffee.",
+          "Les adultes boivent un café."
         ],
         [
           "Οι μεγάλοι μιλάνε, τα παιδιά παίζουν.",
-          "The adults talk, the children play."
+          "The adults talk, the children play.",
+          "Les adultes parlent, les enfants jouent."
         ]
       ],
       "νικητές": [
         [
           "Οι νικητές είναι πολύ χαρούμενοι.",
-          "The winners are very happy."
+          "The winners are very happy.",
+          "Les gagnants sont très contents."
         ],
         [
           "Ποιοι είναι οι νικητές;",
-          "Who are the winners?"
+          "Who are the winners?",
+          "Qui sont les gagnants ?"
         ]
       ],
       "δώρα": [
         [
           "Τα παιδιά ανοίγουν τα δώρα.",
-          "The children open the presents."
+          "The children open the presents.",
+          "Les enfants ouvrent les cadeaux."
         ],
         [
           "Αγοράζω δώρα για τα Χριστούγεννα.",
-          "I buy presents for Christmas."
+          "I buy presents for Christmas.",
+          "J'achète des cadeaux pour Noël."
         ]
       ],
       "βοηθάμε": [
         [
           "Πάντα βοηθάμε τη γιαγιά στην κουζίνα.",
-          "We always help Grandma in the kitchen."
+          "We always help Grandma in the kitchen.",
+          "On aide toujours grand-mère à la cuisine."
         ],
         [
           "Πώς βοηθάμε τον φίλο μας;",
-          "How do we help our friend?"
+          "How do we help our friend?",
+          "Comment aider notre ami ?"
         ]
       ],
       "καρδιά": [
         [
           "Η καρδιά μου χτυπάει γρήγορα.",
-          "My heart is beating fast."
+          "My heart is beating fast.",
+          "Mon cœur bat vite."
         ],
         [
           "Ο παππούς έχει χρυσή καρδιά.",
-          "Grandpa has a heart of gold."
+          "Grandpa has a heart of gold.",
+          "Grand-père a un cœur d'or."
         ]
       ],
       "σταματάει": [
         [
           "Το λεωφορείο σταματάει εδώ.",
-          "The bus stops here."
+          "The bus stops here.",
+          "Le bus s'arrête ici."
         ],
         [
           "Η βροχή σταματάει το απόγευμα.",
-          "The rain stops in the afternoon."
+          "The rain stops in the afternoon.",
+          "La pluie s'arrête l'après-midi."
         ]
       ],
       "μαθαίνει": [
         [
           "Η Μαρία μαθαίνει ελληνικά.",
-          "Maria is learning Greek."
+          "Maria is learning Greek.",
+          "Maria apprend le grec."
         ],
         [
           "Το παιδί μαθαίνει ποδήλατο.",
-          "The child is learning to ride a bike."
+          "The child is learning to ride a bike.",
+          "L'enfant apprend le vélo."
         ]
       ],
       "στήθος": [
         [
           "Με πονάει το στήθος μου.",
-          "My chest hurts."
+          "My chest hurts.",
+          "J'ai mal à la poitrine."
         ],
         [
           "Βάζω το χέρι στο στήθος.",
-          "I put my hand on my chest."
+          "I put my hand on my chest.",
+          "Je mets la main sur la poitrine."
         ]
       ],
       "μιλάνε": [
         [
           "Οι φίλοι μιλάνε στην καφετέρια.",
-          "The friends are talking in the café."
+          "The friends are talking in the café.",
+          "Les amis parlent au café."
         ],
         [
           "Τα παιδιά μιλάνε πολύ δυνατά.",
-          "The children talk very loudly."
+          "The children talk very loudly.",
+          "Les enfants parlent très fort."
         ]
       ],
       "φαγητό": [
         [
           "Το φαγητό είναι έτοιμο.",
-          "The food is ready."
+          "The food is ready.",
+          "Le repas est prêt."
         ],
         [
           "Το φαγητό εδώ είναι νόστιμο.",
-          "The food here is delicious."
+          "The food here is delicious.",
+          "La nourriture ici est délicieuse."
         ]
       ],
       "ύπνο": [
         [
           "Χρειάζομαι πολύ ύπνο.",
-          "I need a lot of sleep."
+          "I need a lot of sleep.",
+          "J'ai besoin de beaucoup de sommeil."
         ],
         [
           "Μετά το φαγητό θέλω ύπνο.",
-          "After eating I feel sleepy."
+          "After eating I feel sleepy.",
+          "Après le repas, j'ai sommeil."
         ]
       ],
       "γυμναστική": [
         [
           "Κάνω γυμναστική κάθε πρωί.",
-          "I exercise every morning."
+          "I exercise every morning.",
+          "Je fais du sport chaque matin."
         ],
         [
           "Η γυμναστική μού κάνει καλό.",
-          "Exercise does me good."
+          "Exercise does me good.",
+          "L'exercice me fait du bien."
         ]
       ],
       "ερωτήσεις": [
         [
           "Έχω δύο ερωτήσεις.",
-          "I have two questions."
+          "I have two questions.",
+          "J'ai deux questions."
         ],
         [
           "Ο μαθητής κάνει πολλές ερωτήσεις.",
-          "The student asks a lot of questions."
+          "The student asks a lot of questions.",
+          "L'élève pose beaucoup de questions."
         ]
       ],
       "χαμόγελα": [
         [
           "Βλέπω πολλά χαμόγελα στον δρόμο.",
-          "I see a lot of smiles in the street."
+          "I see a lot of smiles in the street.",
+          "Je vois beaucoup de sourires dans la rue."
         ],
         [
           "Τα παιδιά φέρνουν χαμόγελα.",
-          "Children bring smiles."
+          "Children bring smiles.",
+          "Les enfants apportent des sourires."
         ]
       ],
       "γελάνε": [
         [
           "Οι φίλοι γελάνε στο τραπέζι.",
-          "The friends are laughing at the table."
+          "The friends are laughing at the table.",
+          "Les amis rient à table."
         ],
         [
           "Τα παιδιά γελάνε στην παραλία.",
-          "The children are laughing on the beach."
+          "The children are laughing on the beach.",
+          "Les enfants rient à la plage."
         ]
       ]
     },
@@ -3481,251 +4067,301 @@
       "γιορτή": [
         [
           "Αύριο έχουμε γιορτή στο σχολείο.",
-          "Tomorrow we have a celebration at school."
+          "Tomorrow we have a celebration at school.",
+          "Demain, il y a une fête à l'école."
         ],
         [
           "Η γιορτή της γιαγιάς είναι σήμερα.",
-          "Today is Grandma's name day."
+          "Today is Grandma's name day.",
+          "C'est la fête de mamie aujourd'hui."
         ]
       ],
       "εθνική": [
         [
           "Η εθνική ομάδα παίζει απόψε.",
-          "The national team plays tonight."
+          "The national team plays tonight.",
+          "L'équipe nationale joue ce soir."
         ],
         [
           "Σήμερα είναι εθνική αργία.",
-          "Today is a national holiday."
+          "Today is a national holiday.",
+          "Aujourd'hui, c'est un jour férié national."
         ]
       ],
       "μουσεία": [
         [
           "Τα μουσεία κλείνουν νωρίς σήμερα.",
-          "The museums close early today."
+          "The museums close early today.",
+          "Les musées ferment tôt aujourd'hui."
         ],
         [
           "Η Αθήνα έχει πολλά μουσεία.",
-          "Athens has a lot of museums."
+          "Athens has a lot of museums.",
+          "Athènes a beaucoup de musées."
         ]
       ],
       "δωρεάν": [
         [
           "Ο καφές είναι δωρεάν σήμερα.",
-          "The coffee is free today."
+          "The coffee is free today.",
+          "Le café est gratuit aujourd'hui."
         ],
         [
           "Το ίντερνετ εδώ είναι δωρεάν.",
-          "The internet here is free."
+          "The internet here is free.",
+          "Internet est gratuit ici."
         ]
       ],
       "εισιτήριο": [
         [
           "Αγόρασα εισιτήριο για το μετρό.",
-          "I bought a ticket for the metro."
+          "I bought a ticket for the metro.",
+          "J'ai acheté un ticket pour le métro."
         ],
         [
           "Πόσο κάνει ένα εισιτήριο;",
-          "How much is a ticket?"
+          "How much is a ticket?",
+          "Combien coûte un billet ?"
         ]
       ],
       "είσοδος": [
         [
           "Η είσοδος είναι από πίσω.",
-          "The entrance is at the back."
+          "The entrance is at the back.",
+          "L'entrée est derrière."
         ],
         [
           "Πού είναι η είσοδος του σταθμού;",
-          "Where is the station entrance?"
+          "Where is the station entrance?",
+          "Où est l'entrée de la station ?"
         ]
       ],
       "αρχαίους": [
         [
           "Είδαμε αρχαίους ναούς στην Αθήνα.",
-          "We saw ancient temples in Athens."
+          "We saw ancient temples in Athens.",
+          "Nous avons vu des temples antiques à Athènes."
         ],
         [
           "Διαβάζω για αρχαίους θεούς.",
-          "I'm reading about the ancient gods."
+          "I'm reading about the ancient gods.",
+          "Je lis sur les dieux antiques."
         ]
       ],
       "μνημεία": [
         [
           "Η πόλη έχει όμορφα μνημεία.",
-          "The city has beautiful monuments."
+          "The city has beautiful monuments.",
+          "La ville a de beaux monuments."
         ],
         [
           "Οι τουρίστες φωτογραφίζουν τα μνημεία.",
-          "The tourists photograph the monuments."
+          "The tourists photograph the monuments.",
+          "Les touristes photographient les monuments."
         ]
       ],
       "ανήκουν": [
         [
           "Αυτά τα κλειδιά ανήκουν σε μένα.",
-          "These keys belong to me."
+          "These keys belong to me.",
+          "Ces clés m'appartiennent."
         ],
         [
           "Τα βιβλία ανήκουν στη βιβλιοθήκη.",
-          "The books belong to the library."
+          "The books belong to the library.",
+          "Les livres appartiennent à la bibliothèque."
         ]
       ],
       "κράτος": [
         [
           "Το κράτος πληρώνει τους δασκάλους.",
-          "The state pays the teachers."
+          "The state pays the teachers.",
+          "L'État paie les enseignants."
         ],
         [
           "Το κράτος φτιάχνει νέο δρόμο.",
-          "The state is building a new road."
+          "The state is building a new road.",
+          "L'État construit une nouvelle route."
         ]
       ],
       "διαφορετικό": [
         [
           "Θέλω ένα διαφορετικό χρώμα.",
-          "I want a different colour."
+          "I want a different colour.",
+          "Je veux une couleur différente."
         ],
         [
           "Το σπίτι είναι διαφορετικό τώρα.",
-          "The house is different now."
+          "The house is different now.",
+          "La maison est différente maintenant."
         ]
       ],
       "συμμετέχει": [
         [
           "Η Μαρία συμμετέχει στον αγώνα.",
-          "Maria is taking part in the race."
+          "Maria is taking part in the race.",
+          "Maria participe à la course."
         ],
         [
           "Όλη η τάξη συμμετέχει στη γιορτή.",
-          "The whole class is taking part in the celebration."
+          "The whole class is taking part in the celebration.",
+          "Toute la classe participe à la fête."
         ]
       ],
       "ανοιχτό": [
         [
           "Το περίπτερο είναι ανοιχτό όλη νύχτα.",
-          "The kiosk is open all night."
+          "The kiosk is open all night.",
+          "Le kiosque est ouvert toute la nuit."
         ],
         [
           "Είναι ανοιχτό το φαρμακείο;",
-          "Is the pharmacy open?"
+          "Is the pharmacy open?",
+          "La pharmacie est-elle ouverte ?"
         ]
       ],
       "μέρες": [
         [
           "Έμεινα τρεις μέρες στη Νάξο.",
-          "I stayed three days on Naxos."
+          "I stayed three days on Naxos.",
+          "Je suis resté trois jours à Naxos."
         ],
         [
           "Οι μέρες είναι πιο μικρές τώρα.",
-          "The days are shorter now."
+          "The days are shorter now.",
+          "Les jours sont plus courts maintenant."
         ]
       ],
       "Νοέμβριο": [
         [
           "Θα ταξιδέψω τον Νοέμβριο.",
-          "I'll travel in November."
+          "I'll travel in November.",
+          "Je voyagerai en novembre."
         ],
         [
           "Τον Νοέμβριο βρέχει πολύ.",
-          "It rains a lot in November."
+          "It rains a lot in November.",
+          "En novembre, il pleut beaucoup."
         ]
       ],
       "Μάρτιο": [
         [
           "Τα γενέθλιά μου είναι τον Μάρτιο.",
-          "My birthday is in March."
+          "My birthday is in March.",
+          "Mon anniversaire est en mars."
         ],
         [
           "Τον Μάρτιο ανθίζουν τα δέντρα.",
-          "The trees blossom in March."
+          "The trees blossom in March.",
+          "En mars, les arbres fleurissent."
         ]
       ],
       "Κυριακές": [
         [
           "Τις Κυριακές τρώμε με τη γιαγιά.",
-          "On Sundays we eat with Grandma."
+          "On Sundays we eat with Grandma.",
+          "Le dimanche, on mange avec mamie."
         ],
         [
           "Οι Κυριακές είναι ήσυχες εδώ.",
-          "Sundays are quiet here."
+          "Sundays are quiet here.",
+          "Les dimanches sont calmes ici."
         ]
       ],
       "πρώτη": [
         [
           "Είναι η πρώτη μου μέρα εδώ.",
-          "It's my first day here."
+          "It's my first day here.",
+          "C'est mon premier jour ici."
         ],
         [
           "Η πρώτη στάση είναι το Σύνταγμα.",
-          "The first stop is Syntagma."
+          "The first stop is Syntagma.",
+          "Le premier arrêt est Syntagma."
         ]
       ],
       "τρίτη": [
         [
           "Πάρε την τρίτη στροφή αριστερά.",
-          "Take the third turning on the left."
+          "Take the third turning on the left.",
+          "Prends la troisième rue à gauche."
         ],
         [
           "Είναι η τρίτη μου φορά στην Κρήτη.",
-          "It's my third time in Crete."
+          "It's my third time in Crete.",
+          "C'est la troisième fois que je vais en Crète."
         ]
       ],
       "οικογένεια": [
         [
           "Πάμε διακοπές με την οικογένεια.",
-          "We're going on holiday with the family."
+          "We're going on holiday with the family.",
+          "Nous partons en vacances en famille."
         ],
         [
           "Η οικογένεια τρώει μαζί κάθε βράδυ.",
-          "The family eats together every evening."
+          "The family eats together every evening.",
+          "La famille dîne ensemble chaque soir."
         ]
       ],
       "φίλους": [
         [
           "Βγαίνω για καφέ με φίλους.",
-          "I'm going out for coffee with friends."
+          "I'm going out for coffee with friends.",
+          "Je sors prendre un café avec des amis."
         ],
         [
           "Έχω πολλούς φίλους στην Αθήνα.",
-          "I have a lot of friends in Athens."
+          "I have a lot of friends in Athens.",
+          "J'ai beaucoup d'amis à Athènes."
         ]
       ],
       "ωραία": [
         [
           "Τι ωραία μέρα σήμερα!",
-          "What a nice day today!"
+          "What a nice day today!",
+          "Quelle belle journée aujourd'hui !"
         ],
         [
           "Η Πλάκα είναι πολύ ωραία γειτονιά.",
-          "Plaka is a very nice neighbourhood."
+          "Plaka is a very nice neighbourhood.",
+          "La Plaka est un très beau quartier."
         ]
       ],
       "ευκαιρία": [
         [
           "Είναι καλή ευκαιρία για ταξίδι.",
-          "It's a good opportunity for a trip."
+          "It's a good opportunity for a trip.",
+          "C'est une bonne occasion de voyager."
         ],
         [
           "Μη χάσεις αυτή την ευκαιρία!",
-          "Don't miss this opportunity!"
+          "Don't miss this opportunity!",
+          "Ne rate pas cette occasion !"
         ]
       ],
       "βόλτα": [
         [
           "Πάμε βόλτα στο πάρκο;",
-          "Shall we go for a walk in the park?"
+          "Shall we go for a walk in the park?",
+          "On va se promener au parc ?"
         ],
         [
           "Κάνω βόλτα με τον σκύλο.",
-          "I go for a walk with the dog."
+          "I go for a walk with the dog.",
+          "Je me promène avec le chien."
         ]
       ],
       "ιστορία": [
         [
           "Μου αρέσει η ιστορία της πόλης.",
-          "I like the history of the city."
+          "I like the history of the city.",
+          "J'aime l'histoire de la ville."
         ],
         [
           "Ο παππούς λέει μια ιστορία.",
-          "Grandpa is telling a story."
+          "Grandpa is telling a story.",
+          "Grand-père raconte une histoire."
         ]
       ]
     },
@@ -3776,251 +4412,301 @@
       "φούρνος": [
         [
           "Ο φούρνος ανοίγει στις επτά.",
-          "The bakery opens at seven."
+          "The bakery opens at seven.",
+          "La boulangerie ouvre à sept heures."
         ],
         [
           "Πού είναι ο φούρνος;",
-          "Where is the bakery?"
+          "Where is the bakery?",
+          "Où est la boulangerie ?"
         ]
       ],
       "γωνία": [
         [
           "Το περίπτερο είναι στη γωνία.",
-          "The kiosk is on the corner."
+          "The kiosk is on the corner.",
+          "Le kiosque est au coin."
         ],
         [
           "Σε περιμένω στη γωνία.",
-          "I'll wait for you on the corner."
+          "I'll wait for you on the corner.",
+          "Je t'attends au coin."
         ]
       ],
       "παράθυρα": [
         [
           "Άνοιξε τα παράθυρα, παρακαλώ.",
-          "Open the windows, please."
+          "Open the windows, please.",
+          "Ouvre les fenêtres, s'il te plaît."
         ],
         [
           "Τα παράθυρα είναι βρόμικα.",
-          "The windows are dirty."
+          "The windows are dirty.",
+          "Les fenêtres sont sales."
         ]
       ],
       "αδέρφια": [
         [
           "Έχω δύο αδέρφια.",
-          "I have two siblings."
+          "I have two siblings.",
+          "J'ai deux frères et sœurs."
         ],
         [
           "Τα αδέρφια μου μένουν στον Πειραιά.",
-          "My brothers live in Piraeus."
+          "My brothers live in Piraeus.",
+          "Mes frères habitent au Pirée."
         ]
       ],
       "μετακόμισαν": [
         [
           "Οι φίλοι μου μετακόμισαν στο Παγκράτι.",
-          "My friends moved to Pagrati."
+          "My friends moved to Pagrati.",
+          "Mes amis ont déménagé à Pagrati."
         ],
         [
           "Πότε μετακόμισαν οι γείτονες;",
-          "When did the neighbours move?"
+          "When did the neighbours move?",
+          "Quand les voisins ont-ils déménagé ?"
         ]
       ],
       "πατρίδας": [
         [
           "Μου λείπει το φαγητό της πατρίδας.",
-          "I miss the food from my homeland."
+          "I miss the food from my homeland.",
+          "La nourriture de mon pays me manque."
         ],
         [
           "Ακούω τραγούδια της πατρίδας μου.",
-          "I listen to songs from my homeland."
+          "I listen to songs from my homeland.",
+          "J'écoute des chansons de mon pays."
         ]
       ],
       "αποφάσισαν": [
         [
           "Αποφάσισαν να πάνε με το μετρό.",
-          "They decided to take the metro."
+          "They decided to take the metro.",
+          "Ils ont décidé de prendre le métro."
         ],
         [
           "Οι γονείς μου αποφάσισαν να μείνουν.",
-          "My parents decided to stay."
+          "My parents decided to stay.",
+          "Mes parents ont décidé de rester."
         ]
       ],
       "είδη": [
         [
           "Το καφέ έχει πολλά είδη τσαγιού.",
-          "The café has many kinds of tea."
+          "The café has many kinds of tea.",
+          "Le café a plusieurs sortes de thé."
         ],
         [
           "Αγόρασα δύο είδη τυριού.",
-          "I bought two kinds of cheese."
+          "I bought two kinds of cheese.",
+          "J'ai acheté deux sortes de fromage."
         ]
       ],
       "μαύρο": [
         [
           "Θέλω ένα μαύρο παλτό.",
-          "I want a black coat."
+          "I want a black coat.",
+          "Je veux un manteau noir."
         ],
         [
           "Πίνω τον καφέ μαύρο.",
-          "I drink my coffee black."
+          "I drink my coffee black.",
+          "Je bois mon café noir."
         ]
       ],
       "σίκαλη": [
         [
           "Το ψωμί από σίκαλη είναι υγιεινό.",
-          "Rye bread is healthy."
+          "Rye bread is healthy.",
+          "Le pain de seigle est sain."
         ],
         [
           "Ψάχνω αλεύρι από σίκαλη.",
-          "I'm looking for rye flour."
+          "I'm looking for rye flour.",
+          "Je cherche de la farine de seigle."
         ]
       ],
       "ψωμάκια": [
         [
           "Πάρε έξι ψωμάκια, σε παρακαλώ.",
-          "Get six bread rolls, please."
+          "Get six bread rolls, please.",
+          "Prends six petits pains, s'il te plaît."
         ],
         [
           "Τα ψωμάκια είναι ακόμα ζεστά.",
-          "The rolls are still warm."
+          "The rolls are still warm.",
+          "Les petits pains sont encore chauds."
         ]
       ],
       "πρωινό": [
         [
           "Τι τρως για πρωινό;",
-          "What do you eat for breakfast?"
+          "What do you eat for breakfast?",
+          "Qu'est-ce que tu manges au petit-déjeuner ?"
         ],
         [
           "Το πρωινό είναι έτοιμο!",
-          "Breakfast is ready!"
+          "Breakfast is ready!",
+          "Le petit-déjeuner est prêt !"
         ]
       ],
       "αλεύρι": [
         [
           "Δεν έχουμε άλλο αλεύρι.",
-          "We're out of flour."
+          "We're out of flour.",
+          "On n'a plus de farine."
         ],
         [
           "Βάλε λίγο αλεύρι στο τραπέζι.",
-          "Put a little flour on the table."
+          "Put a little flour on the table.",
+          "Mets un peu de farine sur la table."
         ]
       ],
       "μύλο": [
         [
           "Στο χωριό είδαμε έναν παλιό μύλο.",
-          "In the village we saw an old mill."
+          "In the village we saw an old mill.",
+          "Au village, on a vu un vieux moulin."
         ],
         [
           "Ο παππούς είχε έναν μύλο.",
-          "Grandpa had a mill."
+          "Grandpa had a mill.",
+          "Le grand-père avait un moulin."
         ]
       ],
       "βιολογικό": [
         [
           "Αγοράζω βιολογικό γάλα.",
-          "I buy organic milk."
+          "I buy organic milk.",
+          "J'achète du lait bio."
         ],
         [
           "Αυτό το λάδι είναι βιολογικό.",
-          "This oil is organic."
+          "This oil is organic.",
+          "Cette huile est bio."
         ]
       ],
       "ζυμάρι": [
         [
           "Το ζυμάρι για την πίτσα είναι έτοιμο.",
-          "The pizza dough is ready."
+          "The pizza dough is ready.",
+          "La pâte à pizza est prête."
         ],
         [
           "Τα παιδιά παίζουν με το ζυμάρι.",
-          "The children are playing with the dough."
+          "The children are playing with the dough.",
+          "Les enfants jouent avec la pâte."
         ]
       ],
       "ώρες": [
         [
           "Δουλεύω οκτώ ώρες τη μέρα.",
-          "I work eight hours a day."
+          "I work eight hours a day.",
+          "Je travaille huit heures par jour."
         ],
         [
           "Περιμέναμε δύο ώρες στο λιμάνι.",
-          "We waited two hours at the port."
+          "We waited two hours at the port.",
+          "On a attendu deux heures au port."
         ]
       ],
       "μυρωδιά": [
         [
           "Τι ωραία μυρωδιά έχει ο καφές!",
-          "What a lovely smell the coffee has!"
+          "What a lovely smell the coffee has!",
+          "Comme le café sent bon !"
         ],
         [
           "Δεν μου αρέσει αυτή η μυρωδιά.",
-          "I don't like this smell."
+          "I don't like this smell.",
+          "Je n'aime pas cette odeur."
         ]
       ],
       "τραγανή": [
         [
           "Η πίτα είναι ζεστή και τραγανή.",
-          "The pie is warm and crispy."
+          "The pie is warm and crispy.",
+          "La tourte est chaude et croustillante."
         ],
         [
           "Μου αρέσει η τραγανή πατάτα.",
-          "I like crispy potatoes."
+          "I like crispy potatoes.",
+          "J'aime la pomme de terre croustillante."
         ]
       ],
       "κόρα": [
         [
           "Η κόρα του ψωμιού είναι σκληρή.",
-          "The bread crust is hard."
+          "The bread crust is hard.",
+          "La croûte du pain est dure."
         ],
         [
           "Το παιδί δεν τρώει την κόρα.",
-          "The child doesn't eat the crust."
+          "The child doesn't eat the crust.",
+          "L'enfant ne mange pas la croûte."
         ]
       ],
       "τελειώσει": [
         [
           "Πες μου όταν τελειώσει η ταινία.",
-          "Tell me when the film ends."
+          "Tell me when the film ends.",
+          "Dis-moi quand le film sera fini."
         ],
         [
           "Όταν τελειώσει το μάθημα, πάμε για καφέ.",
-          "When the lesson is over, we'll go for a coffee."
+          "When the lesson is over, we'll go for a coffee.",
+          "Quand le cours sera fini, on va prendre un café."
         ]
       ],
       "ανοιχτός": [
         [
           "Ο φούρνος της γειτονιάς είναι ανοιχτός.",
-          "The neighbourhood bakery is open."
+          "The neighbourhood bakery is open.",
+          "La boulangerie du quartier est ouverte."
         ],
         [
           "Ο σταθμός είναι ανοιχτός όλη νύχτα.",
-          "The station is open all night."
+          "The station is open all night.",
+          "La station est ouverte toute la nuit."
         ]
       ],
       "βράδυ": [
         [
           "Το βράδυ βλέπω τηλεόραση.",
-          "In the evening I watch TV."
+          "In the evening I watch TV.",
+          "Le soir, je regarde la télé."
         ],
         [
           "Τα λέμε αύριο το βράδυ!",
-          "See you tomorrow evening!"
+          "See you tomorrow evening!",
+          "On se voit demain soir !"
         ]
       ],
       "αργά": [
         [
           "Μίλα πιο αργά, παρακαλώ.",
-          "Speak more slowly, please."
+          "Speak more slowly, please.",
+          "Parle plus lentement, s'il te plaît."
         ],
         [
           "Ο παππούς περπατάει αργά.",
-          "Grandpa walks slowly."
+          "Grandpa walks slowly.",
+          "Le grand-père marche lentement."
         ]
       ],
       "σωστά": [
         [
           "Το έγραψες σωστά!",
-          "You wrote it correctly!"
+          "You wrote it correctly!",
+          "Tu l'as écrit correctement !"
         ],
         [
           "Δεν το κάνω σωστά.",
-          "I'm not doing it right."
+          "I'm not doing it right.",
+          "Je ne le fais pas correctement."
         ]
       ]
     },
@@ -4071,281 +4757,337 @@
       "γιορτή": [
         [
           "Αύριο έχουμε γιορτή στο σχολείο.",
-          "Tomorrow we have a celebration at school."
+          "Tomorrow we have a celebration at school.",
+          "Demain, on a une fête à l'école."
         ],
         [
           "Η γιορτή της γιαγιάς είναι σήμερα.",
-          "Today is Grandma's name day."
+          "Today is Grandma's name day.",
+          "La fête de mamie, c'est aujourd'hui."
         ]
       ],
       "νύχτες": [
         [
           "Οι νύχτες είναι πιο κρύες τώρα.",
-          "The nights are colder now."
+          "The nights are colder now.",
+          "Les nuits sont plus froides maintenant."
         ],
         [
           "Τις νύχτες κοιμάμαι με κουβέρτα.",
-          "At night I sleep with a blanket."
+          "At night I sleep with a blanket.",
+          "Les nuits, je dors avec une couverture."
         ]
       ],
       "κτίριο": [
         [
           "Το κτίριο έχει έξι ορόφους.",
-          "The building has six floors."
+          "The building has six floors.",
+          "L'immeuble a six étages."
         ],
         [
           "Αυτό το κτίριο είναι πολύ παλιό.",
-          "This building is very old."
+          "This building is very old.",
+          "Ce bâtiment est très vieux."
         ]
       ],
       "εισιτήριο": [
         [
           "Αγόρασα εισιτήριο για το μετρό.",
-          "I bought a ticket for the metro."
+          "I bought a ticket for the metro.",
+          "J'ai acheté un billet pour le métro."
         ],
         [
           "Το εισιτήριο είναι στην τσάντα μου.",
-          "The ticket is in my bag."
+          "The ticket is in my bag.",
+          "Le billet est dans mon sac."
         ]
       ],
       "κοστίζει": [
         [
           "Πόσο κοστίζει ο καφές;",
-          "How much does the coffee cost?"
+          "How much does the coffee cost?",
+          "Combien coûte le café ?"
         ],
         [
           "Το ψωμί κοστίζει ένα ευρώ.",
-          "The bread costs one euro."
+          "The bread costs one euro.",
+          "Le pain coûte un euro."
         ]
       ],
       "έκθεση": [
         [
           "Πάμε σε μια έκθεση το Σάββατο;",
-          "Shall we go to an exhibition on Saturday?"
+          "Shall we go to an exhibition on Saturday?",
+          "On va à une exposition samedi ?"
         ],
         [
           "Η έκθεση είναι στο Σύνταγμα.",
-          "The exhibition is in Syntagma."
+          "The exhibition is in Syntagma.",
+          "L'exposition est à Syntagma."
         ]
       ],
       "ζωγραφιές": [
         [
           "Το παιδί κάνει ωραίες ζωγραφιές.",
-          "The child makes lovely drawings."
+          "The child makes lovely drawings.",
+          "L'enfant fait de beaux dessins."
         ],
         [
           "Βάλαμε τις ζωγραφιές στον τοίχο.",
-          "We put the drawings on the wall."
+          "We put the drawings on the wall.",
+          "On a mis les dessins au mur."
         ]
       ],
       "καλλιτέχνες": [
         [
           "Στην Πλάκα δουλεύουν πολλοί καλλιτέχνες.",
-          "Many artists work in Plaka."
+          "Many artists work in Plaka.",
+          "Beaucoup d'artistes travaillent à Plaka."
         ],
         [
           "Οι καλλιτέχνες ζωγραφίζουν στον δρόμο.",
-          "The artists paint in the street."
+          "The artists paint in the street.",
+          "Les artistes peignent dans la rue."
         ]
       ],
       "ταινίες": [
         [
           "Μου αρέσουν οι ελληνικές ταινίες.",
-          "I like Greek films."
+          "I like Greek films.",
+          "J'aime les films grecs."
         ],
         [
           "Το βράδυ βλέπουμε ταινίες στο σπίτι.",
-          "In the evening we watch films at home."
+          "In the evening we watch films at home.",
+          "Le soir, on regarde des films à la maison."
         ]
       ],
       "μουσείο": [
         [
           "Το μουσείο ανοίγει στις εννιά.",
-          "The museum opens at nine."
+          "The museum opens at nine.",
+          "Le musée ouvre à neuf heures."
         ],
         [
           "Πάμε στο μουσείο με τα παιδιά.",
-          "We're going to the museum with the children."
+          "We're going to the museum with the children.",
+          "On va au musée avec les enfants."
         ]
       ],
       "τρομακτικές": [
         [
           "Δεν βλέπω τρομακτικές ταινίες.",
-          "I don't watch scary films."
+          "I don't watch scary films.",
+          "Je ne regarde pas de films effrayants."
         ],
         [
           "Οι μάσκες είναι πολύ τρομακτικές.",
-          "The masks are very scary."
+          "The masks are very scary.",
+          "Les masques sont très effrayants."
         ]
       ],
       "φιγούρες": [
         [
           "Ο γιος μου μαζεύει μικρές φιγούρες.",
-          "My son collects little figures."
+          "My son collects little figures.",
+          "Mon fils collectionne de petites figurines."
         ],
         [
           "Οι φιγούρες είναι στο ράφι.",
-          "The figures are on the shelf."
+          "The figures are on the shelf.",
+          "Les figurines sont sur l'étagère."
         ]
       ],
       "αγορά": [
         [
           "Η λαϊκή αγορά είναι κάθε Τρίτη.",
-          "The farmers' market is every Tuesday."
+          "The farmers' market is every Tuesday.",
+          "Le marché a lieu chaque mardi."
         ],
         [
           "Πάω στην αγορά για φρούτα.",
-          "I'm going to the market for fruit."
+          "I'm going to the market for fruit.",
+          "Je vais au marché pour des fruits."
         ]
       ],
       "μαγαζιά": [
         [
           "Τα μαγαζιά κλείνουν στις εννιά.",
-          "The shops close at nine."
+          "The shops close at nine.",
+          "Les magasins ferment à neuf heures."
         ],
         [
           "Στην Ερμού έχει πολλά μαγαζιά.",
-          "There are lots of shops on Ermou Street."
+          "There are lots of shops on Ermou Street.",
+          "Rue Ermou, il y a beaucoup de boutiques."
         ]
       ],
       "σκαλίσουν": [
         [
           "Τα παιδιά θέλουν να σκαλίσουν ξύλο.",
-          "The children want to carve wood."
+          "The children want to carve wood.",
+          "Les enfants veulent sculpter du bois."
         ],
         [
           "Θα σκαλίσουν το όνομά τους.",
-          "They will carve their names."
+          "They will carve their names.",
+          "Ils vont graver leur nom."
         ]
       ],
       "κολοκύθες": [
         [
           "Στη λαϊκή έχει μεγάλες κολοκύθες.",
-          "There are big pumpkins at the farmers' market."
+          "There are big pumpkins at the farmers' market.",
+          "Au marché, il y a de grosses citrouilles."
         ],
         [
           "Οι κολοκύθες είναι πορτοκαλί.",
-          "Pumpkins are orange."
+          "Pumpkins are orange.",
+          "Les citrouilles sont orange."
         ]
       ],
       "ραβδιά": [
         [
           "Τα ραβδιά είναι από ξύλο.",
-          "The wands are made of wood."
+          "The wands are made of wood.",
+          "Les baguettes sont en bois."
         ],
         [
           "Οι μάγοι κρατάνε ραβδιά.",
-          "Wizards hold wands."
+          "Wizards hold wands.",
+          "Les magiciens tiennent des baguettes."
         ]
       ],
       "παιχνίδια": [
         [
           "Τα παιχνίδια είναι στο κουτί.",
-          "The toys are in the box."
+          "The toys are in the box.",
+          "Les jouets sont dans la boîte."
         ],
         [
           "Παίζουμε παιχνίδια στο καφέ.",
-          "We play games at the café."
+          "We play games at the café.",
+          "On joue à des jeux au café."
         ]
       ],
       "στολές": [
         [
           "Οι στολές είναι στη ντουλάπα.",
-          "The costumes are in the wardrobe."
+          "The costumes are in the wardrobe.",
+          "Les costumes sont dans l'armoire."
         ],
         [
           "Τα παιδιά φοράνε στολές στις Απόκριες.",
-          "Children wear costumes at Carnival."
+          "Children wear costumes at Carnival.",
+          "Les enfants portent des costumes au carnaval."
         ]
       ],
       "διαγωνισμός": [
         [
           "Ο διαγωνισμός αρχίζει στις πέντε.",
-          "The contest starts at five."
+          "The contest starts at five.",
+          "Le concours commence à cinq heures."
         ],
         [
           "Ο διαγωνισμός είναι για παιδιά.",
-          "The contest is for children."
+          "The contest is for children.",
+          "Le concours est pour les enfants."
         ]
       ],
       "νικητές": [
         [
           "Οι νικητές είναι πολύ χαρούμενοι.",
-          "The winners are very happy."
+          "The winners are very happy.",
+          "Les gagnants sont très contents."
         ],
         [
           "Ποιοι είναι οι νικητές σήμερα;",
-          "Who are the winners today?"
+          "Who are the winners today?",
+          "Qui sont les gagnants aujourd'hui ?"
         ]
       ],
       "δώρα": [
         [
           "Τα δώρα είναι κάτω από το δέντρο.",
-          "The presents are under the tree."
+          "The presents are under the tree.",
+          "Les cadeaux sont sous le sapin."
         ],
         [
           "Αγοράσαμε δώρα για τους φίλους.",
-          "We bought presents for our friends."
+          "We bought presents for our friends.",
+          "On a acheté des cadeaux pour les amis."
         ]
       ],
       "δωρεάν": [
         [
           "Το νερό εδώ είναι δωρεάν.",
-          "The water here is free."
+          "The water here is free.",
+          "L'eau ici est gratuite."
         ],
         [
           "Η είσοδος είναι δωρεάν σήμερα.",
-          "Entry is free today."
+          "Entry is free today.",
+          "L'entrée est gratuite aujourd'hui."
         ]
       ],
       "τατουάζ": [
         [
           "Έχει ένα τατουάζ στο χέρι.",
-          "He has a tattoo on his arm."
+          "He has a tattoo on his arm.",
+          "Il a un tatouage sur le bras."
         ],
         [
           "Θέλω να κάνω τατουάζ.",
-          "I want to get a tattoo."
+          "I want to get a tattoo.",
+          "Je veux me faire un tatouage."
         ]
       ],
       "βάψεις": [
         [
           "Θα βάψεις την πόρτα σήμερα;",
-          "Will you paint the door today?"
+          "Will you paint the door today?",
+          "Tu vas peindre la porte aujourd'hui ?"
         ],
         [
           "Μπορείς να βάψεις το δωμάτιο μπλε.",
-          "You can paint the room blue."
+          "You can paint the room blue.",
+          "Tu peux peindre la chambre en bleu."
         ]
       ],
       "πρόσωπό": [
         [
           "Πλένω το πρόσωπό μου με κρύο νερό.",
-          "I wash my face with cold water."
+          "I wash my face with cold water.",
+          "Je me lave le visage à l'eau froide."
         ],
         [
           "Έβαλε κρέμα στο πρόσωπό της.",
-          "She put cream on her face."
+          "She put cream on her face.",
+          "Elle a mis de la crème sur son visage."
         ]
       ],
       "τρομακτική": [
         [
           "Η ιστορία είναι πολύ τρομακτική.",
-          "The story is very scary."
+          "The story is very scary.",
+          "L'histoire est très effrayante."
         ],
         [
           "Μια τρομακτική φωνή έρχεται από έξω.",
-          "A scary voice is coming from outside."
+          "A scary voice is coming from outside.",
+          "Une voix effrayante vient de dehors."
         ]
       ],
       "χαρούμενη": [
         [
           "Η Μαρία είναι πολύ χαρούμενη σήμερα.",
-          "Maria is very cheerful today."
+          "Maria is very cheerful today.",
+          "Maria est très joyeuse aujourd'hui."
         ],
         [
           "Είναι μια χαρούμενη μέρα.",
-          "It's a cheerful day."
+          "It's a cheerful day.",
+          "C'est une journée joyeuse."
         ]
       ]
     },
@@ -4400,241 +5142,289 @@
       "καιρός": [
         [
           "Ο καιρός είναι ωραίος σήμερα.",
-          "The weather is nice today."
+          "The weather is nice today.",
+          "Il fait beau aujourd'hui."
         ],
         [
           "Πώς είναι ο καιρός έξω;",
-          "What's the weather like outside?"
+          "What's the weather like outside?",
+          "Quel temps fait-il dehors ?"
         ]
       ],
       "βράδυ": [
         [
           "Το βράδυ τρώμε στο σπίτι.",
-          "In the evening we eat at home."
+          "In the evening we eat at home.",
+          "Le soir, on mange à la maison."
         ],
         [
           "Θα σε δω το βράδυ.",
-          "I'll see you in the evening."
+          "I'll see you in the evening.",
+          "Je te verrai ce soir."
         ]
       ],
       "πέφτει": [
         [
           "Το κινητό μου πέφτει κάτω.",
-          "My phone falls on the floor."
+          "My phone falls on the floor.",
+          "Mon portable tombe par terre."
         ],
         [
           "Ο ήλιος πέφτει στις επτά.",
-          "The sun sets at seven."
+          "The sun sets at seven.",
+          "Le soleil se couche à sept heures."
         ]
       ],
       "βροχή": [
         [
           "Η βροχή σταμάτησε επιτέλους.",
-          "The rain has finally stopped."
+          "The rain has finally stopped.",
+          "La pluie s'est enfin arrêtée."
         ],
         [
           "Μου αρέσει η βροχή.",
-          "I like the rain."
+          "I like the rain.",
+          "J'aime la pluie."
         ]
       ],
       "ουρανό": [
         [
           "Κοίτα τον ουρανό απόψε!",
-          "Look at the sky tonight!"
+          "Look at the sky tonight!",
+          "Regarde le ciel ce soir !"
         ],
         [
           "Δεν έχει σύννεφα στον ουρανό.",
-          "There are no clouds in the sky."
+          "There are no clouds in the sky.",
+          "Il n'y a pas de nuages dans le ciel."
         ]
       ],
       "αστραπές": [
         [
           "Το παιδί φοβάται τις αστραπές.",
-          "The child is afraid of lightning."
+          "The child is afraid of lightning.",
+          "L'enfant a peur des éclairs."
         ],
         [
           "Είδα αστραπές πάνω από τη θάλασσα.",
-          "I saw lightning over the sea."
+          "I saw lightning over the sea.",
+          "J'ai vu des éclairs au-dessus de la mer."
         ]
       ],
       "καταιγίδες": [
         [
           "Το φθινόπωρο έχει καταιγίδες.",
-          "In autumn there are storms."
+          "In autumn there are storms.",
+          "En automne, il y a des orages."
         ],
         [
           "Οι καταιγίδες περνούν γρήγορα.",
-          "Storms pass quickly."
+          "Storms pass quickly.",
+          "Les orages passent vite."
         ]
       ],
       "πόλη": [
         [
           "Η πόλη είναι ήσυχη το πρωί.",
-          "The city is quiet in the morning."
+          "The city is quiet in the morning.",
+          "La ville est calme le matin."
         ],
         [
           "Ζω σε μια μεγάλη πόλη.",
-          "I live in a big city."
+          "I live in a big city.",
+          "J'habite dans une grande ville."
         ]
       ],
       "επιστήμονες": [
         [
           "Οι επιστήμονες δουλεύουν στο εργαστήριο.",
-          "The scientists work in the lab."
+          "The scientists work in the lab.",
+          "Les scientifiques travaillent au laboratoire."
         ],
         [
           "Οι επιστήμονες βρήκαν κάτι νέο.",
-          "The scientists found something new."
+          "The scientists found something new.",
+          "Les scientifiques ont trouvé quelque chose de nouveau."
         ]
       ],
       "μήνυμα": [
         [
           "Σου έστειλα ένα μήνυμα.",
-          "I sent you a message."
+          "I sent you a message.",
+          "Je t'ai envoyé un message."
         ],
         [
           "Διάβασες το μήνυμα της μαμάς;",
-          "Did you read Mum's message?"
+          "Did you read Mum's message?",
+          "Tu as lu le message de maman ?"
         ]
       ],
       "επικίνδυνος": [
         [
           "Αυτός ο δρόμος είναι επικίνδυνος.",
-          "This road is dangerous."
+          "This road is dangerous.",
+          "Cette route est dangereuse."
         ],
         [
           "Ο σκύλος δεν είναι επικίνδυνος.",
-          "The dog isn't dangerous."
+          "The dog isn't dangerous.",
+          "Le chien n'est pas dangereux."
         ]
       ],
       "Βρέχει": [
         [
           "Βρέχει, πάρε το μπουφάν σου.",
-          "It's raining, take your jacket."
+          "It's raining, take your jacket.",
+          "Il pleut, prends ta veste."
         ],
         [
           "Βρέχει από το πρωί.",
-          "It has been raining since the morning."
+          "It has been raining since the morning.",
+          "Il pleut depuis ce matin."
         ]
       ],
       "κέντρο": [
         [
           "Δουλεύω στο κέντρο της Αθήνας.",
-          "I work in the centre of Athens."
+          "I work in the centre of Athens.",
+          "Je travaille dans le centre d'Athènes."
         ],
         [
           "Πάμε στο κέντρο με το μετρό.",
-          "Let's go to the centre by metro."
+          "Let's go to the centre by metro.",
+          "On va au centre en métro."
         ]
       ],
       "βόρεια": [
         [
           "Μένουμε στα βόρεια προάστια.",
-          "We live in the northern suburbs."
+          "We live in the northern suburbs.",
+          "Nous habitons dans la banlieue nord."
         ],
         [
           "Τα βόρεια βουνά έχουν χιόνι.",
-          "The northern mountains have snow."
+          "The northern mountains have snow.",
+          "Les montagnes du nord ont de la neige."
         ]
       ],
       "προάστια": [
         [
           "Τα προάστια είναι πιο ήσυχα.",
-          "The suburbs are quieter."
+          "The suburbs are quieter.",
+          "Les banlieues sont plus calmes."
         ],
         [
           "Πολλοί μένουν στα προάστια.",
-          "Many people live in the suburbs."
+          "Many people live in the suburbs.",
+          "Beaucoup de gens habitent en banlieue."
         ]
       ],
       "θάλασσα": [
         [
           "Το καλοκαίρι πάμε στη θάλασσα.",
-          "In summer we go to the seaside."
+          "In summer we go to the seaside.",
+          "L'été, on va à la mer."
         ],
         [
           "Η θάλασσα είναι κρύα σήμερα.",
-          "The sea is cold today."
+          "The sea is cold today.",
+          "La mer est froide aujourd'hui."
         ]
       ],
       "θερμοκρασία": [
         [
           "Η θερμοκρασία πέφτει το βράδυ.",
-          "The temperature drops in the evening."
+          "The temperature drops in the evening.",
+          "La température baisse le soir."
         ],
         [
           "Τι θερμοκρασία έχει σήμερα;",
-          "What's the temperature today?"
+          "What's the temperature today?",
+          "Quelle température fait-il aujourd'hui ?"
         ]
       ],
       "βαθμούς": [
         [
           "Σήμερα έχει είκοσι βαθμούς.",
-          "It's twenty degrees today."
+          "It's twenty degrees today.",
+          "Aujourd'hui, il fait vingt degrés."
         ],
         [
           "Το νερό έχει δέκα βαθμούς.",
-          "The water is ten degrees."
+          "The water is ten degrees.",
+          "L'eau est à dix degrés."
         ]
       ],
       "αέρας": [
         [
           "Ο αέρας είναι κρύος σήμερα.",
-          "The wind is cold today."
+          "The wind is cold today.",
+          "Le vent est froid aujourd'hui."
         ],
         [
           "Ο αέρας άνοιξε την πόρτα.",
-          "The wind opened the door."
+          "The wind opened the door.",
+          "Le vent a ouvert la porte."
         ]
       ],
       "δυνατός": [
         [
           "Ο καφές είναι πολύ δυνατός.",
-          "The coffee is very strong."
+          "The coffee is very strong.",
+          "Le café est très fort."
         ],
         [
           "Ο μικρός μου γιος είναι δυνατός.",
-          "My little son is strong."
+          "My little son is strong.",
+          "Mon petit garçon est fort."
         ]
       ],
       "πρωί": [
         [
           "Πίνω καφέ κάθε πρωί.",
-          "I drink coffee every morning."
+          "I drink coffee every morning.",
+          "Je bois un café chaque matin."
         ],
         [
           "Το πρωί έχει πολλή κίνηση.",
-          "In the morning there's a lot of traffic."
+          "In the morning there's a lot of traffic.",
+          "Le matin, il y a beaucoup de circulation."
         ]
       ],
       "ήρεμος": [
         [
           "Ο παππούς είναι πάντα ήρεμος.",
-          "Grandpa is always calm."
+          "Grandpa is always calm.",
+          "Grand-père est toujours calme."
         ],
         [
           "Μείνε ήρεμος, όλα είναι καλά.",
-          "Stay calm, everything is fine."
+          "Stay calm, everything is fine.",
+          "Reste calme, tout va bien."
         ]
       ],
       "ξεχάσεις": [
         [
           "Μην ξεχάσεις τα κλειδιά σου!",
-          "Don't forget your keys!"
+          "Don't forget your keys!",
+          "N'oublie pas tes clés !"
         ],
         [
           "Μην ξεχάσεις να πάρεις ψωμί.",
-          "Don't forget to get bread."
+          "Don't forget to get bread.",
+          "N'oublie pas d'acheter du pain."
         ]
       ],
       "ομπρέλα": [
         [
           "Πήρα την ομπρέλα μαζί μου.",
-          "I took the umbrella with me."
+          "I took the umbrella with me.",
+          "J'ai pris mon parapluie avec moi."
         ],
         [
           "Η ομπρέλα μου είναι κόκκινη.",
-          "My umbrella is red."
+          "My umbrella is red.",
+          "Mon parapluie est rouge."
         ]
       ]
     },
@@ -4685,251 +5475,301 @@
       "γιορτή": [
         [
           "Αύριο έχουμε γιορτή στο σχολείο.",
-          "Tomorrow we have a celebration at school."
+          "Tomorrow we have a celebration at school.",
+          "Demain, on a une fête à l'école."
         ],
         [
           "Η γιορτή είναι στην πλατεία.",
-          "The celebration is in the square."
+          "The celebration is in the square.",
+          "La fête est sur la place."
         ]
       ],
       "κλασική": [
         [
           "Μου αρέσει η κλασική μουσική.",
-          "I like classical music."
+          "I like classical music.",
+          "J'aime la musique classique."
         ],
         [
           "Φοράει μια κλασική μαύρη φούστα.",
-          "She's wearing a classic black skirt."
+          "She's wearing a classic black skirt.",
+          "Elle porte une jupe noire classique."
         ]
       ],
       "αρχίζει": [
         [
           "Το μάθημα αρχίζει στις εννιά.",
-          "The lesson starts at nine."
+          "The lesson starts at nine.",
+          "Le cours commence à neuf heures."
         ],
         [
           "Η ταινία αρχίζει σε λίγο.",
-          "The film starts soon."
+          "The film starts soon.",
+          "Le film commence bientôt."
         ]
       ],
       "κρατήσει": [
         [
           "Η βροχή θα κρατήσει όλη μέρα.",
-          "The rain will last all day."
+          "The rain will last all day.",
+          "La pluie va durer toute la journée."
         ],
         [
           "Το ταξίδι θα κρατήσει δύο ώρες.",
-          "The trip will take two hours."
+          "The trip will take two hours.",
+          "Le voyage va durer deux heures."
         ]
       ],
       "χρονιά": [
         [
           "Καλή χρονιά σε όλους!",
-          "Happy New Year, everyone!"
+          "Happy New Year, everyone!",
+          "Bonne année à tous !"
         ],
         [
           "Ήταν μια δύσκολη χρονιά.",
-          "It was a difficult year."
+          "It was a difficult year.",
+          "C'était une année difficile."
         ]
       ],
       "συναυλίες": [
         [
           "Το καλοκαίρι έχει πολλές συναυλίες.",
-          "In summer there are many concerts."
+          "In summer there are many concerts.",
+          "L'été, il y a beaucoup de concerts."
         ],
         [
           "Πάμε συχνά σε συναυλίες.",
-          "We often go to concerts."
+          "We often go to concerts.",
+          "Nous allons souvent à des concerts."
         ]
       ],
       "κτίριο": [
         [
           "Το κτίριο έχει έξι ορόφους.",
-          "The building has six floors."
+          "The building has six floors.",
+          "Le bâtiment a six étages."
         ],
         [
           "Μένω σε ένα παλιό κτίριο.",
-          "I live in an old building."
+          "I live in an old building.",
+          "J'habite dans un vieux bâtiment."
         ]
       ],
       "βγήκε": [
         [
           "Ο ήλιος βγήκε πάλι.",
-          "The sun came out again."
+          "The sun came out again.",
+          "Le soleil est revenu."
         ],
         [
           "Η Μαρία βγήκε για καφέ.",
-          "Maria went out for a coffee."
+          "Maria went out for a coffee.",
+          "Maria est sortie prendre un café."
         ]
       ],
       "σκηνή": [
         [
           "Ο τραγουδιστής ανεβαίνει στη σκηνή.",
-          "The singer goes up on stage."
+          "The singer goes up on stage.",
+          "Le chanteur monte sur scène."
         ],
         [
           "Η σκηνή του θεάτρου είναι μεγάλη.",
-          "The theatre's stage is big."
+          "The theatre's stage is big.",
+          "La scène du théâtre est grande."
         ]
       ],
       "χρονών": [
         [
           "Ο γιος μου είναι δέκα χρονών.",
-          "My son is ten years old."
+          "My son is ten years old.",
+          "Mon fils a dix ans."
         ],
         [
           "Πόσο χρονών είσαι;",
-          "How old are you?"
+          "How old are you?",
+          "Quel âge as-tu ?"
         ]
       ],
       "διάσημος": [
         [
           "Είναι ένας διάσημος ηθοποιός.",
-          "He's a famous actor."
+          "He's a famous actor.",
+          "C'est un acteur célèbre."
         ],
         [
           "Αυτός ο φούρνος είναι διάσημος.",
-          "This bakery is famous."
+          "This bakery is famous.",
+          "Cette boulangerie est célèbre."
         ]
       ],
       "βιολιστής": [
         [
           "Ο βιολιστής παίζει στον δρόμο.",
-          "The violinist plays in the street."
+          "The violinist plays in the street.",
+          "Le violoniste joue dans la rue."
         ],
         [
           "Ο θείος μου είναι βιολιστής.",
-          "My uncle is a violinist."
+          "My uncle is a violinist.",
+          "Mon oncle est violoniste."
         ]
       ],
       "ανοίξει": [
         [
           "Το μαγαζί θα ανοίξει στις δέκα.",
-          "The shop will open at ten."
+          "The shop will open at ten.",
+          "Le magasin ouvrira à dix heures."
         ],
         [
           "Η πισίνα θα ανοίξει τον Ιούνιο.",
-          "The pool will open in June."
+          "The pool will open in June.",
+          "La piscine ouvrira en juin."
         ]
       ],
       "μουσικοί": [
         [
           "Οι μουσικοί παίζουν στην ταβέρνα.",
-          "The musicians play at the taverna."
+          "The musicians play at the taverna.",
+          "Les musiciens jouent à la taverne."
         ],
         [
           "Στο μετρό παίζουν μουσικοί.",
-          "Musicians play in the metro."
+          "Musicians play in the metro.",
+          "Des musiciens jouent dans le métro."
         ]
       ],
       "τσέλο": [
         [
           "Η κόρη μου μαθαίνει τσέλο.",
-          "My daughter is learning the cello."
+          "My daughter is learning the cello.",
+          "Ma fille apprend le violoncelle."
         ],
         [
           "Το τσέλο είναι βαρύ.",
-          "The cello is heavy."
+          "The cello is heavy.",
+          "Le violoncelle est lourd."
         ]
       ],
       "κλαρίνο": [
         [
           "Στο πανηγύρι παίζει κλαρίνο.",
-          "At the village festival they play the clarinet."
+          "At the village festival they play the clarinet.",
+          "À la fête du village, on joue de la clarinette."
         ],
         [
           "Ο παππούς παίζει κλαρίνο.",
-          "Grandpa plays the clarinet."
+          "Grandpa plays the clarinet.",
+          "Le grand-père joue de la clarinette."
         ]
       ],
       "έργα": [
         [
           "Στο μουσείο βλέπουμε ωραία έργα.",
-          "At the museum we see beautiful works."
+          "At the museum we see beautiful works.",
+          "Au musée, on voit de belles œuvres."
         ],
         [
           "Στον δρόμο κάνουν έργα.",
-          "There are roadworks in the street."
+          "There are roadworks in the street.",
+          "Il y a des travaux dans la rue."
         ]
       ],
       "μάθημα": [
         [
           "Έχω μάθημα ελληνικών σήμερα.",
-          "I have a Greek lesson today."
+          "I have a Greek lesson today.",
+          "J'ai cours de grec aujourd'hui."
         ],
         [
           "Το μάθημα ήταν εύκολο.",
-          "The lesson was easy."
+          "The lesson was easy.",
+          "Le cours était facile."
         ]
       ],
       "δασκάλους": [
         [
           "Τα παιδιά αγαπούν τους δασκάλους.",
-          "The children love their teachers."
+          "The children love their teachers.",
+          "Les enfants aiment les professeurs."
         ],
         [
           "Μιλάμε με τους δασκάλους αύριο.",
-          "We're talking to the teachers tomorrow."
+          "We're talking to the teachers tomorrow.",
+          "Nous parlons aux professeurs demain."
         ]
       ],
       "δει": [
         [
           "Θέλει να δει τη θάλασσα.",
-          "He wants to see the sea."
+          "He wants to see the sea.",
+          "Il veut voir la mer."
         ],
         [
           "Δεν μπορεί να δει καλά.",
-          "He can't see well."
+          "He can't see well.",
+          "Il ne voit pas bien."
         ]
       ],
       "μαθητές": [
         [
           "Οι μαθητές περιμένουν το λεωφορείο.",
-          "The pupils are waiting for the bus."
+          "The pupils are waiting for the bus.",
+          "Les élèves attendent le bus."
         ],
         [
           "Η τάξη έχει είκοσι μαθητές.",
-          "The class has twenty pupils."
+          "The class has twenty pupils.",
+          "La classe a vingt élèves."
         ]
       ],
       "πάρει": [
         [
           "Θα πάρει το μετρό για τη δουλειά.",
-          "He'll take the metro to work."
+          "He'll take the metro to work.",
+          "Il prendra le métro pour le travail."
         ],
         [
           "Θέλει να πάρει ένα παγωτό.",
-          "He wants to get an ice cream."
+          "He wants to get an ice cream.",
+          "Il veut prendre une glace."
         ]
       ],
       "ορχήστρα": [
         [
           "Η ορχήστρα παίζει απόψε.",
-          "The orchestra is playing tonight."
+          "The orchestra is playing tonight.",
+          "L'orchestre joue ce soir."
         ],
         [
           "Ο γιος μου είναι σε μια ορχήστρα.",
-          "My son is in an orchestra."
+          "My son is in an orchestra.",
+          "Mon fils est dans un orchestre."
         ]
       ],
       "πόλη": [
         [
           "Η πόλη είναι γεμάτη κόσμο.",
-          "The city is full of people."
+          "The city is full of people.",
+          "La ville est pleine de monde."
         ],
         [
           "Μου αρέσει αυτή η πόλη.",
-          "I like this city."
+          "I like this city.",
+          "J'aime cette ville."
         ]
       ],
       "φέρνει": [
         [
           "Ο σερβιτόρος φέρνει τον καφέ.",
-          "The waiter brings the coffee."
+          "The waiter brings the coffee.",
+          "Le serveur apporte le café."
         ],
         [
           "Κάθε πρωί φέρνει ψωμί.",
-          "Every morning he brings bread."
+          "Every morning he brings bread.",
+          "Chaque matin, il apporte du pain."
         ]
       ]
     },
@@ -4980,241 +5820,289 @@
       "Πάρνηθα": [
         [
           "Η Πάρνηθα έχει χιόνι τον χειμώνα.",
-          "Parnitha has snow in winter."
+          "Parnitha has snow in winter.",
+          "Le Parnès a de la neige en hiver."
         ],
         [
           "Πάμε στην Πάρνηθα την Κυριακή;",
-          "Shall we go to Parnitha on Sunday?"
+          "Shall we go to Parnitha on Sunday?",
+          "On va au Parnès dimanche ?"
         ]
       ],
       "βουνό": [
         [
           "Το βουνό είναι πολύ ψηλό.",
-          "The mountain is very high."
+          "The mountain is very high.",
+          "La montagne est très haute."
         ],
         [
           "Το Σάββατο πάμε στο βουνό.",
-          "On Saturday we're going to the mountains."
+          "On Saturday we're going to the mountains.",
+          "Samedi, on va à la montagne."
         ]
       ],
       "αυτοκίνητο": [
         [
           "Το αυτοκίνητο είναι στο πάρκινγκ.",
-          "The car is in the car park."
+          "The car is in the car park.",
+          "La voiture est au parking."
         ],
         [
           "Πάω στη δουλειά με το αυτοκίνητο.",
-          "I drive to work."
+          "I drive to work.",
+          "Je vais au travail en voiture."
         ]
       ],
       "έλατα": [
         [
           "Τα έλατα είναι πράσινα όλο τον χρόνο.",
-          "Fir trees are green all year round."
+          "Fir trees are green all year round.",
+          "Les sapins sont verts toute l'année."
         ],
         [
           "Βλέπω πολλά έλατα από το παράθυρο.",
-          "I see lots of fir trees from the window."
+          "I see lots of fir trees from the window.",
+          "Je vois beaucoup de sapins par la fenêtre."
         ]
       ],
       "μονοπάτια": [
         [
           "Τα μονοπάτια είναι στενά.",
-          "The trails are narrow."
+          "The trails are narrow.",
+          "Les sentiers sont étroits."
         ],
         [
           "Μου αρέσουν τα μονοπάτια στο δάσος.",
-          "I like the trails in the forest."
+          "I like the trails in the forest.",
+          "J'aime les sentiers dans la forêt."
         ]
       ],
       "πηγές": [
         [
           "Το χωριό έχει πολλές πηγές.",
-          "The village has many springs."
+          "The village has many springs.",
+          "Le village a beaucoup de sources."
         ],
         [
           "Οι πηγές έχουν κρύο νερό.",
-          "The springs have cold water."
+          "The springs have cold water.",
+          "Les sources ont de l'eau froide."
         ]
       ],
       "δάσος": [
         [
           "Το δάσος είναι πολύ ήσυχο.",
-          "The forest is very quiet."
+          "The forest is very quiet.",
+          "La forêt est très calme."
         ],
         [
           "Περπατάμε στο δάσος με τον σκύλο.",
-          "We walk in the forest with the dog."
+          "We walk in the forest with the dog.",
+          "Nous marchons dans la forêt avec le chien."
         ]
       ],
       "ελάφια": [
         [
           "Τα ελάφια τρώνε χόρτο.",
-          "Deer eat grass."
+          "Deer eat grass.",
+          "Les cerfs mangent de l'herbe."
         ],
         [
           "Τα παιδιά θέλουν να δουν ελάφια.",
-          "The children want to see deer."
+          "The children want to see deer.",
+          "Les enfants veulent voir des cerfs."
         ]
       ],
       "καταφύγια": [
         [
           "Τα καταφύγια έχουν ζεστά δωμάτια.",
-          "The refuges have warm rooms."
+          "The refuges have warm rooms.",
+          "Les refuges ont des chambres chaudes."
         ],
         [
           "Στην Ελλάδα έχει πολλά καταφύγια.",
-          "There are many mountain refuges in Greece."
+          "There are many mountain refuges in Greece.",
+          "En Grèce, il y a beaucoup de refuges."
         ]
       ],
       "πεζοπόρους": [
         [
           "Βλέπω πεζοπόρους στον δρόμο.",
-          "I see hikers on the road."
+          "I see hikers on the road.",
+          "Je vois des randonneurs sur la route."
         ],
         [
           "Το μονοπάτι είναι για πεζοπόρους.",
-          "The trail is for hikers."
+          "The trail is for hikers.",
+          "Le sentier est pour les randonneurs."
         ]
       ],
       "ανοιχτό": [
         [
           "Το περίπτερο είναι ανοιχτό όλη νύχτα.",
-          "The kiosk is open all night."
+          "The kiosk is open all night.",
+          "Le kiosque est ouvert toute la nuit."
         ],
         [
           "Είναι ανοιχτό το φαρμακείο σήμερα;",
-          "Is the pharmacy open today?"
+          "Is the pharmacy open today?",
+          "La pharmacie est-elle ouverte aujourd'hui ?"
         ]
       ],
       "ζεστό": [
         [
           "Θέλω ένα ζεστό τσάι, παρακαλώ.",
-          "I'd like a hot tea, please."
+          "I'd like a hot tea, please.",
+          "Je voudrais un thé chaud, s'il vous plaît."
         ],
         [
           "Το ψωμί είναι ακόμα ζεστό.",
-          "The bread is still warm."
+          "The bread is still warm.",
+          "Le pain est encore chaud."
         ]
       ],
       "φαγητό": [
         [
           "Το φαγητό είναι έτοιμο!",
-          "The food is ready!"
+          "The food is ready!",
+          "Le repas est prêt !"
         ],
         [
           "Η γιαγιά φτιάχνει φαγητό.",
-          "Grandma is cooking."
+          "Grandma is cooking.",
+          "Grand-mère prépare à manger."
         ]
       ],
       "ξέφωτο": [
         [
           "Τα παιδιά παίζουν στο ξέφωτο.",
-          "The children play in the clearing."
+          "The children play in the clearing.",
+          "Les enfants jouent dans la clairière."
         ],
         [
           "Κάνουμε πικνίκ σε ένα ξέφωτο.",
-          "We have a picnic in a clearing."
+          "We have a picnic in a clearing.",
+          "On fait un pique-nique dans une clairière."
         ]
       ],
       "ξύλινα": [
         [
           "Η κουζίνα έχει ξύλινα ντουλάπια.",
-          "The kitchen has wooden cupboards."
+          "The kitchen has wooden cupboards.",
+          "La cuisine a des placards en bois."
         ],
         [
           "Τα ξύλινα παιχνίδια είναι ωραία.",
-          "Wooden toys are nice."
+          "Wooden toys are nice.",
+          "Les jouets en bois sont jolis."
         ]
       ],
       "εκκλησία": [
         [
           "Η εκκλησία είναι δίπλα στην πλατεία.",
-          "The church is next to the square."
+          "The church is next to the square.",
+          "L'église est à côté de la place."
         ],
         [
           "Την Κυριακή πάμε στην εκκλησία.",
-          "On Sundays we go to church."
+          "On Sundays we go to church.",
+          "Le dimanche, on va à l'église."
         ]
       ],
       "νερό": [
         [
           "Ένα νερό, παρακαλώ.",
-          "A water, please."
+          "A water, please.",
+          "Une eau, s'il vous plaît."
         ],
         [
           "Το νερό στη θάλασσα είναι ζεστό.",
-          "The sea water is warm."
+          "The sea water is warm.",
+          "L'eau de la mer est chaude."
         ]
       ],
       "κρύο": [
         [
           "Σήμερα κάνει κρύο στην Αθήνα.",
-          "It's cold in Athens today."
+          "It's cold in Athens today.",
+          "Aujourd'hui, il fait froid à Athènes."
         ],
         [
           "Το βράδυ κάνει λίγο κρύο.",
-          "In the evening it's a bit cold."
+          "In the evening it's a bit cold.",
+          "Le soir, il fait un peu froid."
         ]
       ],
       "μπουφάν": [
         [
           "Πάρε το μπουφάν σου!",
-          "Take your jacket!"
+          "Take your jacket!",
+          "Prends ton blouson !"
         ],
         [
           "Αυτό το μπουφάν είναι καινούργιο.",
-          "This jacket is new."
+          "This jacket is new.",
+          "Ce blouson est neuf."
         ]
       ],
       "παπούτσια": [
         [
           "Τα παπούτσια μου είναι βρεγμένα.",
-          "My shoes are wet."
+          "My shoes are wet.",
+          "Mes chaussures sont mouillées."
         ],
         [
           "Αγοράζω παπούτσια στην Ερμού.",
-          "I buy shoes on Ermou Street."
+          "I buy shoes on Ermou Street.",
+          "J'achète des chaussures rue Ermou."
         ]
       ],
       "φωτιά": [
         [
           "Μην παίζεις με τη φωτιά.",
-          "Don't play with fire."
+          "Don't play with fire.",
+          "Ne joue pas avec le feu."
         ],
         [
           "Η φωτιά στο τζάκι είναι ωραία.",
-          "The fire in the fireplace is nice."
+          "The fire in the fireplace is nice.",
+          "Le feu dans la cheminée est agréable."
         ]
       ],
       "σκουπίδια": [
         [
           "Βγάζω τα σκουπίδια το βράδυ.",
-          "I take the rubbish out in the evening."
+          "I take the rubbish out in the evening.",
+          "Je sors les poubelles le soir."
         ],
         [
           "Τα σκουπίδια πάνε στον κάδο.",
-          "The rubbish goes in the bin."
+          "The rubbish goes in the bin.",
+          "Les déchets vont dans la benne."
         ]
       ],
       "περπατάς": [
         [
           "Πού περπατάς κάθε πρωί;",
-          "Where do you walk every morning?"
+          "Where do you walk every morning?",
+          "Où marches-tu chaque matin ?"
         ],
         [
           "Γιατί περπατάς τόσο γρήγορα;",
-          "Why are you walking so fast?"
+          "Why are you walking so fast?",
+          "Pourquoi marches-tu si vite ?"
         ]
       ],
       "σκοτάδι": [
         [
           "Το παιδί φοβάται το σκοτάδι.",
-          "The child is afraid of the dark."
+          "The child is afraid of the dark.",
+          "L'enfant a peur du noir."
         ],
         [
           "Στις επτά έχει ήδη σκοτάδι.",
-          "At seven it's already dark."
+          "At seven it's already dark.",
+          "À sept heures, il fait déjà nuit."
         ]
       ]
     },
@@ -5264,221 +6152,265 @@
       "βραβεία": [
         [
           "Η ταινία πήρε τρία βραβεία.",
-          "The film won three awards."
+          "The film won three awards.",
+          "Le film a reçu trois prix."
         ],
         [
           "Τα βραβεία είναι πάνω στο ράφι.",
-          "The awards are on the shelf."
+          "The awards are on the shelf.",
+          "Les prix sont sur l'étagère."
         ]
       ],
       "τουρισμό": [
         [
           "Η Πλάκα ζει από τον τουρισμό.",
-          "Plaka lives off tourism."
+          "Plaka lives off tourism.",
+          "Plaka vit du tourisme."
         ],
         [
           "Το νησί έχει πολύ τουρισμό.",
-          "The island gets a lot of tourism."
+          "The island gets a lot of tourism.",
+          "L'île a beaucoup de tourisme."
         ]
       ],
       "τελετή": [
         [
           "Η τελετή αρχίζει στις οκτώ.",
-          "The ceremony starts at eight."
+          "The ceremony starts at eight.",
+          "La cérémonie commence à huit heures."
         ],
         [
           "Ήταν μια πολύ ωραία τελετή.",
-          "It was a very nice ceremony."
+          "It was a very nice ceremony.",
+          "C'était une très belle cérémonie."
         ]
       ],
       "Οκτωβρίου": [
         [
           "Τα γενέθλιά μου είναι στις 5 Οκτωβρίου.",
-          "My birthday is on 5 October."
+          "My birthday is on 5 October.",
+          "Mon anniversaire est le 5 octobre."
         ],
         [
           "Στις 28 Οκτωβρίου έχουμε αργία.",
-          "On 28 October we have a public holiday."
+          "On 28 October we have a public holiday.",
+          "Le 28 octobre, c'est férié."
         ]
       ],
       "Μαυροβούνιο": [
         [
           "Ο φίλος μου ζει στο Μαυροβούνιο.",
-          "My friend lives in Montenegro."
+          "My friend lives in Montenegro.",
+          "Mon ami vit au Monténégro."
         ],
         [
           "Το Μαυροβούνιο έχει ψηλά βουνά.",
-          "Montenegro has high mountains."
+          "Montenegro has high mountains.",
+          "Le Monténégro a de hautes montagnes."
         ]
       ],
       "καλύτερη": [
         [
           "Αυτή είναι η καλύτερη ταβέρνα.",
-          "This is the best taverna."
+          "This is the best taverna.",
+          "C'est la meilleure taverne."
         ],
         [
           "Η μαμά μου κάνει την καλύτερη πίτα.",
-          "My mum makes the best pie."
+          "My mum makes the best pie.",
+          "Ma mère fait la meilleure tourte."
         ]
       ],
       "Ευρώπη": [
         [
           "Η Ελλάδα είναι στην Ευρώπη.",
-          "Greece is in Europe."
+          "Greece is in Europe.",
+          "La Grèce est en Europe."
         ],
         [
           "Ταξιδεύω συχνά στην Ευρώπη.",
-          "I often travel in Europe."
+          "I often travel in Europe.",
+          "Je voyage souvent en Europe."
         ]
       ],
       "σύντομο": [
         [
           "Κάνουμε ένα σύντομο διάλειμμα.",
-          "We're taking a short break."
+          "We're taking a short break.",
+          "On fait une courte pause."
         ],
         [
           "Σου στέλνω ένα σύντομο μήνυμα.",
-          "I'm sending you a short message."
+          "I'm sending you a short message.",
+          "Je t'envoie un court message."
         ]
       ],
       "ταξίδι": [
         [
           "Σου εύχομαι καλό ταξίδι!",
-          "Have a good trip!"
+          "Have a good trip!",
+          "Je te souhaite bon voyage !"
         ],
         [
           "Το ταξίδι με το πλοίο είναι μεγάλο.",
-          "The journey by boat is long."
+          "The journey by boat is long.",
+          "Le voyage en bateau est long."
         ]
       ],
       "κέρδισε": [
         [
           "Ο Παναθηναϊκός κέρδισε χθες.",
-          "Panathinaikos won yesterday."
+          "Panathinaikos won yesterday.",
+          "Le Panathinaïkos a gagné hier."
         ],
         [
           "Η αδερφή μου κέρδισε στο λαχείο.",
-          "My sister won the lottery."
+          "My sister won the lottery.",
+          "Ma sœur a gagné à la loterie."
         ]
       ],
       "ομάδα": [
         [
           "Η ομάδα μου παίζει την Κυριακή.",
-          "My team plays on Sunday."
+          "My team plays on Sunday.",
+          "Mon équipe joue dimanche."
         ],
         [
           "Δουλεύω σε μια μικρή ομάδα.",
-          "I work in a small team."
+          "I work in a small team.",
+          "Je travaille dans une petite équipe."
         ]
       ],
       "Δήμου": [
         [
           "Το γραφείο του Δήμου κλείνει στις τρεις.",
-          "The municipal office closes at three."
+          "The municipal office closes at three.",
+          "Le bureau de la mairie ferme à trois heures."
         ],
         [
           "Ο κήπος του Δήμου είναι ανοιχτός.",
-          "The municipal garden is open."
+          "The municipal garden is open.",
+          "Le jardin de la mairie est ouvert."
         ]
       ],
       "δείχνει": [
         [
           "Ο χάρτης δείχνει τον δρόμο.",
-          "The map shows the way."
+          "The map shows the way.",
+          "La carte montre le chemin."
         ],
         [
           "Η γιαγιά δείχνει παλιές φωτογραφίες.",
-          "Grandma shows old photos."
+          "Grandma shows old photos.",
+          "Grand-mère montre de vieilles photos."
         ]
       ],
       "ξένους": [
         [
           "Η ταβέρνα έχει πολλούς ξένους.",
-          "The taverna has a lot of foreigners."
+          "The taverna has a lot of foreigners.",
+          "La taverne a beaucoup d'étrangers."
         ],
         [
           "Μιλάω αγγλικά με τους ξένους.",
-          "I speak English with foreigners."
+          "I speak English with foreigners.",
+          "Je parle anglais avec les étrangers."
         ]
       ],
       "πέρσι": [
         [
           "Πήγα στην Κρήτη πέρσι.",
-          "I went to Crete last year."
+          "I went to Crete last year.",
+          "Je suis allé en Crète l'an dernier."
         ],
         [
           "Το ενοίκιο ήταν φθηνότερο πέρσι.",
-          "The rent was cheaper last year."
+          "The rent was cheaper last year.",
+          "Le loyer était moins cher l'an dernier."
         ]
       ],
       "δήμαρχος": [
         [
           "Ο δήμαρχος πάει στη λαϊκή.",
-          "The mayor goes to the street market."
+          "The mayor goes to the street market.",
+          "Le maire va au marché."
         ],
         [
           "Ο δήμαρχος μιλάει στην τηλεόραση.",
-          "The mayor is speaking on TV."
+          "The mayor is speaking on TV.",
+          "Le maire parle à la télévision."
         ]
       ],
       "ανήκει": [
         [
           "Αυτή η τσάντα ανήκει στη Μαρία.",
-          "This bag belongs to Maria."
+          "This bag belongs to Maria.",
+          "Ce sac appartient à Maria."
         ],
         [
           "Ο σκύλος ανήκει στον γείτονα.",
-          "The dog belongs to the neighbour."
+          "The dog belongs to the neighbour.",
+          "Le chien appartient au voisin."
         ]
       ],
       "κατοίκους": [
         [
           "Η γειτονιά έχει πολλούς κατοίκους.",
-          "The neighbourhood has many residents."
+          "The neighbourhood has many residents.",
+          "Le quartier a beaucoup d'habitants."
         ],
         [
           "Το πάρκο είναι για τους κατοίκους.",
-          "The park is for the residents."
+          "The park is for the residents.",
+          "Le parc est pour les habitants."
         ]
       ],
       "δουλειές": [
         [
           "Έχω πολλές δουλειές σήμερα.",
-          "I have a lot of things to do today."
+          "I have a lot of things to do today.",
+          "J'ai beaucoup de travail aujourd'hui."
         ],
         [
           "Βρίσκεις δουλειές στο κέντρο.",
-          "You can find jobs in the centre."
+          "You can find jobs in the centre.",
+          "Tu trouves des emplois dans le centre."
         ]
       ],
       "βοήθεια": [
         [
           "Χρειάζομαι βοήθεια με τις βαλίτσες.",
-          "I need help with the suitcases."
+          "I need help with the suitcases.",
+          "J'ai besoin d'aide avec les valises."
         ],
         [
           "Ευχαριστώ πολύ για τη βοήθεια!",
-          "Thanks a lot for the help!"
+          "Thanks a lot for the help!",
+          "Merci beaucoup pour l'aide !"
         ]
       ],
       "μαγαζιά": [
         [
           "Τα μαγαζιά κλείνουν την Κυριακή.",
-          "The shops close on Sunday."
+          "The shops close on Sunday.",
+          "Les magasins ferment le dimanche."
         ],
         [
           "Η Ερμού έχει πολλά μαγαζιά.",
-          "Ermou Street has lots of shops."
+          "Ermou Street has lots of shops.",
+          "La rue Ermou a beaucoup de magasins."
         ]
       ],
       "γειτονιά": [
         [
           "Η γειτονιά μου έχει καλό φούρνο.",
-          "My neighbourhood has a good bakery."
+          "My neighbourhood has a good bakery.",
+          "Mon quartier a une bonne boulangerie."
         ],
         [
           "Μένω σε μια ήσυχη γειτονιά.",
-          "I live in a quiet neighbourhood."
+          "I live in a quiet neighbourhood.",
+          "J'habite dans un quartier calme."
         ]
       ]
     },

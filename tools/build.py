@@ -3,7 +3,7 @@ Usage (from repo root): python3 tools/build.py
 lessons.json: list of {date, title, title_fr, title_en, source{name,url}, paragraphs[], fr{}, examples?}
 Each paragraph marks translated words as **mot** (English translation).
 fr: {"<mot exactement comme dans **mot**>": "<traduction française>"} (pour le lexique mots.html)
-examples (optional): {"<mot>": [["phrase grecque", "English translation"], ...]}
+examples (optional): {"<mot>": [["phrase grecque", "English translation", "traduction française"], ...]}
 """
 import json, re, html, os
 
@@ -52,6 +52,7 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
 .card .hint{font-size:11px;color:var(--accent);margin-top:2px}
 .card .exg{font-family:var(--text);font-size:18px;font-weight:600;line-height:1.4}
 .card .exf{color:var(--muted);font-size:14px}
+.card .exf2,.vocab .fr2{color:var(--gloss);font-size:14px}
 .card .speak{font-size:12px;color:var(--accent);margin-top:4px}
 @media (prefers-reduced-motion:reduce){.card{transition:none}}
 .vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
@@ -88,9 +89,9 @@ JS = r"""
       setTimeout(function(){
         var li = c.parentNode;
         if (i === ex.length) { i = -1; li.classList.remove('on');
-          c.innerHTML = '<span class="gr">' + esc(c.dataset.gr) + '</span><span class="fr">' + esc(c.dataset.tr) + '</span><span class="hint">' + ex.length + ' phrase' + (ex.length > 1 ? 's' : '') + ' ↻</span>';
+          c.innerHTML = '<span class="gr">' + esc(c.dataset.gr) + '</span><span class="fr">' + esc(c.dataset.tr) + '</span>' + (c.dataset.fr ? '<span class="fr2">' + esc(c.dataset.fr) + '</span>' : '') + '<span class="hint">' + ex.length + ' phrase' + (ex.length > 1 ? 's' : '') + ' ↻</span>';
         } else { li.classList.add('on');
-          c.innerHTML = '<span class="exg">' + esc(ex[i][0]) + '</span><span class="exf">' + esc(ex[i][1]) + '</span><span class="hint">' + esc(c.dataset.gr) + ' · ' + (i + 1) + '/' + ex.length + ' — touche pour la suite ↻</span>';
+          c.innerHTML = '<span class="exg">' + esc(ex[i][0]) + '</span><span class="exf">' + esc(ex[i][1]) + '</span>' + (ex[i][2] ? '<span class="exf2">' + esc(ex[i][2]) + '</span>' : '') + '<span class="hint">' + esc(c.dataset.gr) + ' · ' + (i + 1) + '/' + ex.length + ' — touche pour la suite ↻</span>';
           if (greek) { speechSynthesis.cancel(); var u = new SpeechSynthesisUtterance(ex[i][0]); u.voice = greek; u.lang = greek.lang; u.rate = 0.9; speechSynthesis.speak(u); }
         }
         c.classList.remove('spin');
@@ -108,12 +109,15 @@ JS = r"""
 
 def lesson_page(s, prev, nxt):
     words, paras_html, plain = [], [], []
+    frm = s.get("fr", {})
     for p in s["paragraphs"]:
         out, last = "", 0
         for m in RX.finditer(p):
             out += html.escape(p[last:m.start()])
-            words.append((m.group(1), m.group(2)))
-            out += f'<span class="w">{html.escape(m.group(1))}</span> <span class="g">({html.escape(m.group(2))})</span>'
+            f = frm.get(m.group(1), "")
+            words.append((m.group(1), m.group(2), f))
+            gl = m.group(2) + (f" · {f}" if f else "")
+            out += f'<span class="w">{html.escape(m.group(1))}</span> <span class="g">({html.escape(gl)})</span>'
             last = m.end()
         out += html.escape(p[last:])
         paras_html.append(f"<p>{out}</p>")
@@ -131,13 +135,13 @@ def lesson_page(s, prev, nxt):
         player = (f'<p class="note">L\'audio est en préparation (quelques minutes). En attendant : '
                   f'<a href="{html.escape(gt)}" target="_blank" rel="noopener">écouter dans Google Traduction</a>.</p>')
     ex = s.get("examples", {})
-    def card(a, b):
-        pairs = [p for p in ex.get(a, []) if len(p) == 2]
+    def card(a, b, f=""):
+        pairs = [p for p in ex.get(a, []) if len(p) >= 2]
         data = html.escape(json.dumps(pairs, ensure_ascii=False), quote=True)
         hint = f'<span class="hint">{len(pairs)} phrase{"s" if len(pairs) > 1 else ""} ↻</span>' if pairs else ""
-        return (f'<li><button class="card" type="button" data-ex="{data}" data-gr="{html.escape(a)}" data-tr="{html.escape(b)}"'
-                f'{"" if pairs else " disabled"}><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span>{hint}</button></li>')
-    vocab = "".join(card(a, b) for a, b in words)
+        return (f'<li><button class="card" type="button" data-ex="{data}" data-gr="{html.escape(a)}" data-tr="{html.escape(b)}" data-fr="{html.escape(f)}"'
+                f'{"" if pairs else " disabled"}><span class="gr">{html.escape(a)}</span><span class="fr">{html.escape(b)}</span>{f'<span class="fr2">{html.escape(f)}</span>' if f else ""}{hint}</button></li>')
+    vocab = "".join(card(a, b, f) for a, b, f in words)
     nav = []
     if prev: nav.append(f'<a href="{prev["date"]}.html">← Cours précédent</a>')
     nav.append('<a href="../index.html">Tous les cours</a>')
@@ -151,7 +155,7 @@ def lesson_page(s, prev, nxt):
 <section class="player">
   {player}
 </section>
-<section><h2>Les {len(words)} mots</h2>{'<p class="note" style="margin:-4px 0 10px">Touche un mot pour voir des exemples en grec et en anglais.</p>' if ex else ""}<ul class="vocab">{vocab}</ul></section>
+<section><h2>Les {len(words)} mots</h2>{'<p class="note" style="margin:-4px 0 10px">Touche un mot pour voir des exemples en grec, en anglais et en français.</p>' if ex else ""}<ul class="vocab">{vocab}</ul></section>
 <section><h2>Le texte</h2><div class="text" id="text">{"".join(paras_html)}</div></section>
 <div class="row"><button class="chip" id="glossBtn" aria-pressed="true">Traductions visibles</button></div>
 {src_html}

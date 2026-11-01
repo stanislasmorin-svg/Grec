@@ -6439,5 +6439,338 @@
       "γειτονιά": "quartier"
     },
     "title_en": "Two awards for Athens"
+  },
+  {
+    "date": "2026-11-01",
+    "title": "Νέες ώρες για την Ακρόπολη",
+    "title_fr": "De nouveaux horaires pour l'Acropole",
+    "title_en": "New hours for the Acropolis",
+    "source": {
+      "name": "Travel And Tour World",
+      "url": "https://www.travelandtourworld.com/news/article/9a4uv53tino6/"
+    },
+    "paragraphs": [
+      "Από σήμερα, η **Ακρόπολη** (Acropolis) έχει νέες **ώρες** (hours). Ο **χειμώνας** (winter) έρχεται. Οι μέρες γίνονται πιο **μικρές** (short). Το **φως** (light) της μέρας τελειώνει νωρίς. Γι' αυτό ο **χώρος** (site) θα κλείνει πιο νωρίς.",
+      "Η Ακρόπολη θα **ανοίγει** (will open) στις 8 το πρωί. Θα κλείνει στις 5 το **απόγευμα** (afternoon). Τον Οκτώβριο έκλεινε στις 6. Οι ώρες είναι ίδιες **κάθε** (every) μέρα. Θα **μείνουν** (will stay) έτσι μέχρι το τέλος του **Μαρτίου** (March).",
+      "Καλό είναι να **μπεις** (you go in) πριν τις 4:30. Το **εισιτήριο** (ticket) κάνει 30 ευρώ. Για κάποιους **επισκέπτες** (visitors) κάνει 15 ευρώ.",
+      "Πάνω στον **βράχο** (rock) θα δεις τον **Παρθενώνα** (Parthenon). Θα δεις και άλλους παλιούς **ναούς** (temples). Το **μουσείο** (museum) της Ακρόπολης έχει δικές του ώρες.",
+      "Πώς πας εκεί; Παίρνεις το **μετρό** (metro) μέχρι τη **στάση** (stop) «Ακρόπολη». Μετά **περπατάς** (you walk) λίγο στην **ανηφόρα** (uphill). Ο δρόμος έχει πέτρες. Φόρα καλά **παπούτσια** (shoes), ειδικά μετά τη **βροχή** (rain)."
+    ],
+    "fr": {
+      "Ακρόπολη": "Acropole",
+      "ώρες": "horaires, heures",
+      "χειμώνας": "hiver",
+      "μικρές": "courtes, petites",
+      "φως": "lumière",
+      "χώρος": "site, lieu",
+      "ανοίγει": "ouvrira, ouvre",
+      "απόγευμα": "après-midi",
+      "κάθε": "chaque",
+      "μείνουν": "resteront",
+      "Μαρτίου": "(de) mars",
+      "μπεις": "(que) tu entres",
+      "εισιτήριο": "billet",
+      "επισκέπτες": "visiteurs",
+      "βράχο": "rocher",
+      "Παρθενώνα": "Parthénon",
+      "ναούς": "temples",
+      "μουσείο": "musée",
+      "μετρό": "métro",
+      "στάση": "arrêt, station",
+      "περπατάς": "tu marches",
+      "ανηφόρα": "montée",
+      "παπούτσια": "chaussures",
+      "βροχή": "pluie"
+    },
+    "examples": {
+      "Ακρόπολη": [
+        [
+          "Η Ακρόπολη είναι πολύ ψηλά.",
+          "The Acropolis is very high up.",
+          "L'Acropole est tout en haut."
+        ],
+        [
+          "Βλέπω την Ακρόπολη από το μπαλκόνι.",
+          "I see the Acropolis from the balcony.",
+          "Je vois l'Acropole depuis le balcon."
+        ]
+      ],
+      "ώρες": [
+        [
+          "Δουλεύω οκτώ ώρες τη μέρα.",
+          "I work eight hours a day.",
+          "Je travaille huit heures par jour."
+        ],
+        [
+          "Το μαγαζί έχει νέες ώρες.",
+          "The shop has new hours.",
+          "Le magasin a de nouveaux horaires."
+        ]
+      ],
+      "χειμώνας": [
+        [
+          "Ο χειμώνας εδώ δεν είναι κρύος.",
+          "Winter here isn't cold.",
+          "L'hiver ici n'est pas froid."
+        ],
+        [
+          "Ο χειμώνας έρχεται, πάρε ζακέτα.",
+          "Winter is coming, take a cardigan.",
+          "L'hiver arrive, prends un gilet."
+        ]
+      ],
+      "μικρές": [
+        [
+          "Οι πίτες είναι μικρές αλλά νόστιμες.",
+          "The pies are small but tasty.",
+          "Les tourtes sont petites mais bonnes."
+        ],
+        [
+          "Τον Δεκέμβριο οι μέρες είναι μικρές.",
+          "In December the days are short.",
+          "En décembre, les jours sont courts."
+        ]
+      ],
+      "φως": [
+        [
+          "Άνοιξε το φως, παρακαλώ.",
+          "Turn on the light, please.",
+          "Allume la lumière, s'il te plaît."
+        ],
+        [
+          "Το σπίτι έχει πολύ φως.",
+          "The house gets a lot of light.",
+          "La maison a beaucoup de lumière."
+        ]
+      ],
+      "χώρος": [
+        [
+          "Ο χώρος είναι μεγάλος και ήσυχος.",
+          "The space is big and quiet.",
+          "L'endroit est grand et calme."
+        ],
+        [
+          "Δεν υπάρχει χώρος στο λεωφορείο.",
+          "There's no room on the bus.",
+          "Il n'y a pas de place dans le bus."
+        ]
+      ],
+      "ανοίγει": [
+        [
+          "Ο φούρνος ανοίγει στις επτά.",
+          "The bakery opens at seven.",
+          "La boulangerie ouvre à sept heures."
+        ],
+        [
+          "Το περίπτερο ανοίγει νωρίς.",
+          "The kiosk opens early.",
+          "Le kiosque ouvre tôt."
+        ]
+      ],
+      "απόγευμα": [
+        [
+          "Το απόγευμα πίνω καφέ.",
+          "In the afternoon I drink coffee.",
+          "L'après-midi, je bois un café."
+        ],
+        [
+          "Τα λέμε αύριο το απόγευμα.",
+          "See you tomorrow afternoon.",
+          "On se voit demain après-midi."
+        ]
+      ],
+      "κάθε": [
+        [
+          "Πάω για τρέξιμο κάθε πρωί.",
+          "I go running every morning.",
+          "Je vais courir chaque matin."
+        ],
+        [
+          "Πάω στη λαϊκή κάθε Σάββατο.",
+          "I go to the street market every Saturday.",
+          "Je vais au marché chaque samedi."
+        ]
+      ],
+      "μείνουν": [
+        [
+          "Οι φίλοι μου θα μείνουν δύο μέρες.",
+          "My friends will stay two days.",
+          "Mes amis resteront deux jours."
+        ],
+        [
+          "Τα παιδιά θα μείνουν στο σπίτι.",
+          "The kids will stay at home.",
+          "Les enfants resteront à la maison."
+        ]
+      ],
+      "Μαρτίου": [
+        [
+          "Τα γενέθλιά μου είναι στις 5 Μαρτίου.",
+          "My birthday is on March 5th.",
+          "Mon anniversaire est le 5 mars."
+        ],
+        [
+          "Η 25η Μαρτίου είναι γιορτή.",
+          "March 25th is a holiday.",
+          "Le 25 mars est un jour férié."
+        ]
+      ],
+      "μπεις": [
+        [
+          "Μπορείς να μπεις, η πόρτα είναι ανοιχτή.",
+          "You can come in, the door is open.",
+          "Tu peux entrer, la porte est ouverte."
+        ],
+        [
+          "Βγάλε τα παπούτσια πριν μπεις.",
+          "Take off your shoes before you come in.",
+          "Enlève tes chaussures avant d'entrer."
+        ]
+      ],
+      "εισιτήριο": [
+        [
+          "Αγόρασα εισιτήριο για το μετρό.",
+          "I bought a metro ticket.",
+          "J'ai acheté un billet de métro."
+        ],
+        [
+          "Το εισιτήριο είναι στην τσέπη μου.",
+          "The ticket is in my pocket.",
+          "Le billet est dans ma poche."
+        ]
+      ],
+      "επισκέπτες": [
+        [
+          "Το μουσείο έχει πολλούς επισκέπτες.",
+          "The museum has many visitors.",
+          "Le musée a beaucoup de visiteurs."
+        ],
+        [
+          "Απόψε έχουμε επισκέπτες στο σπίτι.",
+          "Tonight we have guests at home.",
+          "Ce soir, nous avons des invités à la maison."
+        ]
+      ],
+      "βράχο": [
+        [
+          "Το παιδί κάθεται σε έναν βράχο.",
+          "The child is sitting on a rock.",
+          "L'enfant est assis sur un rocher."
+        ],
+        [
+          "Ανεβαίνουμε στον βράχο για τη θέα.",
+          "We climb the rock for the view.",
+          "On monte sur le rocher pour la vue."
+        ]
+      ],
+      "Παρθενώνα": [
+        [
+          "Από εδώ βλέπω τον Παρθενώνα.",
+          "From here I can see the Parthenon.",
+          "D'ici, je vois le Parthénon."
+        ],
+        [
+          "Βγάλαμε φωτογραφίες με τον Παρθενώνα.",
+          "We took photos with the Parthenon.",
+          "On a pris des photos avec le Parthénon."
+        ]
+      ],
+      "ναούς": [
+        [
+          "Η Ελλάδα έχει πολλούς αρχαίους ναούς.",
+          "Greece has many ancient temples.",
+          "La Grèce a beaucoup de temples antiques."
+        ],
+        [
+          "Στο βιβλίο βλέπω παλιούς ναούς.",
+          "In the book I see old temples.",
+          "Dans le livre, je vois de vieux temples."
+        ]
+      ],
+      "μουσείο": [
+        [
+          "Το μουσείο είναι κλειστό τη Δευτέρα.",
+          "The museum is closed on Monday.",
+          "Le musée est fermé le lundi."
+        ],
+        [
+          "Πάμε στο μουσείο την Κυριακή;",
+          "Shall we go to the museum on Sunday?",
+          "On va au musée dimanche ?"
+        ]
+      ],
+      "μετρό": [
+        [
+          "Παίρνω το μετρό για τη δουλειά.",
+          "I take the metro to work.",
+          "Je prends le métro pour aller au travail."
+        ],
+        [
+          "Το μετρό είναι γεμάτο το πρωί.",
+          "The metro is packed in the morning.",
+          "Le métro est bondé le matin."
+        ]
+      ],
+      "στάση": [
+        [
+          "Κατεβαίνω στην επόμενη στάση.",
+          "I'm getting off at the next stop.",
+          "Je descends au prochain arrêt."
+        ],
+        [
+          "Η στάση είναι μπροστά στο σπίτι.",
+          "The stop is in front of the house.",
+          "L'arrêt est devant la maison."
+        ]
+      ],
+      "περπατάς": [
+        [
+          "Εσύ περπατάς κάθε μέρα;",
+          "Do you walk every day?",
+          "Tu marches tous les jours ?"
+        ],
+        [
+          "Αν περπατάς, φτάνεις σε δέκα λεπτά.",
+          "If you walk, you get there in ten minutes.",
+          "Si tu marches, tu arrives en dix minutes."
+        ]
+      ],
+      "ανηφόρα": [
+        [
+          "Ο δρόμος για το σπίτι είναι ανηφόρα.",
+          "The road home is uphill.",
+          "La route vers la maison est en montée."
+        ],
+        [
+          "Με το ποδήλατο η ανηφόρα είναι δύσκολη.",
+          "On a bike the climb is hard.",
+          "À vélo, la montée est difficile."
+        ]
+      ],
+      "παπούτσια": [
+        [
+          "Αγόρασα καινούργια παπούτσια.",
+          "I bought new shoes.",
+          "J'ai acheté de nouvelles chaussures."
+        ],
+        [
+          "Τα παπούτσια μου είναι βρεγμένα.",
+          "My shoes are wet.",
+          "Mes chaussures sont mouillées."
+        ]
+      ],
+      "βροχή": [
+        [
+          "Η βροχή σταμάτησε επιτέλους.",
+          "The rain finally stopped.",
+          "La pluie s'est enfin arrêtée."
+        ],
+        [
+          "Δεν βγαίνω έξω με τέτοια βροχή.",
+          "I'm not going out in this rain.",
+          "Je ne sors pas sous une pluie pareille."
+        ]
+      ]
+    }
   }
 ]

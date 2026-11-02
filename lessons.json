@@ -6772,5 +6772,364 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-02",
+    "title": "Τα παιδιά γυρίζουν στο σχολείο",
+    "title_fr": "Les enfants retournent à l'école",
+    "title_en": "The children go back to school",
+    "source": {
+      "name": "Efsyn",
+      "url": "https://www.efsyn.gr/ellada/1500800/anoigoyn-simera-ta-sholeia-stin-gkrava-meta-apo-shedon-enan-mina-oi-eleghoi-den-entopisan-diarroi-aerioy/"
+    },
+    "paragraphs": [
+      "Σήμερα είναι μια σημαντική μέρα για τη Γκράβα. Η Γκράβα είναι μια **γειτονιά** (neighbourhood) της Αθήνας. Εκεί υπάρχουν πολλά **σχολεία** (schools) μαζί. Σήμερα τα σχολεία **ανοίγουν** (open) ξανά.",
+      "Στις 9 Οκτωβρίου, κάποιοι **μύρισαν** (smelled) **αέριο** (gas). Το αέριο είναι **επικίνδυνο** (dangerous). Γι' αυτό τα σχολεία **έκλεισαν** (closed). Για σχεδόν έναν **μήνα** (month), τα παιδιά έκαναν **μάθημα** (lessons) από το σπίτι, με τον **υπολογιστή** (computer).",
+      "Τρεις **ομάδες** (teams) με **ειδικούς** (experts) έκαναν **ελέγχους** (checks). Δεν βρήκαν καμία **διαρροή** (leak). Την Πέμπτη, ο **δήμος** (city council) πήρε μια **απόφαση** (decision). Τα σχολεία ανοίγουν τη Δευτέρα.",
+      "Όμως το αέριο θα μείνει **κλειστό** (turned off). Έτσι, τα σχολεία δεν έχουν ακόμα **θέρμανση** (heating). Πρώτα θα γίνουν κάποιες **εργασίες** (works). Η θέρμανση θα **επιστρέψει** (come back) ως το **τέλος** (end) του Νοεμβρίου.",
+      "Ο **δήμαρχος** (mayor), ο Χάρης Δούκας, έστειλε ένα **γράμμα** (letter) στους **διευθυντές** (head teachers) των σχολείων. Τους ζητάει **βοήθεια** (help), για να νιώθουν όλοι **ασφαλείς** (safe)."
+    ],
+    "fr": {
+      "γειτονιά": "quartier",
+      "σχολεία": "écoles",
+      "ανοίγουν": "ouvrent",
+      "μύρισαν": "ont senti",
+      "αέριο": "gaz",
+      "επικίνδυνο": "dangereux",
+      "έκλεισαν": "ont fermé",
+      "μήνα": "mois",
+      "μάθημα": "cours",
+      "υπολογιστή": "ordinateur",
+      "ομάδες": "équipes",
+      "ειδικούς": "spécialistes",
+      "ελέγχους": "contrôles",
+      "διαρροή": "fuite",
+      "δήμος": "mairie (conseil municipal)",
+      "απόφαση": "décision",
+      "κλειστό": "fermé (coupé)",
+      "θέρμανση": "chauffage",
+      "εργασίες": "travaux",
+      "επιστρέψει": "revenir",
+      "τέλος": "fin",
+      "δήμαρχος": "maire",
+      "γράμμα": "lettre",
+      "διευθυντές": "directeurs",
+      "βοήθεια": "aide",
+      "ασφαλείς": "en sécurité"
+    },
+    "examples": {
+      "γειτονιά": [
+        [
+          "Η γειτονιά μου είναι ήσυχη.",
+          "My neighbourhood is quiet.",
+          "Mon quartier est calme."
+        ],
+        [
+          "Υπάρχει φούρνος στη γειτονιά;",
+          "Is there a bakery in the neighbourhood?",
+          "Il y a une boulangerie dans le quartier ?"
+        ]
+      ],
+      "σχολεία": [
+        [
+          "Τα σχολεία κλείνουν τα Χριστούγεννα.",
+          "Schools close at Christmas.",
+          "Les écoles ferment à Noël."
+        ],
+        [
+          "Στο Παγκράτι έχει πολλά σχολεία.",
+          "Pangrati has many schools.",
+          "Il y a beaucoup d'écoles à Pangrati."
+        ]
+      ],
+      "ανοίγουν": [
+        [
+          "Τα μαγαζιά ανοίγουν στις εννιά.",
+          "The shops open at nine.",
+          "Les magasins ouvrent à neuf heures."
+        ],
+        [
+          "Πότε ανοίγουν οι λαϊκές;",
+          "When do the street markets open?",
+          "Quand ouvrent les marchés ?"
+        ]
+      ],
+      "μύρισαν": [
+        [
+          "Τα παιδιά μύρισαν το φαγητό.",
+          "The children smelled the food.",
+          "Les enfants ont senti l'odeur du repas."
+        ],
+        [
+          "Μύρισαν καφέ στον δρόμο.",
+          "They smelled coffee in the street.",
+          "Ils ont senti une odeur de café dans la rue."
+        ]
+      ],
+      "αέριο": [
+        [
+          "Η κουζίνα μας έχει αέριο.",
+          "Our cooker uses gas.",
+          "Notre cuisinière marche au gaz."
+        ],
+        [
+          "Κλείσε το αέριο, σε παρακαλώ.",
+          "Turn off the gas, please.",
+          "Coupe le gaz, s'il te plaît."
+        ]
+      ],
+      "επικίνδυνο": [
+        [
+          "Αυτό το σταυροδρόμι είναι επικίνδυνο.",
+          "This crossroads is dangerous.",
+          "Ce carrefour est dangereux."
+        ],
+        [
+          "Το μηχανάκι χωρίς κράνος είναι επικίνδυνο.",
+          "A scooter without a helmet is dangerous.",
+          "Le scooter sans casque, c'est dangereux."
+        ]
+      ],
+      "έκλεισαν": [
+        [
+          "Τα μαγαζιά έκλεισαν νωρίς.",
+          "The shops closed early.",
+          "Les magasins ont fermé tôt."
+        ],
+        [
+          "Έκλεισαν τον δρόμο για τον μαραθώνιο.",
+          "They closed the road for the marathon.",
+          "Ils ont fermé la rue pour le marathon."
+        ]
+      ],
+      "μήνα": [
+        [
+          "Πληρώνω το ενοίκιο κάθε μήνα.",
+          "I pay the rent every month.",
+          "Je paie le loyer chaque mois."
+        ],
+        [
+          "Τον άλλο μήνα πάμε στην Κρήτη.",
+          "Next month we're going to Crete.",
+          "Le mois prochain, on va en Crète."
+        ]
+      ],
+      "μάθημα": [
+        [
+          "Έχω μάθημα ελληνικών σήμερα.",
+          "I have a Greek lesson today.",
+          "J'ai cours de grec aujourd'hui."
+        ],
+        [
+          "Το μάθημα αρχίζει στις έξι.",
+          "The lesson starts at six.",
+          "Le cours commence à six heures."
+        ]
+      ],
+      "υπολογιστή": [
+        [
+          "Δουλεύω με τον υπολογιστή όλη μέρα.",
+          "I work on the computer all day.",
+          "Je travaille sur l'ordinateur toute la journée."
+        ],
+        [
+          "Άφησα τον υπολογιστή στο γραφείο.",
+          "I left the computer at the office.",
+          "J'ai laissé l'ordinateur au bureau."
+        ]
+      ],
+      "ομάδες": [
+        [
+          "Δύο ομάδες παίζουν απόψε.",
+          "Two teams are playing tonight.",
+          "Deux équipes jouent ce soir."
+        ],
+        [
+          "Τα παιδιά κάνουν δύο ομάδες.",
+          "The children make two teams.",
+          "Les enfants forment deux équipes."
+        ]
+      ],
+      "ειδικούς": [
+        [
+          "Ρωτήσαμε ειδικούς για το σπίτι.",
+          "We asked experts about the house.",
+          "Nous avons demandé à des spécialistes pour la maison."
+        ],
+        [
+          "Το νοσοκομείο έχει καλούς ειδικούς.",
+          "The hospital has good specialists.",
+          "L'hôpital a de bons spécialistes."
+        ]
+      ],
+      "ελέγχους": [
+        [
+          "Στο αεροδρόμιο κάνουν ελέγχους.",
+          "They do checks at the airport.",
+          "À l'aéroport, ils font des contrôles."
+        ],
+        [
+          "Ο γιατρός ζήτησε ελέγχους αίματος.",
+          "The doctor asked for blood tests.",
+          "Le médecin a demandé des analyses de sang."
+        ]
+      ],
+      "διαρροή": [
+        [
+          "Έχουμε διαρροή στο μπάνιο.",
+          "We have a leak in the bathroom.",
+          "On a une fuite dans la salle de bains."
+        ],
+        [
+          "Ο υδραυλικός βρήκε τη διαρροή.",
+          "The plumber found the leak.",
+          "Le plombier a trouvé la fuite."
+        ]
+      ],
+      "δήμος": [
+        [
+          "Ο δήμος καθαρίζει την πλατεία.",
+          "The city council cleans the square.",
+          "La mairie nettoie la place."
+        ],
+        [
+          "Ο δήμος φύτεψε νέα δέντρα.",
+          "The council planted new trees.",
+          "La mairie a planté de nouveaux arbres."
+        ]
+      ],
+      "απόφαση": [
+        [
+          "Πήρα μια μεγάλη απόφαση.",
+          "I made a big decision.",
+          "J'ai pris une grande décision."
+        ],
+        [
+          "Η απόφαση είναι δική σου.",
+          "The decision is yours.",
+          "La décision t'appartient."
+        ]
+      ],
+      "κλειστό": [
+        [
+          "Το περίπτερο είναι κλειστό σήμερα.",
+          "The kiosk is closed today.",
+          "Le kiosque est fermé aujourd'hui."
+        ],
+        [
+          "Το νερό είναι κλειστό ως το βράδυ.",
+          "The water is off until the evening.",
+          "L'eau est coupée jusqu'au soir."
+        ]
+      ],
+      "θέρμανση": [
+        [
+          "Ανάψαμε τη θέρμανση χθες.",
+          "We turned on the heating yesterday.",
+          "Nous avons allumé le chauffage hier."
+        ],
+        [
+          "Το γραφείο δεν έχει θέρμανση.",
+          "The office has no heating.",
+          "Le bureau n'a pas de chauffage."
+        ]
+      ],
+      "εργασίες": [
+        [
+          "Έχει εργασίες στον δρόμο μας.",
+          "There are works on our street.",
+          "Il y a des travaux dans notre rue."
+        ],
+        [
+          "Οι εργασίες τελειώνουν την Παρασκευή.",
+          "The works finish on Friday.",
+          "Les travaux finissent vendredi."
+        ]
+      ],
+      "επιστρέψει": [
+        [
+          "Ο Νίκος θα επιστρέψει αύριο.",
+          "Nikos will come back tomorrow.",
+          "Nikos reviendra demain."
+        ],
+        [
+          "Περιμένω να επιστρέψει ο ήλιος.",
+          "I'm waiting for the sun to come back.",
+          "J'attends que le soleil revienne."
+        ]
+      ],
+      "τέλος": [
+        [
+          "Πληρώνουμε στο τέλος του μήνα.",
+          "We pay at the end of the month.",
+          "Nous payons à la fin du mois."
+        ],
+        [
+          "Το τέλος της ταινίας ήταν ωραίο.",
+          "The end of the film was nice.",
+          "La fin du film était belle."
+        ]
+      ],
+      "δήμαρχος": [
+        [
+          "Ο δήμαρχος ήρθε στη γιορτή.",
+          "The mayor came to the celebration.",
+          "Le maire est venu à la fête."
+        ],
+        [
+          "Ο δήμαρχος μίλησε στην τηλεόραση.",
+          "The mayor spoke on television.",
+          "Le maire a parlé à la télévision."
+        ]
+      ],
+      "γράμμα": [
+        [
+          "Πήρα ένα γράμμα από τη γιαγιά.",
+          "I got a letter from grandma.",
+          "J'ai reçu une lettre de mamie."
+        ],
+        [
+          "Γράφω ένα γράμμα σε έναν φίλο.",
+          "I'm writing a letter to a friend.",
+          "J'écris une lettre à un ami."
+        ]
+      ],
+      "διευθυντές": [
+        [
+          "Οι διευθυντές έχουν συνάντηση σήμερα.",
+          "The directors have a meeting today.",
+          "Les directeurs ont une réunion aujourd'hui."
+        ],
+        [
+          "Μίλησα με τους διευθυντές της εταιρείας.",
+          "I spoke with the company's directors.",
+          "J'ai parlé avec les directeurs de l'entreprise."
+        ]
+      ],
+      "βοήθεια": [
+        [
+          "Χρειάζομαι βοήθεια με τις βαλίτσες.",
+          "I need help with the suitcases.",
+          "J'ai besoin d'aide avec les valises."
+        ],
+        [
+          "Ευχαριστώ πολύ για τη βοήθεια!",
+          "Thanks a lot for the help!",
+          "Merci beaucoup pour l'aide !"
+        ]
+      ],
+      "ασφαλείς": [
+        [
+          "Στο σπίτι νιώθουμε ασφαλείς.",
+          "At home we feel safe.",
+          "À la maison, on se sent en sécurité."
+        ],
+        [
+          "Οι δρόμοι εδώ είναι ασφαλείς.",
+          "The streets here are safe.",
+          "Les rues ici sont sûres."
+        ]
+      ]
+    }
   }
 ]

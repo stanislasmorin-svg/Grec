@@ -7131,5 +7131,337 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Μια γιορτή για τα βιβλία",
+    "title_fr": "Une fête pour les livres",
+    "title_en": "A celebration for books",
+    "source": {
+      "name": "culturenow.gr",
+      "url": "https://www.culturenow.gr/bazaar-vivlioy-me-spanies-ekdoseis-apo-to-miet-kai-paralliles-draseis-sto-palaio-xrimatistirio/"
+    },
+    "paragraphs": [
+      "Αυτή την Πέμπτη αρχίζει μια **γιορτή** (celebration) για τα **βιβλία** (books). Θα γίνει σε ένα παλιό **κτίριο** (building) στο κέντρο της Αθήνας. Είναι στην **οδό** (street) Σοφοκλέους. Η γιορτή κρατάει τέσσερις μέρες, ως την Κυριακή. Είναι **ανοιχτή** (open) από τις δέκα το πρωί ως τις έξι το **απόγευμα** (afternoon). Η **είσοδος** (entry) είναι **δωρεάν** (free).",
+      "Εκεί θα βρείτε παλιά και **σπάνια** (rare) βιβλία. Θα βρείτε και παλιές **εφημερίδες** (newspapers), **περιοδικά** (magazines) και **αφίσες** (posters). Κάποια βιβλία δεν θα **τυπωθούν** (be printed) ξανά. Είναι τα **τελευταία** (last) κομμάτια.",
+      "Υπάρχουν και ωραίες **δράσεις** (activities) για μικρούς και μεγάλους. Το Σάββατο και την Κυριακή, μια **κυρία** (lady) λέει **παραμύθια** (fairy tales) από όλο τον κόσμο. Παίζει και παράξενα μουσικά **όργανα** (instruments). Την Πέμπτη, κάποιοι **επισκέπτες** (visitors) περπατούν με ένα βιβλίο στο **κεφάλι** (head)! Σε ένα μάθημα, φτιάχνεις με τα χέρια σου ένα μικρό **τετράδιο** (notebook).",
+      "Η γιορτή γίνεται για τα 60 **γενέθλια** (birthday) ενός μεγάλου κέντρου για τα βιβλία και την τέχνη. Δεν μπορείτε να πάτε; Μπορείτε να **αγοράσετε** (buy) βιβλία και στο **ίντερνετ** (internet)."
+    ],
+    "fr": {
+      "γιορτή": "fête",
+      "βιβλία": "livres",
+      "κτίριο": "bâtiment",
+      "οδό": "rue",
+      "ανοιχτή": "ouverte",
+      "απόγευμα": "après-midi",
+      "είσοδος": "entrée",
+      "δωρεάν": "gratuit(e)",
+      "σπάνια": "rares",
+      "εφημερίδες": "journaux",
+      "περιοδικά": "magazines",
+      "αφίσες": "affiches",
+      "τυπωθούν": "être imprimés",
+      "τελευταία": "derniers",
+      "δράσεις": "activités",
+      "κυρία": "dame",
+      "παραμύθια": "contes",
+      "όργανα": "instruments",
+      "επισκέπτες": "visiteurs",
+      "κεφάλι": "tête",
+      "τετράδιο": "cahier",
+      "γενέθλια": "anniversaire",
+      "αγοράσετε": "acheter (vous)",
+      "ίντερνετ": "internet"
+    },
+    "examples": {
+      "γιορτή": [
+        [
+          "Σήμερα έχουμε γιορτή στο σπίτι.",
+          "Today we have a celebration at home.",
+          "Aujourd'hui, on fait la fête à la maison."
+        ],
+        [
+          "Η γιορτή της γειτονιάς είναι αύριο.",
+          "The neighbourhood celebration is tomorrow.",
+          "La fête du quartier est demain."
+        ]
+      ],
+      "βιβλία": [
+        [
+          "Τα βιβλία είναι πάνω στο τραπέζι.",
+          "The books are on the table.",
+          "Les livres sont sur la table."
+        ],
+        [
+          "Η Μαρία διαβάζει πολλά βιβλία.",
+          "Maria reads a lot of books.",
+          "Maria lit beaucoup de livres."
+        ]
+      ],
+      "κτίριο": [
+        [
+          "Το κτίριο έχει έξι ορόφους.",
+          "The building has six floors.",
+          "Le bâtiment a six étages."
+        ],
+        [
+          "Μένω σε ένα παλιό κτίριο.",
+          "I live in an old building.",
+          "J'habite dans un vieux bâtiment."
+        ]
+      ],
+      "οδό": [
+        [
+          "Το καφέ είναι στην οδό Ερμού.",
+          "The café is on Ermou Street.",
+          "Le café est rue Ermou."
+        ],
+        [
+          "Μένουμε στην οδό Πατησίων.",
+          "We live on Patission Street.",
+          "Nous habitons rue Patission."
+        ]
+      ],
+      "ανοιχτή": [
+        [
+          "Η τράπεζα είναι ανοιχτή τώρα.",
+          "The bank is open now.",
+          "La banque est ouverte maintenant."
+        ],
+        [
+          "Η πόρτα είναι ανοιχτή.",
+          "The door is open.",
+          "La porte est ouverte."
+        ]
+      ],
+      "απόγευμα": [
+        [
+          "Το απόγευμα πίνω καφέ.",
+          "In the afternoon I drink coffee.",
+          "L'après-midi, je bois un café."
+        ],
+        [
+          "Θα σε δω το απόγευμα.",
+          "I'll see you in the afternoon.",
+          "Je te verrai cet après-midi."
+        ]
+      ],
+      "είσοδος": [
+        [
+          "Η είσοδος είναι από πίσω.",
+          "The entrance is at the back.",
+          "L'entrée est par derrière."
+        ],
+        [
+          "Πόσο κοστίζει η είσοδος;",
+          "How much is the entry?",
+          "Combien coûte l'entrée ?"
+        ]
+      ],
+      "δωρεάν": [
+        [
+          "Το νερό εδώ είναι δωρεάν.",
+          "The water here is free.",
+          "L'eau ici est gratuite."
+        ],
+        [
+          "Τα παιδιά μπαίνουν δωρεάν.",
+          "Children get in for free.",
+          "Les enfants entrent gratuitement."
+        ]
+      ],
+      "σπάνια": [
+        [
+          "Αυτά τα λουλούδια είναι σπάνια.",
+          "These flowers are rare.",
+          "Ces fleurs sont rares."
+        ],
+        [
+          "Ο παππούς έχει σπάνια γραμματόσημα.",
+          "Grandpa has rare stamps.",
+          "Grand-père a des timbres rares."
+        ]
+      ],
+      "εφημερίδες": [
+        [
+          "Ο περιπτεράς πουλάει εφημερίδες.",
+          "The kiosk owner sells newspapers.",
+          "Le kiosquier vend des journaux."
+        ],
+        [
+          "Οι εφημερίδες είναι στο τραπέζι.",
+          "The newspapers are on the table.",
+          "Les journaux sont sur la table."
+        ]
+      ],
+      "περιοδικά": [
+        [
+          "Στο κομμωτήριο έχει περιοδικά.",
+          "There are magazines at the hairdresser's.",
+          "Il y a des magazines chez le coiffeur."
+        ],
+        [
+          "Η αδερφή μου αγαπάει τα περιοδικά.",
+          "My sister loves magazines.",
+          "Ma sœur adore les magazines."
+        ]
+      ],
+      "αφίσες": [
+        [
+          "Βάλαμε αφίσες στον τοίχο.",
+          "We put posters on the wall.",
+          "On a mis des affiches au mur."
+        ],
+        [
+          "Οι αφίσες είναι πολύ χρωματιστές.",
+          "The posters are very colourful.",
+          "Les affiches sont très colorées."
+        ]
+      ],
+      "τυπωθούν": [
+        [
+          "Τα χαρτιά θα τυπωθούν αύριο.",
+          "The papers will be printed tomorrow.",
+          "Les papiers seront imprimés demain."
+        ],
+        [
+          "Οι φωτογραφίες θα τυπωθούν σήμερα.",
+          "The photos will be printed today.",
+          "Les photos seront imprimées aujourd'hui."
+        ]
+      ],
+      "τελευταία": [
+        [
+          "Αυτά είναι τα τελευταία μήλα.",
+          "These are the last apples.",
+          "Ce sont les dernières pommes."
+        ],
+        [
+          "Πήρα τα τελευταία εισιτήρια.",
+          "I got the last tickets.",
+          "J'ai pris les derniers billets."
+        ]
+      ],
+      "δράσεις": [
+        [
+          "Ο δήμος έχει δράσεις για παιδιά.",
+          "The city has activities for children.",
+          "La mairie propose des activités pour les enfants."
+        ],
+        [
+          "Οι δράσεις αρχίζουν στις πέντε.",
+          "The activities start at five.",
+          "Les activités commencent à cinq heures."
+        ]
+      ],
+      "κυρία": [
+        [
+          "Η κυρία στο φούρνο είναι ευγενική.",
+          "The lady at the bakery is kind.",
+          "La dame de la boulangerie est gentille."
+        ],
+        [
+          "Μια κυρία περιμένει το λεωφορείο.",
+          "A lady is waiting for the bus.",
+          "Une dame attend le bus."
+        ]
+      ],
+      "παραμύθια": [
+        [
+          "Η γιαγιά λέει ωραία παραμύθια.",
+          "Grandma tells nice fairy tales.",
+          "Grand-mère raconte de beaux contes."
+        ],
+        [
+          "Τα παιδιά ακούνε παραμύθια το βράδυ.",
+          "The children listen to fairy tales at night.",
+          "Les enfants écoutent des contes le soir."
+        ]
+      ],
+      "όργανα": [
+        [
+          "Ο Νίκος παίζει δύο όργανα.",
+          "Nikos plays two instruments.",
+          "Nikos joue de deux instruments."
+        ],
+        [
+          "Τα όργανα είναι στη σκηνή.",
+          "The instruments are on the stage.",
+          "Les instruments sont sur la scène."
+        ]
+      ],
+      "επισκέπτες": [
+        [
+          "Το μουσείο έχει πολλούς επισκέπτες.",
+          "The museum has many visitors.",
+          "Le musée a beaucoup de visiteurs."
+        ],
+        [
+          "Οι επισκέπτες βγάζουν φωτογραφίες.",
+          "The visitors take photos.",
+          "Les visiteurs prennent des photos."
+        ]
+      ],
+      "κεφάλι": [
+        [
+          "Με πονάει το κεφάλι μου.",
+          "My head hurts.",
+          "J'ai mal à la tête."
+        ],
+        [
+          "Φοράει καπέλο στο κεφάλι.",
+          "He wears a hat on his head.",
+          "Il porte un chapeau sur la tête."
+        ]
+      ],
+      "τετράδιο": [
+        [
+          "Γράφω πάντα σε ένα τετράδιο.",
+          "I always write in a notebook.",
+          "J’écris toujours dans un cahier."
+        ],
+        [
+          "Αγόρασα ένα κόκκινο τετράδιο.",
+          "I bought a red notebook.",
+          "J'ai acheté un cahier rouge."
+        ]
+      ],
+      "γενέθλια": [
+        [
+          "Αύριο έχω γενέθλια.",
+          "Tomorrow is my birthday.",
+          "Demain, c'est mon anniversaire."
+        ],
+        [
+          "Τα γενέθλια της Άννας είναι Σάββατο.",
+          "Anna's birthday is on Saturday.",
+          "L'anniversaire d'Anna est samedi."
+        ]
+      ],
+      "αγοράσετε": [
+        [
+          "Πού μπορείτε να αγοράσετε εισιτήριο;",
+          "Where can you buy a ticket?",
+          "Où pouvez-vous acheter un billet ?"
+        ],
+        [
+          "Θέλετε να αγοράσετε ψωμί;",
+          "Do you want to buy bread?",
+          "Voulez-vous acheter du pain ?"
+        ]
+      ],
+      "ίντερνετ": [
+        [
+          "Το ίντερνετ σήμερα είναι αργό.",
+          "The internet is slow today.",
+          "Internet est lent aujourd'hui."
+        ],
+        [
+          "Παραγγέλνω φαγητό από το ίντερνετ.",
+          "I order food from the internet.",
+          "Je commande à manger sur internet."
+        ]
+      ]
+    }
   }
 ]

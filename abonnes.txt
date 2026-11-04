@@ -1,6 +1,8 @@
-# Liste des personnes qui reçoivent le cours de grec chaque matin par e-mail.
-# Une adresse par ligne. Les lignes qui commencent par # sont ignorées.
-# Pour ajouter quelqu'un : sur github.com, ouvrir ce fichier, cliquer sur le crayon, ajouter l'adresse, puis « Commit changes ».
-stanislas.morin@gmail.com
-jc.julia.jc@gmail.com
-Oren.pelled@gmail.com
+# Liste des personnes qui reçoivent le cours chaque matin par e-mail.
+# Une personne par ligne : l'adresse, puis la langue à apprendre (grec ou italien), séparées par un espace.
+# Si la langue manque, c'est grec. Les lignes qui commencent par # sont ignorées.
+# Pour ajouter quelqu'un : sur github.com, ouvrir ce fichier, cliquer sur le crayon, ajouter la ligne, puis « Commit changes ».
+# Exemple :  prenom.nom@gmail.com italien
+stanislas.morin@gmail.com grec
+jc.julia.jc@gmail.com grec
+Oren.pelled@gmail.com grec

@@ -3,7 +3,7 @@ name: Audio des cours
 on:
   push:
     branches: [main]
-    paths: [lessons.json, tools/**, .github/workflows/audio.yml]
+    paths: [lessons.json, lessons_it.json, tools/**, .github/workflows/audio.yml]
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Installer la voix
-        run: pip install --upgrade edge-tts gTTS
+        run: |
+          pip install --upgrade edge-tts gTTS
+          which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
       - name: Créer les MP3 manquants
         run: python3 tools/make_audio.py
       - name: Regénérer les pages
@@ -38,6 +40,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Audio des cours"
+            git pull --rebase origin main || true
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi

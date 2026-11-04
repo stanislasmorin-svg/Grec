@@ -22,9 +22,9 @@
           "Un bébé naît aujourd'hui."
         ],
         [
-          "Η ιδέα γεννιέται στο καφέ.",
-          "The idea is born in the café.",
-          "L'idée naît au café."
+          "Νιώθω ότι γεννιέμαι ξανά στην Αθήνα.",
+          "I feel like I'm born again in Athens.",
+          "J'ai l'impression de renaître à Athènes."
         ]
       ],
       "καινούργιο": [
@@ -94,9 +94,9 @@
           "Les grands-mères font des tourtes."
         ],
         [
-          "Φτιάχνουν έναν νέο δρόμο.",
-          "They are building a new road.",
-          "Ils construisent une nouvelle route."
+          "Κάθε πρωί φτιάχνω καφέ στο σπίτι.",
+          "Every morning I make coffee at home.",
+          "Chaque matin, je fais du café à la maison."
         ]
       ],
       "παλιά": [
@@ -154,9 +154,9 @@
           "Ils doivent réfléchir un peu."
         ],
         [
-          "Θα σκεφτούν και θα απαντήσουν.",
-          "They will think and answer.",
-          "Ils vont réfléchir et répondre."
+          "Στο μετρό σκέφτομαι τη δουλειά μου.",
+          "On the metro I think about my work.",
+          "Dans le métro, je pense à mon travail."
         ]
       ],
       "ερωτήσεις": [
@@ -178,9 +178,9 @@
           "Les saisons changent."
         ],
         [
-          "Πολλοί αλλάζουν σπίτι τον Σεπτέμβριο.",
-          "Many people move house in September.",
-          "Beaucoup changent de maison en septembre."
+          "Τον Σεπτέμβριο αλλάζω σπίτι στο Παγκράτι.",
+          "In September I'm moving house in Pangrati.",
+          "En septembre, je déménage à Pangrati."
         ]
       ],
       "χώρα": [
@@ -250,9 +250,9 @@
           "Beaucoup d'amis sont venus."
         ],
         [
-          "Ήρθαν χθες από τη Γαλλία.",
-          "They came from France yesterday.",
-          "Ils sont venus hier de France."
+          "Κάθε μέρα έρχομαι εδώ με το λεωφορείο.",
+          "Every day I come here by bus.",
+          "Chaque jour, je viens ici en bus."
         ]
       ]
     },
@@ -278,7 +278,21 @@
       "γιορτή": "fête",
       "Ήρθαν": "sont venus"
     },
-    "title_en": "A new home for scientists"
+    "title_en": "A new home for scientists",
+    "paragraphs_en": [
+      "Something new is being born in Athens. It is a center for scientists. Its name is Estia. It is the first center of its kind in this area of Europe.",
+      "Two universities, a research center and a French school are creating it together. The French School at Athens is very old. It opened in 1846.",
+      "Scientists from all over the world will come to the center. They will not teach classes. They will have time to think and to write. They will talk together about big questions.",
+      "Which questions? Why do people change countries? Why do some have a lot of money and others little? How is our life changing with technology?",
+      "The celebration for the new center took place at Panteion University. Scientists came from Sofia, America and Paris."
+    ],
+    "lemma": {
+      "γεννιέται": "γεννιέμαι",
+      "φτιάχνουν": "φτιάχνω",
+      "σκεφτούν": "σκέφτομαι",
+      "αλλάζουν": "αλλάζω",
+      "Ήρθαν": "έρχομαι"
+    }
   },
   {
     "date": "2026-10-13",
@@ -314,9 +328,9 @@
           "Il/elle achètera du pain."
         ],
         [
-          "Θέλει να αγοράσει σπίτι.",
-          "He/she wants to buy a house.",
-          "Il/elle veut acheter une maison."
+          "Στη λαϊκή αγοράζω φρούτα κάθε Σάββατο.",
+          "I buy fruit at the street market every Saturday.",
+          "J'achète des fruits au marché chaque samedi."
         ]
       ],
       "μηχανές": [
@@ -362,9 +376,9 @@
           "Le chewing-gum colle à la chaussure."
         ],
         [
-          "Το μέλι κολλάει.",
-          "Honey is sticky.",
-          "Le miel colle."
+          "Στην κίνηση κολλάω κάθε πρωί.",
+          "I get stuck in traffic every morning.",
+          "Je suis coincé dans les bouchons chaque matin."
         ]
       ],
       "καθαρίζουν": [
@@ -374,9 +388,9 @@
           "Ils nettoient la maison le samedi."
         ],
         [
-          "Οι εργάτες καθαρίζουν την πλατεία.",
-          "The workers clean the square.",
-          "Les ouvriers nettoient la place."
+          "Την Κυριακή καθαρίζω το μπαλκόνι μου.",
+          "On Sunday I clean my balcony.",
+          "Le dimanche, je nettoie mon balcon."
         ]
       ],
       "λεκέδες": [
@@ -410,9 +424,9 @@
           "Ils éteignent les lumières à minuit."
         ],
         [
-          "Οι μαθητές σβήνουν τον πίνακα.",
-          "The students erase the board.",
-          "Les élèves effacent le tableau."
+          "Πριν φύγω, σβήνω πάντα τα φώτα.",
+          "Before I leave, I always turn off the lights.",
+          "Avant de partir, j'éteins toujours les lumières."
         ]
       ],
       "ηλεκτρικές": [
@@ -458,9 +472,9 @@
           "Les plantes ont besoin d'eau."
         ],
         [
-          "Τα παιδιά χρειάζονται ύπνο.",
-          "Children need sleep.",
-          "Les enfants ont besoin de sommeil."
+          "Το πρωί χρειάζομαι πάντα έναν καφέ.",
+          "In the morning I always need a coffee.",
+          "Le matin, j'ai toujours besoin d'un café."
         ]
       ],
       "κάδους": [
@@ -518,9 +532,9 @@
           "Beaucoup utilisent le métro."
         ],
         [
-          "Χρησιμοποιούν το κινητό παντού.",
-          "They use their phones everywhere.",
-          "Ils utilisent le portable partout."
+          "Στην Αθήνα χρησιμοποιώ πολύ το μετρό.",
+          "In Athens I use the metro a lot.",
+          "À Athènes, j'utilise beaucoup le métro."
         ]
       ],
       "πλατείες": [
@@ -542,9 +556,9 @@
           "Les billets coûteront dix euros."
         ],
         [
-          "Πόσο θα κοστίσουν τα ψώνια;",
-          "How much will the groceries cost?",
-          "Combien coûteront les courses ?"
+          "Ως φοιτητής, κοστίζω πολλά στους γονείς μου.",
+          "As a student, I cost my parents a lot.",
+          "Comme étudiant, je coûte cher à mes parents."
         ]
       ],
       "στόχος": [
@@ -597,7 +611,22 @@
       "στόχος": "but",
       "κόσμο": "monde"
     },
-    "title_en": "Machines for clean sidewalks"
+    "title_en": "Machines for clean sidewalks",
+    "paragraphs_en": [
+      "The City of Athens wants a cleaner city. It will buy ten new machines. These machines remove chewing gum from the sidewalks.",
+      "There is a lot of chewing gum on the sidewalks. Gum sticks and does not come off easily. The machines will also clean stains and stickers. They will also erase small graffiti.",
+      "The machines are electric. They have a battery and do not make much noise. They do not need water. They also have two large bins for trash.",
+      "The city's employees will take lessons. This way they will learn to use them. The machines will work on the sidewalks and in the squares. They will cost about 149,000 euros. The goal is simple: less trash on the busy streets."
+    ],
+    "lemma": {
+      "αγοράσει": "αγοράζω",
+      "κολλάει": "κολλάω",
+      "καθαρίζουν": "καθαρίζω",
+      "σβήνουν": "σβήνω",
+      "χρειάζονται": "χρειάζομαι",
+      "χρησιμοποιούν": "χρησιμοποιώ",
+      "κοστίσουν": "κοστίζω"
+    }
   },
   {
     "date": "2026-10-14",
@@ -621,9 +650,9 @@
           "Ils construisent une nouvelle école."
         ],
         [
-          "Τα πουλιά χτίζουν φωλιά.",
-          "Birds build a nest.",
-          "Les oiseaux construisent un nid."
+          "Στο χωριό χτίζω ένα μικρό σπίτι.",
+          "I'm building a small house in the village.",
+          "Je construis une petite maison au village."
         ]
       ],
       "γραμμή": [
@@ -657,9 +686,9 @@
           "Le chien creuse dans le jardin."
         ],
         [
-          "Ο εργάτης σκάβει μια τρύπα.",
-          "The worker digs a hole.",
-          "L'ouvrier creuse un trou."
+          "Την άνοιξη σκάβω τον κήπο της γιαγιάς.",
+          "In spring I dig grandma's garden.",
+          "Au printemps, je bêche le jardin de ma grand-mère."
         ]
       ],
       "τούνελ": [
@@ -681,9 +710,9 @@
           "La pluie s'est arrêtée."
         ],
         [
-          "Το λεωφορείο σταμάτησε εδώ.",
-          "The bus stopped here.",
-          "Le bus s'est arrêté ici."
+          "Στο περίπτερο σταματάω για νερό.",
+          "I stop at the kiosk for water.",
+          "Je m'arrête au kiosque pour de l'eau."
         ]
       ],
       "μήνες": [
@@ -717,9 +746,9 @@
           "L'enfant est tombé du vélo."
         ],
         [
-          "Το ποτήρι έπεσε κάτω.",
-          "The glass fell on the floor.",
-          "Le verre est tombé par terre."
+          "Το βράδυ πέφτω νωρίς για ύπνο.",
+          "In the evening I go to bed early.",
+          "Le soir, je me couche tôt."
         ]
       ],
       "περίμεναν": [
@@ -729,9 +758,9 @@
           "Ils ont attendu le bus une demi-heure."
         ],
         [
-          "Οι φίλοι περίμεναν στο καφέ.",
-          "The friends were waiting at the café.",
-          "Les amis attendaient au café."
+          "Στη στάση περιμένω το λεωφορείο.",
+          "I wait for the bus at the stop.",
+          "J'attends le bus à l'arrêt."
         ]
       ],
       "πολυκατοικίες": [
@@ -789,9 +818,9 @@
           "Les parents s'inquiètent."
         ],
         [
-          "Μην ανησυχείς, όλα καλά.",
-          "Don't worry, everything's fine.",
-          "Ne t'inquiète pas, tout va bien."
+          "Όταν βρέχει, ανησυχώ για την κίνηση.",
+          "When it rains, I worry about the traffic.",
+          "Quand il pleut, je m'inquiète pour la circulation."
         ]
       ],
       "ειδικοί": [
@@ -849,9 +878,9 @@
           "Le film va commencer bientôt."
         ],
         [
-          "Το σχολείο θα ξεκινήσει τη Δευτέρα.",
-          "School will start on Monday.",
-          "L'école reprendra lundi."
+          "Τη δουλειά ξεκινάω στις εννιά.",
+          "I start work at nine.",
+          "Je commence le travail à neuf heures."
         ]
       ],
       "σχέδιο": [
@@ -885,9 +914,9 @@
           "Le travail avance bien."
         ],
         [
-          "Η ουρά δεν προχωράει.",
-          "The line isn't moving.",
-          "La queue n'avance pas."
+          "Στην ουρά προχωράω πολύ αργά.",
+          "I move very slowly in the queue.",
+          "J'avance très lentement dans la file."
         ]
       ],
       "στραβά": [
@@ -909,9 +938,9 @@
           "Ils vont nous expliquer le problème."
         ],
         [
-          "Μπορούν να εξηγήσουν τον δρόμο;",
-          "Can they explain the way?",
-          "Peuvent-ils expliquer le chemin ?"
+          "Συχνά εξηγώ τον δρόμο στους τουρίστες.",
+          "I often explain the way to tourists.",
+          "J'explique souvent le chemin aux touristes."
         ]
       ]
     },
@@ -942,7 +971,24 @@
       "στραβά": "mal",
       "εξηγήσουν": "expliqueront"
     },
-    "title_en": "The metro stops at Kypseli"
+    "title_en": "The metro stops at Kypseli",
+    "paragraphs_en": [
+      "In Athens they are building the new metro Line 4. A big machine is digging a tunnel under the ground. But in Kypseli the machine stopped. It has been standing still there for more than five months.",
+      "Why? The soil under the streets caved in more than they expected. There is damage in 20 apartment buildings. The walls have cracks. The residents are worried.",
+      "Now experts are coming to help. One of them is a professor from England. He has worked on the London Underground. The minister says that people's safety is the most important thing.",
+      "The machine will start again only with a good plan. First the soil will be made more solid. Then the machine will move forward slowly. If something goes wrong, it will stop immediately. First they will explain the plan to the residents. We still do not know when it will start."
+    ],
+    "lemma": {
+      "χτίζουν": "χτίζω",
+      "σκάβει": "σκάβω",
+      "σταμάτησε": "σταματάω",
+      "έπεσε": "πέφτω",
+      "περίμεναν": "περιμένω",
+      "ανησυχούν": "ανησυχώ",
+      "ξεκινήσει": "ξεκινάω",
+      "προχωράει": "προχωράω",
+      "εξηγήσουν": "εξηγώ"
+    }
   },
   {
     "date": "2026-10-15",
@@ -1026,9 +1072,9 @@
           "Le film commence maintenant."
         ],
         [
-          "Το φθινόπωρο αρχίζει.",
-          "Autumn is beginning.",
-          "L'automne commence."
+          "Κάθε πρωί αρχίζω τη μέρα με καφέ.",
+          "Every morning I start the day with coffee.",
+          "Chaque matin, je commence la journée par un café."
         ]
       ],
       "τραγουδιστές": [
@@ -1050,9 +1096,9 @@
           "Les équipes s'affronteront demain."
         ],
         [
-          "Θα αγωνιστούν για το κύπελλο.",
-          "They will compete for the cup.",
-          "Ils se battront pour la coupe."
+          "Το Σάββατο αγωνίζομαι με την ομάδα μου.",
+          "On Saturday I compete with my team.",
+          "Le samedi, je joue un match avec mon équipe."
         ]
       ],
       "δυνατή": [
@@ -1146,9 +1192,9 @@
           "Le travail finit à cinq heures."
         ],
         [
-          "Το καλοκαίρι τελειώνει.",
-          "Summer is ending.",
-          "L'été se termine."
+          "Τη δουλειά τελειώνω στις πέντε.",
+          "I finish work at five.",
+          "Je finis le travail à cinq heures."
         ]
       ],
       "καλεσμένοι": [
@@ -1182,9 +1228,9 @@
           "Qui va gagner ?"
         ],
         [
-          "Θέλει να κερδίσει το παιχνίδι.",
-          "He wants to win the game.",
-          "Il veut gagner le match."
+          "Στο τάβλι κερδίζω πάντα τον παππού.",
+          "At backgammon I always beat grandpa.",
+          "Au backgammon, je bats toujours grand-père."
         ]
       ],
       "Αποφασίζει": [
@@ -1194,9 +1240,9 @@
           "C'est maman qui décide."
         ],
         [
-          "Ποιος αποφασίζει εδώ;",
-          "Who decides here?",
-          "Qui décide ici ?"
+          "Στο καφέ δύσκολα αποφασίζω τι θέλω.",
+          "At the café I find it hard to decide what I want.",
+          "Au café, j'ai du mal à décider ce que je veux."
         ]
       ],
       "φωνάζεις": [
@@ -1206,9 +1252,9 @@
           "Pourquoi tu cries ?"
         ],
         [
-          "Μη φωνάζεις, το μωρό κοιμάται.",
-          "Don't shout, the baby is sleeping.",
-          "Ne crie pas, le bébé dort."
+          "Στο γήπεδο φωνάζω για την ομάδα μου.",
+          "At the stadium I shout for my team.",
+          "Au stade, je crie pour mon équipe."
         ]
       ],
       "βοηθάς": [
@@ -1218,9 +1264,9 @@
           "Tu m'aides un peu ?"
         ],
         [
-          "Βοηθάς πολύ, ευχαριστώ.",
-          "You're a big help, thanks.",
-          "Tu aides beaucoup, merci."
+          "Συχνά βοηθάω τη γειτόνισσα με τα ψώνια.",
+          "I often help my neighbor with her shopping.",
+          "J'aide souvent ma voisine à porter ses courses."
         ]
       ],
       "εισιτήρια": [
@@ -1242,9 +1288,9 @@
           "Les oranges se vendent au marché."
         ],
         [
-          "Τα σπίτια πουλιούνται ακριβά.",
-          "Houses sell for a lot of money.",
-          "Les maisons se vendent cher."
+          "Δεν πουλιέμαι για λίγα λεφτά.",
+          "I can't be bought for a little money.",
+          "Je ne me vends pas pour peu d'argent."
         ]
       ]
     },
@@ -1274,7 +1320,23 @@
       "εισιτήρια": "billets",
       "πουλιούνται": "se vendent"
     },
-    "title_en": "A musical battle in Athens"
+    "title_en": "A musical battle in Athens",
+    "paragraphs_en": [
+      "On November 14 a special concert is coming to Athens. It is a musical battle. It is called Red Bull SoundClash. It will take place at the Olympic Velodrome, at OAKA. The doors open at five. The battle starts at eight in the evening.",
+      "Two young Greek singers will compete. RACK sings hip hop. LILA has a very strong voice. Each singer has their own stage. The two stages are opposite each other. The audience stands in the middle.",
+      "The battle has four rounds. In the first round, one starts a song. The other one finishes it. Then each sings the other's songs. At the end, surprise guests arrive.",
+      "Who will win? The audience decides! The louder you shout, the more you help your singer. Tickets are sold online."
+    ],
+    "lemma": {
+      "αρχίζει": "αρχίζω",
+      "αγωνιστούν": "αγωνίζομαι",
+      "τελειώνει": "τελειώνω",
+      "κερδίσει": "κερδίζω",
+      "Αποφασίζει": "αποφασίζω",
+      "φωνάζεις": "φωνάζω",
+      "βοηθάς": "βοηθάω",
+      "πουλιούνται": "πουλιέμαι"
+    }
   },
   {
     "date": "2026-10-16",
@@ -1418,9 +1480,9 @@
           "Ils font du café pour tout le monde."
         ],
         [
-          "Οι φούρνοι φτιάχνουν ψωμί.",
-          "Bakeries make bread.",
-          "Les boulangeries font du pain."
+          "Το Σάββατο φτιάχνω πίτα για τους φίλους.",
+          "On Saturday I make a pie for my friends.",
+          "Le samedi, je fais une tourte pour mes amis."
         ]
       ],
       "χώρες": [
@@ -1442,9 +1504,9 @@
           "Il/elle goûtera le plat."
         ],
         [
-          "Θέλει να δοκιμάσει κάτι νέο.",
-          "He/she wants to try something new.",
-          "Il/elle veut essayer quelque chose de nouveau."
+          "Στη λαϊκή δοκιμάζω πάντα τα φρούτα.",
+          "At the street market I always taste the fruit.",
+          "Au marché, je goûte toujours les fruits."
         ]
       ],
       "πρώτη φορά": [
@@ -1586,9 +1648,9 @@
           "Combien ça coûte ?"
         ],
         [
-          "Ο καφές κοστίζει τρία ευρώ.",
-          "The coffee costs three euros.",
-          "Le café coûte trois euros."
+          "Ως φοιτητής, κοστίζω πολλά στους γονείς μου.",
+          "As a student, I cost my parents a lot.",
+          "Comme étudiant, je coûte cher à mes parents."
         ]
       ],
       "πόρτα": [
@@ -1632,7 +1694,18 @@
       "κοστίζει": "coûte",
       "πόρτα": "porte"
     },
-    "title_en": "Wine and art in Monastiraki"
+    "title_en": "Wine and art in Monastiraki",
+    "paragraphs_en": [
+      "This weekend there is a big festival in Athens. It is a festival for wine and art. It will take place on Saturday 17 and Sunday 18 October. The festival is in Monastiraki, at 57 Athinas Street. The festival is happening for the sixth year.",
+      "More than 70 small companies will come. They make wine. They are from Greece and from other countries. People will taste more than 600 wines. Many companies are coming for the first time.",
+      "There is also an exhibition of works of art. Seventy artists are showing more than a hundred works. There are paintings, statues and photographs. They all talk about Athinas Street. They show its markets, its shops and its people.",
+      "There will also be music and classes about wine. The festival is open from 11 in the morning to 8 in the evening. The ticket costs 14 euros in advance and 16 euros at the door."
+    ],
+    "lemma": {
+      "φτιάχνουν": "φτιάχνω",
+      "δοκιμάσει": "δοκιμάζω",
+      "κοστίζει": "κοστίζω"
+    }
   },
   {
     "date": "2026-10-17",
@@ -1693,9 +1766,9 @@
           "Ils courront dans le parc."
         ],
         [
-          "Τα παιδιά θέλουν να τρέξουν.",
-          "The children want to run.",
-          "Les enfants veulent courir."
+          "Κάθε πρωί τρέχω στο Πεδίον του Άρεως.",
+          "Every morning I run in Pedion tou Areos park.",
+          "Chaque matin, je cours au parc Pedion tou Areos."
         ]
       ],
       "δρομείς": [
@@ -1717,9 +1790,9 @@
           "Les cours commencent demain."
         ],
         [
-          "Ξεκινούν νωρίς το πρωί.",
-          "They set off early in the morning.",
-          "Ils partent tôt le matin."
+          "Κάθε Κυριακή ξεκινάω νωρίς για τη θάλασσα.",
+          "Every Sunday I set off early for the sea.",
+          "Chaque dimanche, je pars tôt pour la mer."
         ]
       ],
       "χιλιόμετρα": [
@@ -1965,7 +2038,18 @@
       "επισκέπτες": "visiteurs",
       "φθινόπωρο": "automne"
     },
-    "title_en": "A big marathon for Athens"
+    "title_en": "A big marathon for Athens",
+    "paragraphs_en": [
+      "In November Athens has a big celebration. It is the Athens Marathon. The race takes place on 7 and 8 November. This year 85,000 runners will run. So many have never come before!",
+      "The runners set off from Marathon. They run 42 kilometers to Athens. They follow the old route of Pheidippides. The finish is at the Panathenaic Stadium. The stadium is now like new.",
+      "Attica is giving 15 million euros. With this money the route will become nicer and more modern.",
+      "This year 20 champions from other countries are also coming. At the end every runner gets a medal. On it there is a dove, the sun and the sea. The dove means peace. The runners also get a bag. It is made of recycled plastic.",
+      "The Marathon brings many visitors to Athens. So the city has tourists in the autumn too."
+    ],
+    "lemma": {
+      "τρέξουν": "τρέχω",
+      "ξεκινούν": "ξεκινάω"
+    }
   },
   {
     "date": "2026-10-19",
@@ -2097,9 +2181,9 @@
           "Les trains passent toutes les dix minutes."
         ],
         [
-          "Οι μέρες περνούν γρήγορα.",
-          "The days go by quickly.",
-          "Les jours passent vite."
+          "Κάθε μέρα περνάω από τον φούρνο.",
+          "Every day I go past the bakery.",
+          "Tous les jours, je passe devant la boulangerie."
         ]
       ],
       "γειτονιές": [
@@ -2241,9 +2325,9 @@
           "Les amis aident toujours."
         ],
         [
-          "Τα παιδιά βοηθούν στην κουζίνα.",
-          "The children help in the kitchen.",
-          "Les enfants aident à la cuisine."
+          "Το Σάββατο βοηθάω τη μαμά στο σπίτι.",
+          "On Saturday I help my mum at home.",
+          "Le samedi, j'aide ma mère à la maison."
         ]
       ],
       "συγκοινωνίες": [
@@ -2265,9 +2349,9 @@
           "Combien coûte le billet ?"
         ],
         [
-          "Το φαγητό κοστίζει δέκα ευρώ.",
-          "The meal costs ten euros.",
-          "Le repas coûte dix euros."
+          "Ως φοιτητής, κοστίζω πολλά στους γονείς μου.",
+          "As a student, I cost my parents a lot.",
+          "En tant qu'étudiant, je coûte cher à mes parents."
         ]
       ],
       "εκατομμύρια": [
@@ -2323,7 +2407,18 @@
       "εκατομμύρια": "millions",
       "σύντομα": "bientôt"
     },
-    "title_en": "New electric buses in Athens"
+    "title_en": "New electric buses in Athens",
+    "paragraphs_en": [
+      "The Municipality of Athens has a new project. It is bringing new buses to the city. Their name is \"Athens Move\". The buses are electric. They run on electricity, not on diesel.",
+      "There will be 17 buses and 4 new lines. The lines will have 185 stops. They will pass through neighborhoods like Kypseli, Patisia and Petralona. Today, not enough buses go there.",
+      "The mayor, Haris Doukas, got on a bus at Serafeio. He did a first test. He says that all residents should have clean and cheap ways of getting around. That way, people will use their cars less.",
+      "The new buses do not take the place of the metro or the tram. They help the other public transport. The project costs 11.75 million euros. The first buses will start soon."
+    ],
+    "lemma": {
+      "περνούν": "περνάω",
+      "Βοηθούν": "βοηθάω",
+      "κοστίζει": "κοστίζω"
+    }
   },
   {
     "date": "2026-10-20",
@@ -2370,9 +2465,9 @@
           "Les grands-mères cousent des rideaux."
         ],
         [
-          "Στο μαγαζί ράβουν κοστούμια.",
-          "At the shop they sew suits.",
-          "Dans la boutique, ils cousent des costumes."
+          "Απόψε ράβω ένα κουμπί στο πουκάμισο.",
+          "Tonight I'm sewing a button on my shirt.",
+          "Ce soir, je couds un bouton sur ma chemise."
         ]
       ],
       "Ευζώνων": [
@@ -2418,9 +2513,9 @@
           "Ils gardent l'argent à la banque."
         ],
         [
-          "Φυλάνε το σπίτι όταν λείπουμε.",
-          "They watch the house when we're away.",
-          "Ils gardent la maison quand on est absents."
+          "Πάντα φυλάω τα κλειδιά στο συρτάρι.",
+          "I always keep the keys in the drawer.",
+          "Je garde toujours les clés dans le tiroir."
         ]
       ],
       "πρέσβειρα": [
@@ -2586,9 +2681,9 @@
           "Le bébé pèse trois kilos."
         ],
         [
-          "Πόσο ζυγίζει η βαλίτσα;",
-          "How much does the suitcase weigh?",
-          "Combien pèse la valise ?"
+          "Στο σούπερ μάρκετ ζυγίζω τα φρούτα.",
+          "At the supermarket I weigh the fruit.",
+          "Au supermarché, je pèse les fruits."
         ]
       ],
       "σόλα": [
@@ -2622,9 +2717,9 @@
           "Ils veulent voyager en Crète."
         ],
         [
-          "Θα ταξιδέψουν με το πλοίο.",
-          "They will travel by boat.",
-          "Ils voyageront en bateau."
+          "Κάθε καλοκαίρι ταξιδεύω στα νησιά.",
+          "Every summer I travel to the islands.",
+          "Chaque été, je voyage dans les îles."
         ]
       ],
       "περπατήσουν": [
@@ -2634,9 +2729,9 @@
           "Ils marcheront à Plaka."
         ],
         [
-          "Θέλουν να περπατήσουν λίγο.",
-          "They want to walk a little.",
-          "Ils veulent marcher un peu."
+          "Το βράδυ περπατάω στο Θησείο.",
+          "In the evening I walk in Thiseio.",
+          "Le soir, je me promène à Thissio."
         ]
       ],
       "γιορτάσουν": [
@@ -2646,9 +2741,9 @@
           "Ils fêteront son anniversaire."
         ],
         [
-          "Πού θα γιορτάσουν το Πάσχα;",
-          "Where will they celebrate Easter?",
-          "Où fêteront-ils Pâques ?"
+          "Σήμερα γιορτάζω, κερνάω καφέ!",
+          "It's my name day today, coffee's on me!",
+          "C'est ma fête aujourd'hui, je vous offre le café !"
         ]
       ]
     },
@@ -2680,7 +2775,20 @@
       "περπατήσουν": "marcheront",
       "γιορτάσουν": "fêteront"
     },
-    "title_en": "The Evzones' uniforms"
+    "title_en": "The Evzones' uniforms",
+    "paragraphs_en": [
+      "In Athens there is a special workshop. It is next to the President's house. There they sew the clothes of the Evzones. The Evzones are the soldiers with the skirt. They guard the Tomb of the Unknown Soldier at Syntagma. On Monday, the Australian ambassador came to the workshop.",
+      "All the clothes are made by hand. The fustanella has 400 pleats. Each pleat is one year. It recalls the years when Greece was not free. One fustanella needs 30 meters of white fabric. The vest has beautiful embroidery. The red cap has a black tassel. The shoes are red and heavy. One pair weighs three kilos! Each sole has 120 nails.",
+      "In a few days, the Evzones will travel to Australia. Many Greeks live there. They will walk in Sydney in their uniforms. Then they will go to Canberra. There they will celebrate the 28th of October with the Greeks of Australia."
+    ],
+    "lemma": {
+      "ράβουν": "ράβω",
+      "Φυλάνε": "φυλάω",
+      "ζυγίζει": "ζυγίζω",
+      "ταξιδέψουν": "ταξιδεύω",
+      "περπατήσουν": "περπατάω",
+      "γιορτάσουν": "γιορτάζω"
+    }
   },
   {
     "date": "2026-10-21",
@@ -2812,9 +2920,9 @@
           "Le serveur se tient à la porte."
         ],
         [
-          "Η Άννα στέκεται στη στάση και περιμένει.",
-          "Anna stands at the bus stop and waits.",
-          "Anna se tient à l’arrêt et attend."
+          "Στο μετρό στέκομαι πάντα όρθιος.",
+          "On the metro I always stand.",
+          "Dans le métro, je reste toujours debout."
         ]
       ],
       "ξυπόλητη": [
@@ -2884,9 +2992,9 @@
           "Le film a duré deux heures."
         ],
         [
-          "Η βροχή κράτησε όλη τη νύχτα.",
-          "The rain lasted all night.",
-          "La pluie a duré toute la nuit."
+          "Στο λεωφορείο κρατάω καλά την τσάντα μου.",
+          "On the bus I hold my bag tight.",
+          "Dans le bus, je tiens bien mon sac."
         ]
       ],
       "σκαλωσιές": [
@@ -2944,9 +3052,9 @@
           "Les magasins ouvrent à neuf heures."
         ],
         [
-          "Οι φούρνοι ανοίγουν πολύ νωρίς.",
-          "The bakeries open very early.",
-          "Les boulangeries ouvrent très tôt."
+          "Το πρωί ανοίγω τα παράθυρα.",
+          "In the morning I open the windows.",
+          "Le matin, j'ouvre les fenêtres."
         ]
       ],
       "αλλάζει": [
@@ -2956,9 +3064,9 @@
           "Le temps change vite."
         ],
         [
-          "Η γειτονιά μας αλλάζει πολύ.",
-          "Our neighborhood is changing a lot.",
-          "Notre quartier change beaucoup."
+          "Στο Σύνταγμα αλλάζω γραμμή μετρό.",
+          "At Syntagma I change metro lines.",
+          "À Syntagma, je change de ligne de métro."
         ]
       ],
       "πίνακα": [
@@ -2999,7 +3107,19 @@
       "ανοίγουν": "ouvrent",
       "αλλάζει": "change"
     },
-    "title_en": "A big painting on Stadiou Street"
+    "title_en": "A big painting on Stadiou Street",
+    "paragraphs_en": [
+      "In the center of Athens there is a new mural. It is a big painting on a wall. We see it on the corner of Stadiou Street and Aiolou Street. It is on an old building. Thousands of passers-by see it every day.",
+      "The painting shows a big tree. The tree has pink flowers. Behind it is the blue sky. A woman stands under the tree. She is barefoot. She plays music on a small instrument. High up there is an ancient vase.",
+      "The painting comes from an old painting. A painter from Britain made it in 1895.",
+      "The work lasted a long time. In front of the wall there was scaffolding. Now there is no more scaffolding. Everyone can see the painting. Before, the walls on Stadiou were gray and ugly. Now the street has color. Many old buildings are opening again. The city center is changing."
+    ],
+    "lemma": {
+      "στέκεται": "στέκομαι",
+      "κράτησε": "κρατάω",
+      "ανοίγουν": "ανοίγω",
+      "αλλάζει": "αλλάζω"
+    }
   },
   {
     "date": "2026-10-22",
@@ -3036,9 +3156,9 @@
           "Maman rentre à la maison à six heures."
         ],
         [
-          "Ο φίλος μου γυρίζει αύριο.",
-          "My friend comes back tomorrow.",
-          "Mon ami revient demain."
+          "Το βράδυ γυρίζω σπίτι με το μετρό.",
+          "In the evening I go back home by metro.",
+          "Le soir, je rentre à la maison en métro."
         ]
       ],
       "αγόρι": [
@@ -3060,9 +3180,9 @@
           "Le serveur se tient à la porte."
         ],
         [
-          "Στο μετρό, η γιαγιά στέκεται.",
-          "On the metro, the grandmother stands.",
-          "Dans le métro, la grand-mère reste debout."
+          "Στην ουρά στέκομαι πίσω από τη γιαγιά.",
+          "In the queue I stand behind grandma.",
+          "Dans la file, je me tiens derrière la grand-mère."
         ]
       ],
       "πλατεία": [
@@ -3132,9 +3252,9 @@
           "Le bus est passé tôt."
         ],
         [
-          "Η μέρα πέρασε γρήγορα.",
-          "The day went by quickly.",
-          "La journée est passée vite."
+          "Κάθε μέρα περνάω από την Ομόνοια.",
+          "Every day I pass through Omonia.",
+          "Tous les jours, je passe par Omonia."
         ]
       ],
       "μετέφεραν": [
@@ -3144,9 +3264,9 @@
           "Hier, ils ont transporté nos meubles."
         ],
         [
-          "Το περίπτερο το μετέφεραν απέναντι.",
-          "They moved the kiosk across the street.",
-          "Le kiosque, ils l'ont déplacé en face."
+          "Σήμερα μεταφέρω τα βιβλία μου στο νέο σπίτι.",
+          "Today I'm moving my books to the new house.",
+          "Aujourd'hui, je transporte mes livres dans la nouvelle maison."
         ]
       ],
       "ζημιές": [
@@ -3180,9 +3300,9 @@
           "Nikos attendait le train."
         ],
         [
-          "Η Μαρία περίμενε στο καφέ.",
-          "Maria was waiting at the café.",
-          "Maria attendait au café."
+          "Στη στάση περιμένω το λεωφορείο.",
+          "At the stop I wait for the bus.",
+          "À l'arrêt, j'attends le bus."
         ]
       ],
       "κάτοικοι": [
@@ -3228,9 +3348,9 @@
           "Ce plat me rappelle ma grand-mère."
         ],
         [
-          "Η μουσική μού θυμίζει το καλοκαίρι.",
-          "The music reminds me of summer.",
-          "La musique me rappelle l'été."
+          "Σου θυμίζω το ραντεβού μας αύριο.",
+          "I'm reminding you of our appointment tomorrow.",
+          "Je te rappelle notre rendez-vous de demain."
         ]
       ],
       "ζητούσαν": [
@@ -3240,9 +3360,9 @@
           "Les enfants demandaient une glace."
         ],
         [
-          "Οι πελάτες ζητούσαν κι άλλο ψωμί.",
-          "The customers were asking for more bread.",
-          "Les clients demandaient encore du pain."
+          "Στην καφετέρια ζητάω ένα ποτήρι νερό.",
+          "At the café I ask for a glass of water.",
+          "Au café, je demande un verre d'eau."
         ]
       ],
       "δήμαρχος": [
@@ -3264,9 +3384,9 @@
           "Le client a remercié le serveur."
         ],
         [
-          "Η Άννα ευχαρίστησε τη φίλη της.",
-          "Anna thanked her friend.",
-          "Anna a remercié son amie."
+          "Σας ευχαριστώ πολύ για τον καφέ!",
+          "Thank you very much for the coffee!",
+          "Merci beaucoup pour le café !"
         ]
       ],
       "ανήκει": [
@@ -3276,9 +3396,9 @@
           "Ce sac m'appartient."
         ],
         [
-          "Το σκυλί ανήκει στον γείτονα.",
-          "The dog belongs to the neighbor.",
-          "Le chien appartient au voisin."
+          "Από φέτος ανήκω σε μια χορωδία.",
+          "Since this year I belong to a choir.",
+          "Depuis cette année, je fais partie d'une chorale."
         ]
       ],
       "καθημερινή": [
@@ -3319,7 +3439,25 @@
       "ανήκει": "appartient",
       "καθημερινή": "quotidienne"
     },
-    "title_en": "The \"Ephebe\" returns to the city"
+    "title_en": "The \"Ephebe\" returns to the city",
+    "paragraphs_en": [
+      "An old statue is returning to Athens. It is called \"The Ephebe\". Ephebe means a young boy. For 23 years, the statue was not in the city. Now it stands again in a square. It is Agios Sostis Square.",
+      "The statue is very tall. It is two and a half meters. A sculptor, Thanassis Apartis, made it. He made it in 1940. It was made in a workshop in Paris.",
+      "The statue went through difficult years. It was moved many times. It also had damage. For many years it was kept safe and was waiting.",
+      "The old residents of a neighborhood love the statue. They lived in Polygono, a neighborhood for refugees. The Ephebe reminds them of their old neighborhood. For years they were asking for the statue back.",
+      "On Friday, October 16, the statue came to the square. The mayor of Athens, Haris Doukas, was there. The residents were there too. The mayor thanked the residents. He said that the Ephebe belongs again to the daily life of the city."
+    ],
+    "lemma": {
+      "γυρίζει": "γυρίζω",
+      "στέκεται": "στέκομαι",
+      "πέρασε": "περνάω",
+      "μετέφεραν": "μεταφέρω",
+      "περίμενε": "περιμένω",
+      "θυμίζει": "θυμίζω",
+      "ζητούσαν": "ζητάω",
+      "ευχαρίστησε": "ευχαριστώ",
+      "ανήκει": "ανήκω"
+    }
   },
   {
     "date": "2026-10-23",
@@ -3367,9 +3505,9 @@
           "Les bus passent toutes les dix minutes."
         ],
         [
-          "Οι μέρες περνούν πολύ γρήγορα.",
-          "The days pass very quickly.",
-          "Les jours passent très vite."
+          "Το πρωί περνάω από την πλατεία Κλαυθμώνος.",
+          "In the morning I go through Klafthmonos Square.",
+          "Le matin, je passe par la place Klafthmonos."
         ]
       ],
       "καινούργια": [
@@ -3427,9 +3565,9 @@
           "Il a planté des fleurs sur le balcon."
         ],
         [
-          "Φύτεψε μια λεμονιά στην αυλή.",
-          "She planted a lemon tree in the yard.",
-          "Elle a planté un citronnier dans la cour."
+          "Την άνοιξη φυτεύω βασιλικό στο μπαλκόνι.",
+          "In spring I plant basil on the balcony.",
+          "Au printemps, je plante du basilic sur le balcon."
         ]
       ],
       "φυτά": [
@@ -3499,9 +3637,9 @@
           "Grand-mère dit qu'il va pleuvoir."
         ],
         [
-          "Τι λέει ο καιρός για αύριο;",
-          "What does the forecast say for tomorrow?",
-          "Que dit la météo pour demain ?"
+          "Κάθε πρωί λέω «καλημέρα» στον περιπτερά.",
+          "Every morning I say \"good morning\" to the kiosk owner.",
+          "Chaque matin, je dis « bonjour » au marchand du kiosque."
         ]
       ],
       "άλλαξε": [
@@ -3511,9 +3649,9 @@
           "Le quartier a beaucoup changé."
         ],
         [
-          "Ο καιρός άλλαξε ξαφνικά.",
-          "The weather changed suddenly.",
-          "Le temps a changé tout à coup."
+          "Σήμερα αλλάζω τα σεντόνια στο κρεβάτι.",
+          "Today I'm changing the sheets on the bed.",
+          "Aujourd'hui, je change les draps du lit."
         ]
       ],
       "πράσινο": [
@@ -3595,9 +3733,9 @@
           "Il a fait du café pour tout le monde."
         ],
         [
-          "Έφτιαξε ένα κέικ για τα γενέθλια.",
-          "She made a cake for the birthday.",
-          "Elle a fait un gâteau pour l'anniversaire."
+          "Κάθε πρωί φτιάχνω φρέντο εσπρέσο.",
+          "Every morning I make a freddo espresso.",
+          "Chaque matin, je prépare un freddo espresso."
         ]
       ],
       "πάρκα": [
@@ -3677,7 +3815,20 @@
       "επισκέπτες": "visiteurs",
       "μέρος": "endroit"
     },
-    "title_en": "A green square in the city centre"
+    "title_en": "A green square in the city centre",
+    "paragraphs_en": [
+      "Klafthmonos Square is in the center of Athens. It is an old and historic square. Every day thousands of people pass through it. Now the square is new and more beautiful.",
+      "The municipality of Athens did major works there. It planted almost 2,000 new plants. Among them are 30 trees. It also put down a lot of lawn. The lawn covers 1,100 square meters.",
+      "The mayor, Haris Doukas, says that the square has changed a lot. He wants more greenery in the city. He also wants new life for the neighbourhoods.",
+      "The municipality is planting many trees. In less than three years, it put in 14,000 new trees. It also created five new parks. Now residents and visitors have a greener place in the center."
+    ],
+    "lemma": {
+      "περνούν": "περνάω",
+      "Φύτεψε": "φυτεύω",
+      "λέει": "λέω",
+      "άλλαξε": "αλλάζω",
+      "Έφτιαξε": "φτιάχνω"
+    }
   },
   {
     "date": "2026-10-24",
@@ -3797,9 +3948,9 @@
           "Le chien court dans le parc."
         ],
         [
-          "Το παιδί τρέχει στο σχολείο.",
-          "The child runs to school.",
-          "L'enfant court à l'école."
+          "Τα Σάββατα τρέχω στο Ζάππειο.",
+          "On Saturdays I run at the Zappeion.",
+          "Le samedi, je cours au Zappeion."
         ]
       ],
       "περπατάει": [
@@ -3809,9 +3960,9 @@
           "Grand-mère marche chaque matin."
         ],
         [
-          "Ο Νίκος περπατάει στη δουλειά.",
-          "Nikos walks to work.",
-          "Nikos va au travail à pied."
+          "Μετά τη δουλειά περπατάω μέχρι το σπίτι.",
+          "After work I walk home.",
+          "Après le travail, je rentre à pied."
         ]
       ],
       "διαδρομή": [
@@ -3881,9 +4032,9 @@
           "On aide toujours grand-mère à la cuisine."
         ],
         [
-          "Πώς βοηθάμε τον φίλο μας;",
-          "How do we help our friend?",
-          "Comment aider notre ami ?"
+          "Συχνά βοηθάω τη γειτόνισσα με τα ψώνια.",
+          "I often help my neighbour with her shopping.",
+          "J'aide souvent ma voisine à faire ses courses."
         ]
       ],
       "καρδιά": [
@@ -3905,9 +4056,9 @@
           "Le bus s'arrête ici."
         ],
         [
-          "Η βροχή σταματάει το απόγευμα.",
-          "The rain stops in the afternoon.",
-          "La pluie s'arrête l'après-midi."
+          "Στο περίπτερο σταματάω για νερό.",
+          "I stop at the kiosk for water.",
+          "Je m'arrête au kiosque pour acheter de l'eau."
         ]
       ],
       "μαθαίνει": [
@@ -3917,9 +4068,9 @@
           "Maria apprend le grec."
         ],
         [
-          "Το παιδί μαθαίνει ποδήλατο.",
-          "The child is learning to ride a bike.",
-          "L'enfant apprend le vélo."
+          "Στην Αθήνα μαθαίνω ελληνικά.",
+          "In Athens I'm learning Greek.",
+          "À Athènes, j'apprends le grec."
         ]
       ],
       "στήθος": [
@@ -3941,9 +4092,9 @@
           "Les amis parlent au café."
         ],
         [
-          "Τα παιδιά μιλάνε πολύ δυνατά.",
-          "The children talk very loudly.",
-          "Les enfants parlent très fort."
+          "Στο καφέ μιλάω με τους φίλους μου.",
+          "At the café I talk with my friends.",
+          "Au café, je parle avec mes amis."
         ]
       ],
       "φαγητό": [
@@ -4013,9 +4164,9 @@
           "Les amis rient à table."
         ],
         [
-          "Τα παιδιά γελάνε στην παραλία.",
-          "The children are laughing on the beach.",
-          "Les enfants rient à la plage."
+          "Με τον Νίκο γελάω πάντα πολύ.",
+          "With Nikos I always laugh a lot.",
+          "Avec Nikos, je ris toujours beaucoup."
         ]
       ]
     },
@@ -4048,7 +4199,22 @@
       "χαμόγελα": "sourires",
       "γελάνε": "rient"
     },
-    "title_en": "A Sunday for health"
+    "title_en": "A Sunday for health",
+    "paragraphs_en": [
+      "It is Sunday, October 18. The sun is shining in Athens. In Fokianos Park there is a big festival. It is a festival about health. The park is opposite the Kallimarmaro stadium. Entrance is free.",
+      "In the morning, people run or walk at the Zappeion. One route is five kilometres long. The other is two and a half. Afterwards, children and adults play basketball and football. The winners get gifts.",
+      "The Red Cross is there. It shows how we help a person. What do we do when the heart stops? People learn to press on the chest.",
+      "Then doctors and other experts talk about food, sleep and exercise. People ask questions. At the end, there is music. All day long there are many smiles. People move, laugh and learn."
+    ],
+    "lemma": {
+      "τρέχει": "τρέχω",
+      "περπατάει": "περπατάω",
+      "βοηθάμε": "βοηθάω",
+      "σταματάει": "σταματάω",
+      "μαθαίνει": "μαθαίνω",
+      "μιλάνε": "μιλάω",
+      "γελάνε": "γελάω"
+    }
   },
   {
     "date": "2026-10-25",
@@ -4167,9 +4333,9 @@
           "Ces clés m'appartiennent."
         ],
         [
-          "Τα βιβλία ανήκουν στη βιβλιοθήκη.",
-          "The books belong to the library.",
-          "Les livres appartiennent à la bibliothèque."
+          "Από φέτος ανήκω σε μια χορωδία.",
+          "Since this year I belong to a choir.",
+          "Depuis cette année, je fais partie d'une chorale."
         ]
       ],
       "κράτος": [
@@ -4203,9 +4369,9 @@
           "Maria participe à la course."
         ],
         [
-          "Όλη η τάξη συμμετέχει στη γιορτή.",
-          "The whole class is taking part in the celebration.",
-          "Toute la classe participe à la fête."
+          "Κάθε Τρίτη συμμετέχω σε μάθημα χορού.",
+          "Every Tuesday I take part in a dance class.",
+          "Chaque mardi, je participe à un cours de danse."
         ]
       ],
       "ανοιχτό": [
@@ -4392,7 +4558,16 @@
       "βόλτα": "promenade",
       "ιστορία": "histoire"
     },
-    "title_en": "Free museums on 28 October"
+    "title_en": "Free museums on 28 October",
+    "paragraphs_en": [
+      "On Wednesday, October 28, we have a big holiday. It is the national holiday of Greece. On this day many museums are free for everyone. You don't pay for a ticket.",
+      "Entrance is free at ancient sites. It is also free at monuments. These sites belong to the state. The Acropolis Museum is different. But it also takes part in the holiday. There, entrance is free while it is open.",
+      "There are other free days during the year too. One is May 18. From November to March, museums are free on two Sundays a month. These are the first and the third Sunday. Take your family and your friends! It is a nice opportunity for a stroll through history."
+    ],
+    "lemma": {
+      "ανήκουν": "ανήκω",
+      "συμμετέχει": "συμμετέχω"
+    }
   },
   {
     "date": "2026-10-26",
@@ -4464,9 +4639,9 @@
           "Mes amis ont déménagé à Pagrati."
         ],
         [
-          "Πότε μετακόμισαν οι γείτονες;",
-          "When did the neighbours move?",
-          "Quand les voisins ont-ils déménagé ?"
+          "Του χρόνου μετακομίζω στο Κουκάκι.",
+          "Next year I'm moving to Koukaki.",
+          "L'année prochaine, je déménage à Koukaki."
         ]
       ],
       "πατρίδας": [
@@ -4488,9 +4663,9 @@
           "Ils ont décidé de prendre le métro."
         ],
         [
-          "Οι γονείς μου αποφάσισαν να μείνουν.",
-          "My parents decided to stay.",
-          "Mes parents ont décidé de rester."
+          "Δεν αποφασίζω εύκολα τι θα φάω.",
+          "I don't easily decide what to eat.",
+          "Je ne décide pas facilement quoi manger."
         ]
       ],
       "είδη": [
@@ -4656,9 +4831,9 @@
           "Dis-moi quand le film sera fini."
         ],
         [
-          "Όταν τελειώσει το μάθημα, πάμε για καφέ.",
-          "When the lesson is over, we'll go for a coffee.",
-          "Quand le cours sera fini, on va prendre un café."
+          "Σήμερα τελειώνω τη δουλειά στις πέντε.",
+          "Today I finish work at five.",
+          "Aujourd'hui, je finis le travail à cinq heures."
         ]
       ],
       "ανοιχτός": [
@@ -4737,7 +4912,18 @@
       "αργά": "lentement",
       "σωστά": "correctement"
     },
-    "title_en": "Bavarian bread in Kolonaki"
+    "title_en": "Bavarian bread in Kolonaki",
+    "paragraphs_en": [
+      "In Kolonaki there is a new bakery. Its name is Varia. It is on the corner of Milioni and Irakleitou streets. The building has big windows.",
+      "Two brothers from Germany opened the bakery. Their names are Cedric and Christopher. Two years ago they moved to Athens. But here they can't find the bread of their homeland. That's why they decided to open a bakery.",
+      "At Varia there are many kinds of bread. There is black bread. There is also rye bread. There are also small bread rolls for breakfast. The flour comes from a small mill in Bavaria. It is organic. The dough rests for up to 80 hours. That way the bread has a lovely smell. It also has a crispy crust.",
+      "The bakery makes a little bread every day. When it runs out, there is no more. The bakery is open until eleven in the evening. The brothers say: \"We want everything to be done slowly and properly.\""
+    ],
+    "lemma": {
+      "μετακόμισαν": "μετακομίζω",
+      "αποφάσισαν": "αποφασίζω",
+      "τελειώσει": "τελειώνω"
+    }
   },
   {
     "date": "2026-10-27",
@@ -4809,9 +4995,9 @@
           "Combien coûte le café ?"
         ],
         [
-          "Το ψωμί κοστίζει ένα ευρώ.",
-          "The bread costs one euro.",
-          "Le pain coûte un euro."
+          "Σου κοστίζω πολλά λεφτά, μαμά;",
+          "Do I cost you a lot of money, Mum?",
+          "Je te coûte beaucoup d'argent, maman ?"
         ]
       ],
       "έκθεση": [
@@ -4929,9 +5115,9 @@
           "Les enfants veulent sculpter du bois."
         ],
         [
-          "Θα σκαλίσουν το όνομά τους.",
-          "They will carve their names.",
-          "Ils vont graver leur nom."
+          "Στον κήπο σκαλίζω το χώμα.",
+          "In the garden I dig the soil.",
+          "Dans le jardin, je bêche la terre."
         ]
       ],
       "κολοκύθες": [
@@ -5049,9 +5235,9 @@
           "Tu vas peindre la porte aujourd'hui ?"
         ],
         [
-          "Μπορείς να βάψεις το δωμάτιο μπλε.",
-          "You can paint the room blue.",
-          "Tu peux peindre la chambre en bleu."
+          "Κάθε άνοιξη βάφω τα κάγκελα.",
+          "Every spring I paint the railings.",
+          "Chaque printemps, je peins la rambarde."
         ]
       ],
       "πρόσωπό": [
@@ -5121,7 +5307,18 @@
       "τρομακτική": "effrayante",
       "χαρούμενη": "joyeuse"
     },
-    "title_en": "A Halloween party in Gazi"
+    "title_en": "A Halloween party in Gazi",
+    "paragraphs_en": [
+      "A big Halloween festival is coming to Athens. It will take place in Gazi. It will last three nights. It starts on October 30 and ends on November 1. The festival will be held in an old bus building. Tickets cost from five euros.",
+      "There is an exhibition with drawings there. Two artists from Spain made them. They work on well-known films for children. There is also a horror museum. Inside it has scary figures.",
+      "There is also a big market. It has more than 80 shops. Children and adults will carve pumpkins. They will also make magic wands. There will also be games and films.",
+      "Many people will wear costumes. There will also be a contest for the best costume. The winners will get prizes. On October 30 there are also free Halloween tattoos. You can also paint your face. It will be a scary but cheerful festival!"
+    ],
+    "lemma": {
+      "κοστίζει": "κοστίζω",
+      "σκαλίσουν": "σκαλίζω",
+      "βάψεις": "βάφω"
+    }
   },
   {
     "date": "2026-10-28",
@@ -5170,9 +5367,9 @@
           "Mon portable tombe par terre."
         ],
         [
-          "Ο ήλιος πέφτει στις επτά.",
-          "The sun sets at seven.",
-          "Le soleil se couche à sept heures."
+          "Απόψε πέφτω νωρίς για ύπνο.",
+          "Tonight I'm going to bed early.",
+          "Ce soir, je me couche tôt."
         ]
       ],
       "βροχή": [
@@ -5278,9 +5475,9 @@
           "Il pleut, prends ta veste."
         ],
         [
-          "Βρέχει από το πρωί.",
-          "It has been raining since the morning.",
-          "Il pleut depuis ce matin."
+          "Στο ντους βρέχω τα μαλλιά μου.",
+          "In the shower I wet my hair.",
+          "Sous la douche, je me mouille les cheveux."
         ]
       ],
       "κέντρο": [
@@ -5410,9 +5607,9 @@
           "N'oublie pas tes clés !"
         ],
         [
-          "Μην ξεχάσεις να πάρεις ψωμί.",
-          "Don't forget to get bread.",
-          "N'oublie pas d'acheter du pain."
+          "Συχνά ξεχνάω το κινητό στο καφέ.",
+          "I often forget my phone at the café.",
+          "J'oublie souvent mon portable au café."
         ]
       ],
       "ομπρέλα": [
@@ -5454,7 +5651,19 @@
       "ξεχάσεις": "oublies",
       "ομπρέλα": "parapluie"
     },
-    "title_en": "Rain and lightning in Athens"
+    "title_en": "Rain and lightning in Athens",
+    "paragraphs_en": [
+      "These days the weather in Athens is bad. Since Sunday evening a lot of rain has been falling. In the sky we see a lot of lightning. We have storms all over the city.",
+      "The weather scientists are sending a message to everyone. They say that the weather is dangerous in Attica. Attica is Athens and the cities around it.",
+      "It is raining a lot in the centre of Athens. It is also raining in the northern suburbs, such as Drosia. It is also raining near the sea, in Nea Smyrni and Alimos. It is also raining in Chaidari and Ilioupoli.",
+      "The temperature is from 15 to 19 degrees. In the evening the wind gets stronger. And the rain comes again.",
+      "On Tuesday morning the rain continues. After that the weather will become calmer. Until then, don't forget your umbrella!"
+    ],
+    "lemma": {
+      "πέφτει": "πέφτω",
+      "Βρέχει": "βρέχω",
+      "ξεχάσεις": "ξεχνάω"
+    }
   },
   {
     "date": "2026-10-29",
@@ -5503,9 +5712,9 @@
           "Le cours commence à neuf heures."
         ],
         [
-          "Η ταινία αρχίζει σε λίγο.",
-          "The film starts soon.",
-          "Le film commence bientôt."
+          "Κάθε μέρα αρχίζω δουλειά στις οκτώ.",
+          "Every day I start work at eight.",
+          "Chaque jour, je commence le travail à huit heures."
         ]
       ],
       "κρατήσει": [
@@ -5515,9 +5724,9 @@
           "La pluie va durer toute la journée."
         ],
         [
-          "Το ταξίδι θα κρατήσει δύο ώρες.",
-          "The trip will take two hours.",
-          "Le voyage va durer deux heures."
+          "Πάντα κρατάω την πόρτα για τη γιαγιά.",
+          "I always hold the door for grandma.",
+          "Je tiens toujours la porte pour mamie."
         ]
       ],
       "χρονιά": [
@@ -5563,9 +5772,9 @@
           "Le soleil est revenu."
         ],
         [
-          "Η Μαρία βγήκε για καφέ.",
-          "Maria went out for a coffee.",
-          "Maria est sortie prendre un café."
+          "Το Σάββατο βγαίνω με φίλους.",
+          "On Saturday I go out with friends.",
+          "Le samedi, je sors avec des amis."
         ]
       ],
       "σκηνή": [
@@ -5623,9 +5832,9 @@
           "Le magasin ouvrira à dix heures."
         ],
         [
-          "Η πισίνα θα ανοίξει τον Ιούνιο.",
-          "The pool will open in June.",
-          "La piscine ouvrira en juin."
+          "Το πρωί ανοίγω το παράθυρο.",
+          "In the morning I open the window.",
+          "Le matin, j'ouvre la fenêtre."
         ]
       ],
       "μουσικοί": [
@@ -5707,9 +5916,9 @@
           "Il veut voir la mer."
         ],
         [
-          "Δεν μπορεί να δει καλά.",
-          "He can't see well.",
-          "Il ne voit pas bien."
+          "Το βράδυ βλέπω ειδήσεις.",
+          "In the evening I watch the news.",
+          "Le soir, je regarde les informations."
         ]
       ],
       "μαθητές": [
@@ -5731,9 +5940,9 @@
           "Il prendra le métro pour le travail."
         ],
         [
-          "Θέλει να πάρει ένα παγωτό.",
-          "He wants to get an ice cream.",
-          "Il veut prendre une glace."
+          "Κάθε μέρα παίρνω το λεωφορείο.",
+          "Every day I take the bus.",
+          "Chaque jour, je prends le bus."
         ]
       ],
       "ορχήστρα": [
@@ -5767,9 +5976,9 @@
           "Le serveur apporte le café."
         ],
         [
-          "Κάθε πρωί φέρνει ψωμί.",
-          "Every morning he brings bread.",
-          "Chaque matin, il apporte du pain."
+          "Σου φέρνω ένα φρέντο;",
+          "Shall I bring you a freddo?",
+          "Je t'apporte un freddo ?"
         ]
       ]
     },
@@ -5800,7 +6009,23 @@
       "πόλη": "ville",
       "φέρνει": "amener"
     },
-    "title_en": "Classical music in central Athens"
+    "title_en": "Classical music in central Athens",
+    "paragraphs_en": [
+      "Athens has a festival for classical music. The festival begins on November 3. It will last five days. It is its second year.",
+      "The concerts take place in an old building in the centre. The building dates from 1891. There, Maria Callas went on stage for the first time. She was only 14 years old.",
+      "A very famous violinist will open the festival. His name is Pinchas Zukerman. He will play in four concerts. Other musicians will also come, with piano, cello and clarinet. They will play works by Mozart and Brahms.",
+      "Five young musicians will have a violin lesson with the teachers. The public can come and watch. There is also a programme for school pupils. An orchestra of young people will also take part.",
+      "Athens wants to become a city of music. It wants to bring musicians from all over the world."
+    ],
+    "lemma": {
+      "αρχίζει": "αρχίζω",
+      "κρατήσει": "κρατάω",
+      "βγήκε": "βγαίνω",
+      "ανοίξει": "ανοίγω",
+      "δει": "βλέπω",
+      "πάρει": "παίρνω",
+      "φέρνει": "φέρνω"
+    }
   },
   {
     "date": "2026-10-30",
@@ -6088,9 +6313,9 @@
           "Où marches-tu chaque matin ?"
         ],
         [
-          "Γιατί περπατάς τόσο γρήγορα;",
-          "Why are you walking so fast?",
-          "Pourquoi marches-tu si vite ?"
+          "Κάθε πρωί περπατάω μέχρι τον σταθμό.",
+          "Every morning I walk to the station.",
+          "Chaque matin, je marche jusqu'à la gare."
         ]
       ],
       "σκοτάδι": [
@@ -6132,7 +6357,16 @@
       "περπατάς": "marches",
       "σκοτάδι": "obscurité"
     },
-    "title_en": "A day on Mount Parnitha"
+    "title_en": "A day on Mount Parnitha",
+    "paragraphs_en": [
+      "Parnitha is a big mountain near Athens. By car it is about an hour from the centre. You pass through Acharnes. There it has fir trees, trails and springs. Deer also live in the forest.",
+      "Up on the mountain there are two refuges. They are small houses for hikers. One is called Bafi. It is open every day. There you can eat a hot meal. The other is called Flambouri.",
+      "From Flambouri a trail goes to Mola. Mola is a clearing, that is, a place without trees in the middle of the forest. It has wooden tables and a small church. There is no restaurant there. You take food and water with you.",
+      "On the mountain it is much colder than in Athens. Bring a warm jacket and good shoes. Don't light a fire. Don't throw rubbish. Don't give food to the animals. And don't walk on unknown trails in the dark."
+    ],
+    "lemma": {
+      "περπατάς": "περπατάω"
+    }
   },
   {
     "date": "2026-10-31",
@@ -6264,9 +6498,9 @@
           "Le Panathinaïkos a gagné hier."
         ],
         [
-          "Η αδερφή μου κέρδισε στο λαχείο.",
-          "My sister won the lottery.",
-          "Ma sœur a gagné à la loterie."
+          "Στο τάβλι κερδίζω πάντα τον παππού.",
+          "At backgammon I always beat grandpa.",
+          "Au backgammon, je bats toujours papi."
         ]
       ],
       "ομάδα": [
@@ -6300,9 +6534,9 @@
           "La carte montre le chemin."
         ],
         [
-          "Η γιαγιά δείχνει παλιές φωτογραφίες.",
-          "Grandma shows old photos.",
-          "Grand-mère montre de vieilles photos."
+          "Στους τουρίστες δείχνω τον δρόμο.",
+          "I show the tourists the way.",
+          "Je montre le chemin aux touristes."
         ]
       ],
       "ξένους": [
@@ -6348,9 +6582,9 @@
           "Ce sac appartient à Maria."
         ],
         [
-          "Ο σκύλος ανήκει στον γείτονα.",
-          "The dog belongs to the neighbour.",
-          "Le chien appartient au voisin."
+          "Νιώθω ότι ανήκω σε αυτή τη γειτονιά.",
+          "I feel I belong in this neighbourhood.",
+          "Je sens que j'appartiens à ce quartier."
         ]
       ],
       "κατοίκους": [
@@ -6438,7 +6672,18 @@
       "μαγαζιά": "magasins",
       "γειτονιά": "quartier"
     },
-    "title_en": "Two awards for Athens"
+    "title_en": "Two awards for Athens",
+    "paragraphs_en": [
+      "Athens won two big awards. They are the World Travel Awards. They are like the \"Oscars\" for tourism. The ceremony took place on 17 October. It took place in Kotor. It is a small town in Montenegro.",
+      "The first award says something nice. Athens is the best city in Europe for a short trip. Athens beat London, Berlin, Lisbon and Rome.",
+      "The second award is for a team of the Municipality of Athens. The team is called This is Athens. This team shows the city to foreigners. It won the same award last year too.",
+      "The mayor, Haris Doukas, talks about the awards. He says: \"Athens belongs first of all to its residents.\" He wants more and better jobs for people. He wants help for the city's shops. He wants the awards to bring something good to every neighbourhood."
+    ],
+    "lemma": {
+      "κέρδισε": "κερδίζω",
+      "δείχνει": "δείχνω",
+      "ανήκει": "ανήκω"
+    }
   },
   {
     "date": "2026-11-01",
@@ -6562,9 +6807,9 @@
           "La boulangerie ouvre à sept heures."
         ],
         [
-          "Το περίπτερο ανοίγει νωρίς.",
-          "The kiosk opens early.",
-          "Le kiosque ouvre tôt."
+          "Το πρωί ανοίγω τα παράθυρα.",
+          "In the morning I open the windows.",
+          "Le matin, j'ouvre les fenêtres."
         ]
       ],
       "απόγευμα": [
@@ -6598,9 +6843,9 @@
           "Mes amis resteront deux jours."
         ],
         [
-          "Τα παιδιά θα μείνουν στο σπίτι.",
-          "The kids will stay at home.",
-          "Les enfants resteront à la maison."
+          "Τώρα μένω στο Παγκράτι.",
+          "I live in Pangrati now.",
+          "J'habite à Pangrati maintenant."
         ]
       ],
       "Μαρτίου": [
@@ -6622,9 +6867,9 @@
           "Tu peux entrer, la porte est ouverte."
         ],
         [
-          "Βγάλε τα παπούτσια πριν μπεις.",
-          "Take off your shoes before you come in.",
-          "Enlève tes chaussures avant d'entrer."
+          "Στο λεωφορείο μπαίνω από την μπροστινή πόρτα.",
+          "I get on the bus by the front door.",
+          "Je monte dans le bus par la porte avant."
         ]
       ],
       "εισιτήριο": [
@@ -6730,9 +6975,9 @@
           "Tu marches tous les jours ?"
         ],
         [
-          "Αν περπατάς, φτάνεις σε δέκα λεπτά.",
-          "If you walk, you get there in ten minutes.",
-          "Si tu marches, tu arrives en dix minutes."
+          "Κάθε βράδυ περπατάω στην παραλία.",
+          "Every evening I walk on the beach.",
+          "Chaque soir, je marche sur la plage."
         ]
       ],
       "ανηφόρα": [
@@ -6771,6 +7016,19 @@
           "Je ne sors pas sous une pluie pareille."
         ]
       ]
+    },
+    "paragraphs_en": [
+      "From today, the Acropolis has new hours. Winter is coming. The days are getting shorter. Daylight ends early. That is why the site will close earlier.",
+      "The Acropolis will open at 8 in the morning. It will close at 5 in the afternoon. In October it closed at 6. The hours are the same every day. They will stay like this until the end of March.",
+      "It is a good idea to go in before 4:30. The ticket costs 30 euros. For some visitors it costs 15 euros.",
+      "On the rock you will see the Parthenon. You will also see other old temples. The Acropolis Museum has its own hours.",
+      "How do you get there? You take the metro to the \"Akropoli\" stop. Then you walk a little uphill. The path has stones. Wear good shoes, especially after rain."
+    ],
+    "lemma": {
+      "ανοίγει": "ανοίγω",
+      "μείνουν": "μένω",
+      "μπεις": "μπαίνω",
+      "περπατάς": "περπατάω"
     }
   },
   {
@@ -6849,9 +7107,9 @@
           "Les magasins ouvrent à neuf heures."
         ],
         [
-          "Πότε ανοίγουν οι λαϊκές;",
-          "When do the street markets open?",
-          "Quand ouvrent les marchés ?"
+          "Με το κλειδί ανοίγω την πόρτα.",
+          "I open the door with the key.",
+          "J'ouvre la porte avec la clé."
         ]
       ],
       "μύρισαν": [
@@ -6861,9 +7119,9 @@
           "Les enfants ont senti l'odeur du repas."
         ],
         [
-          "Μύρισαν καφέ στον δρόμο.",
-          "They smelled coffee in the street.",
-          "Ils ont senti une odeur de café dans la rue."
+          "Στον φούρνο μυρίζω φρέσκο ψωμί.",
+          "At the bakery I smell fresh bread.",
+          "À la boulangerie, je sens le pain frais."
         ]
       ],
       "αέριο": [
@@ -6897,9 +7155,9 @@
           "Les magasins ont fermé tôt."
         ],
         [
-          "Έκλεισαν τον δρόμο για τον μαραθώνιο.",
-          "They closed the road for the marathon.",
-          "Ils ont fermé la rue pour le marathon."
+          "Φεύγοντας, κλείνω πάντα το φως.",
+          "When I leave, I always switch off the light.",
+          "En partant, j'éteins toujours la lumière."
         ]
       ],
       "μήνα": [
@@ -7053,9 +7311,9 @@
           "Nikos reviendra demain."
         ],
         [
-          "Περιμένω να επιστρέψει ο ήλιος.",
-          "I'm waiting for the sun to come back.",
-          "J'attends que le soleil revienne."
+          "Το βράδυ επιστρέφω με το μετρό.",
+          "In the evening I come back by metro.",
+          "Le soir, je rentre en métro."
         ]
       ],
       "τέλος": [
@@ -7130,6 +7388,19 @@
           "Les rues ici sont sûres."
         ]
       ]
+    },
+    "paragraphs_en": [
+      "Today is an important day for Gkrava. Gkrava is a neighbourhood of Athens. There are many schools together there. Today the schools open again.",
+      "On 9 October, some people smelled gas. Gas is dangerous. That is why the schools closed. For almost a month, the children had lessons from home, on the computer.",
+      "Three teams of experts carried out checks. They found no leak. On Thursday, the city council made a decision. The schools open on Monday.",
+      "But the gas will stay turned off. So the schools do not have heating yet. First some works will be done. The heating will come back by the end of November.",
+      "The mayor, Haris Doukas, sent a letter to the head teachers of the schools. He asks them for help, so that everyone feels safe."
+    ],
+    "lemma": {
+      "ανοίγουν": "ανοίγω",
+      "μύρισαν": "μυρίζω",
+      "έκλεισαν": "κλείνω",
+      "επιστρέψει": "επιστρέφω"
     }
   },
   {
@@ -7325,9 +7596,9 @@
           "Les papiers seront imprimés demain."
         ],
         [
-          "Οι φωτογραφίες θα τυπωθούν σήμερα.",
-          "The photos will be printed today.",
-          "Les photos seront imprimées aujourd'hui."
+          "Στο περιοδικό της γειτονιάς τυπώνομαι συχνά.",
+          "I often appear in print in the neighbourhood magazine.",
+          "Je suis souvent imprimé dans le magazine du quartier."
         ]
       ],
       "τελευταία": [
@@ -7445,9 +7716,9 @@
           "Où pouvez-vous acheter un billet ?"
         ],
         [
-          "Θέλετε να αγοράσετε ψωμί;",
-          "Do you want to buy bread?",
-          "Voulez-vous acheter du pain ?"
+          "Στη λαϊκή αγοράζω φρούτα.",
+          "At the street market I buy fruit.",
+          "Au marché, j'achète des fruits."
         ]
       ],
       "ίντερνετ": [
@@ -7462,6 +7733,16 @@
           "Je commande à manger sur internet."
         ]
       ]
+    },
+    "paragraphs_en": [
+      "This Thursday a celebration of books begins. It will take place in an old building in the centre of Athens. It is on Sofokleous Street. The celebration lasts four days, until Sunday. It is open from ten in the morning until six in the afternoon. Entry is free.",
+      "There you will find old and rare books. You will also find old newspapers, magazines and posters. Some books will not be printed again. They are the last copies.",
+      "There are also nice activities for young and old. On Saturday and Sunday, a lady tells fairy tales from all over the world. She also plays strange musical instruments. On Thursday, some visitors walk with a book on their head! In one class, you make a small notebook with your own hands.",
+      "The celebration is for the 60th birthday of a big centre for books and art. Can't you go? You can also buy books on the internet."
+    ],
+    "lemma": {
+      "τυπωθούν": "τυπώνομαι",
+      "αγοράσετε": "αγοράζω"
     }
   },
   {
@@ -7528,9 +7809,9 @@
           "Maman prépare le repas."
         ],
         [
-          "Ο Νίκος ετοιμάζει τη βαλίτσα του.",
-          "Nikos is packing his suitcase.",
-          "Nikos prépare sa valise."
+          "Κάθε πρωί ετοιμάζω καφέ.",
+          "Every morning I make coffee.",
+          "Chaque matin, je prépare du café."
         ]
       ],
       "σκουπίδια": [
@@ -7552,9 +7833,9 @@
           "Il veut goûter le nouveau café."
         ],
         [
-          "Θα δοκιμάσει το φόρεμα αύριο.",
-          "She will try on the dress tomorrow.",
-          "Elle essaiera la robe demain."
+          "Στην ταβέρνα δοκιμάζω πάντα κάτι νέο.",
+          "At the taverna I always try something new.",
+          "À la taverne, je goûte toujours quelque chose de nouveau."
         ]
       ],
       "γειτονιά": [
@@ -7612,9 +7893,9 @@
           "La pluie ne durera pas longtemps."
         ],
         [
-          "Η ταινία θα κρατήσει δύο ώρες.",
-          "The film will last two hours.",
-          "Le film durera deux heures."
+          "Στο μετρό κρατάω την τσάντα μου.",
+          "On the metro I hold on to my bag.",
+          "Dans le métro, je tiens mon sac."
         ]
       ],
       "σακούλες": [
@@ -7744,9 +8025,9 @@
           "Les enfants gagnent un cadeau."
         ],
         [
-          "Πολλοί κερδίζουν λίγα λεφτά.",
-          "Many people earn little money.",
-          "Beaucoup de gens gagnent peu d'argent."
+          "Στη δουλειά κερδίζω καλά λεφτά.",
+          "At work I earn good money.",
+          "Au travail, je gagne bien ma vie."
         ]
       ],
       "πόντους": [
@@ -7768,9 +8049,9 @@
           "Les voisins recyclent les bouteilles."
         ],
         [
-          "Στο σχολείο ανακυκλώνουν χαρτί.",
-          "At school they recycle paper.",
-          "À l'école, on recycle le papier."
+          "Στο σπίτι ανακυκλώνω το χαρτί.",
+          "At home I recycle paper.",
+          "À la maison, je recycle le papier."
         ]
       ],
       "Αργότερα": [
@@ -7804,9 +8085,9 @@
           "Il reste deux parts de tourte dans le frigo."
         ],
         [
-          "Αν περισσεύουν λεφτά, πάμε σινεμά.",
-          "If there is money left, we go to the cinema.",
-          "S'il reste de l'argent, on va au cinéma."
+          "Σε αυτή την παρέα νιώθω ότι περισσεύω.",
+          "In this group I feel out of place.",
+          "Dans ce groupe, je me sens de trop."
         ]
       ],
       "χωματερή": [
@@ -7828,11 +8109,26 @@
           "J'espère que le dessert sera réussi."
         ],
         [
-          "Αν πετύχει, θα χαρούμε πολύ.",
-          "If it succeeds, we will be very happy.",
-          "Si ça réussit, on sera très contents."
+          "Κάθε πρωί πετυχαίνω τον γείτονα στο λεωφορείο.",
+          "Every morning I run into my neighbour on the bus.",
+          "Chaque matin, je croise mon voisin dans le bus."
         ]
       ]
+    },
+    "paragraphs_en": [
+      "The Municipality of Athens is preparing something new for rubbish. It will first try it out in one neighbourhood. The neighbourhood is around the Kallimarmaro stadium. There are about 8,767 homes there. The plan will last two and a half years.",
+      "Every home will get many bags. The yellow bags are for paper and cardboard. The transparent bags are for plastic and metal. Every home will also get small stickers. The stickers have a QR code.",
+      "Residents will put a sticker on the full bag. Then they will scan the code with their mobile phone. That way they will earn points. They will also see how much they recycle.",
+      "Later, brown bins will come too. Leftover food will go there. The Municipality wants less rubbish in the landfill. If the plan succeeds, it may come to other neighbourhoods too."
+    ],
+    "lemma": {
+      "ετοιμάζει": "ετοιμάζω",
+      "δοκιμάσει": "δοκιμάζω",
+      "κρατήσει": "κρατάω",
+      "κερδίζουν": "κερδίζω",
+      "ανακυκλώνουν": "ανακυκλώνω",
+      "περισσεύουν": "περισσεύω",
+      "πετύχει": "πετυχαίνω"
     }
   }
 ]

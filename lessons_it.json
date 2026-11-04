@@ -1,0 +1,351 @@
+[
+  {
+    "date": "2026-11-04",
+    "title": "La Roma perde a Manchester",
+    "title_fr": "La Roma perd à Manchester",
+    "title_en": "Roma lose in Manchester",
+    "source": {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/03/il-manchester-united-ribalta-tutto-e-batte-la-roma-3-2.-linter-vince-3-0-sul-campo_f4486b8c-c4ad-47f6-9339-1c5b0b649554.html"
+    },
+    "paragraphs": [
+      "Martedì sera la Roma gioca in Inghilterra. È una **partita** (match) di Champions League. La Roma **sfida** (takes on) il Manchester United. Si gioca nel famoso **stadio** (stadium) Old Trafford.",
+      "La Roma comincia molto bene. Dopo undici minuti, Soulé **segna** (scores) il primo **gol** (goal). Poi c'è un **rigore** (penalty) per la Roma. Malen **tira** (shoots) e segna ancora. Alla fine del primo **tempo** (half) la Roma è in **vantaggio** (ahead) due a zero.",
+      "Nel secondo tempo tutto **cambia** (changes). C'è un rigore per il Manchester. Il **portiere** (goalkeeper) della Roma lo **para** (saves). Ma l'**arbitro** (referee) lo fa **ripetere** (take again). Questa volta Bruno Fernandes segna. Mbeumo **colpisce** (hits) due volte il **palo** (post). Poi un **difensore** (defender) della Roma fa un **errore** (mistake). Cunha segna due gol in pochi minuti.",
+      "La partita **finisce** (ends) tre a due per il Manchester. La Roma **torna** (goes back) a casa senza **punti** (points). Per i **tifosi** (fans) romani è una **brutta** (bad) serata. L'**allenatore** (coach) della Roma è Gasperini."
+    ],
+    "paragraphs_en": [
+      "On Tuesday evening Roma play in England. It is a Champions League match. Roma take on Manchester United. The game is played in the famous Old Trafford stadium.",
+      "Roma start very well. After eleven minutes, Soulé scores the first goal. Then Roma get a penalty. Malen shoots and scores again. At half-time Roma are two-nil up.",
+      "In the second half everything changes. Manchester get a penalty. Roma's goalkeeper saves it. But the referee has it taken again. This time Bruno Fernandes scores. Mbeumo hits the post twice. Then a Roma defender makes a mistake. Cunha scores two goals in a few minutes.",
+      "The match ends three-two to Manchester. Roma go home with no points. For Roma fans it is a bad evening. Roma's coach is Gasperini."
+    ],
+    "fr": {
+      "partita": "match",
+      "sfida": "affronte, défie",
+      "stadio": "stade",
+      "segna": "marque",
+      "gol": "but",
+      "rigore": "penalty",
+      "tira": "tire",
+      "tempo": "mi-temps",
+      "vantaggio": "avance (mener au score)",
+      "cambia": "change",
+      "portiere": "gardien de but",
+      "para": "arrête (le tir)",
+      "arbitro": "arbitre",
+      "ripetere": "refaire, répéter",
+      "colpisce": "frappe, touche",
+      "palo": "poteau",
+      "difensore": "défenseur",
+      "errore": "erreur",
+      "finisce": "finit",
+      "torna": "rentre, revient",
+      "punti": "points",
+      "tifosi": "supporters",
+      "brutta": "mauvaise, triste",
+      "allenatore": "entraîneur"
+    },
+    "lemma": {
+      "sfida": "sfidare",
+      "segna": "segnare",
+      "tira": "tirare",
+      "cambia": "cambiare",
+      "para": "parare",
+      "ripetere": "ripetere",
+      "colpisce": "colpire",
+      "finisce": "finire",
+      "torna": "tornare"
+    },
+    "examples": {
+      "partita": [
+        [
+          "Stasera guardo la partita al bar.",
+          "Tonight I'm watching the match at the bar.",
+          "Ce soir, je regarde le match au bar."
+        ],
+        [
+          "La partita comincia alle nove.",
+          "The match starts at nine.",
+          "Le match commence à neuf heures."
+        ]
+      ],
+      "sfida": [
+        [
+          "Marco sfida il fratello a scacchi.",
+          "Marco challenges his brother at chess.",
+          "Marco défie son frère aux échecs."
+        ],
+        [
+          "Io sfido sempre mio padre a carte.",
+          "I always challenge my dad at cards.",
+          "Je défie toujours mon père aux cartes."
+        ]
+      ],
+      "stadio": [
+        [
+          "Lo stadio è vicino alla metro.",
+          "The stadium is near the metro.",
+          "Le stade est près du métro."
+        ],
+        [
+          "Domenica andiamo allo stadio.",
+          "On Sunday we go to the stadium.",
+          "Dimanche, on va au stade."
+        ]
+      ],
+      "segna": [
+        [
+          "Mio figlio segna un gol a scuola.",
+          "My son scores a goal at school.",
+          "Mon fils marque un but à l'école."
+        ],
+        [
+          "Io segno l'indirizzo sul telefono.",
+          "I write down the address on my phone.",
+          "Je note l'adresse sur mon téléphone."
+        ]
+      ],
+      "gol": [
+        [
+          "Che bel gol!",
+          "What a great goal!",
+          "Quel beau but !"
+        ],
+        [
+          "Il gol arriva all'ultimo minuto.",
+          "The goal comes in the last minute.",
+          "Le but arrive à la dernière minute."
+        ]
+      ],
+      "rigore": [
+        [
+          "L'arbitro fischia un rigore.",
+          "The referee whistles for a penalty.",
+          "L'arbitre siffle un penalty."
+        ],
+        [
+          "Il rigore è alla fine della partita.",
+          "The penalty is at the end of the match.",
+          "Le penalty est à la fin du match."
+        ]
+      ],
+      "tira": [
+        [
+          "Oggi tira molto vento.",
+          "It's very windy today.",
+          "Il y a beaucoup de vent aujourd'hui."
+        ],
+        [
+          "Tiro la porta e entro in casa.",
+          "I pull the door and go into the house.",
+          "Je tire la porte et j'entre dans la maison."
+        ]
+      ],
+      "tempo": [
+        [
+          "Nel primo tempo non segna nessuno.",
+          "Nobody scores in the first half.",
+          "Personne ne marque en première mi-temps."
+        ],
+        [
+          "Il secondo tempo è più bello.",
+          "The second half is better.",
+          "La deuxième mi-temps est plus belle."
+        ]
+      ],
+      "vantaggio": [
+        [
+          "La nostra squadra è in vantaggio.",
+          "Our team is ahead.",
+          "Notre équipe mène."
+        ],
+        [
+          "Chi è in vantaggio adesso?",
+          "Who is ahead now?",
+          "Qui mène maintenant ?"
+        ]
+      ],
+      "cambia": [
+        [
+          "Il tempo cambia velocemente a novembre.",
+          "The weather changes fast in November.",
+          "Le temps change vite en novembre."
+        ],
+        [
+          "Oggi cambio il mio orario di lavoro.",
+          "Today I change my work hours.",
+          "Aujourd'hui, je change mes horaires de travail."
+        ]
+      ],
+      "portiere": [
+        [
+          "Il portiere del palazzo è gentile.",
+          "The building's caretaker is kind.",
+          "Le gardien de l'immeuble est gentil."
+        ],
+        [
+          "Il portiere prende la palla.",
+          "The goalkeeper catches the ball.",
+          "Le gardien attrape le ballon."
+        ]
+      ],
+      "para": [
+        [
+          "Il portiere para tutti i tiri.",
+          "The goalkeeper saves every shot.",
+          "Le gardien arrête tous les tirs."
+        ],
+        [
+          "Con le mani paro la palla.",
+          "I stop the ball with my hands.",
+          "J'arrête le ballon avec les mains."
+        ]
+      ],
+      "arbitro": [
+        [
+          "L'arbitro ha un fischietto nero.",
+          "The referee has a black whistle.",
+          "L'arbitre a un sifflet noir."
+        ],
+        [
+          "Tutti guardano l'arbitro.",
+          "Everyone looks at the referee.",
+          "Tout le monde regarde l'arbitre."
+        ]
+      ],
+      "ripetere": [
+        [
+          "Puoi ripetere, per favore?",
+          "Can you repeat that, please?",
+          "Tu peux répéter, s'il te plaît ?"
+        ],
+        [
+          "Ripeto le parole nuove ogni sera.",
+          "I go over the new words every evening.",
+          "Je répète les nouveaux mots chaque soir."
+        ]
+      ],
+      "colpisce": [
+        [
+          "La pioggia colpisce la finestra.",
+          "The rain hits the window.",
+          "La pluie frappe la fenêtre."
+        ],
+        [
+          "Colpisco la palla con il piede.",
+          "I hit the ball with my foot.",
+          "Je frappe le ballon avec le pied."
+        ]
+      ],
+      "palo": [
+        [
+          "La bici è legata al palo.",
+          "The bike is tied to the pole.",
+          "Le vélo est attaché au poteau."
+        ],
+        [
+          "La palla tocca il palo.",
+          "The ball hits the post.",
+          "Le ballon touche le poteau."
+        ]
+      ],
+      "difensore": [
+        [
+          "Il difensore è molto alto.",
+          "The defender is very tall.",
+          "Le défenseur est très grand."
+        ],
+        [
+          "Mio cugino gioca come difensore.",
+          "My cousin plays as a defender.",
+          "Mon cousin joue en défense."
+        ]
+      ],
+      "errore": [
+        [
+          "Scusa, è un errore mio.",
+          "Sorry, it's my mistake.",
+          "Pardon, c'est mon erreur."
+        ],
+        [
+          "C'è un errore nel conto.",
+          "There is a mistake in the bill.",
+          "Il y a une erreur dans l'addition."
+        ]
+      ],
+      "finisce": [
+        [
+          "La lezione finisce a mezzogiorno.",
+          "The lesson ends at noon.",
+          "Le cours finit à midi."
+        ],
+        [
+          "Finisco il caffè e vado.",
+          "I finish my coffee and go.",
+          "Je finis mon café et j'y vais."
+        ]
+      ],
+      "torna": [
+        [
+          "Papà torna a casa alle sette.",
+          "Dad comes home at seven.",
+          "Papa rentre à la maison à sept heures."
+        ],
+        [
+          "Torno subito, aspettami qui.",
+          "I'll be right back, wait for me here.",
+          "Je reviens tout de suite, attends-moi ici."
+        ]
+      ],
+      "punti": [
+        [
+          "La squadra ha dieci punti.",
+          "The team has ten points.",
+          "L'équipe a dix points."
+        ],
+        [
+          "Con la tessera prendo punti al supermercato.",
+          "With the card I get points at the supermarket.",
+          "Avec la carte, je cumule des points au supermarché."
+        ]
+      ],
+      "tifosi": [
+        [
+          "I tifosi cantano allo stadio.",
+          "The fans sing at the stadium.",
+          "Les supporters chantent au stade."
+        ],
+        [
+          "Ci sono tanti tifosi in piazza.",
+          "There are lots of fans in the square.",
+          "Il y a beaucoup de supporters sur la place."
+        ]
+      ],
+      "brutta": [
+        [
+          "Oggi è una brutta giornata.",
+          "Today is a bad day.",
+          "Aujourd'hui, c'est une sale journée."
+        ],
+        [
+          "Ho una brutta tosse.",
+          "I have a bad cough.",
+          "J'ai une mauvaise toux."
+        ]
+      ],
+      "allenatore": [
+        [
+          "L'allenatore parla con i giocatori.",
+          "The coach talks to the players.",
+          "L'entraîneur parle aux joueurs."
+        ],
+        [
+          "Il nostro allenatore è molto severo.",
+          "Our coach is very strict.",
+          "Notre entraîneur est très sévère."
+        ]
+      ]
+    }
+  }
+]

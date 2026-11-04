@@ -1,6 +1,6 @@
 """Build the static site, one sub-site per language (see LANGS).
 Usage (from repo root): python3 tools/build.py
-lessons.json (grec, racine du site) / lessons_it.json (italien, dossier it/):
+lessons.json (grec, dossier grec/) / lessons_it.json (italien, dossier it/):
 list of {date, title, title_fr, title_en, source{name,url}, paragraphs[], paragraphs_en[], fr{}, lemma{}, examples?}
 paragraphs_en: English translation of each paragraph (bouton « Traduire le texte en anglais »).
 lemma: {"<mot>": "<infinitif / forme du dictionnaire>"} for verbs only.
@@ -12,9 +12,9 @@ import json, re, html, os, hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LANGS = {
-    "el": dict(file="lessons.json", out="", title="Grec du jour", eyebrow="Ελληνικά κάθε μέρα", name="grec", col="Ελληνικά", short="ΕΛ",
+    "el": dict(file="lessons.json", out="grec/", title="Grec du jour", eyebrow="Ελληνικά κάθε μέρα", name="grec", col="Ελληνικά", short="ΕΛ",
                tagline="Chaque matin, une actualité d'Athènes en grec simple, avec les mots difficiles traduits et l'audio.",
-               voice="el-GR-AthinaNeural", gtts="el", other=("it", "Italien du jour →")),
+               voice="el-GR-AthinaNeural", gtts="el", other=("it", "Italien du jour →"), legacy=True),
     "it": dict(file="lessons_it.json", out="it/", title="Italien du jour", eyebrow="Italiano ogni giorno", name="italien", col="Italiano", short="IT",
                tagline="Chaque matin, une actualité italienne en italien simple, avec les mots difficiles traduits et l'audio.",
                voice="it-IT-ElsaNeural", gtts="it", other=("el", "Grec du jour →")),
@@ -211,12 +211,12 @@ def lesson_page(s, prev, nxt, lang, L, outdir):
 def index_page(lessons, lang, L):
     items = "".join(f'<li><a href="cours/{s["date"]}.html"><span class="d">{s["date"][8:10]}/{s["date"][5:7]}/{s["date"][:4]}</span><span><span class="t">{html.escape(s["title"])}</span><span class="f">{html.escape(s.get("title_en") or s.get("title_fr",""))}</span></span></a></li>' for s in lessons)
     o = LANGS[L["other"][0]]
-    other = "../" if L["out"] else o["out"]
+    other = "../" + o["out"]
     head = f'<a class="play" href="cours/{lessons[0]["date"]}.html">Lire le cours du jour →</a> ' if lessons else ""
     return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{L["title"]}</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
 <header><span class="eyebrow">{L["eyebrow"]}</span><h1>{L["title"]}</h1><p class="sub">{L["tagline"]}</p></header>
-<p class="row">{head}<a href="mots.html">Tous les mots (FR · EN · {L["short"]})</a> · <a href="{other}index.html">{L["other"][1]}</a></p>
+<p class="row">{head}<a href="mots.html">Tous les mots (FR · EN · {L["short"]})</a> · <a href="{other}index.html">{L["other"][1]}</a> · <a href="../index.html">Toutes les langues</a></p>
 <section><h2>Tous les cours</h2><ul class="list">{items or '<li class="note">Le premier cours arrive bientôt.</li>'}</ul></section>
 </div></body></html>"""
 
@@ -285,9 +285,36 @@ def build(lang, L):
     open(os.path.join(outdir, "mots.html"), "w", encoding="utf-8").write(gloss_page(lessons, lang, L))
     print(f"{lang}: built {len(lessons)} lesson(s)")
 
+def redirect(target):
+    t = html.escape(target, quote=True)
+    return (f'<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={t}">'
+            f'<link rel="canonical" href="{t}"><title>Redirection</title></head><body><p><a href="{t}">Le cours a déménagé : cliquer ici</a></p>'
+            f'<script>location.replace({json.dumps(target)} + location.hash)</script></body></html>')
+
+def home_page():
+    items = []
+    for lang, L in LANGS.items():
+        path = os.path.join(ROOT, L["file"])
+        n = len(json.load(open(path, encoding="utf-8"))) if os.path.exists(path) else 0
+        items.append(f'<li><a href="{L["out"]}index.html"><span class="d">{L["short"]}</span><span><span class="t">{L["title"]}</span>'
+                     f'<span class="f">{html.escape(L["tagline"])} · {n} cours</span></span></a></li>')
+    return f"""<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Langues du jour</title>{FONTS}<style>{CSS}</style></head><body><div class="wrap">
+<header><span class="eyebrow">15 minutes par jour</span><h1>Langues du jour</h1><p class="sub">Chaque matin, une actualité en version simple, avec les mots difficiles traduits et l'audio. Choisis ta langue.</p></header>
+<section><ul class="list">{"".join(items)}</ul></section>
+</div></body></html>"""
+
 def main():
     for lang, L in LANGS.items():
         build(lang, L)
+    open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8").write(home_page())
+    # anciennes adresses du grec (avant le dossier grec/) → redirection
+    for lang, L in LANGS.items():
+        if not L.get("legacy"): continue
+        os.makedirs(os.path.join(ROOT, "cours"), exist_ok=True)
+        for s in json.load(open(os.path.join(ROOT, L["file"]), encoding="utf-8")):
+            open(os.path.join(ROOT, "cours", s["date"] + ".html"), "w", encoding="utf-8").write(redirect(f'../{L["out"]}cours/{s["date"]}.html'))
+        open(os.path.join(ROOT, "mots.html"), "w", encoding="utf-8").write(redirect(f'{L["out"]}mots.html'))
     open(os.path.join(ROOT, ".nojekyll"), "w").close()
 
 if __name__ == "__main__":

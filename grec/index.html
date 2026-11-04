@@ -1,0 +1,53 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Grec du jour</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Commissioner:wght@400;500;600&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap"><style>
+:root{--bg:#f6f7f3;--surface:#fff;--fg:#1d221c;--muted:#5d665a;--line:#dde2d8;--accent:#4f6b2f;--soft:#e6edda;--gloss:#8a5a14;
+--text:"Literata","Noto Serif",Georgia,serif;--ui:"Commissioner","Noto Sans",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#141712;--surface:#1c2019;--fg:#e8ebe3;--muted:#a2ab9c;--line:#2f362b;--accent:#a9c97d;--soft:#2a3420;--gloss:#e3b469;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--ui);font-size:15px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding-inline:18px;padding-block:20px 48px;display:flex;flex-direction:column;gap:22px}
+a{color:var(--accent)}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--text);font-weight:600;font-size:clamp(26px,7vw,36px);line-height:1.15;margin:4px 0;text-wrap:balance}
+.sub{color:var(--muted);margin:0}
+.player{position:sticky;top:0;z-index:2;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px;display:flex;flex-direction:column;gap:10px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.play{font:inherit;font-size:16px;font-weight:600;padding:10px 20px;border-radius:999px;border:0;background:var(--accent);color:var(--bg);cursor:pointer;text-decoration:none}
+.chip{font:inherit;font-size:13px;font-weight:500;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:transparent;color:var(--fg);cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.label,.note{font-size:13px;color:var(--muted);margin:0}
+.text{font-family:var(--text);font-size:20px;line-height:1.75;display:flex;flex-direction:column;gap:14px}
+.text p{margin:0;border-radius:8px}.text[hidden]{display:none}
+audio{width:100%}
+.w{color:var(--accent);font-weight:600;cursor:pointer}
+.g{font-family:var(--ui);font-size:.72em;font-weight:500;color:var(--gloss);white-space:nowrap}
+.hide .g{display:none}.hide .w.open+.g{display:inline}
+h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.vocab{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:0 18px;margin:0;padding:0;list-style:none}
+.vocab li{border-bottom:1px solid var(--line);min-width:0;perspective:600px}
+.vocab li.on{grid-column:1/-1}
+.card{all:unset;box-sizing:border-box;width:100%;display:flex;flex-direction:column;padding:8px 0;cursor:pointer;border-radius:8px;transition:transform .25s ease,background-color .2s}
+.card:disabled{cursor:default}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.card.spin{transform:rotateX(90deg)}
+.on .card{background:var(--soft);padding:10px 12px}
+.card .hint{font-size:11px;color:var(--accent);margin-top:2px}
+.card .exg{font-family:var(--text);font-size:18px;font-weight:600;line-height:1.4}
+.card .exf{color:var(--muted);font-size:14px}
+.card .exf2,.vocab .fr2{color:var(--gloss);font-size:14px}
+.card .speak{font-size:12px;color:var(--accent);margin-top:4px}
+@media (prefers-reduced-motion:reduce){.card{transition:none}}
+.vocab .gr{font-family:var(--text);font-size:17px;font-weight:600}.vocab .fr{color:var(--muted);font-size:14px}
+.lem{font-weight:400;color:var(--muted);font-size:.85em}
+#enBtn[aria-pressed=true]{background:#1e8e3e;border-color:#1e8e3e;color:#fff}
+.list{list-style:none;margin:0;padding:0}
+.list li{border-bottom:1px solid var(--line)}
+.list a{display:flex;gap:12px;align-items:baseline;padding:12px 0;text-decoration:none;color:var(--fg)}
+.list .d{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13px;min-width:82px}
+.list .t{font-family:var(--text);font-size:17px}
+.list .f{color:var(--muted);font-size:13px;display:block}
+</style></head><body><div class="wrap">
+<header><span class="eyebrow">Ελληνικά κάθε μέρα</span><h1>Grec du jour</h1><p class="sub">Chaque matin, une actualité d'Athènes en grec simple, avec les mots difficiles traduits et l'audio.</p></header>
+<p class="row"><a class="play" href="cours/2026-11-04.html">Lire le cours du jour →</a> <a href="mots.html">Tous les mots (FR · EN · ΕΛ)</a> · <a href="../it/index.html">Italien du jour →</a> · <a href="../index.html">Toutes les langues</a></p>
+<section><h2>Tous les cours</h2><ul class="list"><li><a href="cours/2026-11-04.html"><span class="d">04/11/2026</span><span><span class="t">Πόντοι για την ανακύκλωση</span><span class="f">Points for recycling</span></span></a></li><li><a href="cours/2026-11-03.html"><span class="d">03/11/2026</span><span><span class="t">Μια γιορτή για τα βιβλία</span><span class="f">A celebration for books</span></span></a></li><li><a href="cours/2026-11-02.html"><span class="d">02/11/2026</span><span><span class="t">Τα παιδιά γυρίζουν στο σχολείο</span><span class="f">The children go back to school</span></span></a></li><li><a href="cours/2026-11-01.html"><span class="d">01/11/2026</span><span><span class="t">Νέες ώρες για την Ακρόπολη</span><span class="f">New hours for the Acropolis</span></span></a></li><li><a href="cours/2026-10-31.html"><span class="d">31/10/2026</span><span><span class="t">Δύο βραβεία για την Αθήνα</span><span class="f">Two awards for Athens</span></span></a></li><li><a href="cours/2026-10-30.html"><span class="d">30/10/2026</span><span><span class="t">Μια μέρα στην Πάρνηθα</span><span class="f">A day on Mount Parnitha</span></span></a></li><li><a href="cours/2026-10-29.html"><span class="d">29/10/2026</span><span><span class="t">Κλασική μουσική στο κέντρο της Αθήνας</span><span class="f">Classical music in central Athens</span></span></a></li><li><a href="cours/2026-10-28.html"><span class="d">28/10/2026</span><span><span class="t">Βροχή και αστραπές στην Αθήνα</span><span class="f">Rain and lightning in Athens</span></span></a></li><li><a href="cours/2026-10-27.html"><span class="d">27/10/2026</span><span><span class="t">Γιορτή για το Χάλογουιν στο Γκάζι</span><span class="f">A Halloween party in Gazi</span></span></a></li><li><a href="cours/2026-10-26.html"><span class="d">26/10/2026</span><span><span class="t">Ψωμί από τη Βαυαρία στο Κολωνάκι</span><span class="f">Bavarian bread in Kolonaki</span></span></a></li><li><a href="cours/2026-10-25.html"><span class="d">25/10/2026</span><span><span class="t">Δωρεάν μουσεία στις 28 Οκτωβρίου</span><span class="f">Free museums on 28 October</span></span></a></li><li><a href="cours/2026-10-24.html"><span class="d">24/10/2026</span><span><span class="t">Μια Κυριακή για την υγεία</span><span class="f">A Sunday for health</span></span></a></li><li><a href="cours/2026-10-23.html"><span class="d">23/10/2026</span><span><span class="t">Μια πράσινη πλατεία στο κέντρο</span><span class="f">A green square in the city centre</span></span></a></li><li><a href="cours/2026-10-22.html"><span class="d">22/10/2026</span><span><span class="t">Ο «Έφηβος» γυρίζει στην πόλη</span><span class="f">The &quot;Ephebe&quot; returns to the city</span></span></a></li><li><a href="cours/2026-10-21.html"><span class="d">21/10/2026</span><span><span class="t">Μια μεγάλη ζωγραφιά στη Σταδίου</span><span class="f">A big painting on Stadiou Street</span></span></a></li><li><a href="cours/2026-10-20.html"><span class="d">20/10/2026</span><span><span class="t">Τα ρούχα των Ευζώνων</span><span class="f">The Evzones&#x27; uniforms</span></span></a></li><li><a href="cours/2026-10-19.html"><span class="d">19/10/2026</span><span><span class="t">Νέα ηλεκτρικά λεωφορεία στην Αθήνα</span><span class="f">New electric buses in Athens</span></span></a></li><li><a href="cours/2026-10-17.html"><span class="d">17/10/2026</span><span><span class="t">Ένας μεγάλος μαραθώνιος για την Αθήνα</span><span class="f">A big marathon for Athens</span></span></a></li><li><a href="cours/2026-10-16.html"><span class="d">16/10/2026</span><span><span class="t">Κρασί και τέχνη στο Μοναστηράκι</span><span class="f">Wine and art in Monastiraki</span></span></a></li><li><a href="cours/2026-10-15.html"><span class="d">15/10/2026</span><span><span class="t">Μια μουσική μάχη στην Αθήνα</span><span class="f">A musical battle in Athens</span></span></a></li><li><a href="cours/2026-10-14.html"><span class="d">14/10/2026</span><span><span class="t">Το μετρό σταματά στην Κυψέλη</span><span class="f">The metro stops at Kypseli</span></span></a></li><li><a href="cours/2026-10-13.html"><span class="d">13/10/2026</span><span><span class="t">Μηχανές για καθαρά πεζοδρόμια</span><span class="f">Machines for clean sidewalks</span></span></a></li><li><a href="cours/2026-10-12.html"><span class="d">12/10/2026</span><span><span class="t">Ένα νέο σπίτι για τους επιστήμονες</span><span class="f">A new home for scientists</span></span></a></li></ul></section>
+</div></body></html>

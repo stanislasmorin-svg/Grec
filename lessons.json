@@ -7463,5 +7463,376 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-04",
+    "title": "Πόντοι για την ανακύκλωση",
+    "title_fr": "Des points pour le recyclage",
+    "title_en": "Points for recycling",
+    "source": {
+      "name": "Athens Voice",
+      "url": "https://www.athensvoice.gr/life/life-in-athens/994526/plirono-oso-petao-pos-tha-dokimastei-to-neo-sustima-stin-athina/"
+    },
+    "paragraphs": [
+      "Ο **Δήμος** (municipality) Αθηναίων **ετοιμάζει** (is preparing) κάτι νέο για τα **σκουπίδια** (rubbish). Θα το **δοκιμάσει** (try out) πρώτα σε μία **γειτονιά** (neighbourhood). Η γειτονιά είναι **γύρω από** (around) το Καλλιμάρμαρο. Εκεί υπάρχουν **περίπου** (about) 8.767 σπίτια. Το **σχέδιο** (plan) θα **κρατήσει** (last) δυόμισι χρόνια.",
+      "Κάθε σπίτι θα πάρει πολλές **σακούλες** (bags). Οι **κίτρινες** (yellow) σακούλες είναι για χαρτί και **χαρτόνι** (cardboard). Οι **διάφανες** (transparent) σακούλες είναι για πλαστικό και **μέταλλο** (metal). Κάθε σπίτι θα πάρει και μικρά **αυτοκόλλητα** (stickers). Τα αυτοκόλλητα έχουν έναν **κωδικό** (code) QR.",
+      "Οι **κάτοικοι** (residents) θα βάζουν ένα αυτοκόλλητο στη **γεμάτη** (full) σακούλα. Μετά θα σκανάρουν τον κωδικό με το **κινητό** (mobile phone) τους. Έτσι θα **κερδίζουν** (earn) **πόντους** (points). Θα βλέπουν και πόσο **ανακυκλώνουν** (recycle).",
+      "**Αργότερα** (later) θα έρθουν και καφέ **κάδοι** (bins). Εκεί θα πηγαίνουν τα φαγητά που **περισσεύουν** (are left over). Ο Δήμος θέλει λιγότερα σκουπίδια στη **χωματερή** (landfill). Αν το σχέδιο **πετύχει** (succeeds), ίσως έρθει και σε άλλες γειτονιές."
+    ],
+    "fr": {
+      "Δήμος": "mairie, municipalité",
+      "ετοιμάζει": "prépare",
+      "σκουπίδια": "ordures, déchets",
+      "δοκιμάσει": "essayer, tester",
+      "γειτονιά": "quartier",
+      "γύρω από": "autour de",
+      "περίπου": "environ",
+      "σχέδιο": "projet, plan",
+      "κρατήσει": "durer",
+      "σακούλες": "sacs",
+      "κίτρινες": "jaunes",
+      "χαρτόνι": "carton",
+      "διάφανες": "transparents",
+      "μέταλλο": "métal",
+      "αυτοκόλλητα": "autocollants",
+      "κωδικό": "code",
+      "κάτοικοι": "habitants",
+      "γεμάτη": "pleine",
+      "κινητό": "téléphone portable",
+      "κερδίζουν": "gagnent",
+      "πόντους": "points",
+      "ανακυκλώνουν": "recyclent",
+      "Αργότερα": "plus tard",
+      "κάδοι": "poubelles, conteneurs",
+      "περισσεύουν": "restent (en trop)",
+      "χωματερή": "décharge",
+      "πετύχει": "réussit"
+    },
+    "examples": {
+      "Δήμος": [
+        [
+          "Ο Δήμος καθαρίζει τους δρόμους.",
+          "The municipality cleans the streets.",
+          "La mairie nettoie les rues."
+        ],
+        [
+          "Ο Δήμος φτιάχνει ένα νέο πάρκο.",
+          "The municipality is making a new park.",
+          "La mairie aménage un nouveau parc."
+        ]
+      ],
+      "ετοιμάζει": [
+        [
+          "Η μαμά ετοιμάζει το φαγητό.",
+          "Mum is preparing the food.",
+          "Maman prépare le repas."
+        ],
+        [
+          "Ο Νίκος ετοιμάζει τη βαλίτσα του.",
+          "Nikos is packing his suitcase.",
+          "Nikos prépare sa valise."
+        ]
+      ],
+      "σκουπίδια": [
+        [
+          "Βγάζω τα σκουπίδια το βράδυ.",
+          "I take out the rubbish at night.",
+          "Je sors les poubelles le soir."
+        ],
+        [
+          "Δεν πετάμε σκουπίδια στον δρόμο.",
+          "We don't throw rubbish in the street.",
+          "On ne jette pas de déchets dans la rue."
+        ]
+      ],
+      "δοκιμάσει": [
+        [
+          "Θέλει να δοκιμάσει τον νέο καφέ.",
+          "He wants to try the new coffee.",
+          "Il veut goûter le nouveau café."
+        ],
+        [
+          "Θα δοκιμάσει το φόρεμα αύριο.",
+          "She will try on the dress tomorrow.",
+          "Elle essaiera la robe demain."
+        ]
+      ],
+      "γειτονιά": [
+        [
+          "Η γειτονιά μου είναι ήσυχη.",
+          "My neighbourhood is quiet.",
+          "Mon quartier est calme."
+        ],
+        [
+          "Στη γειτονιά μας έχει φούρνο.",
+          "There is a bakery in our neighbourhood.",
+          "Il y a une boulangerie dans notre quartier."
+        ]
+      ],
+      "γύρω από": [
+        [
+          "Τα παιδιά τρέχουν γύρω από το δέντρο.",
+          "The children run around the tree.",
+          "Les enfants courent autour de l'arbre."
+        ],
+        [
+          "Έχει καφετέριες γύρω από την πλατεία.",
+          "There are cafés around the square.",
+          "Il y a des cafés autour de la place."
+        ]
+      ],
+      "περίπου": [
+        [
+          "Είναι περίπου πέντε η ώρα.",
+          "It is about five o'clock.",
+          "Il est environ cinq heures."
+        ],
+        [
+          "Το μετρό έρχεται σε περίπου δύο λεπτά.",
+          "The metro comes in about two minutes.",
+          "Le métro arrive dans environ deux minutes."
+        ]
+      ],
+      "σχέδιο": [
+        [
+          "Έχεις σχέδιο για το Σάββατο;",
+          "Do you have a plan for Saturday?",
+          "Tu as un projet pour samedi ?"
+        ],
+        [
+          "Το σχέδιο είναι πολύ καλό.",
+          "The plan is very good.",
+          "Le plan est très bon."
+        ]
+      ],
+      "κρατήσει": [
+        [
+          "Η βροχή δεν θα κρατήσει πολύ.",
+          "The rain won't last long.",
+          "La pluie ne durera pas longtemps."
+        ],
+        [
+          "Η ταινία θα κρατήσει δύο ώρες.",
+          "The film will last two hours.",
+          "Le film durera deux heures."
+        ]
+      ],
+      "σακούλες": [
+        [
+          "Πάρε δύο σακούλες για τα ψώνια.",
+          "Take two bags for the shopping.",
+          "Prends deux sacs pour les courses."
+        ],
+        [
+          "Οι σακούλες είναι στην κουζίνα.",
+          "The bags are in the kitchen.",
+          "Les sacs sont dans la cuisine."
+        ]
+      ],
+      "κίτρινες": [
+        [
+          "Οι κίτρινες καρέκλες είναι καινούριες.",
+          "The yellow chairs are new.",
+          "Les chaises jaunes sont neuves."
+        ],
+        [
+          "Αγόρασα κίτρινες μπανάνες.",
+          "I bought yellow bananas.",
+          "J'ai acheté des bananes jaunes."
+        ]
+      ],
+      "χαρτόνι": [
+        [
+          "Το κουτί είναι από χαρτόνι.",
+          "The box is made of cardboard.",
+          "La boîte est en carton."
+        ],
+        [
+          "Ζωγραφίζω πάνω σε ένα χαρτόνι.",
+          "I draw on a piece of cardboard.",
+          "Je dessine sur un carton."
+        ]
+      ],
+      "διάφανες": [
+        [
+          "Οι πόρτες στο μετρό είναι διάφανες.",
+          "The doors in the metro are see-through.",
+          "Les portes du métro sont transparentes."
+        ],
+        [
+          "Οι κουρτίνες είναι λευκές και διάφανες.",
+          "The curtains are white and sheer.",
+          "Les rideaux sont blancs et transparents."
+        ]
+      ],
+      "μέταλλο": [
+        [
+          "Το τραπέζι είναι από μέταλλο.",
+          "The table is made of metal.",
+          "La table est en métal."
+        ],
+        [
+          "Το μέταλλο ζεσταίνεται στον ήλιο.",
+          "Metal gets hot in the sun.",
+          "Le métal chauffe au soleil."
+        ]
+      ],
+      "αυτοκόλλητα": [
+        [
+          "Το παιδί μαζεύει αυτοκόλλητα.",
+          "The child collects stickers.",
+          "L'enfant collectionne des autocollants."
+        ],
+        [
+          "Έχει αυτοκόλλητα στο ψυγείο.",
+          "There are stickers on the fridge.",
+          "Il y a des autocollants sur le frigo."
+        ]
+      ],
+      "κωδικό": [
+        [
+          "Ξέχασα τον κωδικό της πόρτας.",
+          "I forgot the door code.",
+          "J'ai oublié le code de la porte."
+        ],
+        [
+          "Γράψε τον κωδικό σε ένα χαρτί.",
+          "Write the code on a piece of paper.",
+          "Écris le code sur un papier."
+        ]
+      ],
+      "κάτοικοι": [
+        [
+          "Οι κάτοικοι αγαπούν την πλατεία τους.",
+          "The residents love their square.",
+          "Les habitants aiment leur place."
+        ],
+        [
+          "Οι κάτοικοι της πολυκατοικίας είναι φιλικοί.",
+          "The residents of the building are friendly.",
+          "Les habitants de l'immeuble sont sympathiques."
+        ]
+      ],
+      "γεμάτη": [
+        [
+          "Η καφετέρια είναι γεμάτη κόσμο.",
+          "The café is full of people.",
+          "Le café est plein de monde."
+        ],
+        [
+          "Η τσάντα μου είναι γεμάτη.",
+          "My bag is full.",
+          "Mon sac est plein."
+        ]
+      ],
+      "κινητό": [
+        [
+          "Το κινητό μου δεν έχει μπαταρία.",
+          "My phone has no battery.",
+          "Mon portable n'a plus de batterie."
+        ],
+        [
+          "Πληρώνω με το κινητό.",
+          "I pay with my phone.",
+          "Je paie avec mon portable."
+        ]
+      ],
+      "κερδίζουν": [
+        [
+          "Τα παιδιά κερδίζουν ένα δώρο.",
+          "The children win a present.",
+          "Les enfants gagnent un cadeau."
+        ],
+        [
+          "Πολλοί κερδίζουν λίγα λεφτά.",
+          "Many people earn little money.",
+          "Beaucoup de gens gagnent peu d'argent."
+        ]
+      ],
+      "πόντους": [
+        [
+          "Η ομάδα έχει δέκα πόντους.",
+          "The team has ten points.",
+          "L'équipe a dix points."
+        ],
+        [
+          "Μάζεψα πόντους στο σούπερ μάρκετ.",
+          "I collected points at the supermarket.",
+          "J'ai cumulé des points au supermarché."
+        ]
+      ],
+      "ανακυκλώνουν": [
+        [
+          "Οι γείτονες ανακυκλώνουν τα μπουκάλια.",
+          "The neighbours recycle the bottles.",
+          "Les voisins recyclent les bouteilles."
+        ],
+        [
+          "Στο σχολείο ανακυκλώνουν χαρτί.",
+          "At school they recycle paper.",
+          "À l'école, on recycle le papier."
+        ]
+      ],
+      "Αργότερα": [
+        [
+          "Αργότερα θα πάμε για καφέ.",
+          "Later we will go for coffee.",
+          "Plus tard, on ira prendre un café."
+        ],
+        [
+          "Αργότερα θα σου τηλεφωνήσω.",
+          "I will call you later.",
+          "Je t'appellerai plus tard."
+        ]
+      ],
+      "κάδοι": [
+        [
+          "Οι κάδοι είναι στη γωνία.",
+          "The bins are on the corner.",
+          "Les poubelles sont au coin de la rue."
+        ],
+        [
+          "Οι μπλε κάδοι είναι για ανακύκλωση.",
+          "The blue bins are for recycling.",
+          "Les conteneurs bleus sont pour le recyclage."
+        ]
+      ],
+      "περισσεύουν": [
+        [
+          "Στο ψυγείο περισσεύουν δύο κομμάτια πίτα.",
+          "There are two pieces of pie left in the fridge.",
+          "Il reste deux parts de tourte dans le frigo."
+        ],
+        [
+          "Αν περισσεύουν λεφτά, πάμε σινεμά.",
+          "If there is money left, we go to the cinema.",
+          "S'il reste de l'argent, on va au cinéma."
+        ]
+      ],
+      "χωματερή": [
+        [
+          "Το φορτηγό πάει στη χωματερή.",
+          "The truck goes to the landfill.",
+          "Le camion va à la décharge."
+        ],
+        [
+          "Η χωματερή είναι έξω από την πόλη.",
+          "The landfill is outside the city.",
+          "La décharge est en dehors de la ville."
+        ]
+      ],
+      "πετύχει": [
+        [
+          "Ελπίζω να πετύχει το γλυκό.",
+          "I hope the dessert turns out well.",
+          "J'espère que le dessert sera réussi."
+        ],
+        [
+          "Αν πετύχει, θα χαρούμε πολύ.",
+          "If it succeeds, we will be very happy.",
+          "Si ça réussit, on sera très contents."
+        ]
+      ]
+    }
   }
 ]

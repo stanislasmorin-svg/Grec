@@ -8130,5 +8130,351 @@
       "περισσεύουν": "περισσεύω",
       "πετύχει": "πετυχαίνω"
     }
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Ο Μαραθώνιος έρχεται στην Αθήνα",
+    "title_fr": "Le marathon arrive à Athènes",
+    "title_en": "The Marathon is coming to Athens",
+    "source": {
+      "name": "Newsbeast",
+      "url": "https://www.newsbeast.gr/greece/arthro/13471259/afthentikos-marathonios-athinas-2026-poioi-dromoi-kleinoun-apo-tin-pebti-kai-pou-tha-ischysoun-kykloforiakes-rythmiseis"
+    },
+    "paragraphs": [
+      "Την Κυριακή 8 Νοεμβρίου έχουμε τον **Μαραθώνιο** (marathon) της Αθήνας. Είναι ο 43ος **αγώνας** (race). Οι **δρομείς** (runners) θα **ξεκινήσουν** (will start) από την πόλη του Μαραθώνα. Θα **τρέξουν** (will run) μέχρι το παλιό μαρμάρινο **στάδιο** (stadium), το Καλλιμάρμαρο.",
+      "Το Σάββατο έχουμε μικρούς αγώνες. Τα παιδιά τρέχουν 1.200 **μέτρα** (metres). Το **βράδυ** (evening) υπάρχει ένας αγώνας πέντε **χιλιομέτρων** (kilometres). Ξεκινά από το Σύνταγμα. Την Κυριακή έχουμε και αγώνα δέκα χιλιομέτρων.",
+      "Για τους **οδηγούς** (drivers) η **εβδομάδα** (week) είναι **δύσκολη** (difficult). Από σήμερα, Πέμπτη, η οδός Ηρώδου Αττικού είναι **κλειστή** (closed) για τα **αυτοκίνητα** (cars). Το Σάββατο το **απόγευμα** (afternoon) πολλοί **δρόμοι** (roads) στο κέντρο **κλείνουν** (close). Η Αμαλίας και η Πανεπιστημίου κλείνουν κι αυτές. Την Κυριακή οι δρόμοι κλείνουν από τις πέντε το **πρωί** (morning).",
+      "Δεν μπορείς να **παρκάρεις** (park) στη **διαδρομή** (route) του αγώνα. Οι **πεζοί** (pedestrians) δεν μπορούν να **περάσουν** (cross) την ώρα του αγώνα. Η Ηρώδου Αττικού **ανοίγει** (opens) **ξανά** (again) τη Δευτέρα το πρωί."
+    ],
+    "paragraphs_en": [
+      "On Sunday 8 November we have the Athens Marathon. It is the 43rd race. The runners will start from the town of Marathon. They will run to the old marble stadium, the Kallimarmaro.",
+      "On Saturday we have small races. The children run 1,200 metres. In the evening there is a five-kilometre race. It starts from Syntagma. On Sunday we also have a ten-kilometre race.",
+      "For drivers, the week is difficult. From today, Thursday, Herodou Attikou Street is closed to cars. On Saturday afternoon many roads in the centre close. Amalias and Panepistimiou close too. On Sunday the roads close from five in the morning.",
+      "You cannot park on the route of the race. Pedestrians cannot cross during the race. Herodou Attikou opens again on Monday morning."
+    ],
+    "fr": {
+      "Μαραθώνιο": "marathon",
+      "αγώνας": "course, compétition",
+      "δρομείς": "coureurs",
+      "ξεκινήσουν": "(ils) partiront, commenceront",
+      "τρέξουν": "(ils) courront",
+      "στάδιο": "stade",
+      "μέτρα": "mètres",
+      "βράδυ": "soir",
+      "χιλιομέτρων": "de kilomètres",
+      "οδηγούς": "conducteurs",
+      "εβδομάδα": "semaine",
+      "δύσκολη": "difficile",
+      "κλειστή": "fermée",
+      "αυτοκίνητα": "voitures",
+      "απόγευμα": "après-midi",
+      "δρόμοι": "rues, routes",
+      "κλείνουν": "(ils) ferment",
+      "πρωί": "matin",
+      "παρκάρεις": "(tu) te gares",
+      "διαδρομή": "parcours",
+      "πεζοί": "piétons",
+      "περάσουν": "(ils) traversent, passent",
+      "ανοίγει": "(il/elle) ouvre",
+      "ξανά": "de nouveau"
+    },
+    "lemma": {
+      "ξεκινήσουν": "ξεκινάω",
+      "τρέξουν": "τρέχω",
+      "κλείνουν": "κλείνω",
+      "παρκάρεις": "παρκάρω",
+      "περάσουν": "περνάω",
+      "ανοίγει": "ανοίγω"
+    },
+    "examples": {
+      "Μαραθώνιο": [
+        [
+          "Ο φίλος μου τρέχει στον Μαραθώνιο.",
+          "My friend is running in the Marathon.",
+          "Mon ami court le marathon."
+        ],
+        [
+          "Βλέπουμε τον Μαραθώνιο στην τηλεόραση.",
+          "We watch the Marathon on TV.",
+          "Nous regardons le marathon à la télé."
+        ]
+      ],
+      "αγώνας": [
+        [
+          "Ο αγώνας αρχίζει στις οκτώ.",
+          "The race starts at eight.",
+          "La course commence à huit heures."
+        ],
+        [
+          "Ο αγώνας είναι πολύ δύσκολος.",
+          "The race is very hard.",
+          "La course est très difficile."
+        ]
+      ],
+      "δρομείς": [
+        [
+          "Οι δρομείς πίνουν πολύ νερό.",
+          "The runners drink a lot of water.",
+          "Les coureurs boivent beaucoup d'eau."
+        ],
+        [
+          "Οι δρομείς περνούν από τον δρόμο μας.",
+          "The runners go past our street.",
+          "Les coureurs passent dans notre rue."
+        ]
+      ],
+      "ξεκινήσουν": [
+        [
+          "Τα μαθήματα θα ξεκινήσουν τον Σεπτέμβριο.",
+          "The lessons will start in September.",
+          "Les cours commenceront en septembre."
+        ],
+        [
+          "Κάθε μέρα ξεκινάω δουλειά στις εννιά.",
+          "Every day I start work at nine.",
+          "Chaque jour, je commence le travail à neuf heures."
+        ]
+      ],
+      "τρέξουν": [
+        [
+          "Τα σκυλιά θα τρέξουν στο πάρκο.",
+          "The dogs will run in the park.",
+          "Les chiens courront dans le parc."
+        ],
+        [
+          "Κάθε πρωί τρέχω στο πάρκο.",
+          "Every morning I run in the park.",
+          "Chaque matin, je cours dans le parc."
+        ]
+      ],
+      "στάδιο": [
+        [
+          "Το στάδιο είναι γεμάτο κόσμο.",
+          "The stadium is full of people.",
+          "Le stade est plein de monde."
+        ],
+        [
+          "Πάμε στο στάδιο με το μετρό.",
+          "We go to the stadium by metro.",
+          "Nous allons au stade en métro."
+        ]
+      ],
+      "μέτρα": [
+        [
+          "Το σπίτι μου είναι εκατό μέτρα από εδώ.",
+          "My house is a hundred metres from here.",
+          "Ma maison est à cent mètres d'ici."
+        ],
+        [
+          "Ο φούρνος είναι λίγα μέτρα μακριά.",
+          "The bakery is a few metres away.",
+          "La boulangerie est à quelques mètres."
+        ]
+      ],
+      "βράδυ": [
+        [
+          "Το βράδυ τρώμε στο σπίτι.",
+          "In the evening we eat at home.",
+          "Le soir, nous mangeons à la maison."
+        ],
+        [
+          "Κάθε βράδυ βλέπω μια ταινία.",
+          "Every evening I watch a film.",
+          "Chaque soir, je regarde un film."
+        ]
+      ],
+      "χιλιομέτρων": [
+        [
+          "Κάνουμε έναν περίπατο τριών χιλιομέτρων.",
+          "We go for a three-kilometre walk.",
+          "Nous faisons une promenade de trois kilomètres."
+        ],
+        [
+          "Η παραλία είναι σε απόσταση δύο χιλιομέτρων.",
+          "The beach is two kilometres away.",
+          "La plage est à deux kilomètres."
+        ]
+      ],
+      "οδηγούς": [
+        [
+          "Η κίνηση είναι κακή για τους οδηγούς.",
+          "The traffic is bad for drivers.",
+          "La circulation est mauvaise pour les conducteurs."
+        ],
+        [
+          "Η εταιρεία ψάχνει καλούς οδηγούς.",
+          "The company is looking for good drivers.",
+          "L'entreprise cherche de bons conducteurs."
+        ]
+      ],
+      "εβδομάδα": [
+        [
+          "Αυτή η εβδομάδα είναι γεμάτη.",
+          "This week is busy.",
+          "Cette semaine est chargée."
+        ],
+        [
+          "Την άλλη εβδομάδα πάω διακοπές.",
+          "Next week I'm going on holiday.",
+          "La semaine prochaine, je pars en vacances."
+        ]
+      ],
+      "δύσκολη": [
+        [
+          "Η μέρα ήταν πολύ δύσκολη.",
+          "The day was very hard.",
+          "La journée a été très difficile."
+        ],
+        [
+          "Η ελληνική γλώσσα είναι δύσκολη.",
+          "The Greek language is difficult.",
+          "La langue grecque est difficile."
+        ]
+      ],
+      "κλειστή": [
+        [
+          "Η τράπεζα είναι κλειστή σήμερα.",
+          "The bank is closed today.",
+          "La banque est fermée aujourd'hui."
+        ],
+        [
+          "Η πόρτα είναι κλειστή.",
+          "The door is closed.",
+          "La porte est fermée."
+        ]
+      ],
+      "αυτοκίνητα": [
+        [
+          "Τα αυτοκίνητα περιμένουν στο φανάρι.",
+          "The cars are waiting at the traffic light.",
+          "Les voitures attendent au feu."
+        ],
+        [
+          "Υπάρχουν πολλά αυτοκίνητα στον δρόμο.",
+          "There are many cars on the road.",
+          "Il y a beaucoup de voitures dans la rue."
+        ]
+      ],
+      "απόγευμα": [
+        [
+          "Το απόγευμα πίνω καφέ.",
+          "In the afternoon I drink coffee.",
+          "L'après-midi, je bois un café."
+        ],
+        [
+          "Έλα στο σπίτι το απόγευμα.",
+          "Come to the house in the afternoon.",
+          "Viens à la maison l'après-midi."
+        ]
+      ],
+      "δρόμοι": [
+        [
+          "Οι δρόμοι είναι βρεγμένοι σήμερα.",
+          "The streets are wet today.",
+          "Les rues sont mouillées aujourd'hui."
+        ],
+        [
+          "Οι δρόμοι της Πλάκας είναι στενοί.",
+          "The streets of Plaka are narrow.",
+          "Les rues de Plaka sont étroites."
+        ]
+      ],
+      "κλείνουν": [
+        [
+          "Τα μαγαζιά κλείνουν στις εννιά.",
+          "The shops close at nine.",
+          "Les magasins ferment à neuf heures."
+        ],
+        [
+          "Το βράδυ κλείνω την τηλεόραση νωρίς.",
+          "In the evening I turn off the TV early.",
+          "Le soir, j'éteins la télé tôt."
+        ]
+      ],
+      "πρωί": [
+        [
+          "Το πρωί πίνω τσάι.",
+          "In the morning I drink tea.",
+          "Le matin, je bois du thé."
+        ],
+        [
+          "Ξυπνάω νωρίς το πρωί.",
+          "I wake up early in the morning.",
+          "Je me réveille tôt le matin."
+        ]
+      ],
+      "παρκάρεις": [
+        [
+          "Εδώ δεν μπορείς να παρκάρεις.",
+          "You can't park here.",
+          "Tu ne peux pas te garer ici."
+        ],
+        [
+          "Πάντα παρκάρω κοντά στο σπίτι.",
+          "I always park near the house.",
+          "Je me gare toujours près de la maison."
+        ]
+      ],
+      "διαδρομή": [
+        [
+          "Η διαδρομή με το λεωφορείο είναι μεγάλη.",
+          "The bus journey is long.",
+          "Le trajet en bus est long."
+        ],
+        [
+          "Ξέρω μια ωραία διαδρομή για το σπίτι.",
+          "I know a nice way home.",
+          "Je connais un joli chemin pour rentrer."
+        ]
+      ],
+      "πεζοί": [
+        [
+          "Οι πεζοί περιμένουν το πράσινο φανάρι.",
+          "Pedestrians wait for the green light.",
+          "Les piétons attendent le feu vert."
+        ],
+        [
+          "Οι πεζοί περπατούν στο πεζοδρόμιο.",
+          "Pedestrians walk on the pavement.",
+          "Les piétons marchent sur le trottoir."
+        ]
+      ],
+      "περάσουν": [
+        [
+          "Τα παιδιά θα περάσουν τον δρόμο μαζί.",
+          "The children will cross the street together.",
+          "Les enfants traverseront la rue ensemble."
+        ],
+        [
+          "Κάθε μέρα περνάω από τον φούρνο.",
+          "Every day I go past the bakery.",
+          "Chaque jour, je passe devant la boulangerie."
+        ]
+      ],
+      "ανοίγει": [
+        [
+          "Το καφέ ανοίγει στις επτά.",
+          "The café opens at seven.",
+          "Le café ouvre à sept heures."
+        ],
+        [
+          "Το πρωί ανοίγω το παράθυρο.",
+          "In the morning I open the window.",
+          "Le matin, j'ouvre la fenêtre."
+        ]
+      ],
+      "ξανά": [
+        [
+          "Έλα ξανά αύριο.",
+          "Come again tomorrow.",
+          "Reviens demain."
+        ],
+        [
+          "Σήμερα βρέχει ξανά.",
+          "It's raining again today.",
+          "Aujourd'hui, il pleut de nouveau."
+        ]
+      ]
+    }
   }
 ]

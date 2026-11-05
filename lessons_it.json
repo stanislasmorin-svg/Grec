@@ -347,5 +347,342 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-05",
+    "title": "Musei gratis a Roma",
+    "title_fr": "Musées gratuits à Rome",
+    "title_en": "Free museums in Rome",
+    "source": {
+      "name": "Roma Events",
+      "url": "https://www.roma-events.it/2026/11/03/musei-gratis-a-roma-il-4-novembre-ecco-dove-andare/"
+    },
+    "paragraphs": [
+      "Il 4 novembre è una **festa** (holiday) in Italia. È la **Giornata** (Day) dell'Unità Nazionale e delle Forze Armate. Per questa festa, molti **musei** (museums) di Roma sono **gratis** (free) per tutti. Lo **decide** (decides) il **Ministero** (Ministry) della Cultura.",
+      "Si può **entrare** (go in) al Colosseo, al Foro Romano e al Palatino. Qui il **biglietto** (ticket) gratis si **prende** (gets) alla **cassa** (ticket office). Non si può **prenotare** (book). Chi **arriva** (arrives) **presto** (early), entra prima.",
+      "Anche il Pantheon e Castel Sant'Angelo sono **aperti** (open) gratis. Il Pantheon **apre** (opens) alle nove e **chiude** (closes) alle sette di **sera** (evening). C'è anche il Museo degli Strumenti Musicali. Da Palazzo Poli si **vede** (can see) la Fontana di Trevi **dall'alto** (from above).",
+      "Per alcuni musei serve una **prenotazione** (booking) su internet. Prima di **andare** (going), è meglio **guardare** (look at) il **sito** (website) del museo."
+    ],
+    "paragraphs_en": [
+      "4 November is a holiday in Italy. It is the Day of National Unity and the Armed Forces. For this holiday, many museums in Rome are free for everyone. The Ministry of Culture decides it.",
+      "You can go into the Colosseum, the Roman Forum and the Palatine. Here you get the free ticket at the ticket office. You cannot book. Whoever arrives early goes in first.",
+      "The Pantheon and Castel Sant'Angelo are also open for free. The Pantheon opens at nine and closes at seven in the evening. There is also the Museum of Musical Instruments. From Palazzo Poli you can see the Trevi Fountain from above.",
+      "For some museums you need an online booking. Before going, it is better to look at the museum's website."
+    ],
+    "fr": {
+      "festa": "fête",
+      "Giornata": "Journée",
+      "musei": "musées",
+      "gratis": "gratuit(s)",
+      "decide": "(il) décide",
+      "Ministero": "ministère",
+      "entrare": "entrer",
+      "biglietto": "billet",
+      "prende": "(on) prend",
+      "cassa": "caisse, guichet",
+      "prenotare": "réserver",
+      "arriva": "(il) arrive",
+      "presto": "tôt",
+      "aperti": "ouverts",
+      "apre": "(il) ouvre",
+      "chiude": "(il) ferme",
+      "sera": "soir",
+      "vede": "(on) voit",
+      "dall'alto": "d'en haut",
+      "prenotazione": "réservation",
+      "andare": "aller",
+      "guardare": "regarder",
+      "sito": "site (internet)"
+    },
+    "lemma": {
+      "decide": "decidere",
+      "entrare": "entrare",
+      "prende": "prendere",
+      "prenotare": "prenotare",
+      "arriva": "arrivare",
+      "apre": "aprire",
+      "chiude": "chiudere",
+      "vede": "vedere",
+      "andare": "andare",
+      "guardare": "guardare"
+    },
+    "examples": {
+      "festa": [
+        [
+          "Domani c'è una festa a casa mia.",
+          "Tomorrow there's a party at my place.",
+          "Demain, il y a une fête chez moi."
+        ],
+        [
+          "La festa comincia alle otto.",
+          "The party starts at eight.",
+          "La fête commence à huit heures."
+        ]
+      ],
+      "Giornata": [
+        [
+          "Oggi è la Giornata della Terra.",
+          "Today is Earth Day.",
+          "Aujourd'hui, c'est la Journée de la Terre."
+        ],
+        [
+          "La Giornata della Terra è ad aprile.",
+          "Earth Day is in April.",
+          "La Journée de la Terre est en avril."
+        ]
+      ],
+      "musei": [
+        [
+          "I musei di Firenze sono bellissimi.",
+          "The museums in Florence are beautiful.",
+          "Les musées de Florence sont magnifiques."
+        ],
+        [
+          "Mi piacciono molto i musei.",
+          "I really like museums.",
+          "J'aime beaucoup les musées."
+        ]
+      ],
+      "gratis": [
+        [
+          "Oggi il caffè è gratis.",
+          "Today the coffee is free.",
+          "Aujourd'hui, le café est gratuit."
+        ],
+        [
+          "L'acqua qui è gratis.",
+          "The water here is free.",
+          "Ici, l'eau est gratuite."
+        ]
+      ],
+      "decide": [
+        [
+          "La mamma decide il menù.",
+          "Mum decides the menu.",
+          "Maman décide du menu."
+        ],
+        [
+          "Io decido dove andiamo stasera.",
+          "I decide where we go tonight.",
+          "Je décide où nous allons ce soir."
+        ]
+      ],
+      "Ministero": [
+        [
+          "Il Ministero è in centro.",
+          "The Ministry is in the centre.",
+          "Le ministère est dans le centre."
+        ],
+        [
+          "Lavoro al Ministero della Salute.",
+          "I work at the Ministry of Health.",
+          "Je travaille au ministère de la Santé."
+        ]
+      ],
+      "entrare": [
+        [
+          "Posso entrare in cucina?",
+          "Can I come into the kitchen?",
+          "Je peux entrer dans la cuisine ?"
+        ],
+        [
+          "Io entro in casa senza scarpe.",
+          "I go into the house without shoes.",
+          "J'entre dans la maison sans chaussures."
+        ]
+      ],
+      "biglietto": [
+        [
+          "Compro il biglietto dell'autobus.",
+          "I buy the bus ticket.",
+          "J'achète le ticket de bus."
+        ],
+        [
+          "Ho perso il biglietto del treno.",
+          "I lost my train ticket.",
+          "J'ai perdu mon billet de train."
+        ]
+      ],
+      "prende": [
+        [
+          "Mio padre prende il treno alle sette.",
+          "My father takes the train at seven.",
+          "Mon père prend le train à sept heures."
+        ],
+        [
+          "Io prendo un caffè al bar.",
+          "I have a coffee at the bar.",
+          "Je prends un café au bar."
+        ]
+      ],
+      "cassa": [
+        [
+          "Paghi alla cassa, per favore.",
+          "Pay at the till, please.",
+          "Payez à la caisse, s'il vous plaît."
+        ],
+        [
+          "La cassa è vicino alla porta.",
+          "The till is near the door.",
+          "La caisse est près de la porte."
+        ]
+      ],
+      "prenotare": [
+        [
+          "Devo prenotare un tavolo per stasera.",
+          "I have to book a table for tonight.",
+          "Je dois réserver une table pour ce soir."
+        ],
+        [
+          "Io prenoto sempre un tavolo al ristorante.",
+          "I always book a table at the restaurant.",
+          "Je réserve toujours une table au restaurant."
+        ]
+      ],
+      "arriva": [
+        [
+          "L'autobus arriva tra cinque minuti.",
+          "The bus arrives in five minutes.",
+          "Le bus arrive dans cinq minutes."
+        ],
+        [
+          "Io arrivo a casa alle sei.",
+          "I get home at six.",
+          "J'arrive à la maison à six heures."
+        ]
+      ],
+      "presto": [
+        [
+          "Domani mi sveglio presto.",
+          "Tomorrow I'm waking up early.",
+          "Demain, je me réveille tôt."
+        ],
+        [
+          "Il bar apre presto.",
+          "The bar opens early.",
+          "Le bar ouvre tôt."
+        ]
+      ],
+      "aperti": [
+        [
+          "I negozi sono aperti fino alle otto.",
+          "The shops are open until eight.",
+          "Les magasins sont ouverts jusqu'à huit heures."
+        ],
+        [
+          "Siamo aperti anche la domenica.",
+          "We're open on Sundays too.",
+          "Nous sommes ouverts aussi le dimanche."
+        ]
+      ],
+      "apre": [
+        [
+          "La farmacia apre alle nove.",
+          "The pharmacy opens at nine.",
+          "La pharmacie ouvre à neuf heures."
+        ],
+        [
+          "Io apro la finestra la mattina.",
+          "I open the window in the morning.",
+          "J'ouvre la fenêtre le matin."
+        ]
+      ],
+      "chiude": [
+        [
+          "Il supermercato chiude alle dieci.",
+          "The supermarket closes at ten.",
+          "Le supermarché ferme à dix heures."
+        ],
+        [
+          "Io chiudo la porta a chiave.",
+          "I lock the door.",
+          "Je ferme la porte à clé."
+        ]
+      ],
+      "sera": [
+        [
+          "La sera guardo la televisione.",
+          "In the evening I watch TV.",
+          "Le soir, je regarde la télé."
+        ],
+        [
+          "Ceniamo alle otto di sera.",
+          "We have dinner at eight in the evening.",
+          "Nous dînons à huit heures du soir."
+        ]
+      ],
+      "vede": [
+        [
+          "Dal balcone si vede il mare.",
+          "You can see the sea from the balcony.",
+          "Du balcon, on voit la mer."
+        ],
+        [
+          "Io vedo i miei amici il sabato.",
+          "I see my friends on Saturdays.",
+          "Je vois mes amis le samedi."
+        ]
+      ],
+      "dall'alto": [
+        [
+          "La città è bella dall'alto.",
+          "The city is beautiful from above.",
+          "La ville est belle vue d'en haut."
+        ],
+        [
+          "Guardo la piazza dall'alto.",
+          "I look at the square from above.",
+          "Je regarde la place d'en haut."
+        ]
+      ],
+      "prenotazione": [
+        [
+          "Ho una prenotazione per due persone.",
+          "I have a booking for two people.",
+          "J'ai une réservation pour deux personnes."
+        ],
+        [
+          "Serve una prenotazione per cena?",
+          "Do I need a booking for dinner?",
+          "Il faut une réservation pour le dîner ?"
+        ]
+      ],
+      "andare": [
+        [
+          "Voglio andare al mare.",
+          "I want to go to the seaside.",
+          "Je veux aller à la mer."
+        ],
+        [
+          "Io vado al lavoro in metro.",
+          "I go to work by metro.",
+          "Je vais au travail en métro."
+        ]
+      ],
+      "guardare": [
+        [
+          "Mi piace guardare le stelle.",
+          "I like looking at the stars.",
+          "J'aime regarder les étoiles."
+        ],
+        [
+          "Io guardo il telefono troppo spesso.",
+          "I look at my phone too often.",
+          "Je regarde mon téléphone trop souvent."
+        ]
+      ],
+      "sito": [
+        [
+          "Il sito del treno non funziona.",
+          "The train website isn't working.",
+          "Le site du train ne marche pas."
+        ],
+        [
+          "Leggo le notizie su questo sito.",
+          "I read the news on this website.",
+          "Je lis les infos sur ce site."
+        ]
+      ]
+    }
   }
 ]

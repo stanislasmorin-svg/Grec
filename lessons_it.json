@@ -684,5 +684,343 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Lo Schiaccianoci fa il tutto esaurito",
+    "title_fr": "Casse-Noisette affiche complet",
+    "title_en": "The Nutcracker is sold out",
+    "source": {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/lazio/notizie/2026/11/05/sold-out-le-recite-di-lo-schiaccianoci-altre-due-repliche-allopera-di-roma_cdc4a4f4-b1ed-4e7b-bda6-420f89e6d15b.html"
+    },
+    "paragraphs": [
+      "A Roma tutti **vogliono** (want) vedere Lo Schiaccianoci. È un **balletto** (ballet) molto **famoso** (famous), con la musica di Čajkovskij. Lo **spettacolo** (show) è al Teatro Nazionale di Roma.",
+      "I **ballerini** (dancers) sono **giovani** (young). Sono gli **allievi** (students) della Scuola di Danza del Teatro dell'Opera. Per la prima volta **ballano** (dance) con i **passi** (steps) di Paul Chalmer.",
+      "Gli spettacoli sono dal 24 novembre al 3 dicembre. Ma i **biglietti** (tickets) sono già **finiti** (sold out). Non ci sono più **posti** (seats).",
+      "Per questo, il teatro **aggiunge** (adds) due **serate** (evenings): il primo e il 3 dicembre, alle sette di sera. Nelle stesse **giornate** (days), alle undici, ci sono spettacoli per le **scuole** (schools).",
+      "Questo balletto **piace** (is loved) molto. Prima era al Teatro Costanzi. Dal 2023 al 2025, **circa** (about) 50.000 **persone** (people) lo hanno **visto** (seen).",
+      "Lo Schiaccianoci **apre** (opens) la nuova **stagione** (season) del Teatro Nazionale. Dopo, al Costanzi, **arriva** (arrives) Il lago dei cigni."
+    ],
+    "paragraphs_en": [
+      "In Rome everyone wants to see The Nutcracker. It is a very famous ballet, with music by Tchaikovsky. The show is at the Teatro Nazionale in Rome.",
+      "The dancers are young. They are the students of the Dance School of the Opera House. For the first time they dance with Paul Chalmer's steps.",
+      "The shows run from 24 November to 3 December. But the tickets are already sold out. There are no more seats.",
+      "So the theatre is adding two evenings: 1 and 3 December, at seven in the evening. On the same days, at eleven, there are shows for schools.",
+      "People love this ballet very much. Before, it was at the Teatro Costanzi. From 2023 to 2025, about 50,000 people saw it.",
+      "The Nutcracker opens the new season of the Teatro Nazionale. Afterwards, Swan Lake comes to the Costanzi."
+    ],
+    "fr": {
+      "vogliono": "veulent",
+      "balletto": "ballet",
+      "famoso": "célèbre",
+      "spettacolo": "spectacle",
+      "ballerini": "danseurs",
+      "giovani": "jeunes",
+      "allievi": "élèves",
+      "ballano": "dansent",
+      "passi": "pas",
+      "biglietti": "billets",
+      "finiti": "épuisés",
+      "posti": "places",
+      "aggiunge": "ajoute",
+      "serate": "soirées",
+      "giornate": "journées",
+      "scuole": "écoles",
+      "piace": "plaît",
+      "circa": "environ",
+      "persone": "personnes",
+      "visto": "vu",
+      "apre": "ouvre",
+      "stagione": "saison",
+      "arriva": "arrive"
+    },
+    "lemma": {
+      "vogliono": "volere",
+      "ballano": "ballare",
+      "aggiunge": "aggiungere",
+      "piace": "piacere",
+      "visto": "vedere",
+      "apre": "aprire",
+      "arriva": "arrivare"
+    },
+    "examples": {
+      "vogliono": [
+        [
+          "I bambini vogliono un gelato.",
+          "The kids want an ice cream.",
+          "Les enfants veulent une glace."
+        ],
+        [
+          "Io voglio un caffè, per favore.",
+          "I'd like a coffee, please.",
+          "Je voudrais un café, s'il vous plaît."
+        ]
+      ],
+      "balletto": [
+        [
+          "Stasera guardiamo un balletto in TV.",
+          "Tonight we're watching a ballet on TV.",
+          "Ce soir, on regarde un ballet à la télé."
+        ],
+        [
+          "Il balletto comincia alle otto.",
+          "The ballet starts at eight.",
+          "Le ballet commence à huit heures."
+        ]
+      ],
+      "famoso": [
+        [
+          "Questo bar è famoso per il cappuccino.",
+          "This bar is famous for its cappuccino.",
+          "Ce bar est célèbre pour son cappuccino."
+        ],
+        [
+          "Mio zio è un cuoco famoso.",
+          "My uncle is a famous cook.",
+          "Mon oncle est un cuisinier célèbre."
+        ]
+      ],
+      "spettacolo": [
+        [
+          "Lo spettacolo finisce alle dieci.",
+          "The show ends at ten.",
+          "Le spectacle finit à dix heures."
+        ],
+        [
+          "Sabato andiamo a uno spettacolo.",
+          "On Saturday we're going to a show.",
+          "Samedi, on va voir un spectacle."
+        ]
+      ],
+      "ballerini": [
+        [
+          "I ballerini sono molto bravi.",
+          "The dancers are very good.",
+          "Les danseurs sont très doués."
+        ],
+        [
+          "Conosco due ballerini del teatro.",
+          "I know two dancers from the theatre.",
+          "Je connais deux danseurs du théâtre."
+        ]
+      ],
+      "giovani": [
+        [
+          "In questo quartiere vivono molti giovani.",
+          "Many young people live in this neighbourhood.",
+          "Beaucoup de jeunes vivent dans ce quartier."
+        ],
+        [
+          "I miei vicini sono giovani.",
+          "My neighbours are young.",
+          "Mes voisins sont jeunes."
+        ]
+      ],
+      "allievi": [
+        [
+          "Gli allievi entrano in classe.",
+          "The students go into the classroom.",
+          "Les élèves entrent en classe."
+        ],
+        [
+          "La maestra ha venti allievi.",
+          "The teacher has twenty students.",
+          "La maîtresse a vingt élèves."
+        ]
+      ],
+      "ballano": [
+        [
+          "Le ragazze ballano in cucina.",
+          "The girls are dancing in the kitchen.",
+          "Les filles dansent dans la cuisine."
+        ],
+        [
+          "Io ballo sempre alle feste.",
+          "I always dance at parties.",
+          "Je danse toujours aux fêtes."
+        ]
+      ],
+      "passi": [
+        [
+          "Faccio pochi passi e sono a casa.",
+          "I take a few steps and I'm home.",
+          "Je fais quelques pas et je suis chez moi."
+        ],
+        [
+          "Sento dei passi sulle scale.",
+          "I hear footsteps on the stairs.",
+          "J'entends des pas dans l'escalier."
+        ]
+      ],
+      "biglietti": [
+        [
+          "Compro i biglietti per l'autobus.",
+          "I'm buying the bus tickets.",
+          "J'achète les billets de bus."
+        ],
+        [
+          "I biglietti sono sul tavolo.",
+          "The tickets are on the table.",
+          "Les billets sont sur la table."
+        ]
+      ],
+      "finiti": [
+        [
+          "I cornetti sono già finiti.",
+          "The croissants are already gone.",
+          "Les croissants sont déjà épuisés."
+        ],
+        [
+          "Il latte e il pane sono finiti.",
+          "The milk and bread have run out.",
+          "Il n'y a plus de lait ni de pain."
+        ]
+      ],
+      "posti": [
+        [
+          "Sul treno non ci sono posti.",
+          "There are no seats on the train.",
+          "Il n'y a pas de places dans le train."
+        ],
+        [
+          "Ci sono due posti vicino alla finestra.",
+          "There are two seats near the window.",
+          "Il y a deux places près de la fenêtre."
+        ]
+      ],
+      "aggiunge": [
+        [
+          "Mia madre aggiunge sale alla pasta.",
+          "My mother adds salt to the pasta.",
+          "Ma mère ajoute du sel aux pâtes."
+        ],
+        [
+          "Io aggiungo zucchero al caffè.",
+          "I add sugar to my coffee.",
+          "J'ajoute du sucre dans mon café."
+        ]
+      ],
+      "serate": [
+        [
+          "Le serate d'estate sono lunghe.",
+          "Summer evenings are long.",
+          "Les soirées d'été sont longues."
+        ],
+        [
+          "Passiamo le serate a casa.",
+          "We spend our evenings at home.",
+          "On passe nos soirées à la maison."
+        ]
+      ],
+      "giornate": [
+        [
+          "In inverno le giornate sono corte.",
+          "In winter the days are short.",
+          "En hiver, les journées sont courtes."
+        ],
+        [
+          "Sono giornate molto piene.",
+          "These are very busy days.",
+          "Ce sont des journées très chargées."
+        ]
+      ],
+      "scuole": [
+        [
+          "Le scuole aprono alle otto.",
+          "Schools open at eight.",
+          "Les écoles ouvrent à huit heures."
+        ],
+        [
+          "In città ci sono molte scuole.",
+          "There are many schools in the city.",
+          "Il y a beaucoup d'écoles en ville."
+        ]
+      ],
+      "piace": [
+        [
+          "Questo film piace a tutti.",
+          "Everyone likes this film.",
+          "Ce film plaît à tout le monde."
+        ],
+        [
+          "Mi piace la pizza margherita.",
+          "I like margherita pizza.",
+          "J'aime la pizza margherita."
+        ]
+      ],
+      "circa": [
+        [
+          "Il bar è a circa cento metri.",
+          "The bar is about a hundred metres away.",
+          "Le bar est à environ cent mètres."
+        ],
+        [
+          "Aspetto circa dieci minuti.",
+          "I wait about ten minutes.",
+          "J'attends environ dix minutes."
+        ]
+      ],
+      "persone": [
+        [
+          "In metro ci sono troppe persone.",
+          "There are too many people on the metro.",
+          "Il y a trop de monde dans le métro."
+        ],
+        [
+          "Al tavolo siamo sei persone.",
+          "There are six of us at the table.",
+          "Nous sommes six personnes à table."
+        ]
+      ],
+      "visto": [
+        [
+          "Hai visto le mie chiavi?",
+          "Have you seen my keys?",
+          "Tu as vu mes clés ?"
+        ],
+        [
+          "Dalla finestra vedo il mare.",
+          "I can see the sea from the window.",
+          "De la fenêtre, je vois la mer."
+        ]
+      ],
+      "apre": [
+        [
+          "Il negozio apre alle nove.",
+          "The shop opens at nine.",
+          "Le magasin ouvre à neuf heures."
+        ],
+        [
+          "Io apro la porta al postino.",
+          "I open the door for the postman.",
+          "J'ouvre la porte au facteur."
+        ]
+      ],
+      "stagione": [
+        [
+          "L'autunno è la mia stagione preferita.",
+          "Autumn is my favourite season.",
+          "L'automne est ma saison préférée."
+        ],
+        [
+          "In questa stagione piove spesso.",
+          "It often rains in this season.",
+          "En cette saison, il pleut souvent."
+        ]
+      ],
+      "arriva": [
+        [
+          "L'autobus arriva tra cinque minuti.",
+          "The bus arrives in five minutes.",
+          "Le bus arrive dans cinq minutes."
+        ],
+        [
+          "Io arrivo al lavoro alle otto.",
+          "I get to work at eight.",
+          "J'arrive au travail à huit heures."
+        ]
+      ]
+    }
   }
 ]

@@ -8476,5 +8476,354 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-06",
+    "title": "Μια μεγάλη γιορτή για τα μπαρ",
+    "title_fr": "Une grande fête pour les bars",
+    "title_en": "A big celebration for bars",
+    "source": {
+      "name": "Athens Voice",
+      "url": "https://www.athensvoice.gr/life/geusi/wine-spirits/994742/athens-bar-show-2026-i-athina-sto-epikedro-tis-diethnous-bar-skinis/"
+    },
+    "paragraphs": [
+      "Στις 3 και 4 Νοεμβρίου, η Αθήνα είχε μια μεγάλη **έκθεση** (exhibition) για τα μπαρ. Το όνομά της είναι Athens Bar Show. Ήταν στην Τεχνόπολη, στο Γκάζι. Είναι η πιο μεγάλη **εκδήλωση** (event) για τα μπαρ στην Ελλάδα.",
+      "Εκεί **έρχονται** (come) άνθρωποι που **δουλεύουν** (work) σε μπαρ και καφετέριες. **Πέρσι** (last year) ήρθαν **περίπου** (about) 17.000 **επισκέπτες** (visitors). Πολλοί ήρθαν από το **εξωτερικό** (abroad).",
+      "Στην έκθεση υπάρχουν πολλά **μαθήματα** (lessons). Οι **ομιλητές** (speakers) μιλούν για τον καφέ, τα **ποτά** (drinks) και το φαγητό. Μιλούν και για το πώς **προσέχουμε** (take care of) τη **φύση** (nature). Μιλούν ακόμα για τα έξυπνα **προγράμματα** (programs) των **υπολογιστών** (computers).",
+      "Υπάρχουν και **διαγωνισμοί** (competitions) για μπάρμαν. Οι επισκέπτες μπορούν να **δοκιμάσουν** (try) νέα ποτά. Μέσα στην έκθεση **ανοίγει** (opens) και ένα μπαρ από το Μόναχο, το Schumann's Bar.",
+      "Όλη την εβδομάδα, πολλά μπαρ της πόλης **καλωσορίζουν** (welcome) τους **καλεσμένους** (guests). Ελληνικές **εταιρείες** (companies) **βρίσκουν** (find) **συνεργάτες** (partners) από άλλες χώρες. Έτσι, η Αθήνα γίνεται ένα **γνωστό** (well-known) μέρος για καλό φαγητό και ποτό."
+    ],
+    "paragraphs_en": [
+      "On 3 and 4 November, Athens had a big exhibition for bars. Its name is Athens Bar Show. It was at Technopolis, in Gazi. It is the biggest event for bars in Greece.",
+      "People who work in bars and cafés come there. Last year about 17,000 visitors came. Many came from abroad.",
+      "At the exhibition there are many lessons. The speakers talk about coffee, drinks and food. They also talk about how we take care of nature. They even talk about smart computer programs.",
+      "There are also competitions for bartenders. Visitors can try new drinks. Inside the exhibition, a bar from Munich, Schumann's Bar, also opens.",
+      "All week long, many bars in the city welcome the guests. Greek companies find partners from other countries. This way, Athens becomes a well-known place for good food and drinks."
+    ],
+    "fr": {
+      "έκθεση": "exposition, salon",
+      "εκδήλωση": "événement",
+      "έρχονται": "viennent",
+      "δουλεύουν": "travaillent",
+      "Πέρσι": "l'année dernière",
+      "περίπου": "environ",
+      "επισκέπτες": "visiteurs",
+      "εξωτερικό": "l'étranger",
+      "μαθήματα": "cours",
+      "ομιλητές": "intervenants",
+      "ποτά": "boissons",
+      "προσέχουμε": "prenons soin de",
+      "φύση": "nature",
+      "προγράμματα": "programmes",
+      "υπολογιστών": "des ordinateurs",
+      "διαγωνισμοί": "concours",
+      "δοκιμάσουν": "goûter, essayer",
+      "ανοίγει": "ouvre",
+      "καλωσορίζουν": "accueillent",
+      "καλεσμένους": "invités",
+      "εταιρείες": "entreprises",
+      "βρίσκουν": "trouvent",
+      "συνεργάτες": "partenaires",
+      "γνωστό": "connu"
+    },
+    "lemma": {
+      "έρχονται": "έρχομαι",
+      "δουλεύουν": "δουλεύω",
+      "προσέχουμε": "προσέχω",
+      "δοκιμάσουν": "δοκιμάζω",
+      "ανοίγει": "ανοίγω",
+      "καλωσορίζουν": "καλωσορίζω",
+      "βρίσκουν": "βρίσκω"
+    },
+    "examples": {
+      "έκθεση": [
+        [
+          "Πάμε σε μια έκθεση το Σάββατο.",
+          "We're going to an exhibition on Saturday.",
+          "On va à une exposition samedi."
+        ],
+        [
+          "Η έκθεση ανοίγει στις δέκα.",
+          "The exhibition opens at ten.",
+          "L'exposition ouvre à dix heures."
+        ]
+      ],
+      "εκδήλωση": [
+        [
+          "Η εκδήλωση είναι στην πλατεία.",
+          "The event is in the square.",
+          "L'événement a lieu sur la place."
+        ],
+        [
+          "Απόψε έχουμε μια εκδήλωση στο σχολείο.",
+          "Tonight we have an event at school.",
+          "Ce soir, on a un événement à l'école."
+        ]
+      ],
+      "έρχονται": [
+        [
+          "Οι φίλοι μου έρχονται απόψε.",
+          "My friends are coming tonight.",
+          "Mes amis viennent ce soir."
+        ],
+        [
+          "Σε λίγο έρχομαι στο σπίτι.",
+          "I'm coming home soon.",
+          "Je rentre à la maison bientôt."
+        ]
+      ],
+      "δουλεύουν": [
+        [
+          "Οι γονείς μου δουλεύουν πολύ.",
+          "My parents work a lot.",
+          "Mes parents travaillent beaucoup."
+        ],
+        [
+          "Σήμερα δουλεύω από το σπίτι.",
+          "Today I'm working from home.",
+          "Aujourd'hui, je travaille de chez moi."
+        ]
+      ],
+      "Πέρσι": [
+        [
+          "Πέρσι πήγαμε στην Κρήτη.",
+          "Last year we went to Crete.",
+          "L'année dernière, on est allés en Crète."
+        ],
+        [
+          "Πέρσι το σπίτι ήταν κρύο.",
+          "Last year the house was cold.",
+          "L'année dernière, la maison était froide."
+        ]
+      ],
+      "περίπου": [
+        [
+          "Το ταξί κοστίζει περίπου δέκα ευρώ.",
+          "The taxi costs about ten euros.",
+          "Le taxi coûte environ dix euros."
+        ],
+        [
+          "Φτάνω σε περίπου πέντε λεπτά.",
+          "I'll arrive in about five minutes.",
+          "J'arrive dans environ cinq minutes."
+        ]
+      ],
+      "επισκέπτες": [
+        [
+          "Το μουσείο έχει πολλούς επισκέπτες.",
+          "The museum has many visitors.",
+          "Le musée a beaucoup de visiteurs."
+        ],
+        [
+          "Οι επισκέπτες πίνουν καφέ.",
+          "The visitors are drinking coffee.",
+          "Les visiteurs boivent un café."
+        ]
+      ],
+      "εξωτερικό": [
+        [
+          "Η αδερφή μου ζει στο εξωτερικό.",
+          "My sister lives abroad.",
+          "Ma sœur vit à l'étranger."
+        ],
+        [
+          "Το καλοκαίρι ταξιδεύουμε στο εξωτερικό.",
+          "In summer we travel abroad.",
+          "L'été, on voyage à l'étranger."
+        ]
+      ],
+      "μαθήματα": [
+        [
+          "Τα παιδιά έχουν μαθήματα το πρωί.",
+          "The children have lessons in the morning.",
+          "Les enfants ont cours le matin."
+        ],
+        [
+          "Κάνω μαθήματα κιθάρας.",
+          "I take guitar lessons.",
+          "Je prends des cours de guitare."
+        ]
+      ],
+      "ομιλητές": [
+        [
+          "Οι ομιλητές είναι από την Αθήνα.",
+          "The speakers are from Athens.",
+          "Les intervenants viennent d'Athènes."
+        ],
+        [
+          "Απόψε ακούμε δύο ομιλητές.",
+          "Tonight we're listening to two speakers.",
+          "Ce soir, on écoute deux intervenants."
+        ]
+      ],
+      "ποτά": [
+        [
+          "Τα ποτά είναι στο ψυγείο.",
+          "The drinks are in the fridge.",
+          "Les boissons sont dans le frigo."
+        ],
+        [
+          "Ο σερβιτόρος φέρνει τα ποτά.",
+          "The waiter brings the drinks.",
+          "Le serveur apporte les boissons."
+        ]
+      ],
+      "προσέχουμε": [
+        [
+          "Εμείς προσέχουμε τον σκύλο της γειτόνισσας.",
+          "We look after the neighbour's dog.",
+          "Nous gardons le chien de la voisine."
+        ],
+        [
+          "Πάντα προσέχω στον δρόμο.",
+          "I'm always careful in the street.",
+          "Je fais toujours attention dans la rue."
+        ]
+      ],
+      "φύση": [
+        [
+          "Μου αρέσει πολύ η φύση.",
+          "I really like nature.",
+          "J'aime beaucoup la nature."
+        ],
+        [
+          "Το Σάββατο πάμε στη φύση.",
+          "On Saturday we're going out into nature.",
+          "Samedi, on va dans la nature."
+        ]
+      ],
+      "προγράμματα": [
+        [
+          "Ο υπολογιστής έχει νέα προγράμματα.",
+          "The computer has new programs.",
+          "L'ordinateur a de nouveaux programmes."
+        ],
+        [
+          "Βλέπω τα προγράμματα της τηλεόρασης.",
+          "I'm looking at the TV schedule.",
+          "Je regarde les programmes de la télé."
+        ]
+      ],
+      "υπολογιστών": [
+        [
+          "Το μαγαζί πουλάει οθόνες υπολογιστών.",
+          "The shop sells computer screens.",
+          "Le magasin vend des écrans d'ordinateur."
+        ],
+        [
+          "Η τιμή των υπολογιστών ανεβαίνει.",
+          "The price of computers is going up.",
+          "Le prix des ordinateurs augmente."
+        ]
+      ],
+      "διαγωνισμοί": [
+        [
+          "Οι διαγωνισμοί αρχίζουν αύριο.",
+          "The competitions start tomorrow.",
+          "Les concours commencent demain."
+        ],
+        [
+          "Στο σχολείο γίνονται διαγωνισμοί ζωγραφικής.",
+          "There are drawing competitions at school.",
+          "À l'école, il y a des concours de dessin."
+        ]
+      ],
+      "δοκιμάσουν": [
+        [
+          "Θέλουν να δοκιμάσουν το γλυκό.",
+          "They want to try the dessert.",
+          "Ils veulent goûter le dessert."
+        ],
+        [
+          "Κάθε μέρα δοκιμάζω νέο φαγητό.",
+          "Every day I try new food.",
+          "Chaque jour, je goûte un nouveau plat."
+        ]
+      ],
+      "ανοίγει": [
+        [
+          "Ο φούρνος ανοίγει στις επτά.",
+          "The bakery opens at seven.",
+          "La boulangerie ouvre à sept heures."
+        ],
+        [
+          "Το πρωί ανοίγω το παράθυρο.",
+          "In the morning I open the window.",
+          "Le matin, j'ouvre la fenêtre."
+        ]
+      ],
+      "καλωσορίζουν": [
+        [
+          "Οι γείτονες καλωσορίζουν τη νέα οικογένεια.",
+          "The neighbours welcome the new family.",
+          "Les voisins accueillent la nouvelle famille."
+        ],
+        [
+          "Πάντα καλωσορίζω τους φίλους μου.",
+          "I always welcome my friends.",
+          "J'accueille toujours mes amis."
+        ]
+      ],
+      "καλεσμένους": [
+        [
+          "Περιμένουμε καλεσμένους για φαγητό.",
+          "We're expecting guests for dinner.",
+          "On attend des invités à dîner."
+        ],
+        [
+          "Δίνω κρασί στους καλεσμένους.",
+          "I give wine to the guests.",
+          "Je sers du vin aux invités."
+        ]
+      ],
+      "εταιρείες": [
+        [
+          "Πολλές εταιρείες είναι στο κέντρο.",
+          "Many companies are in the centre.",
+          "Beaucoup d'entreprises sont dans le centre."
+        ],
+        [
+          "Οι εταιρείες ψάχνουν νέους υπαλλήλους.",
+          "Companies are looking for new employees.",
+          "Les entreprises cherchent de nouveaux employés."
+        ]
+      ],
+      "βρίσκουν": [
+        [
+          "Δεν βρίσκουν τα κλειδιά τους.",
+          "They can't find their keys.",
+          "Ils ne trouvent pas leurs clés."
+        ],
+        [
+          "Πού βρίσκω ψωμί εδώ;",
+          "Where do I find bread here?",
+          "Où est-ce que je trouve du pain ici ?"
+        ]
+      ],
+      "συνεργάτες": [
+        [
+          "Οι συνεργάτες μου είναι φιλικοί.",
+          "My colleagues are friendly.",
+          "Mes collègues sont sympathiques."
+        ],
+        [
+          "Τρώω μεσημεριανό με τους συνεργάτες μου.",
+          "I have lunch with my colleagues.",
+          "Je déjeune avec mes collègues."
+        ]
+      ],
+      "γνωστό": [
+        [
+          "Είναι ένα γνωστό καφέ στην πλατεία.",
+          "It's a well-known café on the square.",
+          "C'est un café connu sur la place."
+        ],
+        [
+          "Αυτό το τραγούδι είναι πολύ γνωστό.",
+          "This song is very well known.",
+          "Cette chanson est très connue."
+        ]
+      ]
+    }
   }
 ]

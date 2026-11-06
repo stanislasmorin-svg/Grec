@@ -70,19 +70,51 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
   var tts = null, re = new RegExp('^' + LANG, 'i');
   function pickVoice(){ if (!window.speechSynthesis) return; tts = speechSynthesis.getVoices().filter(function(v){ return re.test(v.lang); })[0] || null; }
   pickVoice(); if (window.speechSynthesis) speechSynthesis.onvoiceschanged = pickVoice;
-  // Un seul lecteur réutilisé, lancé directement dans le toucher : sinon l'iPhone refuse le MP3
-  // et bascule sur sa voix intégrée, qui avale le début des phrases.
-  var player = new Audio(), timer = null;
+  // Lecture des phrases avec Web Audio : la sortie son reste éveillée en continu (une fois lancée au
+  // premier toucher), donc l'iPhone ou le casque ne coupent plus le début. Les MP3 sont préchargés.
+  // Si Web Audio n'est pas disponible ou échoue : lecteur audio classique, puis voix du téléphone.
+  var player = new Audio(), timer = null, ctx = null, node = null, token = 0, cache = {};
   player.preload = 'auto';
-  function stopAll(){ player.pause(); clearTimeout(timer); if (window.speechSynthesis) speechSynthesis.cancel(); }
+  try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {}
+  function wake(){
+    var C = window.AudioContext || window.webkitAudioContext;
+    if (!C) return;
+    if (!ctx) {
+      ctx = new C();
+      // son silencieux en boucle, très faible, pour garder la sortie audio active
+      var b = ctx.createBuffer(1, ctx.sampleRate, ctx.sampleRate), d = b.getChannelData(0);
+      for (var k = 0; k < d.length; k++) d[k] = (Math.random() * 2 - 1) * 0.0005;
+      var keep = ctx.createBufferSource(); keep.buffer = b; keep.loop = true; keep.connect(ctx.destination); keep.start(0);
+    }
+    if (ctx.state !== 'running') ctx.resume();
+  }
+  function load(url){
+    if (!cache[url]) cache[url] = fetch(url).then(function(r){ if (!r.ok) throw r; return r.arrayBuffer(); })
+      .then(function(b){ return new Promise(function(ok, ko){ ctx.decodeAudioData(b, ok, ko); }); });
+    cache[url].catch(function(){ delete cache[url]; });
+    return cache[url];
+  }
+  function preload(urls){ if (ctx) urls.forEach(function(u){ if (u) load(u); }); }
+  function stopAll(){
+    token++; player.pause(); clearTimeout(timer);
+    if (node) { try { node.stop(); } catch (e) {} node = null; }
+    if (window.speechSynthesis) speechSynthesis.cancel();
+  }
+  function playElement(text, url){
+    player.src = url; player.currentTime = 0;
+    var pr = player.play(); if (pr && pr.catch) pr.catch(function(){ fallback(text); });
+  }
   function say(text, url){
     stopAll();
-    if (url) {
-      player.src = url; player.currentTime = 0;
-      var pr = player.play(); if (pr && pr.catch) pr.catch(function(){ fallback(text); });
-      return;
-    }
-    fallback(text);
+    if (!url) { fallback(text); return; }
+    wake();
+    if (!ctx) { playElement(text, url); return; }
+    var my = token;
+    load(url).then(function(buf){
+      if (my !== token) return;
+      node = ctx.createBufferSource(); node.buffer = buf; node.connect(ctx.destination);
+      node.start(0, 0.6); // l'amorce d'1 s n'est plus utile en entier : on garde 0,4 s avant la voix
+    }).catch(function(){ if (my === token) playElement(text, url); });
   }
   function fallback(text){
     if (!tts) return;
@@ -97,7 +129,7 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
     c.addEventListener('click', function(){
       if (a && !a.paused) a.pause();
       i = (i + 1) % (ex.length + 1);
-      if (i < ex.length) say(ex[i][0], ex[i][3]); else stopAll();
+      if (i < ex.length) { say(ex[i][0], ex[i][3]); preload(ex.map(function(e){ return e[3]; })); } else stopAll();
       c.classList.add('spin');
       setTimeout(function(){
         var li = c.parentNode;

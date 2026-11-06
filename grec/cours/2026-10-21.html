@@ -70,11 +70,18 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
   var tts = null, re = new RegExp('^' + LANG, 'i');
   function pickVoice(){ if (!window.speechSynthesis) return; tts = speechSynthesis.getVoices().filter(function(v){ return re.test(v.lang); })[0] || null; }
   pickVoice(); if (window.speechSynthesis) speechSynthesis.onvoiceschanged = pickVoice;
-  var player = null, timer = null;
-  function stopAll(){ if (player) { player.pause(); player = null; } clearTimeout(timer); if (window.speechSynthesis) speechSynthesis.cancel(); }
+  // Un seul lecteur réutilisé, lancé directement dans le toucher : sinon l'iPhone refuse le MP3
+  // et bascule sur sa voix intégrée, qui avale le début des phrases.
+  var player = new Audio(), timer = null;
+  player.preload = 'auto';
+  function stopAll(){ player.pause(); clearTimeout(timer); if (window.speechSynthesis) speechSynthesis.cancel(); }
   function say(text, url){
     stopAll();
-    if (url) { player = new Audio(url); player.play().catch(function(){ fallback(text); }); return; }
+    if (url) {
+      player.src = url; player.currentTime = 0;
+      var pr = player.play(); if (pr && pr.catch) pr.catch(function(){ fallback(text); });
+      return;
+    }
     fallback(text);
   }
   function fallback(text){
@@ -90,6 +97,7 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
     c.addEventListener('click', function(){
       if (a && !a.paused) a.pause();
       i = (i + 1) % (ex.length + 1);
+      if (i < ex.length) say(ex[i][0], ex[i][3]); else stopAll();
       c.classList.add('spin');
       setTimeout(function(){
         var li = c.parentNode;
@@ -97,7 +105,6 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
           c.innerHTML = head + '<span class="fr">' + esc(c.dataset.tr) + '</span>' + (c.dataset.fr ? '<span class="fr2">' + esc(c.dataset.fr) + '</span>' : '') + '<span class="hint">' + ex.length + ' phrase' + (ex.length > 1 ? 's' : '') + ' ↻</span>';
         } else { li.classList.add('on');
           c.innerHTML = '<span class="exg">' + esc(ex[i][0]) + '</span><span class="exf">' + esc(ex[i][1]) + '</span>' + (ex[i][2] ? '<span class="exf2">' + esc(ex[i][2]) + '</span>' : '') + '<span class="hint">' + esc(c.dataset.gr) + ' · ' + (i + 1) + '/' + ex.length + ' — touche pour la suite ↻</span>';
-          say(ex[i][0], ex[i][3]);
         }
         c.classList.remove('spin');
       }, 160);

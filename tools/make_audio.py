@@ -1,6 +1,6 @@
 """Create the missing MP3 files, with a natural voice, for every language in build.LANGS:
 - <dossier de la langue>/audio/<date>.mp3 : le texte du cours ;
-- <dossier de la langue>/audio/ex/<hash>.mp3 : chaque phrase d'exemple, précédée d'1 s de silence
+- <dossier de la langue>/audio/ex/<hash>.mp3 : chaque phrase d'exemple, précédée d'1 s de souffle inaudible
   (sinon on n'entend pas le début sur certains téléphones / casques).
 Tries Microsoft's neural voice (edge-tts) first, then Google's voice (gTTS). Silence is added with ffmpeg.
 Runs in GitHub Actions (needs internet). Usage: python3 tools/make_audio.py
@@ -34,7 +34,15 @@ async def speak(text, out, L, rate):
         return None
 
 def add_silence(src, dst):
-    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", src, "-af", "adelay=1000:all=1",
+    # 1 s d'amorce avant la phrase. Ce n'est pas un silence parfait mais un souffle très faible (-60 dB,
+    # inaudible) : beaucoup de téléphones et de casques Bluetooth restent en veille pendant un silence
+    # numérique pur et coupent alors la première syllabe.
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", src,
+                    "-f", "lavfi", "-i", "anoisesrc=r=24000:c=pink:a=0.001",
+                    "-filter_complex",
+                    "[0:a]aresample=24000,aformat=channel_layouts=mono,adelay=1000:all=1[v];"
+                    "[1:a]aformat=channel_layouts=mono,atrim=0:1.2[n];"
+                    "[v][n]amix=inputs=2:duration=first:normalize=0",
                     "-ac", "1", "-b:a", "64k", dst], check=True)
 
 async def example(text, dst, L, tmpdir, stats):

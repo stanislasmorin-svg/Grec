@@ -175,8 +175,10 @@ def lesson_page(s, prev, nxt, lang, L, outdir):
     def with_audio(p):
         p = list(p[:3]) + [""] * (3 - len(p[:3]))
         n = ex_audio_name(lang, p[0])
-        if os.path.exists(os.path.join(outdir, "audio", "ex", n)):
-            p.append("../audio/ex/" + n)
+        f = os.path.join(outdir, "audio", "ex", n)
+        if os.path.exists(f):
+            ver = __import__("hashlib").md5(open(f, "rb").read()).hexdigest()[:8]
+            p.append("../audio/ex/" + n + "?v=" + ver)
         return p
     def card(a, b, f=""):
         pairs = [with_audio(p) for p in ex.get(a, []) if len(p) >= 2]

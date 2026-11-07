@@ -1022,5 +1022,356 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Nuove cure per i neonati a Napoli",
+    "title_fr": "De nouveaux soins pour les nouveau-nés à Naples",
+    "title_en": "New care for newborns in Naples",
+    "source": {
+      "name": "ANSA",
+      "url": "https://www.ansa.it/campania/notizie/2026/11/02/ospedale-del-mare-apre-la-nuova-terapia-intensiva-neonatale_3410b8e2-b56b-4d6f-9f5a-72f71fdf13e4.html"
+    },
+    "paragraphs": [
+      "A Napoli c'è un nuovo **reparto** (ward) per i **neonati** (newborns). È all'Ospedale del Mare. Il reparto **apre** (opens) all'inizio di novembre.",
+      "Qui **arrivano** (arrive) i bambini più **fragili** (fragile). Sono bambini nati da poco. Hanno bisogno di molto **aiuto** (help).",
+      "Il reparto ha **macchine** (machines) molto **moderne** (modern). Alcune **aiutano** (help) i bambini a **respirare** (breathe). Funzionano anche per bambini di soli 500 **grammi** (grams). I loro **polmoni** (lungs) sono molto piccoli. Per questo le macchine danno pochissima **aria** (air).",
+      "Alcuni bambini hanno avuto poco **ossigeno** (oxygen) quando sono nati. Per loro i medici **abbassano** (lower) un po' la **temperatura** (temperature) del corpo. Così **proteggono** (protect) il **cervello** (brain).",
+      "Ma le macchine non bastano. Anche i **genitori** (parents) sono importanti. La mamma o il papà **tengono** (hold) il bambino sulla **pelle** (skin). Questo **contatto** (contact) fa bene al bambino. Aiuta anche la mamma a dare il **latte** (milk).",
+      "Il **direttore** (head) del reparto è Alessandro Scoppa."
+    ],
+    "paragraphs_en": [
+      "In Naples there is a new ward for newborns. It is at the Ospedale del Mare. The ward opens at the beginning of November.",
+      "The most fragile babies come here. They are babies born recently. They need a lot of help.",
+      "The ward has very modern machines. Some help the babies breathe. They work even for babies of only 500 grams. Their lungs are very small. That is why the machines give very little air.",
+      "Some babies had little oxygen when they were born. For them, the doctors lower the body temperature a little. In this way they protect the brain.",
+      "But machines are not enough. Parents are important too. Mum or dad holds the baby on their skin. This contact is good for the baby. It also helps mum give milk.",
+      "The head of the ward is Alessandro Scoppa."
+    ],
+    "fr": {
+      "reparto": "service (hôpital)",
+      "neonati": "nouveau-nés",
+      "apre": "ouvre",
+      "arrivano": "arrivent",
+      "fragili": "fragiles",
+      "aiuto": "aide",
+      "macchine": "machines",
+      "moderne": "modernes",
+      "aiutano": "aident",
+      "respirare": "respirer",
+      "grammi": "grammes",
+      "polmoni": "poumons",
+      "aria": "air",
+      "ossigeno": "oxygène",
+      "abbassano": "baissent",
+      "temperatura": "température",
+      "proteggono": "protègent",
+      "cervello": "cerveau",
+      "genitori": "parents",
+      "tengono": "tiennent",
+      "pelle": "peau",
+      "contatto": "contact",
+      "latte": "lait",
+      "direttore": "directeur, chef"
+    },
+    "lemma": {
+      "apre": "aprire",
+      "arrivano": "arrivare",
+      "aiutano": "aiutare",
+      "respirare": "respirare",
+      "abbassano": "abbassare",
+      "proteggono": "proteggere",
+      "tengono": "tenere"
+    },
+    "examples": {
+      "reparto": [
+        [
+          "Il reparto è al secondo piano.",
+          "The ward is on the second floor.",
+          "Le service est au deuxième étage."
+        ],
+        [
+          "Cerco il reparto frutta e verdura.",
+          "I'm looking for the fruit and vegetable aisle.",
+          "Je cherche le rayon fruits et légumes."
+        ]
+      ],
+      "neonati": [
+        [
+          "I neonati dormono molto.",
+          "Newborns sleep a lot.",
+          "Les nouveau-nés dorment beaucoup."
+        ],
+        [
+          "Questi vestiti sono per neonati.",
+          "These clothes are for newborns.",
+          "Ces vêtements sont pour les nouveau-nés."
+        ]
+      ],
+      "apre": [
+        [
+          "Il bar apre alle sette.",
+          "The café opens at seven.",
+          "Le bar ouvre à sept heures."
+        ],
+        [
+          "Io apro la finestra la mattina.",
+          "I open the window in the morning.",
+          "J'ouvre la fenêtre le matin."
+        ]
+      ],
+      "arrivano": [
+        [
+          "Gli amici arrivano stasera.",
+          "Our friends arrive tonight.",
+          "Les amis arrivent ce soir."
+        ],
+        [
+          "I miei genitori arrivano in treno.",
+          "My parents arrive by train.",
+          "Mes parents arrivent en train."
+        ]
+      ],
+      "fragili": [
+        [
+          "I bicchieri sono fragili.",
+          "The glasses are fragile.",
+          "Les verres sont fragiles."
+        ],
+        [
+          "Attenzione, queste tazze sono fragili.",
+          "Careful, these cups are fragile.",
+          "Attention, ces tasses sont fragiles."
+        ]
+      ],
+      "aiuto": [
+        [
+          "Grazie per il tuo aiuto.",
+          "Thanks for your help.",
+          "Merci pour ton aide."
+        ],
+        [
+          "Hai bisogno di aiuto?",
+          "Do you need help?",
+          "Tu as besoin d'aide ?"
+        ]
+      ],
+      "macchine": [
+        [
+          "Le macchine del caffè sono nuove.",
+          "The coffee machines are new.",
+          "Les machines à café sont neuves."
+        ],
+        [
+          "Ci sono tante macchine in strada.",
+          "There are many cars in the street.",
+          "Il y a beaucoup de voitures dans la rue."
+        ]
+      ],
+      "moderne": [
+        [
+          "Le case qui sono moderne.",
+          "The houses here are modern.",
+          "Les maisons ici sont modernes."
+        ],
+        [
+          "Mi piacciono le cucine moderne.",
+          "I like modern kitchens.",
+          "J'aime les cuisines modernes."
+        ]
+      ],
+      "aiutano": [
+        [
+          "I vicini mi aiutano sempre.",
+          "The neighbours always help me.",
+          "Les voisins m'aident toujours."
+        ],
+        [
+          "I ragazzi aiutano la nonna.",
+          "The kids help grandma.",
+          "Les enfants aident leur grand-mère."
+        ]
+      ],
+      "respirare": [
+        [
+          "Al mare posso respirare bene.",
+          "At the seaside I can breathe well.",
+          "À la mer, je peux bien respirer."
+        ],
+        [
+          "Io respiro aria fresca in montagna.",
+          "I breathe fresh air in the mountains.",
+          "Je respire de l'air frais à la montagne."
+        ]
+      ],
+      "grammi": [
+        [
+          "Vorrei duecento grammi di formaggio.",
+          "I'd like two hundred grams of cheese.",
+          "Je voudrais deux cents grammes de fromage."
+        ],
+        [
+          "Servono cento grammi di zucchero.",
+          "You need a hundred grams of sugar.",
+          "Il faut cent grammes de sucre."
+        ]
+      ],
+      "polmoni": [
+        [
+          "Il fumo fa male ai polmoni.",
+          "Smoking is bad for the lungs.",
+          "La fumée est mauvaise pour les poumons."
+        ],
+        [
+          "Correre fa bene ai polmoni.",
+          "Running is good for the lungs.",
+          "Courir fait du bien aux poumons."
+        ]
+      ],
+      "aria": [
+        [
+          "Apri la finestra, serve aria.",
+          "Open the window, we need air.",
+          "Ouvre la fenêtre, il faut de l'air."
+        ],
+        [
+          "Oggi l'aria è fresca.",
+          "Today the air is cool.",
+          "Aujourd'hui l'air est frais."
+        ]
+      ],
+      "ossigeno": [
+        [
+          "Le piante producono ossigeno.",
+          "Plants produce oxygen.",
+          "Les plantes produisent de l'oxygène."
+        ],
+        [
+          "In montagna c'è meno ossigeno.",
+          "In the mountains there is less oxygen.",
+          "À la montagne, il y a moins d'oxygène."
+        ]
+      ],
+      "abbassano": [
+        [
+          "I vicini abbassano la musica.",
+          "The neighbours turn down the music.",
+          "Les voisins baissent la musique."
+        ],
+        [
+          "Io abbasso il volume della TV.",
+          "I turn down the TV volume.",
+          "Je baisse le volume de la télé."
+        ]
+      ],
+      "temperatura": [
+        [
+          "La temperatura oggi è bassa.",
+          "The temperature is low today.",
+          "La température est basse aujourd'hui."
+        ],
+        [
+          "Controllo la temperatura del forno.",
+          "I check the oven temperature.",
+          "Je vérifie la température du four."
+        ]
+      ],
+      "proteggono": [
+        [
+          "Gli occhiali proteggono gli occhi.",
+          "Glasses protect the eyes.",
+          "Les lunettes protègent les yeux."
+        ],
+        [
+          "Io proteggo il telefono con una custodia.",
+          "I protect my phone with a case.",
+          "Je protège mon téléphone avec une coque."
+        ]
+      ],
+      "cervello": [
+        [
+          "Il cervello ha bisogno di sonno.",
+          "The brain needs sleep.",
+          "Le cerveau a besoin de sommeil."
+        ],
+        [
+          "Leggere fa bene al cervello.",
+          "Reading is good for the brain.",
+          "Lire fait du bien au cerveau."
+        ]
+      ],
+      "genitori": [
+        [
+          "I miei genitori vivono a Roma.",
+          "My parents live in Rome.",
+          "Mes parents vivent à Rome."
+        ],
+        [
+          "Domenica pranzo dai genitori.",
+          "On Sunday I have lunch at my parents'.",
+          "Dimanche, je déjeune chez mes parents."
+        ]
+      ],
+      "tengono": [
+        [
+          "I bambini tengono la mano.",
+          "The children hold hands.",
+          "Les enfants se tiennent la main."
+        ],
+        [
+          "Io tengo le chiavi in tasca.",
+          "I keep the keys in my pocket.",
+          "Je garde les clés dans ma poche."
+        ]
+      ],
+      "pelle": [
+        [
+          "Il sole fa male alla pelle.",
+          "The sun is bad for the skin.",
+          "Le soleil abîme la peau."
+        ],
+        [
+          "Ho la pelle secca d'inverno.",
+          "I have dry skin in winter.",
+          "J'ai la peau sèche en hiver."
+        ]
+      ],
+      "contatto": [
+        [
+          "Restiamo in contatto, va bene?",
+          "Let's stay in touch, okay?",
+          "On reste en contact, d'accord ?"
+        ],
+        [
+          "Il contatto con la natura rilassa.",
+          "Contact with nature is relaxing.",
+          "Le contact avec la nature détend."
+        ]
+      ],
+      "latte": [
+        [
+          "Vorrei un caffè con il latte.",
+          "I'd like a coffee with milk.",
+          "Je voudrais un café au lait."
+        ],
+        [
+          "Il latte è nel frigo.",
+          "The milk is in the fridge.",
+          "Le lait est dans le frigo."
+        ]
+      ],
+      "direttore": [
+        [
+          "Il direttore arriva alle nove.",
+          "The director arrives at nine.",
+          "Le directeur arrive à neuf heures."
+        ],
+        [
+          "Vorrei parlare con il direttore.",
+          "I'd like to speak with the manager.",
+          "Je voudrais parler au directeur."
+        ]
+      ]
+    }
   }
 ]

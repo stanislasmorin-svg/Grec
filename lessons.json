@@ -8825,5 +8825,384 @@
         ]
       ]
     }
+  },
+  {
+    "date": "2026-11-07",
+    "title": "Μια μεγάλη γιορτή για την τέχνη",
+    "title_fr": "Une grande fête pour l'art",
+    "title_en": "A big celebration of art",
+    "source": {
+      "name": "elculture",
+      "url": "https://elculture.com/events/art-athina-2026-a-new-chapter-for-greeces-leading-contemporary-art-fair-at-onassis-ready/"
+    },
+    "paragraphs": [
+      "Η **έκθεση** (fair) Art Athina **έρχεται** (is coming) ξανά στην Αθήνα. Είναι η πιο μεγάλη γιορτή για τη **σύγχρονη** (contemporary) τέχνη στην Ελλάδα. Φέτος **γιορτάζει** (celebrates) τα 33 χρόνια της.",
+      "Η έκθεση θα είναι από τις 12 έως τις 16 Νοεμβρίου. Το νέο της **σπίτι** (home) είναι το Onassis Ready, στον Ρέντη. Είναι ένας μεγάλος **χώρος** (space), σαν παλιό **εργοστάσιο** (factory).",
+      "Εκεί θα **δούμε** (we will see) έργα από 65 **γκαλερί** (galleries). Μερικές έρχονται από **άλλες** (other) **χώρες** (countries), όπως η Βραζιλία και η Κύπρος. Θα δούμε και ελληνικά αντικείμενα με ωραίο **σχέδιο** (design).",
+      "Στις 13 Νοεμβρίου ένας νέος **καλλιτέχνης** (artist) θα **πάρει** (will get) ένα **βραβείο** (award).",
+      "Για τα παιδιά από 6 έως 12 χρονών υπάρχουν **βόλτες** (walks) στη **γειτονιά** (neighbourhood). Υπάρχουν και **εργαστήρια** (workshops) τέχνης.",
+      "Η έκθεση είναι **ανοιχτή** (open) από τις 13 Νοεμβρίου, από τις 12 το μεσημέρι έως τις 9 το βράδυ. Το **εισιτήριο** (ticket) **κοστίζει** (costs) 10 ευρώ. Για τα παιδιά κάτω από 18 χρονών είναι **δωρεάν** (free).",
+      "Ένα δωρεάν **λεωφορείο** (bus) **ξεκινά** (leaves) κάθε 20 λεπτά από τον **σταθμό** (station) του μετρό Συγγρού-Φιξ. Σας **πηγαίνει** (takes) κατευθείαν στην έκθεση."
+    ],
+    "paragraphs_en": [
+      "The Art Athina fair is coming to Athens again. It is the biggest celebration of contemporary art in Greece. This year it celebrates its 33 years.",
+      "The fair will run from 12 to 16 November. Its new home is Onassis Ready, in Rentis. It is a big space, like an old factory.",
+      "There we will see works from 65 galleries. Some come from other countries, such as Brazil and Cyprus. We will also see Greek objects with a beautiful design.",
+      "On 13 November, a young artist will get an award.",
+      "For children aged 6 to 12, there are walks in the neighbourhood. There are also art workshops.",
+      "The fair is open from 13 November, from 12 noon to 9 in the evening. The ticket costs 10 euros. For children under 18, it is free.",
+      "A free bus leaves every 20 minutes from Syngrou-Fix metro station. It takes you straight to the fair."
+    ],
+    "fr": {
+      "έκθεση": "salon, exposition",
+      "έρχεται": "arrive, vient",
+      "σύγχρονη": "contemporaine",
+      "γιορτάζει": "fête, célèbre",
+      "σπίτι": "maison",
+      "χώρος": "espace, lieu",
+      "εργοστάσιο": "usine",
+      "δούμε": "(nous) verrons",
+      "γκαλερί": "galeries",
+      "άλλες": "autres",
+      "χώρες": "pays",
+      "σχέδιο": "design, dessin",
+      "καλλιτέχνης": "artiste",
+      "πάρει": "recevra, prendra",
+      "βραβείο": "prix",
+      "βόλτες": "promenades",
+      "γειτονιά": "quartier",
+      "εργαστήρια": "ateliers",
+      "ανοιχτή": "ouverte",
+      "εισιτήριο": "billet",
+      "κοστίζει": "coûte",
+      "δωρεάν": "gratuit",
+      "λεωφορείο": "bus",
+      "ξεκινά": "part",
+      "σταθμό": "station",
+      "πηγαίνει": "emmène, conduit"
+    },
+    "lemma": {
+      "έρχεται": "έρχομαι",
+      "γιορτάζει": "γιορτάζω",
+      "δούμε": "βλέπω",
+      "πάρει": "παίρνω",
+      "κοστίζει": "κοστίζω",
+      "ξεκινά": "ξεκινώ",
+      "πηγαίνει": "πηγαίνω"
+    },
+    "examples": {
+      "έκθεση": [
+        [
+          "Η έκθεση κλείνει στις οκτώ.",
+          "The exhibition closes at eight.",
+          "L'exposition ferme à huit heures."
+        ],
+        [
+          "Πάμε μαζί στην έκθεση;",
+          "Shall we go to the exhibition together?",
+          "On va ensemble à l'exposition ?"
+        ]
+      ],
+      "έρχεται": [
+        [
+          "Ο φίλος μου έρχεται απόψε.",
+          "My friend is coming tonight.",
+          "Mon ami vient ce soir."
+        ],
+        [
+          "Έρχομαι σε πέντε λεπτά.",
+          "I'm coming in five minutes.",
+          "J'arrive dans cinq minutes."
+        ]
+      ],
+      "σύγχρονη": [
+        [
+          "Μου αρέσει η σύγχρονη μουσική.",
+          "I like contemporary music.",
+          "J'aime la musique contemporaine."
+        ],
+        [
+          "Η κουζίνα είναι σύγχρονη και φωτεινή.",
+          "The kitchen is modern and bright.",
+          "La cuisine est moderne et lumineuse."
+        ]
+      ],
+      "γιορτάζει": [
+        [
+          "Η Μαρία γιορτάζει σήμερα.",
+          "Maria is celebrating her name day today.",
+          "C'est la fête de Maria aujourd'hui."
+        ],
+        [
+          "Γιορτάζω τα γενέθλιά μου στο σπίτι.",
+          "I celebrate my birthday at home.",
+          "Je fête mon anniversaire à la maison."
+        ]
+      ],
+      "σπίτι": [
+        [
+          "Το σπίτι μας είναι κοντά.",
+          "Our house is close.",
+          "Notre maison est tout près."
+        ],
+        [
+          "Πάω σπίτι μετά τη δουλειά.",
+          "I go home after work.",
+          "Je rentre à la maison après le travail."
+        ]
+      ],
+      "χώρος": [
+        [
+          "Ο χώρος είναι πολύ μεγάλος.",
+          "The space is very big.",
+          "L'espace est très grand."
+        ],
+        [
+          "Δεν υπάρχει χώρος για το αυτοκίνητο.",
+          "There is no room for the car.",
+          "Il n'y a pas de place pour la voiture."
+        ]
+      ],
+      "εργοστάσιο": [
+        [
+          "Ο πατέρας μου δουλεύει σε εργοστάσιο.",
+          "My father works in a factory.",
+          "Mon père travaille dans une usine."
+        ],
+        [
+          "Το παλιό εργοστάσιο είναι τώρα καφέ.",
+          "The old factory is now a café.",
+          "La vieille usine est maintenant un café."
+        ]
+      ],
+      "δούμε": [
+        [
+          "Αύριο θα δούμε μια ταινία.",
+          "Tomorrow we will watch a film.",
+          "Demain nous verrons un film."
+        ],
+        [
+          "Βλέπω τη θάλασσα από το μπαλκόνι.",
+          "I see the sea from the balcony.",
+          "Je vois la mer depuis le balcon."
+        ]
+      ],
+      "γκαλερί": [
+        [
+          "Οι γκαλερί είναι ανοιχτές το Σάββατο.",
+          "The galleries are open on Saturday.",
+          "Les galeries sont ouvertes le samedi."
+        ],
+        [
+          "Στην Πλάκα υπάρχουν πολλές γκαλερί.",
+          "There are many galleries in Plaka.",
+          "Il y a beaucoup de galeries à Plaka."
+        ]
+      ],
+      "άλλες": [
+        [
+          "Θέλω άλλες δύο καρέκλες.",
+          "I want two more chairs.",
+          "Je veux deux autres chaises."
+        ],
+        [
+          "Οι άλλες φίλες μου έρχονται αργότερα.",
+          "My other friends are coming later.",
+          "Mes autres amies arrivent plus tard."
+        ]
+      ],
+      "χώρες": [
+        [
+          "Ταξιδεύω σε πολλές χώρες.",
+          "I travel to many countries.",
+          "Je voyage dans beaucoup de pays."
+        ],
+        [
+          "Ποιες χώρες έχεις δει;",
+          "Which countries have you seen?",
+          "Quels pays as-tu vus ?"
+        ]
+      ],
+      "σχέδιο": [
+        [
+          "Το φόρεμα έχει ωραίο σχέδιο.",
+          "The dress has a nice pattern.",
+          "La robe a un joli motif."
+        ],
+        [
+          "Το παιδί κάνει ένα σχέδιο.",
+          "The child is making a drawing.",
+          "L'enfant fait un dessin."
+        ]
+      ],
+      "καλλιτέχνης": [
+        [
+          "Ο γείτονάς μου είναι καλλιτέχνης.",
+          "My neighbour is an artist.",
+          "Mon voisin est artiste."
+        ],
+        [
+          "Ο καλλιτέχνης ζωγραφίζει στον δρόμο.",
+          "The artist paints in the street.",
+          "L'artiste peint dans la rue."
+        ]
+      ],
+      "πάρει": [
+        [
+          "Θα πάρει ταξί για το σπίτι.",
+          "He will take a taxi home.",
+          "Il prendra un taxi pour rentrer."
+        ],
+        [
+          "Παίρνω ψωμί από τον φούρνο.",
+          "I get bread from the bakery.",
+          "Je prends du pain à la boulangerie."
+        ]
+      ],
+      "βραβείο": [
+        [
+          "Η ταινία πήρε ένα βραβείο.",
+          "The film won an award.",
+          "Le film a reçu un prix."
+        ],
+        [
+          "Το βραβείο είναι ένα ταξίδι.",
+          "The prize is a trip.",
+          "Le prix est un voyage."
+        ]
+      ],
+      "βόλτες": [
+        [
+          "Κάνουμε βόλτες στο πάρκο.",
+          "We go for walks in the park.",
+          "Nous faisons des promenades au parc."
+        ],
+        [
+          "Το Σάββατο έχει βόλτες με ποδήλατο.",
+          "On Saturday there are bike rides.",
+          "Samedi, il y a des balades à vélo."
+        ]
+      ],
+      "γειτονιά": [
+        [
+          "Η γειτονιά μας είναι ήσυχη.",
+          "Our neighbourhood is quiet.",
+          "Notre quartier est calme."
+        ],
+        [
+          "Υπάρχει νέο καφέ στη γειτονιά.",
+          "There is a new café in the neighbourhood.",
+          "Il y a un nouveau café dans le quartier."
+        ]
+      ],
+      "εργαστήρια": [
+        [
+          "Τα εργαστήρια αρχίζουν στις πέντε.",
+          "The workshops start at five.",
+          "Les ateliers commencent à cinq heures."
+        ],
+        [
+          "Η βιβλιοθήκη έχει εργαστήρια για παιδιά.",
+          "The library has workshops for children.",
+          "La bibliothèque a des ateliers pour enfants."
+        ]
+      ],
+      "ανοιχτή": [
+        [
+          "Η πόρτα είναι ανοιχτή.",
+          "The door is open.",
+          "La porte est ouverte."
+        ],
+        [
+          "Η βιβλιοθήκη είναι ανοιχτή ως τις εννιά.",
+          "The library is open until nine.",
+          "La bibliothèque est ouverte jusqu'à neuf heures."
+        ]
+      ],
+      "εισιτήριο": [
+        [
+          "Έχεις εισιτήριο για το μετρό;",
+          "Do you have a metro ticket?",
+          "Tu as un billet de métro ?"
+        ],
+        [
+          "Το εισιτήριο είναι στην τσάντα μου.",
+          "The ticket is in my bag.",
+          "Le billet est dans mon sac."
+        ]
+      ],
+      "κοστίζει": [
+        [
+          "Πόσο κοστίζει ο καφές;",
+          "How much does the coffee cost?",
+          "Combien coûte le café ?"
+        ],
+        [
+          "Ως ηλεκτρολόγος κοστίζω 30 ευρώ την ώρα.",
+          "As an electrician, I cost 30 euros an hour.",
+          "Comme électricien, je coûte 30 euros de l'heure."
+        ]
+      ],
+      "δωρεάν": [
+        [
+          "Το νερό είναι δωρεάν.",
+          "The water is free.",
+          "L'eau est gratuite."
+        ],
+        [
+          "Έχει δωρεάν Wi-Fi στο καφέ.",
+          "There is free Wi-Fi in the café.",
+          "Il y a le Wi-Fi gratuit au café."
+        ]
+      ],
+      "λεωφορείο": [
+        [
+          "Το λεωφορείο αργεί σήμερα.",
+          "The bus is late today.",
+          "Le bus est en retard aujourd'hui."
+        ],
+        [
+          "Παίρνω το λεωφορείο για τη δουλειά.",
+          "I take the bus to work.",
+          "Je prends le bus pour aller au travail."
+        ]
+      ],
+      "ξεκινά": [
+        [
+          "Η ταινία ξεκινά στις εννιά.",
+          "The film starts at nine.",
+          "Le film commence à neuf heures."
+        ],
+        [
+          "Ξεκινώ τη δουλειά στις οκτώ.",
+          "I start work at eight.",
+          "Je commence le travail à huit heures."
+        ]
+      ],
+      "σταθμό": [
+        [
+          "Σε περιμένω στον σταθμό.",
+          "I'll wait for you at the station.",
+          "Je t'attends à la gare."
+        ],
+        [
+          "Μένω κοντά στον σταθμό.",
+          "I live near the station.",
+          "J'habite près de la station."
+        ]
+      ],
+      "πηγαίνει": [
+        [
+          "Η κόρη μου πηγαίνει σχολείο.",
+          "My daughter goes to school.",
+          "Ma fille va à l'école."
+        ],
+        [
+          "Πηγαίνω στη λαϊκή κάθε Σάββατο.",
+          "I go to the street market every Saturday.",
+          "Je vais au marché chaque samedi."
+        ]
+      ]
+    }
   }
 ]

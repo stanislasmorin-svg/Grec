@@ -86,7 +86,8 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
       for (var k = 0; k < d.length; k++) d[k] = (Math.random() * 2 - 1) * 0.0005;
       var keep = ctx.createBufferSource(); keep.buffer = b; keep.loop = true; keep.connect(ctx.destination); keep.start(0);
     }
-    if (ctx.state !== 'running') ctx.resume();
+    if (ctx.state !== 'running') return ctx.resume();
+    return null;
   }
   function load(url){
     if (!cache[url]) cache[url] = fetch(url).then(function(r){ if (!r.ok) throw r; return r.arrayBuffer(); })
@@ -107,13 +108,16 @@ h2{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
   function say(text, url){
     stopAll();
     if (!url) { fallback(text); return; }
-    wake();
+    var waking = wake();
     if (!ctx) { playElement(text, url); return; }
     var my = token;
-    load(url).then(function(buf){
+    // Si l'iPhone avait coupé le son (écran verrouillé, onglet en arrière-plan), on attend qu'il
+    // soit vraiment reparti et on garde toute l'amorce d'1 s ; sinon on n'en garde que 0,6 s.
+    Promise.all([load(url), waking ? Promise.resolve(waking).catch(function(){}) : null]).then(function(r){
       if (my !== token) return;
-      node = ctx.createBufferSource(); node.buffer = buf; node.connect(ctx.destination);
-      node.start(0, 0.6); // l'amorce d'1 s n'est plus utile en entier : on garde 0,4 s avant la voix
+      if (ctx.state !== 'running') { playElement(text, url); return; }
+      node = ctx.createBufferSource(); node.buffer = r[0]; node.connect(ctx.destination);
+      node.start(0, waking ? 0 : 0.4);
     }).catch(function(){ if (my === token) playElement(text, url); });
   }
   function fallback(text){
